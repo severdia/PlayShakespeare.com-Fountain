@@ -3,7 +3,7 @@ Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
 Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 3.5
+Revision: Version 4.0
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -43,11 +43,13 @@ Notes:
 
 # Act 1
 ### Scene 1
-.VENICE. A STREET.
 
-!Enter Antonio, Salerio, and Solanio.
 
-@ANT.
+Venice. A street.
+
+Enter Antonio, Salerio, and Solanio.
+
+ANT.
 In sooth, I know not why I am so sad;
 It wearies me, you say it wearies you;
 But how I caught it, found it, or came by it,
@@ -56,7 +58,7 @@ I am to learn;
 And such a want-wit sadness makes of me,
 That I have much ado to know myself.
 
-@SAL.
+SAL.
 Your mind is tossing on the ocean,
 There where your argosies with portly sail
 Like signiors and rich burghers on the flood,
@@ -65,7 +67,7 @@ Do overpeer the petty traffickers
 That cur’sy to them, do them reverence,
 As they fly by them with their woven wings.
 
-@SOL.
+SOL.
 Believe me, sir, had I such venture forth,
 The better part of my affections would
 Be with my hopes abroad. I should be still
@@ -75,7 +77,7 @@ And every object that might make me fear
 Misfortune to my ventures, out of doubt
 Would make me sad.
 
-@SAL.
+SAL.
 ^4 My wind cooling my broth
 Would blow me to an ague when I thought
 What harm a wind too great might do at sea.
@@ -96,20 +98,20 @@ That such a thing bechanc’d would make me sad?
 But tell not me; I know Antonio
 Is sad to think upon his merchandise.
 
-@ANT.
+ANT.
 Believe me, no. I thank my fortune for it,
 My ventures are not in one bottom trusted,
 Nor to one place; nor is my whole estate
 Upon the fortune of this present year:
 Therefore my merchandise makes me not sad.
 
-@SOL.
+SOL.
 Why then you are in love.
 
-@ANT.
+ANT.
 ^5 Fie, fie!
 
-@SOL.
+SOL.
 Not in love neither? Then let us say you are sad
 Because you are not merry; and ’twere as easy
 For you to laugh and leap, and say you are merry
@@ -120,61 +122,58 @@ And laugh like parrots at a bagpiper;
 And other of such vinegar aspect
 That they’ll not show their teeth in way of smile
 Though Nestor swear the jest be laughable.
-
-!Enter Bassanio, Lorenzo, and Gratiano.
-
-@SOL. (CONT'D)
+(Enter Bassanio, Lorenzo, and Gratiano.)
 Here comes Bassanio, your most noble kinsman,
 Gratiano, and Lorenzo. Fare ye well,
 We leave you now with better company.
 
-@SAL.
+SAL.
 I would have stay’d till I had made you merry,
 If worthier friends had not prevented me.
 
-@ANT.
+ANT.
 Your worth is very dear in my regard.
 I take it your own business calls on you,
 And you embrace th’ occasion to depart.
 
-@SAL.
+SAL.
 Good morrow, my good lords.
 
-@BASS.
+BASS.
 Good signiors both, when shall we laugh? Say, when?
 You grow exceeding strange. Must it be so?
 
-@SAL.
+SAL.
 We’ll make our leisures to attend on yours.
 
-!Exeunt Salerio and Solanio.
+Exeunt Salerio and Solanio.
 
-@LOR.
+LOR.
 My Lord Bassanio, since you have found Antonio,
 We two will leave you, but at dinner-time
 I pray you have in mind where we must meet.
 
-@BASS.
+BASS.
 I will not fail you.
 
-@GRA.
+GRA.
 You look not well, Signior Antonio,
 You have too much respect upon the world.
 They lose it that do buy it with much care.
-Believe me you are marvellously chang’d.
+Believe me you are marvelously chang’d.
 
-@ANT.
+ANT.
 I hold the world but as the world, Gratiano,
 A stage, where every man must play a part,
 And mine a sad one.
 
-@GRA.
+GRA.
 ^4 Let me play the fool,
 With mirth and laughter let old wrinkles come,
 And let my liver rather heat with wine
 Than my heart cool with mortifying groans.
 Why should a man, whose blood is warm within,
-Sit like his grandsire cut in alablaster?
+Sit like his grandsire cut in alabaster?
 Sleep when he wakes? And creep into the jaundies
 By being peevish? I tell thee what, Antonio—
 I love thee, and ’tis my love that speaks—
@@ -196,36 +195,36 @@ For this fool gudgeon, this opinion.
 Come, good Lorenzo. Fare ye well a while,
 I’ll end my exhortation after dinner.
 
-@LOR.
+LOR.
 Well, we will leave you then till dinner-time.
 I must be one of these same dumb wise men,
 For Gratiano never lets me speak.
 
-@GRA.
+GRA.
 Well, keep me company but two years more,
 Thou shalt not know the sound of thine own tongue.
 
-@ANT.
+ANT.
 Fare you well! I’ll grow a talker for this gear.
 
-@GRA.
+GRA.
 Thanks, i’ faith, for silence is only commendable
 In a neat’s tongue dried and a maid not vendible.
 
-!Exeunt Gratiano and Lorenzo.
+Exeunt Gratiano and Lorenzo.
 
-@ANT.
+ANT.
 It is that—any thing now!
 
-@BASS.
+BASS.
 Gratiano speaks an infinite deal of nothing, more than any man in all Venice. His reasons are as two grains of wheat hid in two bushels of chaff; you shall seek all day ere you find them, and when you have them, they are not worth the search.
 
-@ANT.
+ANT.
 Well, tell me now what lady is the same
 To whom you swore a secret pilgrimage,
 That you today promis’d to tell me of?
 
-@BASS.
+BASS.
 ’Tis not unknown to you, Antonio,
 How much I have disabled mine estate,
 By something showing a more swelling port
@@ -240,14 +239,14 @@ And from your love I have a warranty
 To unburden all my plots and purposes
 How to get clear of all the debts I owe.
 
-@ANT.
+ANT.
 I pray you, good Bassanio, let me know it,
 And if it stand, as you yourself still do,
 Within the eye of honor, be assur’d
 My purse, my person, my extremest means,
 Lie all unlock’d to your occasions.
 
-@BASS.
+BASS.
 In my school-days, when I had lost one shaft,
 I shot his fellow of the self-same flight
 The self-same way with more advised watch
@@ -262,7 +261,7 @@ As I will watch the aim, or to find both
 Or bring your latter hazard back again,
 And thankfully rest debtor for the first.
 
-@ANT.
+ANT.
 You know me well, and herein spend but time
 To wind about my love with circumstance,
 And out of doubt you do me now more wrong
@@ -272,7 +271,7 @@ Then do but say to me what I should do
 That in your knowledge may by me be done,
 And I am prest unto it; therefore speak.
 
-@BASS.
+BASS.
 In Belmont is a lady richly left,
 And she is fair and, fairer than that word,
 Of wondrous virtues. Sometimes from her eyes
@@ -290,7 +289,7 @@ To hold a rival place with one of them,
 I have a mind presages me such thrift
 That I should questionless be fortunate!
 
-@ANT.
+ANT.
 Thou know’st that all my fortunes are at sea,
 Neither have I money nor commodity
 To raise a present sum; therefore go forth,
@@ -301,167 +300,168 @@ Go presently inquire, and so will I,
 Where money is, and I no question make
 To have it of my trust, or for my sake.
 
-!Exeunt.
+Exeunt.
 
 
 ### Scene 2
-.BELMONT. A ROOM IN PORTIA’S HOUSE.
 
-!Enter Portia with her waiting-woman, Nerissa.
 
-@POR.
+Belmont. A room in Portia’s house.
+
+Enter Portia with her waiting-woman, Nerissa.
+
+POR.
 By my troth, Nerissa, my little body is a-weary of this great world.
 
-@NER.
+NER.
 You would be, sweet madam, if your miseries were in the same abundance as your good fortunes are; and yet for aught I see, they are as sick that surfeit with too much as they that starve with nothing. It is no mean happiness therefore to be seated in the mean: superfluity comes sooner by white hairs, but competency lives longer.
 
-@POR.
+POR.
 Good sentences, and well pronounc’d.
 
-@NER.
+NER.
 They would be better if well follow’d.
 
-@POR.
+POR.
 If to do were as easy as to know what were good to do, chapels had been churches, and poor men’s cottages princes’ palaces. It is a good divine that follows his own instructions; I can easier teach twenty what were good to be done, than to be one of the twenty to follow mine own teaching. The brain may devise laws for the blood, but a hot temper leaps o’er a cold decree—such a hare is madness the youth, to skip o’er the meshes of good counsel the cripple. But this reasoning is not in the fashion to choose me a husband. O me, the word choose! I may neither choose who I would, nor refuse who I dislike; so is the will of a living daughter curb’d by the will of a dead father. Is it not hard, Nerissa, that I cannot choose one, nor refuse none?
 
-@NER.
+NER.
 Your father was ever virtuous, and holy men at their death have good inspirations; therefore the lott’ry that he hath devis’d in these three chests of gold, silver, and lead, whereof who chooses his meaning chooses you, will no doubt never be chosen by any rightly but one who you shall rightly love. But what warmth is there in your affection towards any of these princely suitors that are already come?
 
-@POR.
+POR.
 I pray thee over-name them, and as thou namest them, I will describe them; and according to my description level at my affection.
 
-@NER.
+NER.
 First, there is the Neapolitan prince.
 
-@POR.
+POR.
 Ay, that’s a colt indeed, for he doth nothing but talk of his horse, and he makes it a great appropriation to his own good parts that he can shoe him himself. I am much afeard my lady his mother play’d false with a smith.
 
-@NER.
+NER.
 Then is there the County Palentine.
 
-@POR.
+POR.
 He doth nothing but frown, as who should say, “And you will not have me, choose.” He hears merry tales and smiles not. I fear he will prove the weeping philosopher when he grows old, being so full of unmannerly sadness in his youth. I had rather be married to a death’s-head with a bone in his mouth than to either of these. God defend me from these two!
 
-@NER.
+NER.
 How say you by the French lord, Monsieur Le Bon?
 
-@POR.
+POR.
 God made him, and therefore let him pass for a man. In truth, I know it is a sin to be a mocker, but he! Why, he hath a horse better than the Neapolitan’s, a better bad habit of frowning than the Count Palentine; he is every man in no man. If a throstle sing, he falls straight a-cap’ring. He will fence with his own shadow. If I should marry him, I should marry twenty husbands. If he would despise me, I would forgive him, for if he love me to madness, I shall never requite him.
 
-@NER.
+NER.
 What say you then to Falconbridge, the young baron of England?
 
-@POR.
+POR.
 You know I say nothing to him, for he understands not me, nor I him. He hath neither Latin, French, nor Italian, and you will come into the court and swear that I have a poor pennyworth in the English. He is a proper man’s picture, but alas, who can converse with a dumb show? How oddly he is suited! I think he bought his doublet in Italy, his round hose in France, his bonnet in Germany, and his behavior every where.
 
-@NER.
+NER.
 What think you of the Scottish lord, his neighbor?
 
-@POR.
+POR.
 That he hath a neighborly charity in him, for he borrow’d a box of the ear of the Englishman, and swore he would pay him again when he was able. I think the Frenchman became his surety and seal’d under for another.
 
-@NER.
+NER.
 How like you the young German, the Duke of Saxony’s nephew?
 
-@POR.
+POR.
 Very vildly in the morning, when he is sober, and most vildly in the afternoon, when he is drunk. When he is best, he is a little worse than a man, and when he is worst, he is little better than a beast. And the worst fall that ever fell, I hope I shall make shift to go without him.
 
-@NER.
+NER.
 If he should offer to choose, and choose the right casket, you should refuse to perform your father’s will, if you should refuse to accept him.
 
-@POR.
-Therefore for fear of the worst, I pray thee set a deep glass of Rhenish wine on the contrary casket, for if the devil be within, and that temptation without, I know he will choose it. I will do any thing, Nerissa, ere I will be married to a spunge.
+POR.
+Therefore for fear of the worst, I pray thee set a deep glass of Rhenish wine on the contrary casket, for if the devil be within, and that temptation without, I know he will choose it. I will do any thing, Nerissa, ere I will be married to a sponge.
 
-@NER.
+NER.
 You need not fear, lady, the having any of these lords. They have acquainted me with their determinations, which is indeed to return to their home, and to trouble you with no more suit, unless you may be won by some other sort than your father’s imposition depending on the caskets.
 
-@POR.
+POR.
 If I live to be as old as Sibylla, I will die as chaste as Diana, unless I be obtain’d by the manner of my father’s will. I am glad this parcel of wooers are so reasonable, for there is not one among them but I dote on his very absence, and I pray God grant them a fair departure.
 
-@NER.
+NER.
 Do you not remember, lady, in your father’s time, a Venetian, a scholar and a soldier, that came hither in company of the Marquis of Montferrat?
 
-@POR.
+POR.
 Yes, yes, it was Bassanio—as I think, so was he call’d.
 
-@NER.
+NER.
 True, madam; he, of all the men that ever my foolish eyes look’d upon, was the best deserving a fair lady.
 
-@POR.
+POR.
 I remember him well, and I remember him worthy of thy praise.
-
-!Enter a Servingman.
-
-@POR. (CONT'D)
+(Enter a Servingman.)
 How now, what news?
 
-@SERV.
+SERV.
 The four strangers seek for you, madam, to take their leave; and there is a forerunner come from a fift, the Prince of Morocco, who brings word the Prince his master will be here tonight.
 
-@POR.
-If I could bid the fift welcome with so good heart as I can bid the other four farewell, I should be glad of his approach. If he have the condition of a saint, and the complexion of a devil, I had rather he should shrive me than wive me.
+POR.
+If I could bid the fifth welcome with so good heart as I can bid the other four farewell, I should be glad of his approach. If he have the condition of a saint, and the complexion of a devil, I had rather he should shrive me than wive me.
 Come, Nerissa. Sirrah, go before.
 Whiles we shut the gate upon one wooer, another knocks at the door.
 
-!Exeunt.
+Exeunt.
 
 
 ### Scene 3
-.VENICE. A PUBLIC PLACE.
 
-!Enter Bassanio with Shylock the Jew.
 
-@SHY.
+Venice. A public place.
+
+Enter Bassanio with Shylock the Jew.
+
+SHY.
 Three thousand ducats, well.
 
-@BASS.
+BASS.
 Ay, sir, for three months.
 
-@SHY.
+SHY.
 For three months, well.
 
-@BASS.
+BASS.
 For the which, as I told you, Antonio shall be bound.
 
-@SHY.
+SHY.
 Antonio shall become bound, well.
 
-@BASS.
+BASS.
 May you stead me? Will you pleasure me? Shall I know your answer?
 
-@SHY.
+SHY.
 Three thousand ducats for three months, and Antonio bound.
 
-@BASS.
+BASS.
 Your answer to that.
 
-@SHY.
+SHY.
 Antonio is a good man.
 
-@BASS.
+BASS.
 Have you heard any imputation to the contrary?
 
-@SHY.
+SHY.
 Ho, no, no, no, no! My meaning in saying he is a good man is to have you understand me that he is sufficient. Yet his means are in supposition: he hath an argosy bound to Tripolis, another to the Indies; I understand moreover upon the Rialto, he hath a third at Mexico, a fourth for England, and other ventures he hath, squand’red abroad. But ships are but boards, sailors but men; there be land-rats and water-rats, water-thieves and land-thieves, I mean pirates, and then there is the peril of waters, winds, and rocks. The man is notwithstanding sufficient. Three thousand ducats; I think I may take his bond.
 
-@BASS.
+BASS.
 Be assur’d you may.
 
-@SHY.
+SHY.
 I will be assur’d I may; and that I may be assur’d, I will bethink me. May I speak with Antonio?
 
-@BASS.
+BASS.
 If it please you to dine with us.
 
-@SHY.
+SHY.
 Yes, to smell pork, to eat of the habitation which your prophet the Nazarite conjur’d the devil into. I will buy with you, sell with you, talk with you, walk with you, and so following; but I will not eat with you, drink with you, nor pray with you. What news on the Rialto? Who is he comes here?
 
-!Enter Antonio.
+Enter Antonio.
 
-@BASS.
+BASS.
 This is Signior Antonio.
 
-@SHY.
+SHY.
 (Aside.)
 How like a fawning publican he looks!
 I hate him for he is a Christian;
@@ -476,10 +476,10 @@ On me, my bargains, and my well-won thrift,
 Which he calls interest. Cursed be my tribe
 If I forgive him!
 
-@BASS.
+BASS.
 ^4 Shylock, do you hear?
 
-@SHY.
+SHY.
 I am debating of my present store,
 And by the near guess of my memory,
 I cannot instantly raise up the gross
@@ -487,58 +487,49 @@ Of full three thousand ducats. What of that?
 Tubal, a wealthy Hebrew of my tribe,
 Will furnish me. But soft, how many months
 Do you desire?
-
-!To Antonio.
-
-@SHY. (CONT'D)
+(To Antonio.)
 Rest you fair, good signior,
 Your worship was the last man in our mouths.
 
-@ANT.
+ANT.
 Shylock, albeit I neither lend nor borrow
 By taking nor by giving of excess,
 Yet to supply the ripe wants of my friend,
 I’ll break a custom.
-
-!To Bassanio.
-
-@ANT. (CONT'D)
+(To Bassanio.)
 ^4 Is he yet possess’d
 How much ye would?
 
-@SHY.
+SHY.
 ^4 Ay, ay, three thousand ducats.
 
-@ANT.
+ANT.
 And for three months.
 
-@SHY.
+SHY.
 I had forgot—three months—
-
-!To Bassanio.
-
-@SHY. (CONT'D)
+(To Bassanio.)
 ^7 you told me so.
 Well then, your bond; and let me see—but hear you,
 Methoughts you said you neither lend nor borrow
 Upon advantage.
 
-@ANT.
+ANT.
 ^4 I do never use it.
 
-@SHY.
+SHY.
 When Jacob graz’d his uncle Laban’s sheep—
 This Jacob from our holy Abram was
 —As his wise mother wrought in his behalf—
 The third possessor; ay, he was the third—
 
-@ANT.
+ANT.
 And what of him? Did he take interest?
 
-@SHY.
+SHY.
 No, not take interest, not as you would say
 Directly int’rest. Mark what Jacob did:
-When Laban and himself were compremis’d
+When Laban and himself were compromis’d
 That all the eanlings which were streak’d and pied
 Should fall as Jacob’s hire, the ewes being rank
 In end of autumn turned to the rams,
@@ -552,18 +543,18 @@ Fall parti-color’d lambs, and those were Jacob’s.
 This was a way to thrive, and he was blest;
 And thrift is blessing, if men steal it not.
 
-@ANT.
+ANT.
 This was a venture, sir, that Jacob serv’d for,
 A thing not in his power to bring to pass,
 But sway’d and fashion’d by the hand of heaven.
 Was this inserted to make interest good?
 Or is your gold and silver ewes and rams?
 
-@SHY.
+SHY.
 I cannot tell, I make it breed as fast.
 But note me, signior.
 
-@ANT.
+ANT.
 ^4 Mark you this, Bassanio,
 The devil can cite Scripture for his purpose.
 An evil soul producing holy witness
@@ -571,14 +562,14 @@ Is like a villain with a smiling cheek,
 A goodly apple rotten at the heart.
 O, what a goodly outside falsehood hath!
 
-@SHY.
+SHY.
 Three thousand ducats—’tis a good round sum.
 Three months from twelve; then let me see, the rate—
 
-@ANT.
+ANT.
 Well, Shylock, shall we be beholding to you?
 
-@SHY.
+SHY.
 Signior Antonio, many a time and oft
 In the Rialto you have rated me
 About my moneys and my usances.
@@ -604,7 +595,7 @@ You spurn’d me such a day, another time
 You call’d me dog; and for these courtesies
 I’ll lend you thus much moneys”?
 
-@ANT.
+ANT.
 I am as like to call thee so again,
 To spet on thee again, to spurn thee too.
 If thou wilt lend this money, lend it not
@@ -614,7 +605,7 @@ But lend it rather to thine enemy,
 Who if he break, thou mayst with better face
 Exact the penalty.
 
-@SHY.
+SHY.
 ^4 Why, look you how you storm!
 I would be friends with you, and have your love,
 Forget the shames that you have stain’d me with,
@@ -622,10 +613,10 @@ Supply your present wants, and take no doit
 Of usance for my moneys, and you’ll not hear me.
 This is kind I offer.
 
-@BASS.
+BASS.
 This were kindness.
 
-@SHY.
+SHY.
 ^4 This kindness will I show.
 Go with me to a notary, seal me there
 Your single bond; and in a merry sport
@@ -636,21 +627,21 @@ Be nominated for an equal pound
 Of your fair flesh, to be cut off and taken
 In what part of your body pleaseth me.
 
-@ANT.
+ANT.
 Content, in faith, I’ll seal to such a bond,
 And say there is much kindness in the Jew.
 
-@BASS.
+BASS.
 You shall not seal to such a bond for me,
 I’ll rather dwell in my necessity.
 
-@ANT.
+ANT.
 Why, fear not, man, I will not forfeit it.
 Within these two months, that’s a month before
 This bond expires, I do expect return
 Of thrice three times the value of this bond.
 
-@SHY.
+SHY.
 O father Abram, what these Christians are,
 Whose own hard dealings teaches them suspect
 The thoughts of others! Pray you tell me this:
@@ -660,13 +651,13 @@ A pound of man’s flesh taken from a man
 Is not so estimable, profitable neither,
 As flesh of muttons, beefs, or goats. I say,
 To buy his favor, I extend this friendship.
-If he will take it, so, if not, *adieu* ;
+If he will take it, so, if not, adieu;
 And for my love I pray you wrong me not.
 
-@ANT.
+ANT.
 Yes, Shylock, I will seal unto this bond.
 
-@SHY.
+SHY.
 Then meet me forthwith at the notary’s;
 Give him direction for this merry bond,
 And I will go and purse the ducats straight,
@@ -674,20 +665,20 @@ See to my house, left in the fearful guard
 Of an unthrifty knave, and presently
 I’ll be with you.
 
-!Exit.
+Exit.
 
-@ANT.
+ANT.
 ^4 Hie thee, gentle Jew.
 The Hebrew will turn Christian, he grows kind.
 
-@BASS.
+BASS.
 I like not fair terms and a villain’s mind.
 
-@ANT.
+ANT.
 Come on, in this there can be no dismay,
 My ships come home a month before the day.
 
-!Exeunt.
+Exeunt.
 
 
 
@@ -695,11 +686,13 @@ My ships come home a month before the day.
 
 # Act 2
 ### Scene 1
-.BELMONT. A ROOM IN PORTIA’S HOUSE.
 
-!Flourish cornets. Enter the Prince of Morocco, a tawny Moor, all in white, and three or four Followers accordingly, with Portia, Nerissa, and their Train.
 
-@MOR.
+Belmont. A room in Portia’s house.
+
+Flourish cornets. Enter the Prince of Morocco, a tawny Moor, all in white, and three or four Followers accordingly, with Portia, Nerissa, and their Train.
+
+MOR.
 Mislike me not for my complexion,
 The shadowed livery of the burnish’d sun,
 To whom I am a neighbor and near bred.
@@ -713,7 +706,7 @@ The best-regarded virgins of our clime
 Have lov’d it too. I would not change this hue,
 Except to steal your thoughts, my gentle queen.
 
-@POR.
+POR.
 In terms of choice I am not solely led
 By nice direction of a maiden’s eyes;
 Besides, the lott’ry of my destiny
@@ -725,7 +718,7 @@ Yourself, renowned Prince, then stood as fair
 As any comer I have look’d on yet
 For my affection.
 
-@MOR.
+MOR.
 ^4 Even for that I thank you;
 Therefore I pray you lead me to the caskets
 To try my fortune. By this scimitar
@@ -744,232 +737,228 @@ And so may I, blind fortune leading me,
 Miss that which one unworthier may attain,
 And die with grieving.
 
-@POR.
+POR.
 ^5 You must take your chance,
 And either not attempt to choose at all,
 Or swear before you choose, if you choose wrong
 Never to speak to lady afterward
 In way of marriage; therefore be advis’d.
 
-@MOR.
+MOR.
 Nor will not. Come bring me unto my chance.
 
-@POR.
+POR.
 First, forward to the temple; after dinner
 Your hazard shall be made.
 
-@MOR.
+MOR.
 ^5 Good fortune then!
 To make me blest or cursed’st among men.
 
-!Cornets. Exeunt.
+Cornets. Exeunt.
 
 
 ### Scene 2
-.VENICE. A STREET.
 
-!Enter the Clown Launcelot Gobbo alone.
 
-@LAUN.
+Venice. A street.
+
+Enter the Clown Launcelot Gobbo alone.
+
+LAUN.
 Certainly my conscience will serve me to run from this Jew my master. The fiend is at mine elbow and tempts me, saying to me, “Gobbo, Launcelot Gobbo, good Launcelot,” or “good Gobbo,” or “good Launcelot Gobbo, use your legs, take the start, run away.” My conscience says, “No; take heed, honest Launcelot, take heed, honest Gobbo,” or as aforesaid, “honest Launcelot Gobbo, do not run, scorn running with thy heels.” Well, the most courageous fiend bids me pack. “Fia!” says the fiend; “away!” says the fiend; “for the heavens, rouse up a brave mind,” says the fiend, “and run.” Well, my conscience, hanging about the neck of my heart, says very wisely to me, “My honest friend Launcelot, being an honest man’s son”—or rather an honest woman’s son, for indeed my father did something smack, something grow to, he had a kind of taste—well, my conscience says, “Launcelot, bouge not.” “Bouge,” says the fiend. “Bouge not,” says my conscience. “Conscience,” say I, “you counsel well.” “Fiend,” say I, “you counsel well.” To be rul’d by my conscience, I should stay with the Jew my master, who —God bless the mark— is a kind of devil; and to run away from the Jew, I should be rul’d by the fiend, who, saving your reverence, is the devil himself. Certainly the Jew is the very devil incarnation, and in my conscience, my conscience is but a kind of hard conscience, to offer to counsel me to stay with the Jew. The fiend gives the more friendly counsel: I will run, fiend; my heels are at your commandment, I will run.
 
-!Enter Old Gobbo with a basket.
+Enter Old Gobbo with a basket.
 
-@GOB.
+GOB.
 Master young man, you, I pray you, which is the way to Master Jew’s?
 
-@LAUN.
+LAUN.
 (Aside.)
 O heavens, this is my true-begotten father, who being more than sand-blind, high gravel-blind, knows me not. I will try confusions with him.
 
-@GOB.
+GOB.
 Master young gentleman, I pray you, which is the way to Master Jew’s?
 
-@LAUN.
+LAUN.
 Turn up on your right hand at the next turning, but at the next turning of all, on your left; marry, at the very next turning, turn of no hand, but turn down indirectly to the Jew’s house.
 
-@GOB.
+GOB.
 Be God’s sonties, ’twill be a hard way to hit. Can you tell me whether one Launcelot, that dwells with him, dwell with him or no?
 
-@LAUN.
+LAUN.
 Talk you of young Master Launcelot?
-
-!Aside.
-
-@LAUN. (CONT'D)
+(Aside.)
 Mark me now, now will I raise the waters.—Talk you of young Master Launcelot?
 
-@GOB.
+GOB.
 No master, sir, but a poor man’s son. His father, though I say’t, is an honest exceeding poor man and, God be thank’d, well to live.
 
-@LAUN.
+LAUN.
 Well, let his father be what ’a will, we talk of young Master Launcelot.
 
-@GOB.
+GOB.
 Your worship’s friend and Launcelot, sir.
 
-@LAUN.
+LAUN.
 But I pray you, ergo, old man, ergo, I beseech you, talk you of young Master Launcelot.
 
-@GOB.
+GOB.
 Of Launcelot, an’t please your mastership.
 
-@LAUN.
+LAUN.
 Ergo, Master Launcelot. Talk not of Master Launcelot, father, for the young gentleman, according to Fates and Destinies, and such odd sayings, the Sisters Three, and such branches of learning, is indeed deceas’d, or as you would say in plain terms, gone to heaven.
 
-@GOB.
+GOB.
 Marry, God forbid, the boy was the very staff of my age, my very prop.
 
-@LAUN.
+LAUN.
 (Aside.)
 Do I look like a cudgel or a hovel-post, a staff, or a prop?—Do you know me, father?
 
-@GOB.
+GOB.
 Alack the day, I know you not, young gentleman, but I pray you tell me, is my boy, God rest his soul, alive or dead?
 
-@LAUN.
+LAUN.
 Do you not know me, father?
 
-@GOB.
+GOB.
 Alack, sir, I am sand-blind, I know you not.
 
-@LAUN.
+LAUN.
 Nay, indeed if you had your eyes you might fail of the knowing me; it is a wise father that knows his own child. Well, old man, I will tell you news of your son. Give me your blessing; truth will come to light; murder cannot be hid long; a man’s son may, but in the end truth will out.
 
-@GOB.
+GOB.
 Pray you, sir, stand up. I am sure you are not Launcelot, my boy.
 
-@LAUN.
+LAUN.
 Pray you let’s have no more fooling about it, but give me your blessing. I am Launcelot, your boy that was, your son that is, your child that shall be.
 
-@GOB.
+GOB.
 I cannot think you are my son.
 
-@LAUN.
+LAUN.
 I know not what I shall think of that; but I am Launcelot, the Jew’s man, and I am sure Margery your wife is my mother.
 
-@GOB.
+GOB.
 Her name is Margery indeed. I’ll be sworn, if thou be Launcelot, thou art mine own flesh and blood. Lord worshipp’d might he be, what a beard hast thou got! Thou hast got more hair on thy chin than Dobbin my fill-horse has on his tail.
 
-@LAUN.
+LAUN.
 It should seem then that Dobbin’s tail grows backward. I am sure he had more hair of his tail than I have of my face when I last saw him.
 
-@GOB.
+GOB.
 Lord, how art thou chang’d! How dost thou and thy master agree? I have brought him a present. How ’gree you now?
 
-@LAUN.
+LAUN.
 Well, well; but for mine own part, as I have set up my rest to run away, so I will not rest till I have run some ground. My master’s a very Jew. Give him a present! Give him a halter. I am famish’d in his service; you may tell every finger I have with my ribs. Father, I am glad you are come; give me your present to one Master Bassanio, who indeed gives rare new liveries. If I serve not him, I will run as far as God has any ground. O rare fortune, here comes the man. To him, father, for I am a Jew if I serve the Jew any longer.
 
-!Enter Bassanio with a follower or two, one of them Leonardo.
+Enter Bassanio with a follower or two, one of them Leonardo.
 
-@BASS.
+BASS.
 You may do so, but let it be so hasted that supper be ready at the farthest by five of the clock. See these letters deliver’d, put the liveries to making, and desire Gratiano to come anon to my lodging.
 
-!Exit one of his men.
+Exit one of his men.
 
-@LAUN.
+LAUN.
 To him, father.
 
-@GOB.
+GOB.
 God bless your worship!
 
-@BASS.
+BASS.
 Gramercy, wouldst thou aught with me?
 
-@GOB.
+GOB.
 Here’s my son, sir, a poor boy—
 
-@LAUN.
+LAUN.
 Not a poor boy, sir, but the rich Jew’s man, that would, sir, as my father shall specify—
 
-@GOB.
+GOB.
 He hath a great infection, sir, as one would say, to serve—
 
-@LAUN.
+LAUN.
 Indeed the short and the long is, I serve the Jew, and have a desire, as my father shall specify—
 
-@GOB.
+GOB.
 His master and he —saving your worship’s reverence— are scarce cater-cousins—
 
-@LAUN.
+LAUN.
 To be brief, the very truth is that the Jew, having done me wrong, doth cause me, as my father, being I hope an old man, shall frutify unto you—
 
-@GOB.
+GOB.
 I have here a dish of doves that I would bestow upon your worship, and my suit is—
 
-@LAUN.
+LAUN.
 In very brief, the suit is impertinent to myself, as your worship shall know by this honest old man, and though I say it, though old man, yet poor man, my father.
 
-@BASS.
+BASS.
 One speak for both. What would you?
 
-@LAUN.
+LAUN.
 Serve you, sir.
 
-@GOB.
+GOB.
 That is the very defect of the matter, sir.
 
-@BASS.
+BASS.
 I know thee well, thou hast obtain’d thy suit.
 Shylock thy master spoke with me this day,
 And hath preferr’d thee, if it be preferment
 To leave a rich Jew’s service, to become
 The follower of so poor a gentleman.
 
-@LAUN.
+LAUN.
 The old proverb is very well parted between my master Shylock and you, sir: you have the grace of God, sir, and he hath enough.
 
-@BASS.
+BASS.
 Thou speak’st it well. Go, father, with thy son.
 Take leave of thy old master, and inquire
 My lodging out.—Give him a livery
 More guarded than his fellows’; see it done.
 
-@LAUN.
+LAUN.
 Father, in. I cannot get a service, no, I have ne’er a tongue in my head, well!
+(Looking on his palm.)
+If any man in Italy have a fairer table, which doth offer to swear upon a book, I shall have good fortune. Go to, here’s a simple line of life! Here’s a small trifle of wives! Alas, fifteen wives is nothing! Eleven widows and nine maids is a simple coming-in for one man. And then to scape drowning thrice, and to be in peril of my life with the edge of a feather-bed, here are simple scapes. Well, if Fortune be a woman, she’s a good wench for this gear. Father, come, I’ll take my leave of the Jew in the twinkling.
 
-!Looking on his palm.
+Exit Clown with Old Gobbo.
 
-@LAUN. (CONT'D)
-If any man in Italy have a fairer table, which doth offer to swear upon a book, I shall have good fortune. Go to, here’s a simple line of life! Here’s a small trifle of wives! Alas, fifteen wives is nothing! Aleven widows and nine maids is a simple coming-in for one man. And then to scape drowning thrice, and to be in peril of my life with the edge of a feather-bed, here are simple scapes. Well, if Fortune be a woman, she’s a good wench for this gear. Father, come, I’ll take my leave of the Jew in the twinkling.
-
-!Exit Clown with Old Gobbo.
-
-@BASS.
+BASS.
 I pray thee, good Leonardo, think on this:
 These things being bought and orderly bestowed,
 Return in haste, for I do feast tonight
 My best esteem’d acquaintance. Hie thee, go.
 
-@LEON.
+LEON.
 My best endeavors shall be done herein.
 
-!Enter Gratiano.
+Enter Gratiano.
 
-@GRA.
+GRA.
 Where’s your master?
 
-@LEON.
+LEON.
 ^4 Yonder, sir, he walks.
 
-!Exit Leonardo.
+Exit Leonardo.
 
-@GRA.
+GRA.
 Signior Bassanio!
 
-@BASS.
+BASS.
 Gratiano!
 
-@GRA.
+GRA.
 I have suit to you.
 
-@BASS.
+BASS.
 ^4 You have obtain’d it.
 
-@GRA.
+GRA.
 You must not deny me; I must go with you to Belmont.
 
-@BASS.
+BASS.
 Why then you must. But hear thee, Gratiano:
 Thou art too wild, too rude, and bold of voice—
 Parts that become thee happily enough,
@@ -981,7 +970,7 @@ Thy skipping spirit, lest through thy wild behavior
 I be misconst’red in the place I go to,
 And lose my hopes.
 
-@GRA.
+GRA.
 ^4 Signior Bassanio, hear me:
 If I do not put on a sober habit,
 Talk with respect, and swear but now and then,
@@ -992,33 +981,35 @@ Use all the observance of civility,
 Like one well studied in a sad ostent
 To please his grandam, never trust me more.
 
-@BASS.
+BASS.
 Well, we shall see your bearing.
 
-@GRA.
+GRA.
 Nay, but I bar tonight, you shall not gauge me
 By what we do tonight.
 
-@BASS.
+BASS.
 ^5 No, that were pity.
 I would entreat you rather to put on
 Your boldest suit of mirth, for we have friends
 That purpose merriment. But fare you well,
 I have some business.
 
-@GRA.
+GRA.
 And I must to Lorenzo and the rest,
 But we will visit you at supper-time.
 
-!Exeunt.
+Exeunt.
 
 
 ### Scene 3
-.VENICE. A ROOM IN SHYLOCK’S HOUSE.
 
-!Enter Jessica and the Clown Launcelot.
 
-@JES.
+Venice. A room in Shylock’s house.
+
+Enter Jessica and the Clown Launcelot.
+
+JES.
 I am sorry thou wilt leave my father so.
 Our house is hell, and thou, a merry devil,
 Didst rob it of some taste of tediousness.
@@ -1029,15 +1020,12 @@ Give him this letter, do it secretly,
 And so farewell. I would not have my father
 See me in talk with thee.
 
-@LAUN.
-*Adieu* , tears exhibit my tongue. Most beautiful pagan, most sweet Jew! If a Christian do not play the knave and get thee, I am much deceiv’d. But *adieu* , these foolish drops do something drown my manly spirit. *Adieu* !
+LAUN.
+Adieu, tears exhibit my tongue. Most beautiful pagan, most sweet Jew! If a Christian do not play the knave and get thee, I am much deceiv’d. But adieu, these foolish drops do something drown my manly spirit. Adieu!
 
-@JES.
+JES.
 Farewell, good Launcelot.
-
-!Exit Launcelot.
-
-@JES. (CONT'D)
+(Exit Launcelot.)
 Alack, what heinous sin is it in me
 To be ashamed to be my father’s child!
 But though I am a daughter to his blood,
@@ -1045,88 +1033,84 @@ I am not to his manners. O Lorenzo,
 If thou keep promise, I shall end this strife,
 Become a Christian and thy loving wife.
 
-!Exit.
+Exit.
 
 
 ### Scene 4
-.VENICE. A STREET.
 
-!Enter Gratiano, Lorenzo, Salerio, and Solanio.
 
-@LOR.
+Venice. A street.
+
+Enter Gratiano, Lorenzo, Salerio, and Solanio.
+
+LOR.
 Nay, we will slink away in supper-time,
 Disguise us at my lodging, and return
 All in an hour.
 
-@GRA.
+GRA.
 We have not made good preparation.
 
-@SAL.
+SAL.
 We have not spoke us yet of torch-bearers.
 
-@SOL.
+SOL.
 ’Tis vile, unless it may be quaintly ordered,
 And better in my mind not undertook.
 
-@LOR.
+LOR.
 ’Tis now but four of clock, we have two hours
 To furnish us.
-
-!Enter Launcelot with a letter.
-
-@LOR. (CONT'D)
+(Enter Launcelot with a letter.)
 ^3 Friend Launcelot, what’s the news?
 
-@LAUN.
+LAUN.
 And it shall please you to break up this, it shall seem to signify.
 
-@LOR.
+LOR.
 I know the hand; in faith, ’tis a fair hand,
 And whiter than the paper it writ on
 Is the fair hand that writ.
 
-@GRA.
+GRA.
 ^5 Love-news, in faith.
 
-@LAUN.
+LAUN.
 By your leave, sir.
 
-@LOR.
+LOR.
 Whither goest thou?
 
-@LAUN.
+LAUN.
 Marry, sir, to bid my old master the Jew to sup tonight with my new master the Christian.
 
-@LOR.
+LOR.
 Hold here, take this. Tell gentle Jessica
 I will not fail her, speak it privately.
-
-!Exit Clown.
-
-@LOR. (CONT'D)
+(Exit Clown.)
 Go, gentlemen,
 Will you prepare you for this masque tonight?
 I am provided of a torch-bearer.
 
-@SAL.
+SAL.
 Ay, marry, I’ll be gone about it straight.
 
-@SOL.
+SOL.
 And so will I.
 
-@LOR.
+LOR.
 ^3 Meet me and Gratiano
 At Gratiano’s lodging some hour hence.
 
-@SAL.
+SAL.
 ’Tis good we do so.
 
-!Exit with Solanio.
+Exit with Solanio.
 
-@GRA.
+GRA.
 Was not that letter from fair Jessica?
 
-@LOR.
+LOR.
 I must needs tell thee all. She hath directed
 How I shall take her from her father’s house,
 What gold and jewels she is furnish’d with,
@@ -1139,15 +1123,17 @@ That she is issue to a faithless Jew.
 Come go with me, peruse this as thou goest.
 Fair Jessica shall be my torch-bearer.
 
-!Exeunt.
+Exeunt.
 
 
 ### Scene 5
-.VENICE. BEFORE SHYLOCK’S HOUSE.
 
-!Enter Shylock the Jew and his man that was, the Clown Launcelot.
 
-@SHY.
+Venice. Before Shylock’s house.
+
+Enter Shylock the Jew and his man that was, the Clown Launcelot.
+
+SHY.
 Well, thou shalt see, thy eyes shall be thy judge,
 The difference of old Shylock and Bassanio.—
 What, Jessica!—Thou shalt not gurmandize,
@@ -1155,21 +1141,21 @@ As thou hast done with me—What, Jessica!—
 And sleep and snore, and rend apparel out—
 Why, Jessica, I say!
 
-@LAUN.
+LAUN.
 ^4 Why, Jessica!
 
-@SHY.
+SHY.
 Who bids thee call? I do not bid thee call.
 
-@LAUN.
+LAUN.
 Your worship was wont to tell me I could do nothing without bidding.
 
-!Enter Jessica.
+Enter Jessica.
 
-@JES.
+JES.
 Call you? What is your will?
 
-@SHY.
+SHY.
 I am bid forth to supper, Jessica.
 There are my keys. But wherefore should I go?
 I am not bid for love, they flatter me,
@@ -1179,16 +1165,16 @@ Look to my house. I am right loath to go;
 There is some ill a-brewing towards my rest,
 For I did dream of money-bags tonight.
 
-@LAUN.
+LAUN.
 I beseech you, sir, go. My young master doth expect your reproach.
 
-@SHY.
+SHY.
 So do I his.
 
-@LAUN.
+LAUN.
 And they have conspir’d together. I will not say you shall see a masque, but if you do, then it was not for nothing that my nose fell a-bleeding on Black Monday last at six a’ clock i’ th’ morning, falling out that year on Ash We’n’sday was four year in th’ afternoon.
 
-@SHY.
+SHY.
 What, are there masques? Hear you me, Jessica:
 Lock up my doors, and when you hear the drum
 And the vile squealing of the wry-neck’d fife,
@@ -1202,20 +1188,20 @@ I have no mind of feasting forth tonight;
 But I will go. Go you before me, sirrah,
 Say I will come.
 
-@LAUN.
+LAUN.
 I will go before, sir. Mistress, look out at window for all this—
 ^2 There will come a Christian by,
 ^2 Will be worth a Jewess’ eye.
 
-!Exit.
+Exit.
 
-@SHY.
+SHY.
 What says that fool of Hagar’s offspring, ha?
 
-@JES.
+JES.
 His words were “Farewell, mistress!”—nothing else.
 
-@SHY.
+SHY.
 The patch is kind enough, but a huge feeder,
 Snail-slow in profit, and he sleeps by day
 More than the wild-cat. Drones hive not with me,
@@ -1227,37 +1213,39 @@ Do as I bid you, shut doors after you;
 Fast bind, fast find—
 A proverb never stale in thrifty mind.
 
-!Exit.
+Exit.
 
-@JES.
+JES.
 Farewell, and if my fortune be not cross’d,
 I have a father, you a daughter, lost.
 
-!Exit.
+Exit.
 
 
 ### Scene 6
-.VENICE. BEFORE SHYLOCK’S HOUSE.
 
-!Enter two of the masquers, Gratiano and Salerio.
 
-@GRA.
+Venice. Before Shylock’s house.
+
+Enter two of the masquers, Gratiano and Salerio.
+
+GRA.
 This is the penthouse under which Lorenzo
 Desir’d us to make stand.
 
-@SAL.
+SAL.
 ^5 His hour is almost past.
 
-@GRA.
+GRA.
 And it is marvel he out-dwells his hour,
 For lovers ever run before the clock.
 
-@SAL.
+SAL.
 O, ten times faster Venus’ pigeons fly
 To seal love’s bonds new made, than they are wont
 To keep obliged faith unforfeited!
 
-@GRA.
+GRA.
 That ever holds. Who riseth from a feast
 With that keen appetite that he sits down?
 Where is the horse that doth untread again
@@ -1271,36 +1259,36 @@ How like the prodigal doth she return,
 With over-weather’d ribs and ragged sails,
 Lean, rent, and beggar’d by the strumpet wind!
 
-!Enter Lorenzo.
+Enter Lorenzo.
 
-@SAL.
+SAL.
 Here comes Lorenzo, more of this hereafter.
 
-@LOR.
+LOR.
 Sweet friends, your patience for my long abode;
 Not I but my affairs have made you wait.
 When you shall please to play the thieves for wives,
 I’ll watch as long for you then. Approach,
 Here dwells my father Jew. Ho! Who’s within?
 
-!Enter Jessica above in boy’s clothes.
+Enter Jessica above in boy’s clothes.
 
-@JES.
+JES.
 Who are you? Tell me for more certainty,
 Albeit I’ll swear that I do know your tongue.
 
-@LOR.
+LOR.
 Lorenzo, and thy love.
 
-@JES.
+JES.
 Lorenzo, certain, and my love indeed,
 For who love I so much? And now who knows
 But you, Lorenzo, whether I am yours?
 
-@LOR.
+LOR.
 Heaven and thy thoughts are witness that thou art.
 
-@JES.
+JES.
 Here, catch this casket, it is worth the pains.
 I am glad ’tis night, you do not look on me,
 For I am much asham’d of my exchange.
@@ -1309,80 +1297,79 @@ The pretty follies that themselves commit,
 For if they could, Cupid himself would blush
 To see me thus transformed to a boy.
 
-@LOR.
+LOR.
 Descend, for you must be my torch-bearer.
 
-@JES.
+JES.
 What, must I hold a candle to my shames?
 They in themselves, good sooth, are too too light.
 Why, ’tis an office of discovery, love,
 And I should be obscur’d.
 
-@LOR.
+LOR.
 ^5 So are you, sweet,
 Even in the lovely garnish of a boy.
 But come at once,
 For the close night doth play the runaway,
 And we are stay’d for at Bassanio’s feast.
 
-@JES.
+JES.
 I will make fast the doors, and gild myself
 With some more ducats, and be with you straight.
 
-!Exit above.
+Exit above.
 
-@GRA.
+GRA.
 Now by my hood, a gentle, and no Jew.
 
-@LOR.
-Beshrow me but I love her heartily,
+LOR.
+Beshrew me but I love her heartily,
 For she is wise, if I can judge of her,
 And fair she is, if that mine eyes be true,
 And true she is, as she hath prov’d herself;
 And therefore, like herself, wise, fair, and true,
 Shall she be placed in my constant soul.
-
-!Enter Jessica.
-
-@LOR. (CONT'D)
+(Enter Jessica.)
 What, art thou come? On, gentlemen, away!
 Our masquing mates by this time for us stay.
 
-!Exit with Jessica and Salerio.
+Exit with Jessica and Salerio.
 
-!Enter Antonio.
+Enter Antonio.
 
-@ANT.
+ANT.
 Who’s there?
 
-@GRA.
+GRA.
 Signior Antonio!
 
-@ANT.
+ANT.
 Fie, fie, Gratiano, where are all the rest?
 ’Tis nine a’ clock—our friends all stay for you.
 No masque tonight, the wind is come about,
 Bassanio presently will go aboard.
 I have sent twenty out to seek for you.
 
-@GRA.
+GRA.
 I am glad on’t. I desire no more delight
 Than to be under sail, and gone tonight.
 
-!Exeunt.
+Exeunt.
 
 
 ### Scene 7
-.BELMONT. A ROOM IN PORTIA’S HOUSE.
 
-!Flourish cornets. Enter Portia with the Prince of Morocco and both their Trains.
 
-@POR.
+Belmont. A room in Portia’s house.
+
+Flourish cornets. Enter Portia with the Prince of Morocco and both their Trains.
+
+POR.
 Go, draw aside the curtains and discover
 The several caskets to this noble prince.
 Now make your choice.
 
-@MOR.
+MOR.
 This first, of gold, who this inscription bears,
 “Who chooseth me shall gain what many men desire”;
 The second, silver, which this promise carries,
@@ -1391,11 +1378,11 @@ This third, dull lead, with warning all as blunt,
 “Who chooseth me must give and hazard all he hath.”
 How shall I know if I do choose the right?
 
-@POR.
+POR.
 The one of them contains my picture, Prince:
 If you choose that, then I am yours withal.
 
-@MOR.
+MOR.
 Some god direct my judgment! Let me see,
 I will survey th’ inscriptions back again.
 What says this leaden casket?
@@ -1445,20 +1432,17 @@ But here an angel in a golden bed
 Lies all within. Deliver me the key.
 Here do I choose, and thrive I as I may!
 
-@POR.
+POR.
 There take it, Prince, and if my form lie there,
 Then I am yours.
 
-!He unlocks the golden casket.
+He unlocks the golden casket.
 
-@MOR.
+MOR.
 ^4 O hell! What have we here?
 A carrion Death, within whose empty eye
 There is a written scroll! I’ll read the writing.
-
-!Reads.
-
-@MOR. (CONT'D)
+(Reads.)
 *“All that glisters is not gold,* 
 *Often have you heard that told;* 
 *Many a man his life hath sold* 
@@ -1471,33 +1455,35 @@ There is a written scroll! I’ll read the writing.
 *Cold indeed, and labor lost:* 
 *Then farewell heat, and welcome frost!* 
 
-Portia, *adieu* . I have too griev’d a heart
+Portia, adieu. I have too griev’d a heart
 To take a tedious leave; thus losers part.
 
-!Exit with his Train.
+Exit with his Train.
 
-@POR.
+POR.
 A gentle riddance. Draw the curtains, go.
 Let all of his complexion choose me so.
 
-!Exeunt.
+Exeunt.
 
 
 ### Scene 8
-.VENICE. A STREET.
 
-!Enter Salerio and Solanio.
 
-@SAL.
+Venice. A street.
+
+Enter Salerio and Solanio.
+
+SAL.
 Why, man, I saw Bassanio under sail,
 With him is Gratiano gone along;
 And in their ship I am sure Lorenzo is not.
 
-@SOL.
+SOL.
 The villain Jew with outcries rais’d the Duke,
 Who went with him to search Bassanio’s ship.
 
-@SAL.
+SAL.
 He came too late, the ship was under sail,
 But there the Duke was given to understand
 That in a gondilo were seen together
@@ -1505,7 +1491,7 @@ Lorenzo and his amorous Jessica.
 Besides, Antonio certified the Duke
 They were not with Bassanio in his ship.
 
-@SOL.
+SOL.
 I never heard a passion so confus’d,
 So strange, outrageous, and so variable
 As the dog Jew did utter in the streets.
@@ -1518,15 +1504,15 @@ And jewels, two stones, two rich and precious stones,
 Stol’n by my daughter! Justice! Find the girl,
 She hath the stones upon her, and the ducats.”
 
-@SAL.
+SAL.
 Why, all the boys in Venice follow him,
 Crying, his stones, his daughter, and his ducats.
 
-@SOL.
+SOL.
 Let good Antonio look he keep his day,
 Or he shall pay for this.
 
-@SAL.
+SAL.
 ^5 Marry, well rememb’red.
 I reason’d with a Frenchman yesterday,
 Who told me, in the Narrow Seas that part
@@ -1535,11 +1521,11 @@ A vessel of our country richly fraught.
 I thought upon Antonio when he told me,
 And wish’d in silence that it were not his.
 
-@SOL.
+SOL.
 You were best to tell Antonio what you hear,
 Yet do not suddenly, for it may grieve him.
 
-@SAL.
+SAL.
 A kinder gentleman treads not the earth.
 I saw Bassanio and Antonio part:
 Bassanio told him he would make some speed
@@ -1556,38 +1542,40 @@ Turning his face, he put his hand behind him,
 And with affection wondrous sensible
 He wrung Bassanio’s hand, and so they parted.
 
-@SOL.
+SOL.
 I think he only loves the world for him.
 I pray thee let us go and find him out
 And quicken his embraced heaviness
 With some delight or other.
 
-@SAL.
+SAL.
 ^5 Do we so.
 
-!Exeunt.
+Exeunt.
 
 
 ### Scene 9
-.BELMONT. A ROOM IN PORTIA’S HOUSE.
 
-!Enter Nerissa and a servant.
 
-@NER.
+Belmont. A room in Portia’s house.
+
+Enter Nerissa and a servant.
+
+NER.
 Quick, quick, I pray thee, draw the curtain straight;
 The Prince of Arragon hath ta’en his oath,
 And comes to his election presently.
 
-!Flourish cornets. Enter the Prince of Arragon, his Train, and Portia.
+Flourish cornets. Enter the Prince of Arragon, his Train, and Portia.
 
-@POR.
+POR.
 Behold, there stand the caskets, noble Prince
 If you choose that wherein I am contain’d,
 Straight shall our nuptial rites be solemniz’d;
 But if you fail, without more speech, my lord,
 You must be gone from hence immediately.
 
-@AR.
+AR.
 I am enjoin’d by oath to observe three things:
 First, never to unfold to any one
 Which casket ’twas I chose; next, if I fail
@@ -1597,11 +1585,11 @@ Lastly,
 If I do fail in fortune of my choice,
 Immediately to leave you, and be gone.
 
-@POR.
+POR.
 To these injunctions every one doth swear
 That comes to hazard for my worthless self.
 
-@AR.
+AR.
 And so have I address’d me. Fortune now
 To my heart’s hope! Gold, silver, and base lead.
 
@@ -1645,12 +1633,12 @@ To be new varnish’d? Well, but to my choice:
 I will assume desert. Give me a key for this,
 And instantly unlock my fortunes here.
 
-!He unlocks the silver casket.
+He unlocks the silver casket.
 
-@POR.
+POR.
 Too long a pause for that which you find there.
 
-@AR.
+AR.
 What’s here? The portrait of a blinking idiot,
 Presenting me a schedule! I will read it.
 How much unlike art thou to Portia!
@@ -1659,16 +1647,13 @@ How much unlike my hopes and my deservings!
 Did I deserve no more than a fool’s head?
 Is that my prize? Are my deserts no better?
 
-@POR.
+POR.
 To offend and judge are distinct offices,
 And of opposed natures.
 
-@AR.
+AR.
 ^5 What is here?
-
-!Reads.
-
-@AR. (CONT'D)
+(Reads.)
 *“The fire seven times tried this:* 
 *Seven times tried that judgment is,* 
 *That did never choose amiss.* 
@@ -1683,54 +1668,54 @@ And of opposed natures.
 *By the time I linger here.* 
 *With one fool’s head I came to woo,* 
 *But I go away with two.* 
-*Sweet, *adieu* . I’ll keep my oath,* 
+*Sweet, adieu. I’ll keep my oath,* 
 *Patiently to bear my wroth.* 
 
-!Exit with his Train.
+Exit with his Train.
 
-@POR.
+POR.
 Thus hath the candle sing’d the moth.
 O, these deliberate fools, when they do choose,
 They have the wisdom by their wit to lose.
 
-@NER.
+NER.
 The ancient saying is no heresy,
 Hanging and wiving goes by destiny.
 
-@POR.
+POR.
 Come draw the curtain, Nerissa.
 
-!Enter Stephano.
+Enter Stephano.
 
-@STEPH.
+STEPH.
 Where is my lady?
 
-@POR.
+POR.
 ^4 Here; what would my lord?
 
-@STEPH.
+STEPH.
 Madam, there is alighted at your gate
 A young Venetian, one that comes before
 To signify th’ approaching of his lord,
 From whom he bringeth sensible regreets:
 To wit —besides commends and courteous breath—,
 Gifts of rich value. Yet I have not seen
-So likely an embassador of love.
+So likely an ambassador of love.
 A day in April never came so sweet,
 To show how costly summer was at hand,
 As this fore-spurrer comes before his lord.
 
-@POR.
+POR.
 No more, I pray thee. I am half afeard
 Thou wilt say anon he is some kin to thee,
 Thou spend’st such high-day wit in praising him.
 Come, come, Nerissa, for I long to see
 Quick Cupid’s post that comes so mannerly.
 
-@NER.
+NER.
 Bassanio, Lord Love, if thy will it be!
 
-!Exeunt.
+Exeunt.
 
 
 
@@ -1738,147 +1723,148 @@ Bassanio, Lord Love, if thy will it be!
 
 # Act 3
 ### Scene 1
-.VENICE. A STREET.
 
-!Enter Solanio and Salerio.
 
-@SOL.
+Venice. A street.
+
+Enter Solanio and Salerio.
+
+SOL.
 Now what news on the Rialto?
 
-@SAL.
+SAL.
 Why, yet it lives there uncheck’d that Antonio hath a ship of rich lading wrack’d on the Narrow Seas; the Goodwins I think they call the place, a very dangerous flat, and fatal, where the carcasses of many a tall ship lie buried, as they say, if my gossip Report be an honest woman of her word.
 
-@SOL.
+SOL.
 I would she were as lying a gossip in that as ever knapp’d ginger or made her neighbors believe she wept for the death of a third husband. But it is true, without any slips of prolixity, or crossing the plain highway of talk, that the good Antonio, the honest Antonio—O that I had a title good enough to keep his name company!—
 
-@SAL.
+SAL.
 Come, the full stop.
 
-@SOL.
+SOL.
 Ha, what sayest thou? Why, the end is, he hath lost a ship.
 
-@SAL.
+SAL.
 I would it might prove the end of his losses.
 
-@SOL.
+SOL.
 Let me say amen betimes, lest the devil cross my prayer, for here he comes in the likeness of a Jew.
-
-!Enter Shylock.
-
-@SOL. (CONT'D)
+(Enter Shylock.)
 How now, Shylock, what news among the merchants?
 
-@SHY.
+SHY.
 You knew, none so well, none so well as you, of my daughter’s flight.
 
-@SAL.
+SAL.
 That’s certain. I for my part knew the tailor that made the wings she flew withal.
 
-@SOL.
+SOL.
 And Shylock for his own part knew the bird was fledge, and then it is the complexion of them all to leave the dam.
 
-@SHY.
+SHY.
 She is damn’d for it.
 
-@SAL.
+SAL.
 That’s certain, if the devil may be her judge.
 
-@SHY.
+SHY.
 My own flesh and blood to rebel!
 
-@SOL.
+SOL.
 Out upon it, old carrion, rebels it at these years?
 
-@SHY.
+SHY.
 I say, my daughter is my flesh and my blood.
 
-@SAL.
+SAL.
 There is more difference between thy flesh and hers than between jet and ivory, more between your bloods than there is between red wine and Rhenish. But tell us, do you hear whether Antonio have had any loss at sea or no?
 
-@SHY.
+SHY.
 There I have another bad match. A bank-rout, a prodigal, who dare scarce show his head on the Rialto; a beggar, that was us’d to come so smug upon the mart: let him look to his bond. He was wont to call me usurer, let him look to his bond. He was wont to lend money for a Christian cur’sy, let him look to his bond.
 
-@SAL.
+SAL.
 Why, I am sure if he forfeit thou wilt not take his flesh. What’s that good for?
 
-@SHY.
+SHY.
 To bait fish withal—if it will feed nothing else, it will feed my revenge. He hath disgrac’d me, and hind’red me half a million, laugh’d at my losses, mock’d at my gains, scorn’d my nation, thwarted my bargains, cool’d my friends, heated mine enemies; and what’s his reason? I am a Jew. Hath not a Jew eyes? Hath not a Jew hands, organs, dimensions, senses, affections, passions; fed with the same food, hurt with the same weapons, subject to the same diseases, heal’d by the same means, warm’d and cool’d by the same winter and summer, as a Christian is? If you prick us, do we not bleed? If you tickle us, do we not laugh? If you poison us, do we not die? And if you wrong us, shall we not revenge? If we are like you in the rest, we will resemble you in that. If a Jew wrong a Christian, what is his humility? Revenge. If a Christian wrong a Jew, what should his sufferance be by Christian example? Why, revenge. The villainy you teach me, I will execute, and it shall go hard but I will better the instruction.
 
-!Enter a Servingman from Antonio.
+Enter a Servingman from Antonio.
 
-@ANT. SERV.
+ANT. SERV.
 Gentlemen, my master Antonio is at his house, and desires to speak with you both.
 
-@SAL.
+SAL.
 We have been up and down to seek him.
 
-!Enter Tubal.
+Enter Tubal.
 
-@SOL.
+SOL.
 Here comes another of the tribe; a third cannot be match’d, unless the devil himself turn Jew.
 
-!Exeunt Gentlemen Solanio and Salerio, with Servingman.
+Exeunt Gentlemen Solanio and Salerio, with Servingman.
 
-@SHY.
+SHY.
 How now, Tubal, what news from Genoa? Hast thou found my daughter?
 
-@TUB.
+TUB.
 I often came where I did hear of her, but cannot find her.
 
-@SHY.
+SHY.
 Why, there, there, there, there! A diamond gone, cost me two thousand ducats in Frankford! The curse never fell upon our nation till now, I never felt it till now. Two thousand ducats in that, and other precious, precious jewels. I would my daughter were dead at my foot, and the jewels in her ear! Would she were hears’d at my foot, and the ducats in her coffin! No news of them? Why, so—and I know not what’s spent in the search. Why, thou loss upon loss! The thief gone with so much, and so much to find the thief, and no satisfaction, no revenge, nor no ill luck stirring but what lights a’ my shoulders, no sighs but a’ my breathing, no tears but a’ my shedding.
 
-@TUB.
+TUB.
 Yes, other men have ill luck too. Antonio, as I heard in Genoa—
 
-@SHY.
+SHY.
 What, what, what? Ill luck, ill luck?
 
-@TUB.
+TUB.
 Hath an argosy cast away, coming from Tripolis.
 
-@SHY.
+SHY.
 I thank God, I thank God. Is it true, is it true?
 
-@TUB.
+TUB.
 I spoke with some of the sailors that escap’d the wrack.
 
-@SHY.
+SHY.
 I thank thee, good Tubal, good news, good news! Ha, ha! Heard in Genoa?
 
-@TUB.
+TUB.
 Your daughter spent in Genoa, as I heard, one night fourscore ducats.
 
-@SHY.
+SHY.
 Thou stick’st a dagger in me. I shall never see my gold again. Fourscore ducats at a sitting, fourscore ducats!
 
-@TUB.
+TUB.
 There came divers of Antonio’s creditors in my company to Venice that swear he cannot choose but break.
 
-@SHY.
+SHY.
 I am very glad of it. I’ll plague him, I’ll torture him. I am glad of it.
 
-@TUB.
+TUB.
 One of them show’d me a ring that he had of your daughter for a monkey.
 
-@SHY.
+SHY.
 Out upon her! Thou torturest me, Tubal. It was my turkis, I had it of Leah when I was a bachelor. I would not have given it for a wilderness of monkeys.
 
-@TUB.
+TUB.
 But Antonio is certainly undone.
 
-@SHY.
+SHY.
 Nay, that’s true, that’s very true. Go, Tubal, fee me an officer; bespeak him a fortnight before. I will have the heart of him if he forfeit, for were he out of Venice I can make what merchandise I will. Go, Tubal, and meet me at our synagogue; go, good Tubal, at our synagogue, Tubal.
 
-!Exeunt.
+Exeunt.
 
 
 ### Scene 2
-.BELMONT. A ROOM IN PORTIA’S HOUSE.
 
-!Enter Bassanio, Portia, Gratiano, Nerissa, and all their Trains.
 
-@POR.
+Belmont. A room in Portia’s house.
+
+Enter Bassanio, Portia, Gratiano, Nerissa, and all their Trains.
+
+POR.
 I pray you tarry, pause a day or two
 Before you hazard, for in choosing wrong
 I lose your company; therefore forbear a while.
@@ -1892,7 +1878,7 @@ Before you venture for me. I could teach you
 How to choose right, but then I am forsworn.
 So will I never be, so may you miss me,
 But if you do, you’ll make me wish a sin,
-That I had been forsworn. Beshrow your eyes,
+That I had been forsworn. Beshrew your eyes,
 They have o’erlook’d me and divided me:
 One half of me is yours, the other half yours—
 Mine own, I would say; but if mine, then yours,
@@ -1904,38 +1890,38 @@ I speak too long, but ’tis to peize the time,
 To eche it, and to draw it out in length,
 To stay you from election.
 
-@BASS.
+BASS.
 ^5 Let me choose,
 For as I am, I live upon the rack.
 
-@POR.
+POR.
 Upon the rack, Bassanio! Then confess
 What treason there is mingled with your love.
 
-@BASS.
+BASS.
 None but that ugly treason of mistrust,
 Which makes me fear th’ enjoying of my love;
 There may as well be amity and life
 ’Tween snow and fire, as treason and my love.
 
-@POR.
+POR.
 Ay, but I fear you speak upon the rack,
 Where men enforced do speak any thing.
 
-@BASS.
+BASS.
 Promise me life, and I’ll confess the truth.
 
-@POR.
+POR.
 Well then, confess and live.
 
-@BASS.
+BASS.
 ^5 Confess and love
 Had been the very sum of my confession.
 O happy torment, when my torturer
 Doth teach me answers for deliverance!
 But let me to my fortune and the caskets.
 
-@POR.
+POR.
 Away then! I am lock’d in one of them;
 If you do love me, you will find me out.
 Nerissa and the rest, stand all aloof.
@@ -1960,29 +1946,29 @@ The issue of th’ exploit. Go, Hercules,
 Live thou, I live; with much, much more dismay
 I view the fight than thou that mak’st the fray.
 
-!Here music.
+Here music.
 
-!A song, the whilst Bassanio comments on the caskets to himself.
+A song, the whilst Bassanio comments on the caskets to himself.
 
-@SING.
+SING.
 ~Tell me where is fancy bred,
 ~Or in the heart or in the head?
 ~How begot, how nourished?
 
-@ALL.
+ALL.
 ~Reply, reply.
 
-@SING.
+SING.
 ~It is engend’red in the eyes,
 ~With gazing fed, and fancy dies
 ~In the cradle where it lies.
 ~Let us all ring fancy’s knell.
 ~I’ll begin it.Ding, dong, bell.
 
-@ALL.
+ALL.
 ~Ding, dong, bell.
 
-@BASS.
+BASS.
 So may the outward shows be least themselves—
 The world is still deceiv’d with ornament.
 In law, what plea so tainted and corrupt
@@ -2019,7 +2005,7 @@ Which rather threaten’st than dost promise aught,
 Thy paleness moves me more than eloquence,
 And here choose I. Joy be the consequence!
 
-@POR.
+POR.
 (Aside.)
 How all the other passions fleet to air,
 As doubtful thoughts, and rash-embrac’d despair,
@@ -2029,12 +2015,9 @@ In measure rain thy joy, scant this excess!
 I feel too much thy blessing; make it less,
 For fear I surfeit.
 
-@BASS.
+BASS.
 ^4 What find I here?
-
-!Opening the leaden casket.
-
-@BASS. (CONT'D)
+(Opening the leaden casket.)
 Fair Portia’s counterfeit! What demigod
 Hath come so near creation? Move these eyes?
 Or whether, riding on the balls of mine,
@@ -2051,10 +2034,7 @@ The substance of my praise doth wrong this shadow
 In underprizing it, so far this shadow
 Doth limp behind the substance. Here’s the scroll,
 The continent and summary of my fortune.
-
-!Reads.
-
-@BASS. (CONT'D)
+(Reads.)
 *“You that choose not by the view,* 
 *Chance as fair, and choose as true:* 
 *Since this fortune falls to you,* 
@@ -2075,7 +2055,7 @@ So, thrice-fair lady, stand I, even so,
 As doubtful whether what I see be true,
 Until confirm’d, sign’d, ratified by you.
 
-@POR.
+POR.
 You see me, Lord Bassanio, where I stand,
 Such as I am. Though for myself alone
 I would not be ambitious in my wish
@@ -2103,7 +2083,7 @@ Which when you part from, lose, or give away,
 Let it presage the ruin of your love,
 And be my vantage to exclaim on you.
 
-@BASS.
+BASS.
 Madam, you have bereft me of all words,
 Only my blood speaks to you in my veins,
 And there is such confusion in my powers,
@@ -2116,12 +2096,12 @@ Express’d and not express’d. But when this ring
 Parts from this finger, then parts life from hence;
 O then be bold to say Bassanio’s dead!
 
-@NER.
+NER.
 My lord and lady, it is now our time,
 That have stood by and seen our wishes prosper,
 To cry good joy. Good joy, my lord and lady!
 
-@GRA.
+GRA.
 My Lord Bassanio and my gentle lady,
 I wish you all the joy that you can wish;
 For I am sure you can wish none from me;
@@ -2129,10 +2109,10 @@ And when your honors mean to solemnize
 The bargain of your faith, I do beseech you
 Even at that time I may be married too.
 
-@BASS.
+BASS.
 With all my heart, so thou canst get a wife.
 
-@GRA.
+GRA.
 I thank your lordship, you have got me one.
 My eyes, my lord, can look as swift as yours:
 You saw the mistress, I beheld the maid;
@@ -2147,82 +2127,82 @@ I got a promise of this fair one here
 To have her love—provided that your fortune
 Achiev’d her mistress.
 
-@POR.
+POR.
 ^4 Is this true, Nerissa?
 
-@NER.
+NER.
 Madam, it is, so you stand pleas’d withal.
 
-@BASS.
+BASS.
 And do you, Gratiano, mean good faith?
 
-@GRA.
+GRA.
 Yes, faith, my lord.
 
-@BASS.
+BASS.
 Our feast shall be much honored in your marriage.
 
-@GRA.
+GRA.
 We’ll play with them the first boy for a thousand ducats.
 
-@NER.
+NER.
 What, and stake down?
 
-@GRA.
+GRA.
 No, we shall ne’er win at that sport, and stake down.
 But who comes here? Lorenzo and his infidel?
 What, and my old Venetian friend Salerio?
 
-!Enter Lorenzo, Jessica, and Salerio, a messenger from Venice.
+Enter Lorenzo, Jessica, and Salerio, a messenger from Venice.
 
-@BASS.
+BASS.
 Lorenzo and Salerio, welcome hither,
 If that the youth of my new int’rest here
 Have power to bid you welcome. By your leave,
 I bid my very friends and countrymen,
 Sweet Portia, welcome.
 
-@POR.
+POR.
 ^5 So do I, my lord,
 They are entirely welcome.
 
-@LOR.
+LOR.
 I thank your honor. For my part, my lord,
 My purpose was not to have seen you here,
 But meeting with Salerio by the way,
 He did entreat me, past all saying nay,
 To come with him along.
 
-@SAL.
+SAL.
 ^5 I did, my lord,
 And I have reason for it. Signior Antonio
 Commends him to you.
 
-!Gives Bassanio a letter.
+Gives Bassanio a letter.
 
-@BASS.
+BASS.
 ^5 Ere I ope his letter,
 I pray you tell me how my good friend doth.
 
-@SAL.
+SAL.
 Not sick, my lord, unless it be in mind,
 Nor well, unless in mind. His letter there
 Will show you his estate.
 
-!Bassanio opens the letter.
+Bassanio opens the letter.
 
-@GRA.
+GRA.
 Nerissa, cheer yond stranger, bid her welcome.
 Your hand, Salerio. What’s the news from Venice?
 How doth that royal merchant, good Antonio?
 I know he will be glad of our success;
 We are the Jasons, we have won the fleece.
 
-@SAL.
+SAL.
 I would you had won the fleece that he hath lost.
 
-@POR.
-There are some shrowd contents in yond same paper
+POR.
+There are some shrewd contents in yond same paper
 That steals the color from Bassanio’s cheek—
 Some dear friend dead, else nothing in the world
 Could turn so much the constitution
@@ -2231,7 +2211,7 @@ With leave, Bassanio, I am half yourself,
 And I must freely have the half of any thing
 That this same paper brings you.
 
-@BASS.
+BASS.
 ^7 O sweet Portia,
 Here are a few of the unpleasant’st words
 That ever blotted paper! Gentle lady,
@@ -2255,7 +2235,7 @@ From Lisbon, Barbary, and India,
 And not one vessel scape the dreadful touch
 Of merchant-marring rocks?
 
-@SAL.
+SAL.
 ^6 Not one, my lord.
 Besides, it should appear, that if he had
 The present money to discharge the Jew,
@@ -2270,7 +2250,7 @@ Of greatest port, have all persuaded with him,
 But none can drive him from the envious plea
 Of forfeiture, of justice, and his bond.
 
-@JES.
+JES.
 When I was with him I have heard him swear
 To Tubal and to Chus, his countrymen,
 That he would rather have Antonio’s flesh
@@ -2279,23 +2259,23 @@ That he did owe him; and I know, my lord,
 If law, authority, and power deny not,
 It will go hard with poor Antonio.
 
-@POR.
+POR.
 Is it your dear friend that is thus in trouble?
 
-@BASS.
+BASS.
 The dearest friend to me, the kindest man,
 The best-condition’d and unwearied spirit
 In doing courtesies, and one in whom
 The ancient Roman honor more appears
 Than any that draws breath in Italy.
 
-@POR.
+POR.
 What sum owes he the Jew?
 
-@BASS.
+BASS.
 For me, three thousand ducats.
 
-@POR.
+POR.
 ^7 What, no more?
 Pay him six thousand, and deface the bond;
 Double six thousand, and then treble that,
@@ -2314,36 +2294,38 @@ Bid your friends welcome, show a merry cheer—
 Since you are dear bought, I will love you dear.
 But let me hear the letter of your friend.
 
-@BASS.
+BASS.
 (Reads.)
 *“Sweet Bassanio, my ships have all miscarried, my creditors grow cruel, my estate is very low, my bond to the Jew is forfeit; and since in paying it, it is impossible I should live, all debts are clear’d between you and I, if I might but see you at my death. Notwithstanding, use your pleasure; if your love do not persuade you to come, let not my letter.”* 
 
-@POR.
+POR.
 O love! Dispatch all business and be gone.
 
-@BASS.
+BASS.
 Since I have your good leave to go away,
 I will make haste; but till I come again,
 No bed shall e’er be guilty of my stay,
 Nor rest be interposer ’twixt us twain.
 
-!Exeunt.
+Exeunt.
 
 
 ### Scene 3
-.VENICE. A STREET.
 
-!Enter Shylock the Jew and Solanio and Antonio and the Jailer.
 
-@SHY.
+Venice. A street.
+
+Enter Shylock the Jew and Solanio and Antonio and the Jailer.
+
+SHY.
 Jailer, look to him, tell not me of mercy.
 This is the fool that lent out money gratis.
 Jailer, look to him.
 
-@ANT.
+ANT.
 ^4 Hear me yet, good Shylock.
 
-@SHY.
+SHY.
 I’ll have my bond, speak not against my bond,
 I have sworn an oath that I will have my bond.
 Thou call’dst me dog before thou hadst a cause,
@@ -2352,10 +2334,10 @@ The Duke shall grant me justice. I do wonder,
 Thou naughty jailer, that thou art so fond
 To come abroad with him at his request.
 
-@ANT.
+ANT.
 I pray thee hear me speak.
 
-@SHY.
+SHY.
 I’ll have my bond; I will not hear thee speak.
 I’ll have my bond, and therefore speak no more.
 I’ll not be made a soft and dull-ey’d fool
@@ -2363,13 +2345,13 @@ To shake the head, relent, and sigh, and yield
 To Christian intercessors. Follow not,
 I’ll have no speaking, I will have my bond.
 
-!Exit Jew.
+Exit Jew.
 
-@SOL.
+SOL.
 It is the most impenetrable cur
 That ever kept with men.
 
-@ANT.
+ANT.
 ^5 Let him alone,
 I’ll follow him no more with bootless prayers.
 He seeks my life; his reason well I know:
@@ -2377,11 +2359,11 @@ I oft deliver’d from his forfeitures
 Many that have at times made moan to me;
 Therefore he hates me.
 
-@SOL.
+SOL.
 ^5 I am sure the Duke
 Will never grant this forfeiture to hold.
 
-@ANT.
+ANT.
 The Duke cannot deny the course of law;
 For the commodity that strangers have
 With us in Venice, if it be denied,
@@ -2394,15 +2376,17 @@ Tomorrow to my bloody creditor.
 Well, jailer, on. Pray God Bassanio come
 To see me pay his debt, and then I care not!
 
-!Exeunt.
+Exeunt.
 
 
 ### Scene 4
-.BELMONT. A ROOM IN PORTIA’S HOUSE.
 
-!Enter Portia, Nerissa, Lorenzo, Jessica, and Balthazar, a man of Portia’s.
 
-@LOR.
+Belmont. A room in Portia’s house.
+
+Enter Portia, Nerissa, Lorenzo, Jessica, and Balthazar, a man of Portia’s.
+
+LOR.
 Madam, although I speak it in your presence,
 You have a noble and a true conceit
 Of godlike amity, which appears most strongly
@@ -2413,7 +2397,7 @@ How dear a lover of my lord your husband,
 I know you would be prouder of the work
 Than customary bounty can enforce you.
 
-@POR.
+POR.
 I never did repent for doing good,
 Nor shall not now: for in companions
 That do converse and waste the time together,
@@ -2441,29 +2425,26 @@ Not to deny this imposition,
 The which my love and some necessity
 Now lays upon you.
 
-@LOR.
+LOR.
 ^4 Madam, with all my heart,
 I shall obey you in all fair commands.
 
-@POR.
+POR.
 My people do already know my mind,
 And will acknowledge you and Jessica
 In place of Lord Bassanio and myself.
 So fare you well till we shall meet again.
 
-@LOR.
+LOR.
 Fair thoughts and happy hours attend on you!
 
-@JES.
+JES.
 I wish your ladyship all heart’s content.
 
-@POR.
+POR.
 I thank you for your wish, and am well pleas’d
 To wish it back on you. Fare you well, Jessica.
-
-!Exeunt Jessica and Lorenzo.
-
-@POR. (CONT'D)
+(Exeunt Jessica and Lorenzo.)
 Now, Balthazar,
 As I have ever found thee honest-true,
 So let me find thee still. Take this same letter,
@@ -2476,20 +2457,20 @@ Unto the traject, to the common ferry
 Which trades to Venice. Waste no time in words,
 But get thee gone. I shall be there before thee.
 
-@BALTH.
+BALTH.
 Madam, I go with all convenient speed.
 
-!Exit.
+Exit.
 
-@POR.
+POR.
 Come on, Nerissa, I have work in hand
 That you yet know not of. We’ll see our husbands
 Before they think of us.
 
-@NER.
+NER.
 ^5 Shall they see us?
 
-@POR.
+POR.
 They shall, Nerissa; but in such a habit
 That they shall think we are accomplished
 With that we lack. I’ll hold thee any wager,
@@ -2510,10 +2491,10 @@ Above a twelvemonth. I have within my mind
 A thousand raw tricks of these bragging Jacks,
 Which I will practice.
 
-@NER.
+NER.
 ^4 Why, shall we turn to men?
 
-@POR.
+POR.
 Fie, what a question’s that,
 If thou wert near a lewd interpreter!
 But come, I’ll tell thee all my whole device
@@ -2521,79 +2502,81 @@ When I am in my coach, which stays for us
 At the park-gate; and therefore haste away,
 For we must measure twenty miles today.
 
-!Exeunt.
+Exeunt.
 
 
 ### Scene 5
-.BELMONT. A GARDEN AT PORTIA’S HOUSE.
 
-!Enter Clown Launcelot and Jessica.
 
-@LAUN.
+Belmont. A garden at Portia’s house.
+
+Enter Clown Launcelot and Jessica.
+
+LAUN.
 Yes, truly, for look you, the sins of the father are to be laid upon the children; therefore, I promise you, I fear you. I was always plain with you, and so now I speak my agitation of the matter; therefore be a’ good cheer, for truly I think you are damn’d. There is but one hope in it that can do you any good, and that is but a kind of bastard hope neither.
 
-@JES.
+JES.
 And what hope is that, I pray thee?
 
-@LAUN.
+LAUN.
 Marry, you may partly hope that your father got you not, that you are not the Jew’s daughter.
 
-@JES.
+JES.
 That were a kind of bastard hope indeed; so the sins of my mother should be visited upon me.
 
-@LAUN.
+LAUN.
 Truly then I fear you are damn’d both by father and mother; thus when I shun Scylla, your father, I fall into Charybdis, your mother. Well, you are gone both ways.
 
-@JES.
+JES.
 I shall be sav’d by my husband, he hath made me a Christian!
 
-@LAUN.
+LAUN.
 Truly, the more to blame he; we were Christians enow before, e’en as many as could well live one by another. This making of Christians will raise the price of hogs. If we grow all to be pork-eaters, we shall not shortly have a rasher on the coals for money.
 
-!Enter Lorenzo.
+Enter Lorenzo.
 
-@JES.
+JES.
 I’ll tell my husband, Launcelot, what you say. Here he comes.
 
-@LOR.
+LOR.
 I shall grow jealous of you shortly, Launcelot, if you thus get my wife into corners!
 
-@JES.
+JES.
 Nay, you need not fear us, Lorenzo, Launcelot and I are out. He tells me flatly there’s no mercy for me in heaven because I am a Jew’s daughter; and he says you are no good member of the commonwealth, for in converting Jews to Christians, you raise the price of pork.
 
-@LOR.
+LOR.
 I shall answer that better to the commonwealth than you can the getting up of the Negro’s belly; the Moor is with child by you, Launcelot.
 
-@LAUN.
+LAUN.
 It is much that the Moor should be more than reason; but if she be less than an honest woman, she is indeed more than I took her for.
 
-@LOR.
+LOR.
 How every fool can play upon the word! I think the best grace of wit will shortly turn into silence, and discourse grow commendable in none only but parrots. Go in, sirrah, bid them prepare for dinner.
 
-@LAUN.
+LAUN.
 That is done, sir, they have all stomachs!
 
-@LOR.
+LOR.
 Goodly Lord, what a wit-snapper are you! Then bid them prepare dinner.
 
-@LAUN.
+LAUN.
 That is done too, sir, only “cover” is the word.
 
-@LOR.
+LOR.
 Will you cover then, sir?
 
-@LAUN.
+LAUN.
 Not so, sir, neither, I know my duty.
 
-@LOR.
-Yet more quarrelling with occasion! Wilt thou show the whole wealth of thy wit in an instant? I pray thee understand a plain man in his plain meaning: go to thy fellows, bid them cover the table, serve in the meat, and we will come in to dinner.
+LOR.
+Yet more quarreling with occasion! Wilt thou show the whole wealth of thy wit in an instant? I pray thee understand a plain man in his plain meaning: go to thy fellows, bid them cover the table, serve in the meat, and we will come in to dinner.
 
-@LAUN.
+LAUN.
 For the table, sir, it shall be serv’d in; for the meat, sir, it shall be cover’d; for your coming in to dinner, sir, why, let it be as humors and conceits shall govern.
 
-!Exit Clown.
+Exit Clown.
 
-@LOR.
+LOR.
 O dear discretion, how his words are suited!
 The fool hath planted in his memory
 An army of good words, and I do know
@@ -2603,7 +2586,7 @@ Defy the matter. How cheer’st thou, Jessica?
 And now, good sweet, say thy opinion,
 How dost thou like the Lord Bassanio’s wife?
 
-@JES.
+JES.
 Past all expressing. It is very meet
 The Lord Bassanio live an upright life,
 For having such a blessing in his lady,
@@ -2616,28 +2599,28 @@ And Portia one, there must be something else
 Pawn’d with the other, for the poor rude world
 Hath not her fellow.
 
-@LOR.
+LOR.
 ^4 Even such a husband
 Hast thou of me as she is for a wife.
 
-@JES.
+JES.
 Nay, but ask my opinion too of that.
 
-@LOR.
+LOR.
 I will anon, first let us go to dinner.
 
-@JES.
+JES.
 Nay, let me praise you while I have a stomach.
 
-@LOR.
+LOR.
 No, pray thee, let it serve for table-talk;
 Then howsome’er thou speak’st, ’mong other things
 I shall digest it.
 
-@JES.
+JES.
 ^4 Well, I’ll set you forth.
 
-!Exeunt.
+Exeunt.
 
 
 
@@ -2645,23 +2628,25 @@ I shall digest it.
 
 # Act 4
 ### Scene 1
-.VENICE. A COURT OF JUSTICE.
 
-!Enter the Duke, the Magnificoes, Antonio, Bassanio, Salerio, and Gratiano with others.
 
-@DUKE.
+Venice. A court of justice.
+
+Enter the Duke, the Magnificoes, Antonio, Bassanio, Salerio, and Gratiano with others.
+
+DUKE.
 What, is Antonio here?
 
-@ANT.
+ANT.
 Ready, so please your Grace.
 
-@DUKE.
+DUKE.
 I am sorry for thee. Thou art come to answer
 A stony adversary, an inhuman wretch,
 Uncapable of pity, void and empty
 From any dram of mercy.
 
-@ANT.
+ANT.
 ^5 I have heard
 Your Grace hath ta’en great pains to qualify
 His rigorous course; but since he stands obdurate,
@@ -2671,15 +2656,15 @@ My patience to his fury, and am arm’d
 To suffer, with a quietness of spirit,
 The very tyranny and rage of his.
 
-@DUKE.
+DUKE.
 Go one, and call the Jew into the court.
 
-@SAL.
+SAL.
 He is ready at the door; he comes, my lord.
 
-!Enter Shylock.
+Enter Shylock.
 
-@DUKE.
+DUKE.
 Make room, and let him stand before our face.
 Shylock, the world thinks, and I think so too,
 That thou but leadest this fashion of thy malice
@@ -2700,9 +2685,9 @@ From stubborn Turks, and Tartars never train’d
 To offices of tender courtesy.
 We all expect a gentle answer, Jew!
 
-@SHY.
+SHY.
 I have possess’d your Grace of what I purpose,
-And by our holy Sabaoth have I sworn
+And by our holy Sabbath have I sworn
 To have the due and forfeit of my bond.
 If you deny it, let the danger light
 Upon your charter and your city’s freedom!
@@ -2730,26 +2715,26 @@ More than a lodg’d hate and a certain loathing
 I bear Antonio, that I follow thus
 A losing suit against him. Are you answered?
 
-@BASS.
+BASS.
 This is no answer, thou unfeeling man,
 To excuse the current of thy cruelty.
 
-@SHY.
+SHY.
 I am not bound to please thee with my answers.
 
-@BASS.
+BASS.
 Do all men kill the things they do not love?
 
-@SHY.
+SHY.
 Hates any man the thing he would not kill?
 
-@BASS.
+BASS.
 Every offense is not a hate at first.
 
-@SHY.
+SHY.
 What, wouldst thou have a serpent sting thee twice?
 
-@ANT.
+ANT.
 I pray you think you question with the Jew:
 You may as well go stand upon the beach
 And bid the main flood bate his usual height;
@@ -2765,18 +2750,18 @@ Make no more offers, use no farther means,
 But with all brief and plain conveniency
 Let me have judgment and the Jew his will.
 
-@BASS.
+BASS.
 For thy three thousand ducats here is six.
 
-@SHY.
+SHY.
 If every ducat in six thousand ducats
 Were in six parts, and every part a ducat,
 I would not draw them, I would have my bond.
 
-@DUKE.
+DUKE.
 How shalt thou hope for mercy, rend’ring none?
 
-@SHY.
+SHY.
 What judgment shall I dread, doing no wrong?
 You have among you many a purchas’d slave,
 Which like your asses, and your dogs and mules,
@@ -2793,58 +2778,58 @@ If you deny me, fie upon your law!
 There is no force in the decrees of Venice.
 I stand for judgment. Answer—shall I have it?
 
-@DUKE.
+DUKE.
 Upon my power I may dismiss this court,
 Unless Bellario, a learned doctor,
 Whom I have sent for to determine this,
 Come here today.
 
-@SAL.
+SAL.
 ^4 My lord, here stays without
 A messenger with letters from the doctor,
 New come from Padua.
 
-@DUKE.
+DUKE.
 Bring us the letters; call the messenger.
 
-@BASS.
+BASS.
 Good cheer, Antonio! What, man, courage yet!
 The Jew shall have my flesh, blood, bones, and all,
 Ere thou shalt lose for me one drop of blood.
 
-@ANT.
+ANT.
 I am a tainted wether of the flock,
 Meetest for death; the weakest kind of fruit
 Drops earliest to the ground, and so let me.
 You cannot better be employ’d, Bassanio,
 Than to live still and write mine epitaph.
 
-!Enter Nerissa dressed like a lawyer’s clerk.
+Enter Nerissa dressed like a lawyer’s clerk.
 
-@DUKE.
+DUKE.
 Came you from Padua, from Bellario?
 
-@NER.
+NER.
 From both, my lord. Bellario greets your Grace.
 
-!Presenting a letter.
+Presenting a letter.
 
-@BASS.
+BASS.
 Why dost thou whet thy knife so earnestly?
 
-@SHY.
-To cut the forfeiture from that bankrout there.
+SHY.
+To cut the forfeiture from that bankrupt there.
 
-@GRA.
+GRA.
 Not on thy sole, but on thy soul, harsh Jew,
 Thou mak’st thy knife keen; but no metal can,
 No, not the hangman’s axe, bear half the keenness
 Of thy sharp envy. Can no prayers pierce thee?
 
-@SHY.
+SHY.
 No, none that thou hast wit enough to make.
 
-@GRA.
+GRA.
 O, be thou damn’d, inexecrable dog!
 And for thy life let justice be accus’d.
 Thou almost mak’st me waver in my faith
@@ -2857,81 +2842,75 @@ And whilst thou layest in thy unhallowed dam,
 Infus’d itself in thee; for thy desires
 Are wolvish, bloody, starv’d, and ravenous.
 
-@SHY.
+SHY.
 Till thou canst rail the seal from off my bond,
 Thou but offend’st thy lungs to speak so loud.
 Repair thy wit, good youth, or it will fall
 To cureless ruin. I stand here for law.
 
-@DUKE.
+DUKE.
 This letter from Bellario doth commend
 A young and learned doctor to our court.
 Where is he?
 
-@NER.
+NER.
 ^3 He attendeth here hard by
 To know your answer, whether you’ll admit him.
 
-@DUKE.
+DUKE.
 With all my heart. Some three or four of you
 Go give him courteous conduct to this place.
 Mean time the court shall hear Bellario’s letter.
-
-!Reads.
-
-@DUKE. (CONT'D)
+(Reads.)
 *“Your Grace shall understand that at the receipt of your letter I am very sick, but in the instant that your messenger came, in loving visitation was with me a young doctor of Rome. His name is Balthazar. I acquainted him with the cause in controversy between the Jew and Antonio the merchant. We turn’d o’er many books together. He is furnish’d with my opinion, which better’d with his own learning, the greatness whereof I cannot enough commend, comes with him, at my importunity, to fill up your Grace’s request in my stead. I beseech you let his lack of years be no impediment to let him lack a reverend estimation, for I never knew so young a body with so old a head. I leave him to your gracious acceptance, whose trial shall better publish his commendation.”* 
-
-!Enter Portia for Balthazar.
-
-@DUKE. (CONT'D)
+(Enter Portia for Balthazar.)
 You hear the learn’d Bellario, what he writes,
 And here I take it is the doctor come.
 Give me your hand. Come you from old Bellario?
 
-@POR.
+POR.
 I did, my lord.
 
-@DUKE.
+DUKE.
 ^3 You are welcome, take your place.
 Are you acquainted with the difference
 That holds this present question in the court?
 
-@POR.
+POR.
 I am informed throughly of the cause.
 Which is the merchant here? And which the Jew?
 
-@DUKE.
+DUKE.
 Antonio and old Shylock, both stand forth.
 
-@POR.
+POR.
 Is your name Shylock?
 
-@SHY.
+SHY.
 ^5 Shylock is my name.
 
-@POR.
+POR.
 Of a strange nature is the suit you follow,
 Yet in such rule that the Venetian law
 Cannot impugn you as you do proceed.—
 You stand within his danger, do you not?
 
-@ANT.
+ANT.
 Ay, so he says.
 
-@POR.
+POR.
 ^4 Do you confess the bond?
 
-@ANT.
+ANT.
 I do.
 
-@POR.
+POR.
 ^2 Then must the Jew be merciful.
 
-@SHY.
+SHY.
 On what compulsion must I? Tell me that.
 
-@POR.
+POR.
 The quality of mercy is not strain’d,
 It droppeth as the gentle rain from heaven
 Upon the place beneath. It is twice blest:
@@ -2955,62 +2934,59 @@ To mitigate the justice of thy plea,
 Which if thou follow, this strict court of Venice
 Must needs give sentence ’gainst the merchant there.
 
-@SHY.
+SHY.
 My deeds upon my head! I crave the law,
 The penalty and forfeit of my bond.
 
-@POR.
+POR.
 Is he not able to discharge the money?
 
-@BASS.
+BASS.
 Yes, here I tender it for him in the court,
 Yea, twice the sum. If that will not suffice,
 I will be bound to pay it ten times o’er,
 On forfeit of my hands, my head, my heart.
 If this will not suffice, it must appear
 That malice bears down truth.
-
-!To the Duke.
-
-@BASS. (CONT'D)
+(To the Duke.)
 ^7 And I beseech you
 Wrest once the law to your authority:
 To do a great right, do a little wrong,
 And curb this cruel devil of his will.
 
-@POR.
+POR.
 It must not be, there is no power in Venice
 Can alter a decree established.
 ’Twill be recorded for a precedent,
 And many an error by the same example
 Will rush into the state. It cannot be.
 
-@SHY.
+SHY.
 A Daniel come to judgment! Yea, a Daniel!
 O wise young judge, how I do honor thee!
 
-@POR.
+POR.
 I pray you let me look upon the bond.
 
-@SHY.
+SHY.
 Here ’tis, most reverend doctor, here it is.
 
-@POR.
+POR.
 Shylock, there’s thrice thy money off’red thee.
 
-@SHY.
+SHY.
 An oath, an oath, I have an oath in heaven!
 Shall I lay perjury upon my soul?
 No, not for Venice.
 
-@POR.
+POR.
 ^4 Why, this bond is forfeit,
 And lawfully by this the Jew may claim
 A pound of flesh, to be by him cut off
 Nearest the merchant’s heart. Be merciful,
 Take thrice thy money, bid me tear the bond.
 
-@SHY.
+SHY.
 When it is paid according to the tenure.
 It doth appear you are a worthy judge;
 You know the law, your exposition
@@ -3020,59 +2996,59 @@ Proceed to judgment. By my soul I swear
 There is no power in the tongue of man
 To alter me: I stay here on my bond.
 
-@ANT.
+ANT.
 Most heartily I do beseech the court
 To give the judgment.
 
-@POR.
+POR.
 ^4 Why then thus it is:
 You must prepare your bosom for his knife—
 
-@SHY.
+SHY.
 O noble judge, O excellent young man!
 
-@POR.
+POR.
 For the intent and purpose of the law
 Hath full relation to the penalty,
 Which here appeareth due upon the bond.
 
-@SHY.
+SHY.
 ’Tis very true. O wise and upright judge!
 How much more elder art thou than thy looks!
 
-@POR.
+POR.
 Therefore lay bare your bosom.
 
-@SHY.
+SHY.
 ^7 Ay, his breast,
 So says the bond, doth it not, noble judge?
 “Nearest his heart,” those are the very words.
 
-@POR.
+POR.
 It is so. Are there balance here to weigh
 The flesh?
 
-@SHY.
+SHY.
 ^3 I have them ready.
 
-@POR.
+POR.
 Have by some surgeon, Shylock, on your charge,
 To stop his wounds, lest he do bleed to death.
 
-@SHY.
+SHY.
 Is it so nominated in the bond?
 
-@POR.
+POR.
 It is not so express’d, but what of that?
 ’Twere good you do so much for charity.
 
-@SHY.
+SHY.
 I cannot find it, ’tis not in the bond.
 
-@POR.
+POR.
 You, merchant, have you any thing to say?
 
-@ANT.
+ANT.
 But little; I am arm’d and well prepar’d.
 Give me your hand, Bassanio, fare you well.
 Grieve not that I am fall’n to this for you;
@@ -3092,7 +3068,7 @@ And he repents not that he pays your debt;
 For if the Jew do cut but deep enough,
 I’ll pay it instantly with all my heart.
 
-@BASS.
+BASS.
 Antonio, I am married to a wife
 Which is as dear to me as life itself,
 But life itself, my wife, and all the world,
@@ -3100,41 +3076,41 @@ Are not with me esteem’d above thy life.
 I would lose all, ay, sacrifice them all
 Here to this devil, to deliver you.
 
-@POR.
+POR.
 Your wife would give you little thanks for that
 If she were by to hear you make the offer.
 
-@GRA.
+GRA.
 I have a wife who I protest I love;
 I would she were in heaven, so she could
 Entreat some power to change this currish Jew.
 
-@NER.
+NER.
 ’Tis well you offer it behind her back,
 The wish would make else an unquiet house.
 
-@SHY.
+SHY.
 (Aside.)
 These be the Christian husbands. I have a daughter—
 Would any of the stock of Barrabas
 Had been her husband rather than a Christian!
 —We trifle time. I pray thee pursue sentence.
 
-@POR.
+POR.
 A pound of that same merchant’s flesh is thine,
 The court awards it, and the law doth give it.
 
-@SHY.
+SHY.
 Most rightful judge!
 
-@POR.
+POR.
 And you must cut this flesh from off his breast,
 The law allows it, and the court awards it.
 
-@SHY.
+SHY.
 Most learned judge, a sentence! Come prepare!
 
-@POR.
+POR.
 Tarry a little, there is something else.
 This bond doth give thee here no jot of blood;
 The words expressly are ‘a pound of flesh.’
@@ -3144,36 +3120,36 @@ One drop of Christian blood, thy lands and goods
 Are by the laws of Venice confiscate
 Unto the state of Venice.
 
-@GRA.
+GRA.
 O upright judge! Mark, Jew. O learned judge!
 
-@SHY.
+SHY.
 Is that the law?
 
-@POR.
+POR.
 ^3 Thyself shalt see the act;
 For as thou urgest justice, be assur’d
 Thou shalt have justice more than thou desir’st.
 
-@GRA.
+GRA.
 O learned judge! Mark, Jew, a learned judge!
 
-@SHY.
+SHY.
 I take this offer then; pay the bond thrice
 And let the Christian go.
 
-@BASS.
+BASS.
 ^5 Here is the money.
 
-@POR.
+POR.
 Soft,
 The Jew shall have all justice. Soft, no haste.
 He shall have nothing but the penalty.
 
-@GRA.
+GRA.
 O Jew! An upright judge, a learned judge!
 
-@POR.
+POR.
 Therefore prepare thee to cut off the flesh.
 Shed thou no blood, nor cut thou less nor more
 But just a pound of flesh. If thou tak’st more
@@ -3184,39 +3160,39 @@ Of one poor scruple, nay, if the scale do turn
 But in the estimation of a hair,
 Thou diest, and all thy goods are confiscate.
 
-@GRA.
+GRA.
 A second Daniel! A Daniel, Jew!
 Now, infidel, I have you on the hip.
 
-@POR.
+POR.
 Why doth the Jew pause? Take thy forfeiture.
 
-@SHY.
+SHY.
 Give me my principal, and let me go.
 
-@BASS.
+BASS.
 I have it ready for thee, here it is.
 
-@POR.
+POR.
 He hath refus’d it in the open court;
 He shall have merely justice and his bond.
 
-@GRA.
+GRA.
 A Daniel, still say I, a second Daniel!
 I thank thee, Jew, for teaching me that word.
 
-@SHY.
+SHY.
 Shall I not have barely my principal?
 
-@POR.
+POR.
 Thou shalt have nothing but the forfeiture,
 To be so taken at thy peril, Jew.
 
-@SHY.
+SHY.
 Why then the devil give him good of it!
 I’ll stay no longer question.
 
-@POR.
+POR.
 ^5 Tarry, Jew,
 The law hath yet another hold on you.
 It is enacted in the laws of Venice,
@@ -3236,35 +3212,35 @@ Of the defendant; and thou hast incurr’d
 The danger formerly by me rehears’d.
 Down therefore, and beg mercy of the Duke.
 
-@GRA.
+GRA.
 Beg that thou mayst have leave to hang thyself,
 And yet thy wealth being forfeit to the state,
 Thou hast not left the value of a cord;
 Therefore thou must be hang’d at the state’s charge.
 
-@DUKE.
+DUKE.
 That thou shalt see the difference of our spirit,
 I pardon thee thy life before thou ask it.
 For half thy wealth, it is Antonio’s;
 The other half comes to the general state,
 Which humbleness may drive unto a fine.
 
-@POR.
+POR.
 Ay, for the state, not for Antonio.
 
-@SHY.
+SHY.
 Nay, take my life and all, pardon not that:
 You take my house when you do take the prop
 That doth sustain my house; you take my life
 When you do take the means whereby I live.
 
-@POR.
+POR.
 What mercy can you render him, Antonio?
 
-@GRA.
+GRA.
 A halter gratis—nothing else, for God sake.
 
-@ANT.
+ANT.
 So please my lord the Duke and all the court
 To quit the fine for one half of his goods,
 I am content; so he will let me have
@@ -3277,61 +3253,61 @@ The other, that he do record a gift,
 Here in the court, of all he dies possess’d
 Unto his son Lorenzo and his daughter.
 
-@DUKE.
+DUKE.
 He shall do this, or else I do recant
 The pardon that I late pronounced here.
 
-@POR.
+POR.
 Art thou contented, Jew? What dost thou say?
 
-@SHY.
+SHY.
 I am content.
 
-@POR.
+POR.
 ^3 Clerk, draw a deed of gift.
 
-@SHY.
+SHY.
 I pray you give me leave to go from hence,
 I am not well. Send the deed after me,
 And I will sign it.
 
-@DUKE.
+DUKE.
 ^4 Get thee gone, but do it.
 
-@GRA.
+GRA.
 In christ’ning shalt thou have two god-fathers:
 Had I been judge, thou shouldst have had ten more,
 To bring thee to the gallows, not to the font.
 
-!Exit Shylock.
+Exit Shylock.
 
-@DUKE.
+DUKE.
 Sir, I entreat you home with me to dinner.
 
-@POR.
+POR.
 I humbly do desire your Grace of pardon,
 I must away this night toward Padua,
 And it is meet I presently set forth.
 
-@DUKE.
+DUKE.
 I am sorry that your leisure serves you not.
 Antonio, gratify this gentleman,
 For in my mind you are much bound to him.
 
-!Exeunt Duke and his Train.
+Exeunt Duke and his Train.
 
-@BASS.
+BASS.
 Most worthy gentleman, I and my friend
 Have by your wisdom been this day acquitted
 Of grievous penalties, in lieu whereof
 Three thousand ducats, due unto the Jew,
 We freely cope your courteous pains withal.
 
-@ANT.
+ANT.
 And stand indebted, over and above,
 In love and service to you evermore.
 
-@POR.
+POR.
 He is well paid that is well satisfied,
 And I, delivering you, am satisfied,
 And therein do account myself well paid.
@@ -3339,128 +3315,118 @@ My mind was never yet more mercenary.
 I pray you know me when we meet again;
 I wish you well, and so I take my leave.
 
-@BASS.
+BASS.
 Dear sir, of force I must attempt you further.
 Take some remembrance of us as a tribute,
 Not as fee. Grant me two things, I pray you,
 Not to deny me, and to pardon me.
 
-@POR.
+POR.
 You press me far, and therefore I will yield.
-
-!To Antonio.
-
-@POR. (CONT'D)
+(To Antonio.)
 Give me your gloves, I’ll wear them for your sake,
-
-!To Bassanio.
-
-@POR. (CONT'D)
+(To Bassanio.)
 And for your love I’ll take this ring from you.
 Do not draw back your hand, I’ll take no more,
 And you in love shall not deny me this!
 
-@BASS.
+BASS.
 This ring, good sir, alas, it is a trifle!
 I will not shame myself to give you this.
 
-@POR.
+POR.
 I will have nothing else but only this,
 And now methinks I have a mind to it.
 
-@BASS.
+BASS.
 There’s more depends on this than on the value.
 The dearest ring in Venice will I give you,
 And find it out by proclamation;
 Only for this, I pray you pardon me.
 
-@POR.
+POR.
 I see, sir, you are liberal in offers.
 You taught me first to beg, and now methinks
 You teach me how a beggar should be answer’d.
 
-@BASS.
+BASS.
 Good sir, this ring was given me by my wife,
 And when she put it on, she made me vow
 That I should neither sell, nor give, nor lose it.
 
-@POR.
+POR.
 That ’scuse serves many men to save their gifts,
 And if your wife be not a mad woman,
 And know how well I have deserv’d this ring,
 She would not hold out enemy forever
 For giving it to me. Well, peace be with you!
 
-!Exeunt Portia and Nerissa.
+Exeunt Portia and Nerissa.
 
-@ANT.
+ANT.
 My Lord Bassanio, let him have the ring.
 Let his deservings and my love withal
-Be valued ’gainst your wive’s commandement.
+Be valued ’gainst your wive’s commandment.
 
-@BASS.
+BASS.
 Go, Gratiano, run and overtake him;
 Give him the ring, and bring him, if thou canst,
 Unto Antonio’s house. Away, make haste.
-
-!Exit Gratiano.
-
-@BASS. (CONT'D)
+(Exit Gratiano.)
 Come, you and I will thither presently,
 And in the morning early will we both
 Fly toward Belmont. Come, Antonio.
 
-!Exeunt.
+Exeunt.
 
 
 ### Scene 2
-.VENICE. A STREET.
 
-!Enter Portia and Nerissa disguised as before.
 
-@POR.
+Venice. A street.
+
+Enter Portia and Nerissa disguised as before.
+
+POR.
 Inquire the Jew’s house out, give him this deed,
 And let him sign it. We’ll away tonight,
 And be a day before our husbands home.
 This deed will be well welcome to Lorenzo.
 
-!Enter Gratiano.
+Enter Gratiano.
 
-@GRA.
+GRA.
 Fair sir, you are well o’erta’en.
 My Lord Bassanio upon more advice
 Hath sent you here this ring, and doth entreat
 Your company at dinner.
 
-@POR.
+POR.
 ^5 That cannot be.
 His ring I do accept most thankfully,
 And so I pray you tell him; furthermore,
 I pray you show my youth old Shylock’s house.
 
-@GRA.
+GRA.
 That will I do.
 
-@NER.
+NER.
 ^3 Sir, I would speak with you.
-
-!Aside to Portia.
-
-@NER. (CONT'D)
+(Aside to Portia.)
 I’ll see if I can get my husband’s ring,
 Which I did make him swear to keep forever.
 
-@POR.
+POR.
 (Aside to Nerissa)
 Thou mayst, I warrant. We shall have old swearing
 That they did give the rings away to men;
 But we’ll outface them, and outswear them too.—
 Away, make haste. Thou know’st where I will tarry.
 
-@NER.
+NER.
 Come, good sir, will you show me to this house?
 
-!Exeunt.
+Exeunt.
 
 
 
@@ -3468,11 +3434,13 @@ Come, good sir, will you show me to this house?
 
 # Act 5
 ### Scene 1
-.BELMONT. OUTSIDE PORTIA’S HOUSE.
 
-!Enter Lorenzo and Jessica.
 
-@LOR.
+Belmont. Outside Portia’s house.
+
+Enter Lorenzo and Jessica.
+
+LOR.
 The moon shines bright. In such a night as this,
 When the sweet wind did gently kiss the trees,
 And they did make no noise, in such a night
@@ -3480,110 +3448,107 @@ Troilus methinks mounted the Troyan walls,
 And sigh’d his soul toward the Grecian tents,
 Where Cressid lay that night.
 
-@JES.
+JES.
 ^6 In such a night
 Did Thisby fearfully o’ertrip the dew,
 And saw the lion’s shadow ere himself,
 And ran dismayed away.
 
-@LOR.
+LOR.
 ^5 In such a night
 Stood Dido with a willow in her hand
 Upon the wild sea-banks, and waft her love
 To come again to Carthage.
 
-@JES.
+JES.
 ^5 In such a night
 Medea gathered the enchanted herbs
 That did renew old Aeson.
 
-@LOR.
+LOR.
 ^5 In such a night
 Did Jessica steal from the wealthy Jew,
 And with an unthrift love did run from Venice,
 As far as Belmont.
 
-@JES.
+JES.
 ^4 In such a night
 Did young Lorenzo swear he lov’d her well,
 Stealing her soul with many vows of faith,
 And ne’er a true one.
 
-@LOR.
+LOR.
 ^4 In such a night
-Did pretty Jessica —like a little shrow—
+Did pretty Jessica —like a little shrew—
 Slander her love, and he forgave it her.
 
-@JES.
+JES.
 I would out-night you, did nobody come;
 But hark, I hear the footing of a man.
 
-!Enter Stephano.
+Enter Stephano.
 
-@LOR.
+LOR.
 Who comes so fast in silence of the night?
 
-@STEPH.
+STEPH.
 A friend.
 
-@LOR.
+LOR.
 A friend! What friend? Your name, I pray you, friend?
 
-@STEPH.
+STEPH.
 Stephano is my name, and I bring word
 My mistress will before the break of day
 Be here at Belmont. She doth stray about
 By holy crosses, where she kneels and prays
 For happy wedlock hours.
 
-@LOR.
+LOR.
 ^5 Who comes with her?
 
-@STEPH.
+STEPH.
 None but a holy hermit and her maid.
 I pray you, is my master yet return’d?
 
-@LOR.
+LOR.
 He is not, nor we have not heard from him.
 But go we in, I pray thee, Jessica,
 And ceremoniously let us prepare
 Some welcome for the mistress of the house.
 
-!Enter Clown Launcelot.
+Enter Clown Launcelot.
 
-@LAUN.
+LAUN.
 Sola, sola! Wo ha, ho! Sola, sola!
 
-@LOR.
+LOR.
 Who calls?
 
-@LAUN.
+LAUN.
 Sola! Did you see Master Lorenzo? Master Lorenzo, sola, sola!
 
-@LOR.
+LOR.
 Leave hollowing, man—here.
 
-@LAUN.
+LAUN.
 Sola! Where, where?
 
-@LOR.
+LOR.
 Here!
 
-@LAUN.
+LAUN.
 Tell him there’s a post come from my master, with his horn full of good news. My master will be here ere morning.
 
-!Exit.
+Exit.
 
-@LOR.
+LOR.
 Sweet soul, let’s in, and there expect their coming.
 And yet no matter; why should we go in?
 My friend Stephano, signify, I pray you,
 Within the house, your mistress is at hand,
 And bring your music forth into the air.
-
-!Exit Stephano.
-
-@LOR. (CONT'D)
+(Exit Stephano.)
 How sweet the moonlight sleeps upon this bank!
 Here will we sit, and let the sounds of music
 Creep in our ears. Soft stillness and the night
@@ -3596,20 +3561,17 @@ Still quiring to the young-ey’d cherubins;
 Such harmony is in immortal souls,
 But whilst this muddy vesture of decay
 Doth grossly close it in, we cannot hear it.
-
-!Enter Musicians.
-
-@LOR. (CONT'D)
+(Enter Musicians.)
 Come ho, and wake Diana with a hymn,
 With sweetest touches pierce your mistress’ ear,
 And draw her home with music.
 
-!Play Music.
+Play Music.
 
-@JES.
+JES.
 I am never merry when I hear sweet music.
 
-@LOR.
+LOR.
 The reason is, your spirits are attentive;
 For do but note a wild and wanton herd
 Or race of youthful and unhandled colts,
@@ -3630,34 +3592,34 @@ The motions of his spirit are dull as night,
 And his affections dark as Erebus
 Let no such man be trusted. Mark the music.
 
-!Enter Portia and Nerissa.
+Enter Portia and Nerissa.
 
-@POR.
+POR.
 That light we see is burning in my hall.
 How far that little candle throws his beams!
 So shines a good deed in a naughty world.
 
-@NER.
+NER.
 When the moon shone, we did not see the candle.
 
-@POR.
+POR.
 So doth the greater glory dim the less:
 A substitute shines brightly as a king
 Until a king be by, and then his state
 Empties itself, as doth an inland brook
 Into the main of waters. Music, hark!
 
-@NER.
+NER.
 It is your music, madam, of the house.
 
-@POR.
+POR.
 Nothing is good, I see, without respect;
 Methinks it sounds much sweeter than by day.
 
-@NER.
+NER.
 Silence bestows that virtue on it, madam.
 
-@POR.
+POR.
 The crow doth sing as sweetly as the lark
 When neither is attended; and I think
 The nightingale, if she should sing by day
@@ -3668,92 +3630,92 @@ To their right praise and true perfection!
 Peace ho! The Moon sleeps with Endymion,
 And would not be awak’d.
 
-!Music ceases.
+Music ceases.
 
-@LOR.
+LOR.
 ^5 That is the voice,
 Or I am much deceiv’d, of Portia.
 
-@POR.
+POR.
 He knows me as the blind man knows the cuckoo,
 By the bad voice!
 
-@LOR.
+LOR.
 ^4 Dear lady, welcome home!
 
-@POR.
+POR.
 We have been praying for our husbands’ welfare,
 Which speed we hope the better for our words.
 Are they return’d?
 
-@LOR.
+LOR.
 ^4 Madam, they are not yet;
 But there is come a messenger before,
 To signify their coming.
 
-@POR.
+POR.
 ^5 Go in, Nerissa.
 Give order to my servants that they take
 No note at all of our being absent hence—
 Nor you, Lorenzo—Jessica, nor you.
 
-!A tucket sounds.
+A tucket sounds.
 
-@LOR.
+LOR.
 Your husband is at hand, I hear his trumpet.
 We are no tell-tales, madam, fear you not.
 
-@POR.
+POR.
 This night methinks is but the daylight sick,
 It looks a little paler. ’Tis a day,
 Such as the day is when the sun is hid.
 
-!Enter Bassanio, Antonio, Gratiano, and their Followers.
+Enter Bassanio, Antonio, Gratiano, and their Followers.
 
-@BASS.
+BASS.
 We should hold day with the Antipodes,
 If you would walk in absence of the sun.
 
-@POR.
+POR.
 Let me give light, but let me not be light,
 For a light wife doth make a heavy husband,
 And never be Bassanio so for me—
 But God sort all! You are welcome home, my lord.
 
-@BASS.
+BASS.
 I thank you, madam. Give welcome to my friend;
 This is the man, this is Antonio,
 To whom I am so infinitely bound.
 
-@POR.
+POR.
 You should in all sense be much bound to him,
 For as I hear he was much bound for you.
 
-@ANT.
+ANT.
 No more than I am well acquitted of.
 
-@POR.
+POR.
 Sir, you are very welcome to our house.
 It must appear in other ways than words,
 Therefore I scant this breathing courtesy.
 
-@GRA.
+GRA.
 (To Nerissa.)
 By yonder moon I swear you do me wrong;
 In faith, I gave it to the judge’s clerk.
 Would he were gelt that had it, for my part,
 Since you do take it, love, so much at heart.
 
-@POR.
+POR.
 A quarrel ho already! What’s the matter?
 
-@GRA.
+GRA.
 About a hoop of gold, a paltry ring
 That she did give me, whose posy was
 For all the world like cutler’s poetry
 Upon a knife, “Love me, and leave me not.”
 
-@NER.
+NER.
 What talk you of the posy or the value?
 You swore to me, when I did give it you,
 That you would wear it till your hour of death,
@@ -3763,20 +3725,20 @@ You should have been respective and have kept it.
 Gave it a judge’s clerk! No, God’s my judge,
 The clerk will ne’er wear hair on ’s face that had it.
 
-@GRA.
+GRA.
 He will, and if he live to be a man.
 
-@NER.
+NER.
 Ay, if a woman live to be a man.
 
-@GRA.
+GRA.
 Now, by this hand, I gave it to a youth,
 A kind of boy, a little scrubbed boy,
 No higher than thyself, the judge’s clerk,
 A prating boy, that begg’d it as a fee.
 I could not for my heart deny it him.
 
-@POR.
+POR.
 You were to blame, I must be plain with you,
 To part so slightly with your wive’s first gift,
 A thing stuck on with oaths upon your finger,
@@ -3789,12 +3751,12 @@ That the world masters. Now, in faith, Gratiano,
 You give your wife too unkind a cause of grief;
 And ’twere to me I should be mad at it.
 
-@BASS.
+BASS.
 (Aside.)
 Why, I were best to cut my left hand off,
 And swear I lost the ring defending it.
 
-@GRA.
+GRA.
 My Lord Bassanio gave his ring away
 Unto the judge that begg’d it, and indeed
 Deserv’d it too; and then the boy, his clerk,
@@ -3802,25 +3764,25 @@ That took some pains in writing, he begg’d mine,
 And neither man nor master would take aught
 But the two rings.
 
-@POR.
+POR.
 ^4 What ring gave you, my lord?
 Not that, I hope, which you receiv’d of me.
 
-@BASS.
+BASS.
 If I could add a lie unto a fault,
 I would deny it; but you see my finger
 Hath not the ring upon it, it is gone.
 
-@POR.
+POR.
 Even so void is your false heart of truth.
 By heaven, I will ne’er come in your bed
 Until I see the ring!
 
-@NER.
+NER.
 ^4 Nor I in yours
 Till I again see mine!
 
-@BASS.
+BASS.
 ^4 Sweet Portia,
 If you did know to whom I gave the ring,
 If you did know for whom I gave the ring,
@@ -3829,7 +3791,7 @@ And how unwillingly I left the ring,
 When nought would be accepted but the ring,
 You would abate the strength of your displeasure.
 
-@POR.
+POR.
 If you had known the virtue of the ring,
 Or half her worthiness that gave the ring,
 Or your own honor to contain the ring,
@@ -3841,7 +3803,7 @@ To urge the thing held as a ceremony?
 Nerissa teaches me what to believe—
 I’ll die for’t but some woman had the ring!
 
-@BASS.
+BASS.
 No, by my honor, madam, by my soul,
 No woman had it, but a civil doctor,
 Which did refuse three thousand ducats of me,
@@ -3857,7 +3819,7 @@ For by these blessed candles of the night,
 Had you been there, I think you would have begg’d
 The ring of me to give the worthy doctor.
 
-@POR.
+POR.
 Let not that doctor e’er come near my house.
 Since he hath got the jewel that I loved,
 And that which you did swear to keep for me,
@@ -3870,69 +3832,69 @@ If you do not, if I be left alone,
 Now by mine honor, which is yet mine own,
 I’ll have that doctor for my bedfellow.
 
-@NER.
+NER.
 And I his clerk; therefore be well advis’d
 How you do leave me to mine own protection.
 
-@GRA.
+GRA.
 Well, do you so; let not me take him then,
 For if I do, I’ll mar the young clerk’s pen.
 
-@ANT.
+ANT.
 I am th’ unhappy subject of these quarrels.
 
-@POR.
+POR.
 Sir, grieve not you, you are welcome notwithstanding.
 
-@BASS.
+BASS.
 Portia, forgive me this enforced wrong,
 And in the hearing of these many friends
 I swear to thee, even by thine own fair eyes,
 Wherein I see myself—
 
-@POR.
+POR.
 ^5 Mark you but that!
 In both my eyes he doubly sees himself,
 In each eye, one. Swear by your double self,
 And there’s an oath of credit.
 
-@BASS.
+BASS.
 ^6 Nay, but hear me.
 Pardon this fault, and by my soul I swear
 I never more will break an oath with thee.
 
-@ANT.
+ANT.
 I once did lend my body for his wealth,
 Which but for him that had your husband’s ring
 Had quite miscarried. I dare be bound again,
 My soul upon the forfeit, that your lord
 Will never more break faith advisedly.
 
-@POR.
+POR.
 Then you shall be his surety. Give him this,
 And bid him keep it better than the other.
 
-@ANT.
+ANT.
 Here, Lord Bassanio, swear to keep this ring.
 
-@BASS.
+BASS.
 By heaven, it is the same I gave the doctor!
 
-@POR.
+POR.
 I had it of him. Pardon me, Bassanio,
 For by this ring, the doctor lay with me.
 
-@NER.
+NER.
 And pardon me, my gentle Gratiano,
 For that same scrubbed boy, the doctor’s clerk,
 In lieu of this last night did lie with me.
 
-@GRA.
+GRA.
 Why, this is like the mending of highways
 In summer, where the ways are fair enough.
 What, are we cuckolds ere we have deserv’d it?
 
-@POR.
+POR.
 Speak not so grossly, you are all amaz’d.
 Here is a letter, read it at your leisure.
 It comes from Padua, from Bellario.
@@ -3948,50 +3910,50 @@ Are richly come to harbor suddenly.
 You shall not know by what strange accident
 I chanced on this letter.
 
-@ANT.
+ANT.
 ^5 I am dumb.
 
-@BASS.
+BASS.
 Were you the doctor, and I knew you not?
 
-@GRA.
+GRA.
 Were you the clerk that is to make me cuckold?
 
-@NER.
+NER.
 Ay, but the clerk that never means to do it,
 Unless he live until he be a man.
 
-@BASS.
+BASS.
 Sweet doctor, you shall be my bedfellow—
 When I am absent, then lie with my wife.
 
-@ANT.
+ANT.
 Sweet lady, you have given me life and living,
 For here I read for certain that my ships
 Are safely come to road.
 
-@POR.
+POR.
 ^5 How now, Lorenzo?
 My clerk hath some good comforts too for you.
 
-@NER.
+NER.
 Ay, and I’ll give them him without a fee.
 There do I give to you and Jessica,
 From the rich Jew, a special deed of gift,
 After his death, of all he dies possess’d of.
 
-@LOR.
+LOR.
 Fair ladies, you drop manna in the way
 Of starved people.
 
-@POR.
+POR.
 ^4 It is almost morning,
 And yet I am sure you are not satisfied
 Of these events at full. Let us go in,
 And charge us there upon inter’gatories,
 And we will answer all things faithfully.
 
-@GRA.
+GRA.
 Let it be so. The first inter’gatory
 That my Nerissa shall be sworn on is,
 Whether till the next night she had rather stay,
@@ -4001,7 +3963,7 @@ Till I were couching with the doctor’s clerk.
 Well, while I live I’ll fear no other thing
 So sore, as keeping safe Nerissa’s ring.
 
-!Exeunt.
+Exeunt.
 
 
 

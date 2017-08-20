@@ -3,7 +3,7 @@ Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
 Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 3.5
+Revision: Version 4.0
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -56,7 +56,8 @@ Notes:
 
 # Act 1
 ### Prologue
-@PROLOGUE.
+
+PROLOGUE.
 In Troy, there lies the scene. From isles of Greece
 The princes orgulous, their high blood chaf’d,
 Have to the port of Athens sent their ships
@@ -91,21 +92,23 @@ Now good or bad, ’tis but the chance of war.
 
 
 ### Scene 1
-.TROY. BEFORE PRIAM’S PALACE.
 
-!Enter Pandarus and Troilus.
 
-@TRO.
+Troy. Before Priam’s palace.
+
+Enter Pandarus and Troilus.
+
+TRO.
 Call here my varlet, I’ll unarm again.
 Why should I war without the walls of Troy,
 That find such cruel battle here within?
 Each Troyan that is master of his heart,
 Let him to field, Troilus, alas, hath none.
 
-@PAN.
+PAN.
 Will this gear ne’er be mended?
 
-@TRO.
+TRO.
 The Greeks are strong, and skillful to their strength,
 Fierce to their skill, and to their fierceness valiant,
 But I am weaker than a woman’s tear,
@@ -113,39 +116,39 @@ Tamer than sleep, fonder than ignorance,
 Less valiant than the virgin in the night,
 And skilless as unpractic’d infancy.
 
-@PAN.
+PAN.
 Well, I have told you enough of this. For my part, I’ll not meddle nor make no farther. He that will have a cake out of the wheat must tarry the grinding.
 
-@TRO.
+TRO.
 Have I not tarried?
 
-@PAN.
+PAN.
 Ay, the grinding; but you must tarry the bolting.
 
-@TRO.
+TRO.
 Have I not tarried?
 
-@PAN.
+PAN.
 Ay, the bolting; but you must tarry the leavening.
 
-@TRO.
+TRO.
 Still have I tarried.
 
-@PAN.
+PAN.
 Ay, to the leavening, but here’s yet in the word “hereafter” the kneading, the making of the cake, the heating the oven, and the baking; nay, you must stay the cooling too, or ye may chance burn your lips.
 
-@TRO.
+TRO.
 Patience herself, what goddess e’er she be,
 Doth lesser blench at suff’rance than I do.
 At Priam’s royal table do I sit,
 And when fair Cressid comes into my thoughts—
 So, traitor, then she comes when she is thence.
 
-@PAN.
+PAN.
 Well, she look’d yesternight fairer than ever
 I saw her look, or any woman else.
 
-@TRO.
+TRO.
 I was about to tell thee—when my heart,
 As wedged with a sigh, would rive in twain,
 Lest Hector or my father should perceive me,
@@ -154,10 +157,10 @@ Buried this sigh in wrinkle of a smile,
 But sorrow that is couch’d in seeming gladness
 Is like that mirth fate turns to sudden sadness.
 
-@PAN.
+PAN.
 And her hair were not somewhat darker than Helen’s—well, go to!—there were no more comparison between the women! But for my part, she is my kinswoman; I would not, as they term it, praise her, but I would somebody had heard her talk yesterday as I did. I will not dispraise your sister Cassandra’s wit, but—
 
-@TRO.
+TRO.
 O Pandarus! I tell thee, Pandarus—
 When I do tell thee there my hopes lie drown’d,
 Reply not in how many fathoms deep
@@ -175,48 +178,48 @@ But saying thus, in stead of oil and balm,
 Thou lay’st in every gash that love hath given me
 The knife that made it.
 
-@PAN.
+PAN.
 I speak no more than truth.
 
-@TRO.
+TRO.
 Thou dost not speak so much.
 
-@PAN.
+PAN.
 Faith, I’ll not meddle in it, let her be as she is; if she be fair, ’tis the better for her; and she be not, she has the mends in her own hands.
 
-@TRO.
+TRO.
 Good Pandarus! How now, Pandarus?
 
-@PAN.
+PAN.
 I have had my labor for my travail; ill thought on of her, and ill thought on of you; gone between and between, but small thanks for my labor.
 
-@TRO.
+TRO.
 What, art thou angry, Pandarus? What, with me?
 
-@PAN.
+PAN.
 Because she’s kin to me, therefore she’s not so fair as Helen. And she were not kin to me, she would be as fair a’ Friday as Helen is on Sunday. But what care I? I care not and she were a blackamoor, ’tis all one to me.
 
-@TRO.
+TRO.
 Say I she is not fair?
 
-@PAN.
+PAN.
 I do not care whether you do or no. She’s a fool to stay behind her father, let her to the Greeks; and so I’ll tell her the next time I see her. For my part, I’ll meddle nor make no more i’ th’ matter.
 
-@TRO.
+TRO.
 Pandarus—
 
-@PAN.
+PAN.
 Not I.
 
-@TRO.
+TRO.
 Sweet Pandarus—
 
-@PAN.
+PAN.
 Pray you speak no more to me, I will leave all as I found it, and there an end.
 
-!Exit. Sound alarum.
+Exit. Sound alarum.
 
-@TRO.
+TRO.
 Peace, you ungracious clamors! Peace, rude sounds!
 Fools on both sides, Helen must needs be fair,
 When with your blood you daily paint her thus.
@@ -234,514 +237,507 @@ Let it be call’d the wild and wand’ring flood,
 Ourself the merchant, and this sailing Pandar
 Our doubtful hope, our convoy, and our bark.
 
-!Alarum. Enter Aeneas.
+Alarum. Enter Aeneas.
 
-@AENE.
+AENE.
 How now, Prince Troilus, wherefore not a-field?
 
-@TRO.
+TRO.
 Because not there. This woman’s answer sorts,
 For womanish it is to be from thence.
 What news, Aeneas, from the field today?
 
-@AENE.
+AENE.
 That Paris is returned home and hurt.
 
-@TRO.
+TRO.
 By whom, Aeneas?
 
-@AENE.
+AENE.
 ^4 Troilus, by Menelaus.
 
-@TRO.
+TRO.
 Let Paris bleed, ’tis but a scar to scorn;
 Paris is gor’d with Menelaus’ horn.
 
-!Alarum.
+Alarum.
 
-@AENE.
+AENE.
 Hark what good sport is out of town today.
 
-@TRO.
+TRO.
 Better at home, if “would I might” were “may.”
 But to the sport abroad—are you bound thither?
 
-@AENE.
+AENE.
 In all swift haste.
 
-@TRO.
+TRO.
 Come go we then together.
 
-!Exeunt.
+Exeunt.
 
 
 ### Scene 2
-.TROY. A STREET.
 
-!Enter Cressida and her man Alexander.
 
-@CRES.
+Troy. A street.
+
+Enter Cressida and her man Alexander.
+
+CRES.
 Who were those went by?
 
-@ALEX.
+ALEX.
 ^5 Queen Hecuba and Helen.
 
-@CRES.
+CRES.
 And whither go they?
 
-@ALEX.
+ALEX.
 ^4 Up to the eastern tower,
 Whose height commands as subject all the vale,
 To see the battle. Hector, whose patience
 Is as a virtue fix’d, today was mov’d:
-He chid Andromache and strook his armorer,
+He chid Andromache and struck his armorer,
 And like as there were husbandry in war,
 Before the sun rose he was harness’d light,
 And to the field goes he; where every flower
 Did as a prophet weep what it foresaw
 In Hector’s wrath.
 
-@CRES.
+CRES.
 ^4 What was his cause of anger?
 
-@ALEX.
+ALEX.
 The noise goes, this: there is among the Greeks
 A lord of Troyan blood, nephew to Hector,
 They call him Ajax.
 
-@CRES.
+CRES.
 ^4 Good; and what of him?
 
-@ALEX.
-They say he is a very man *per se* and stands alone.
+ALEX.
+They say he is a very man per se and stands alone.
 
-@CRES.
+CRES.
 So do all men, unless th’ are drunk, sick, or have no legs.
 
-@ALEX.
+ALEX.
 This man, lady, hath robb’d many beasts of their particular additions: he is as valiant as the lion, churlish as the bear, slow as the elephant; a man into whom nature hath so crowded humors that his valor is crush’d into folly, his folly sauc’d with discretion. There is no man hath a virtue that he hath not a glimpse of, nor any man an attaint but he carries some stain of it. He is melancholy without cause, and merry against the hair; he hath the joints of every thing, but every thing so out of joint that he is a gouty Briareus, many hands and no use, or purblind Argus, all eyes and no sight.
 
-@CRES.
+CRES.
 But how should this man, that makes me smile, make Hector angry?
 
-@ALEX.
-They say he yesterday cop’d Hector in the battle and strook him down, the disdain and shame whereof hath ever since kept Hector fasting and waking.
+ALEX.
+They say he yesterday cop’d Hector in the battle and struck him down, the disdain and shame whereof hath ever since kept Hector fasting and waking.
 
-!Enter Pandarus.
+Enter Pandarus.
 
-@CRES.
+CRES.
 Who comes here?
 
-@ALEX.
+ALEX.
 Madam, your uncle Pandarus.
 
-@CRES.
+CRES.
 Hector’s a gallant man.
 
-@ALEX.
+ALEX.
 As may be in the world, lady.
 
-@PAN.
+PAN.
 What’s that? What’s that?
 
-@CRES.
+CRES.
 Good morrow, uncle Pandarus.
 
-@PAN.
+PAN.
 Good morrow, cousin Cressid. What do you talk of? Good morrow, Alexander. How do you, cousin? When were you at Ilium?
 
-@CRES.
+CRES.
 This morning, uncle.
 
-@PAN.
+PAN.
 What were you talking of when I came? Was Hector arm’d and gone ere ye came to Ilium? Helen was not up, was she?
 
-@CRES.
+CRES.
 Hector was gone, but Helen was not up.
 
-@PAN.
+PAN.
 E’en so; Hector was stirring early.
 
-@CRES.
+CRES.
 That were we talking of, and of his anger.
 
-@PAN.
+PAN.
 Was he angry?
 
-@CRES.
+CRES.
 So he says here.
 
-@PAN.
+PAN.
 True, he was so; I know the cause too. He’ll lay about him today, I can tell them that, and there’s Troilus will not come far behind him. Let them take heed of Troilus; I can tell them that too.
 
-@CRES.
+CRES.
 What, is he angry too?
 
-@PAN.
+PAN.
 Who, Troilus? Troilus is the better man of the two.
 
-@CRES.
+CRES.
 O Jupiter, there’s no comparison.
 
-@PAN.
+PAN.
 What, not between Troilus and Hector? Do you know a man if you see him?
 
-@CRES.
+CRES.
 Ay, if I ever saw him before and knew him.
 
-@PAN.
+PAN.
 Well, I say Troilus is Troilus.
 
-@CRES.
+CRES.
 Then you say as I say, for I am sure he is not Hector.
 
-@PAN.
+PAN.
 No, nor Hector is not Troilus in some degrees.
 
-@CRES.
+CRES.
 ’Tis just to each of them; he is himself.
 
-@PAN.
+PAN.
 Himself? Alas, poor Troilus, I would he were!
 
-@CRES.
+CRES.
 So he is.
 
-@PAN.
+PAN.
 Condition I had gone barefoot to India.
 
-@CRES.
+CRES.
 He is not Hector.
 
-@PAN.
+PAN.
 Himself? No! He’s not himself. Would ’a were himself! Well, the gods are above, time must friend or end. Well, Troilus, well, I would my heart were in her body. No, Hector is not a better man than Troilus.
 
-@CRES.
+CRES.
 Excuse me.
 
-@PAN.
+PAN.
 He is elder.
 
-@CRES.
+CRES.
 Pardon me, pardon me.
 
-@PAN.
+PAN.
 Th’ other’s not come to’t. You shall tell me another tale when th’ other’s come to’t. Hector shall not have his wit this year.
 
-@CRES.
+CRES.
 He shall not need it if he have his own.
 
-@PAN.
+PAN.
 Nor his qualities.
 
-@CRES.
+CRES.
 No matter.
 
-@PAN.
+PAN.
 Nor his beauty.
 
-@CRES.
+CRES.
 ’Twould not become him, his own’s better.
 
-@PAN.
+PAN.
 You have no judgment, niece. Helen herself swore th’ other day that Troilus, for a brown favor —for so ’tis, I must confess——not brown neither—
 
-@CRES.
+CRES.
 No, but brown.
 
-@PAN.
+PAN.
 Faith, to say truth, brown and not brown.
 
-@CRES.
+CRES.
 To say the truth, true and not true.
 
-@PAN.
+PAN.
 She prais’d his complexion above Paris.
 
-@CRES.
+CRES.
 Why, Paris hath color enough.
 
-@PAN.
+PAN.
 So he has.
 
-@CRES.
-Then Troilus should have too much: if she prais’d him above, his complexion is higher than his. He having color enough, and the other higher, is too flaming a praise for a good complexion. I had as lieve Helen’s golden tongue had commended Troilus for a copper nose.
+CRES.
+Then Troilus should have too much: if she prais’d him above, his complexion is higher than his. He having color enough, and the other higher, is too flaming a praise for a good complexion. I had as lief Helen’s golden tongue had commended Troilus for a copper nose.
 
-@PAN.
+PAN.
 I swear to you, I think Helen loves him better than Paris.
 
-@CRES.
+CRES.
 Then she’s a merry Greek indeed.
 
-@PAN.
+PAN.
 Nay, I am sure she does. She came to him th’ other day into the compass’d window—and you know he has not past three or four hairs on his chin—
 
-@CRES.
+CRES.
 Indeed a tapster’s arithmetic may soon bring his particulars therein to a total.
 
-@PAN.
+PAN.
 Why, he is very young, and yet will he, within three pound, lift as much as his brother Hector.
 
-@CRES.
+CRES.
 Is he so young a man and so old a lifter?
 
-@PAN.
+PAN.
 But to prove to you that Helen loves him: she came and puts me her white hand to his cloven chin—
 
-@CRES.
+CRES.
 Juno have mercy! How came it cloven?
 
-@PAN.
+PAN.
 Why, you know ’tis dimpled. I think his smiling becomes him better than any man in all Phrygia.
 
-@CRES.
+CRES.
 O, he smiles valiantly.
 
-@PAN.
+PAN.
 Does he not?
 
-@CRES.
+CRES.
 O yes, and ’twere a cloud in autumn.
 
-@PAN.
+PAN.
 Why, go to then. But to prove to you that Helen loves Troilus—
 
-@CRES.
+CRES.
 Troilus will stand to the proof, if you’ll prove it so.
 
-@PAN.
+PAN.
 Troilus! Why, he esteems her no more than I esteem an addle egg.
 
-@CRES.
+CRES.
 If you love an addle egg as well as you love an idle head, you would eat chickens i’ th’ shell.
 
-@PAN.
-I cannot choose but laugh to think how she tickled his chin. Indeed she has a marvell’s white hand, I must needs confess.
+PAN.
+I cannot choose but laugh to think how she tickled his chin. Indeed she has a marvel’s white hand, I must needs confess.
 
-@CRES.
+CRES.
 Without the rack.
 
-@PAN.
+PAN.
 And she takes upon her to spy a white hair on his chin.
 
-@CRES.
+CRES.
 Alas, poor chin! Many a wart is richer.
 
-@PAN.
+PAN.
 But there was such laughing! Queen Hecuba laugh’d that her eyes ran o’er.
 
-@CRES.
+CRES.
 With millstones.
 
-@PAN.
+PAN.
 And Cassandra laugh’d.
 
-@CRES.
+CRES.
 But there was a more temperate fire under the pot of her eyes. Did her eyes run o’er too?
 
-@PAN.
+PAN.
 And Hector laugh’d.
 
-@CRES.
+CRES.
 At what was all this laughing?
 
-@PAN.
+PAN.
 Marry, at the white hair that Helen spied on Troilus’ chin.
 
-@CRES.
+CRES.
 And’t had been a green hair, I should have laugh’d too.
 
-@PAN.
+PAN.
 They laugh’d not so much at the hair as at his pretty answer.
 
-@CRES.
+CRES.
 What was his answer?
 
-@PAN.
+PAN.
 Quoth she, “Here’s but two and fifty hairs on your chin—and one of them is white.”
 
-@CRES.
+CRES.
 This is her question.
 
-@PAN.
+PAN.
 That’s true, make no question of that. “Two and fifty hairs,” quoth he, “and one white. That white hair is my father, and all the rest are his sons.” “Jupiter,” quoth she, “which of these hairs is Paris my husband?” “The fork’d one,” quoth he, “pluck’t out, and give it him.” But there was such laughing! And Helen so blush’d, and Paris so chaf’d, and all the rest so laugh’d, that it pass’d.
 
-@CRES.
+CRES.
 So let it now, for it has been a great while going by.
 
-@PAN.
+PAN.
 Well, cousin, I told you a thing yesterday, think on’t.
 
-@CRES.
+CRES.
 So I do.
 
-@PAN.
+PAN.
 I’ll be sworn ’tis true; he will weep you an’ ’twere a man born in April.
 
-!Sound a retreat.
+Sound a retreat.
 
-@CRES.
+CRES.
 And I’ll spring up in his tears an’ ’twere a nettle against May.
 
-@PAN.
+PAN.
 Hark, they are coming from the field. Shall we stand up here and see them as they pass toward Ilion? Good niece, do, sweet niece Cressida.
 
-@CRES.
+CRES.
 At your pleasure.
 
-@PAN.
+PAN.
 Here, here, here’s an excellent place, here we may see most bravely. I’ll tell you them all by their names as they pass by, but mark Troilus above the rest.
 
-!Enter Aeneas and passes over the stage.
+Enter Aeneas and passes over the stage.
 
-@CRES.
+CRES.
 Speak not so loud.
 
-@PAN.
+PAN.
 That’s Aeneas; is not that a brave man? He’s one of the flowers of Troy, I can tell you. But mark Troilus; you shall see anon.
 
-@CRES.
+CRES.
 Who’s that?
 
-!Enter Antenor and passes over the stage.
+Enter Antenor and passes over the stage.
 
-@PAN.
-That’s Antenor. He has a shrowd wit, I can tell you, and he’s man good enough. He’s one o’ th’ soundest judgements in Troy, whosoever, and a proper man of person. When comes Troilus? I’ll show you Troilus anon. If he see me, you shall see him nod at me.
+PAN.
+That’s Antenor. He has a shrewd wit, I can tell you, and he’s man good enough. He’s one o’ th’ soundest judgements in Troy, whosoever, and a proper man of person. When comes Troilus? I’ll show you Troilus anon. If he see me, you shall see him nod at me.
 
-@CRES.
+CRES.
 Will he give you the nod?
 
-@PAN.
+PAN.
 You shall see.
 
-@CRES.
+CRES.
 If he do, the rich shall have more.
 
-!Enter Hector and passes over the stage.
+Enter Hector and passes over the stage.
 
-@PAN.
+PAN.
 That’s Hector, that, that, look you, that; there’s a fellow! Go thy way. Hector! There’s a brave man, niece. O brave Hector! Look how he looks! There’s a countenance! Is’t not a brave man?
 
-@CRES.
+CRES.
 O, a brave man!
 
-@PAN.
+PAN.
 Is ’a not? It does a man’s heart good. Look you what hacks are on his helmet! Look you yonder, do you see? Look you there, there’s no jesting; there’s laying on, take’t off who will, as they say. There be hacks!
 
-@CRES.
+CRES.
 Be those with swords?
 
-@PAN.
+PAN.
 Swords! Any thing, he cares not; and the devil come to him, it’s all one. By God’s lid, it does one’s heart good. Yonder comes Paris, yonder comes Paris.
-
-!Enter Paris and passes over the stage.
-
-@PAN. (CONT'D)
+(Enter Paris and passes over the stage.)
 Look ye yonder, niece; is’t not a gallant man too, is’t not? Why, this is brave now. Who said he came hurt home today? He’s not hurt. Why, this will do Helen’s heart good now, ha? Would I could see Troilus now! You shall see Troilus anon.
 
-@CRES.
+CRES.
 Who’s that?
 
-!Enter Helenus and passes over the stage.
+Enter Helenus and passes over the stage.
 
-@PAN.
+PAN.
 That’s Helenus. I marvel where Troilus is. That’s Helenus. I think he went not forth today. That’s Helenus.
 
-@CRES.
+CRES.
 Can Helenus fight, uncle?
 
-@PAN.
+PAN.
 Helenus? No. Yes, he’ll fight indifferent well. I marvel where Troilus is. Hark, do you not hear the people cry “Troilus”? Helenus is a priest.
 
-@CRES.
+CRES.
 What sneaking fellow comes yonder?
 
-!Enter Troilus and passes over the stage.
+Enter Troilus and passes over the stage.
 
-@PAN.
+PAN.
 Where? Yonder? That’s Deiphobus. ’Tis Troilus! There’s a man, niece! Hem! Brave Troilus, the prince of chivalry!
 
-@CRES.
+CRES.
 Peace, for shame, peace!
 
-@PAN.
+PAN.
 Mark him, note him. O brave Troilus! Look well upon him, niece. Look you how his sword is bloodied, and his helm more hack’d than Hector’s, and how he looks, and how he goes! O admirable youth! He never saw three and twenty. Go thy way, Troilus, go thy way! Had I a sister were a grace, or a daughter a goddess, he should take his choice. O admirable man! Paris? Paris is dirt to him, and I warrant Helen, to change, would give an eye to boot.
 
-!Enter Trojan Soldiers and pass over the stage.
+Enter Trojan Soldiers and pass over the stage.
 
-@CRES.
+CRES.
 Here comes more.
 
-@PAN.
+PAN.
 Asses, fools, dolts! Chaff and bran, chaff and bran! Porridge after meat! I could live and die in the eyes of Troilus. Ne’er look, ne’er look, the eagles are gone; crows and daws, crows and daws! I had rather be such a man as Troilus than Agamemnon and all Greece.
 
-@CRES.
+CRES.
 There is amongst the Greeks Achilles, a better man than Troilus.
 
-@PAN.
+PAN.
 Achilles! A drayman, a porter, a very camel.
 
-@CRES.
+CRES.
 Well, well,
 
-@PAN.
+PAN.
 Well, well! Why, have you any discretion? Have you any eyes? Do you know what a man is? Is not birth, beauty, good shape, discourse, manhood, learning, gentleness, virtue, youth, liberality, and suchlike, the spice and salt that season a man?
 
-@CRES.
+CRES.
 Ay, a minc’d man, and then to be bak’d with no date in the pie, for then the man’s date is out.
 
-@PAN.
+PAN.
 You are such a woman, a man knows not at what ward you lie.
 
-@CRES.
+CRES.
 Upon my back, to defend my belly, upon my wit, to defend my wiles, upon my secrecy, to defend mine honesty, my mask, to defend my beauty, and you, to defend all these; and at all these wards I lie, at a thousand watches.
 
-@PAN.
+PAN.
 Say one of your watches.
 
-@CRES.
+CRES.
 Nay, I’ll watch you for that; and that’s one of the chiefest of them too. If I cannot ward what I would not have hit, I can watch you for telling how I took the blow—unless it swell past hiding, and then it’s past watching.
 
-@PAN.
+PAN.
 You are such another!
 
-!Enter Troilus’ Boy.
+Enter Troilus’ Boy.
 
-@TRO. BOY.
+TRO. BOY.
 Sir, my lord would instantly speak with you.
 
-@PAN.
+PAN.
 Where?
 
-@TRO. BOY.
+TRO. BOY.
 At your own house, there he unarms him.
 
-@PAN.
+PAN.
 Good boy, tell him I come.
-
-!Exit Troilus’s Boy.
-
-@PAN. (CONT'D)
+(Exit Troilus’s Boy.)
 I doubt he be hurt. Fare ye well, good niece.
 
-@CRES.
-*Adieu* , uncle.
+CRES.
+Adieu, uncle.
 
-@PAN.
+PAN.
 I will be with you, niece, by and by.
 
-@CRES.
+CRES.
 To bring, uncle?
 
-@PAN.
+PAN.
 Ay, a token from Troilus.
 
-@CRES.
+CRES.
 By the same token, you are a bawd.
-
-!Exit Pandarus.
-
-@CRES. (CONT'D)
+(Exit Pandarus.)
 Words, vows, gifts, tears, and love’s full sacrifice,
 He offers in another’s enterprise,
 But more in Troilus thousandfold I see
@@ -757,15 +753,17 @@ Achievement is command; ungain’d, beseech;
 Then though my heart’s content firm love doth bear,
 Nothing of that shall from mine eyes appear.
 
-!Exit with Alexander.
+Exit with Alexander.
 
 
 ### Scene 3
-.THE GRECIAN CAMP. BEFORE AGAMEMNON’S TENT.
 
-!Sennet. Enter Agamemnon, Nestor, Ulysses, Diomedes, Menelaus, with others.
 
-@AGAM.
+The Grecian camp. Before Agamemnon’s tent.
+
+Sennet. Enter Agamemnon, Nestor, Ulysses, Diomedes, Menelaus, with others.
+
+AGAM.
 Princes:
 What grief hath set these jaundies o’er your cheeks?
 The ample proposition that hope makes
@@ -797,7 +795,7 @@ Puffing at all, winnows the light away,
 And what hath mass or matter, by itself
 Lies rich in virtue and unmingled.
 
-@NEST.
+NEST.
 With due observance of thy godlike seat,
 Great Agamemnon, Nestor shall apply
 Thy latest words. In the reproof of chance
@@ -823,7 +821,7 @@ As rous’d with rage, with rage doth sympathize,
 And with an accent tun’d in self-same key
 Retires to chiding fortune.
 
-@ULYSS.
+ULYSS.
 ^5 Agamemnon,
 Thou great commander, nerves and bone of Greece,
 Heart of our numbers, soul and only sprite
@@ -831,15 +829,9 @@ In whom the tempers and the minds of all
 Should be shut up, hear what Ulysses speaks.
 Besides th’ applause and approbation
 The which,
-
-!To Agamemnon.
-
-@ULYSS. (CONT'D)
+(To Agamemnon.)
 ^3 most mighty for thy place and sway,
-
-!To Nestor.
-
-@ULYSS. (CONT'D)
+(To Nestor.)
 And thou most reverend for thy stretch’d-out life,
 I give to both your speeches, which were such
 As Agamemnon and the hand of Greece
@@ -850,14 +842,14 @@ On which heaven rides, knit all the Greekish ears
 To his experienc’d tongue, yet let it please both,
 Thou great, and wise, to hear Ulysses speak.
 
-@AGAM.
+AGAM.
 Speak, prince of Ithaca, and be’t of less expect
 That matter needless, of importless burden,
 Divide thy lips, than we are confident,
 When rank Thersites opes his mastic jaws,
 We shall hear music, wit, and oracle.
 
-@ULYSS.
+ULYSS.
 Troy, yet upon his bases, had been down,
 And the great Hector’s sword had lack’d a master,
 But for these instances:
@@ -922,17 +914,17 @@ And ’tis this fever that keeps Troy on foot,
 Not her own sinews. To end a tale of length,
 Troy in our weakness stands, not in her strength.
 
-@NEST.
+NEST.
 Most wisely hath Ulysses here discover’d
 The fever whereof all our power is sick.
 
-@AGAM.
+AGAM.
 The nature of the sickness found, Ulysses,
 What is the remedy?
 
-@ULYSS.
+ULYSS.
 The great Achilles, whom opinion crowns
-The sinow and the forehand of our host,
+The sinew and the forehand of our host,
 Having his ear full of his airy fame,
 Grows dainty of his worth, and in his tent
 Lies mocking our designs. With him Patroclus
@@ -975,7 +967,7 @@ Excitements to the field, or speech for truce,
 Success or loss, what is or is not, serves
 As stuff for these two to make paradoxes.
 
-@NEST.
+NEST.
 And in the imitation of these twain—
 Who, as Ulysses says, opinion crowns
 With an imperial voice—many are infect.
@@ -989,7 +981,7 @@ To match us in comparisons with dirt,
 To weaken or discredit our exposure,
 How rank soever rounded in with danger.
 
-@ULYSS.
+ULYSS.
 They tax our policy, and call it cowardice,
 Count wisdom as no member of the war,
 Forestall prescience, and esteem no act
@@ -1005,47 +997,47 @@ They place before his hand that made the engine,
 Or those that with the fineness of their souls
 By reason guide his execution.
 
-@NEST.
+NEST.
 Let this be granted, and Achilles’ horse
 Makes many Thetis’ sons.
 
-!Tucket.
+Tucket.
 
-@AGAM.
+AGAM.
 What trumpet? Look, Menelaus.
 
-@MEN.
+MEN.
 From Troy.
 
-!Enter Aeneas and Trojan Trumpeter.
+Enter Aeneas and Trojan Trumpeter.
 
-@AGAM.
+AGAM.
 What would you ’fore our tent?
 
-@AENE.
+AENE.
 Is this great Agamemnon’s tent, I pray you?
 
-@AGAM.
+AGAM.
 Even this.
 
-@AENE.
+AENE.
 May one that is a herald and a prince
 Do a fair message to his kingly eyes?
 
-@AGAM.
+AGAM.
 With surety stronger than Achilles’ arm,
 ’Fore all the Greekish heads, which with one voice
 Call Agamemnon head and general.
 
-@AENE.
+AENE.
 Fair leave and large security. How may
 A stranger to those most imperial looks
 Know them from eyes of other mortals?
 
-@AGAM.
+AGAM.
 ^8 How?
 
-@AENE.
+AENE.
 Ay,
 I ask, that I might waken reverence,
 And bid the cheek be ready with a blush
@@ -1054,11 +1046,11 @@ The youthful Phoebus.
 Which is that god in office, guiding men?
 Which is the high and mighty Agamemnon?
 
-@AGAM.
+AGAM.
 This Troyan scorns us, or the men of Troy
 Are ceremonious courtiers.
 
-@AENE.
+AENE.
 Courtiers as free, as debonair, unarm’d,
 As bending angels; that’s their fame in peace.
 But when they would seem soldiers, they have galls,
@@ -1070,42 +1062,39 @@ If that the prais’d himself bring the praise forth;
 But what the repining enemy commends,
 That breath fame blows, that praise, sole pure, transcends.
 
-@AGAM.
+AGAM.
 Sir, you of Troy, call you yourself Aeneas?
 
-@AENE.
+AENE.
 Ay, Greek, that is my name.
 
-@AGAM.
+AGAM.
 What’s your affairs, I pray you?
 
-@AENE.
+AENE.
 Sir, pardon, ’tis for Agamemnon’s ears.
 
-@AGAM.
+AGAM.
 He hears nought privately that comes from Troy.
 
-@AENE.
+AENE.
 Nor I from Troy come not to whisper with him.
 I bring a trumpet to awake his ear,
 To set his sense on the attentive bent,
 And then to speak.
 
-@AGAM.
+AGAM.
 ^4 Speak frankly as the wind,
 It is not Agamemnon’s sleeping hour.
 That thou shalt know, Troyan, he is awake,
 He tells thee so himself.
 
-@AENE.
+AENE.
 ^5 Trumpet, blow loud,
 Send thy brass voice through all these lazy tents,
 And every Greek of mettle, let him know,
 What Troy means fairly shall be spoke aloud.
-
-!Sound trumpet.
-
-@AENE. (CONT'D)
+(Sound trumpet.)
 We have, great Agamemnon, here in Troy
 A prince call’d Hector—Priam is his father—
 Who in this dull and long-continued truce
@@ -1131,7 +1120,7 @@ If none, he’ll say in Troy when he retires,
 The Grecian dames are sunburnt, and not worth
 The splinter of a lance. Even so much.
 
-@AGAM.
+AGAM.
 This shall be told our lovers, Lord Aeneas.
 If none of them have soul in such a kind,
 We left them all at home. But we are soldiers,
@@ -1140,7 +1129,7 @@ That means not, hath not, or is not in love!
 If then one is, or hath, or means to be,
 That one meets Hector; if none else, I am he.
 
-@NEST.
+NEST.
 Tell him of Nestor, one that was a man
 When Hector’s grandsire suck’d. He is old now,
 But if there be not in our Grecian mould
@@ -1153,13 +1142,13 @@ Was fairer than his grandam, and as chaste
 As may be in the world. His youth in flood,
 I’ll prove this troth with my three drops of blood.
 
-@AENE.
+AENE.
 Now heavens forfend such scarcity of youth!
 
-@ULYSS.
+ULYSS.
 Amen.
 
-@AGAM.
+AGAM.
 Fair Lord Aeneas, let me touch your hand;
 To our pavilion shall I lead you, sir,
 Achilles shall have word of this intent,
@@ -1167,22 +1156,22 @@ So shall each lord of Greece, from tent to tent.
 Yourself shall feast with us before you go,
 And find the welcome of a noble foe.
 
-!Exeunt. Manent Ulysses and Nestor.
+Exeunt. Manent Ulysses and Nestor.
 
-@ULYSS.
+ULYSS.
 Nestor!
 
-@NEST.
+NEST.
 What says Ulysses?
 
-@ULYSS.
+ULYSS.
 I have a young conception in my brain,
 Be you my time to bring it to some shape.
 
-@NEST.
+NEST.
 What is’t?
 
-@ULYSS.
+ULYSS.
 This ’tis:
 Blunt wedges rive hard knots; the seeded pride
 That hath to this maturity blown up
@@ -1190,15 +1179,15 @@ In rank Achilles must or now be cropp’d,
 Or shedding, breed a nursery of like evil,
 To overbulk us all.
 
-@NEST.
+NEST.
 ^4 Well, and how?
 
-@ULYSS.
+ULYSS.
 This challenge that the gallant Hector sends,
 However it is spread in general name,
 Relates in purpose only to Achilles.
 
-@NEST.
+NEST.
 True, the purpose is perspicuous as substance,
 Whose grossness little characters sum up;
 And in the publication make no strain
@@ -1208,10 +1197,10 @@ As banks of Libya —though, Apollo knows,
 Ay, with celerity, find Hector’s purpose
 Pointing on him.
 
-@ULYSS.
+ULYSS.
 And wake him to the answer, think you?
 
-@NEST.
+NEST.
 Why, ’tis most meet; who may you else oppose
 That can from Hector bring those honors off,
 If not Achilles? Though’t be a sportful combat,
@@ -1237,7 +1226,7 @@ Which entertain’d, limbs are his instruments,
 In no less working than are swords and bows
 Directive by the limbs.
 
-@ULYSS.
+ULYSS.
 ^5 Give pardon to my speech:
 Therefore ’tis meet Achilles meet not Hector.
 Let us like merchants first show foul wares,
@@ -1248,10 +1237,10 @@ That ever Hector and Achilles meet,
 For both our honor and our shame in this
 Are dogg’d with two strange followers.
 
-@NEST.
+NEST.
 I see them not with my old eyes, what are they?
 
-@ULYSS.
+ULYSS.
 What glory our Achilles shares from Hector,
 Were he not proud, we all should share with him.
 But he already is too insolent;
@@ -1273,14 +1262,14 @@ That we have better men. But hit or miss,
 Our project’s life this shape of sense assumes:
 Ajax employ’d plucks down Achilles’ plumes.
 
-@NEST.
+NEST.
 Now, Ulysses, I begin to relish thy advice,
 And I will give a taste thereof forthwith
 To Agamemnon. Go we to him straight.
 Two curs shall tame each other; pride alone
 Must tarre the mastiffs on, as ’twere a bone.
 
-!Exeunt.
+Exeunt.
 
 
 
@@ -1288,267 +1277,271 @@ Must tarre the mastiffs on, as ’twere a bone.
 
 # Act 2
 ### Scene 1
-.A PART OF THE GRECIAN CAMP.
 
-!Enter Ajax and Thersites.
 
-@AJAX.
+A part of the Grecian camp.
+
+Enter Ajax and Thersites.
+
+AJAX.
 Thersites!
 
-@THER.
+THER.
 Agamemnon, how if he had biles—full, all over, generally?
 
-@AJAX.
+AJAX.
 Thersites!
 
-@THER.
+THER.
 And those biles did run—say so—did not the general run then? Were not that a botchy core?
 
-@AJAX.
+AJAX.
 Dog!
 
-@THER.
+THER.
 Then would come some matter from him; I see none now.
 
-@AJAX.
+AJAX.
 Thou bitch-wolf’s son, canst thou not hear? Feel then.
 
-!Strikes him.
+Strikes him.
 
-@THER.
+THER.
 The plague of Greece upon thee, thou mongrel beef-witted lord!
 
-@AJAX.
+AJAX.
 Speak then, thou whinid’st leaven, speak; I will beat thee into handsomeness.
 
-@THER.
+THER.
 I shall sooner rail thee into wit and holiness, but I think thy horse will sooner con an oration without book than thou learn a prayer without book. Thou canst strike, canst thou? A red murrain a’ thy jade’s tricks!
 
-@AJAX.
+AJAX.
 Toadstool! Learn me the proclamation.
 
-@THER.
+THER.
 Dost thou think I have no sense, thou strikest me thus?
 
-@AJAX.
+AJAX.
 The proclamation!
 
-@THER.
+THER.
 Thou art proclaim’d fool, I think.
 
-@AJAX.
+AJAX.
 Do not, porpentine, do not, my fingers itch.
 
-@THER.
+THER.
 I would thou didst itch from head to foot; and I had the scratching of thee, I would make thee the loathsomest scab in Greece. When thou art forth in the incursions, thou strikest as slow as another.
 
-@AJAX.
+AJAX.
 I say, the proclamation!
 
-@THER.
+THER.
 Thou grumblest and railest every hour on Achilles, and thou art as full of envy at his greatness as Cerberus is at Proserpina’s beauty, ay, that thou bark’st at him.
 
-@AJAX.
+AJAX.
 Mistress Thersites!
 
-@THER.
+THER.
 Thou shouldst strike him.
 
-@AJAX.
+AJAX.
 Cobloaf!
 
-@THER.
+THER.
 He would pun thee into shivers with his fist, as a sailor breaks a biscuit.
 
-@AJAX.
+AJAX.
 (Beating him.)
 You whoreson cur!
 
-@THER.
+THER.
 Do! Do! Thou stool for a witch! Ay, do! Do! Thou sodden-witted lord! Thou hast no more brain than I have in mine elbows, an asinico may tutor thee. You scurvy valiant ass! Thou art here but to thrash Troyans, and thou art bought and sold among those of any wit, like a barbarian slave. If thou use to beat me, I will begin at thy heel, and tell what thou art by inches, thou thing of no bowels, thou!
 
-@AJAX.
+AJAX.
 You dog!
 
-@THER.
+THER.
 You scurvy lord!
 
-@AJAX.
+AJAX.
 (Beating him.)
 You cur!
 
-@THER.
+THER.
 Mars his idiot! Do, rudeness, do, camel, do, do.
 
-!Enter Achilles and Patroclus.
+Enter Achilles and Patroclus.
 
-@ACHIL.
+ACHIL.
 Why, how now, Ajax, wherefore do ye thus?
 How now, Thersites, what’s the matter, man?
 
-@THER.
+THER.
 You see him there? Do you?
 
-@ACHIL.
+ACHIL.
 Ay, what’s the matter?
 
-@THER.
+THER.
 Nay, look upon him.
 
-@ACHIL.
+ACHIL.
 So I do. What’s the matter?
 
-@THER.
+THER.
 Nay, but regard him well.
 
-@ACHIL.
+ACHIL.
 Well? Why, so I do.
 
-@THER.
+THER.
 But yet you look not well upon him, for whosomever you take him to be, he is Ajax.
 
-@ACHIL.
+ACHIL.
 I know that, fool.
 
-@THER.
+THER.
 Ay, but that fool knows not himself.
 
-@AJAX.
+AJAX.
 Therefore I beat thee.
 
-@THER.
+THER.
 Lo, lo, lo, lo, what modicums of wit he utters! His evasions have ears thus long. I have bobb’d his brain more than he has beat my bones. I will buy nine sparrows for a penny, and his pia mater is not worth the ninth part of a sparrow. This lord, Achilles, Ajax, who wears his wit in his belly and his guts in his head, I’ll tell you what I say of him.
 
-@ACHIL.
+ACHIL.
 What?
 
-@THER.
+THER.
 I say, this Ajax—
 
-!Ajax offers to strike him.
+Ajax offers to strike him.
 
-@ACHIL.
+ACHIL.
 Nay, good Ajax.
 
-@THER.
+THER.
 Has not so much wit—
 
-@ACHIL.
+ACHIL.
 Nay, I must hold you.
 
-@THER.
+THER.
 As will stop the eye of Helen’s needle, for whom he comes to fight.
 
-@ACHIL.
+ACHIL.
 Peace, fool!
 
-@THER.
+THER.
 I would have peace and quietness, but the fool will not—he there, that he! Look you there.
 
-@AJAX.
+AJAX.
 O thou damn’d cur! I shall—
 
-@ACHIL.
+ACHIL.
 Will you set your wit to a fool’s?
 
-@THER.
+THER.
 No, I warrant you, the fool’s will shame it.
 
-@PATR.
+PATR.
 Good words, Thersites.
 
-@ACHIL.
+ACHIL.
 What’s the quarrel?
 
-@AJAX.
+AJAX.
 I bade the vile owl go learn me the tenor of the proclamation, and he rails upon me.
 
-@THER.
+THER.
 I serve thee not.
 
-@AJAX.
+AJAX.
 Well, go to, go to.
 
-@THER.
+THER.
 I serve here voluntary.
 
-@ACHIL.
+ACHIL.
 Your last service was suff’rance, ’twas not voluntary; no man is beaten voluntary. Ajax was here the voluntary, and you as under an impress.
 
-@THER.
+THER.
 E’en so; a great deal of your wit, too, lies in your sinews, or else there be liars. Hector shall have a great catch, and ’a knock out either of your brains; ’a were as good crack a fusty nut with no kernel.
 
-@ACHIL.
+ACHIL.
 What, with me too, Thersites?
 
-@THER.
-There’s Ulysses and old Nestor, whose wit was mouldy ere your grandsires had nails on their toes, yoke you like draught-oxen, and make you plough up the wars.
+THER.
+There’s Ulysses and old Nestor, whose wit was moldy ere your grandsires had nails on their toes, yoke you like draught-oxen, and make you plough up the wars.
 
-@ACHIL.
+ACHIL.
 What? What?
 
-@THER.
+THER.
 Yes, good sooth. To, Achilles! To, Ajax! To—
 
-@AJAX.
+AJAX.
 I shall cut out your tongue.
 
-@THER.
+THER.
 ’Tis no matter, I shall speak as much as thou afterwards.
 
-@PATR.
+PATR.
 No more words, Thersites, peace!
 
-@THER.
+THER.
 I will hold my peace when Achilles’ brach bids me, shall I?
 
-@ACHIL.
+ACHIL.
 There’s for you, Patroclus.
 
-@THER.
+THER.
 I will see you hang’d like clatpoles ere I come any more to your tents. I will keep where there is wit stirring, and leave the faction of fools.
 
-!Exit.
+Exit.
 
-@PATR.
+PATR.
 A good riddance.
 
-@ACHIL.
+ACHIL.
 Marry, this, sir, is proclaim’d through all our host:
-That Hector, by the fift hour of the sun,
+That Hector, by the fifth hour of the sun,
 Will with a trumpet ’twixt our tents and Troy
 Tomorrow morning call some knight to arms
 That hath a stomach, and such a one that dare
 Maintain—I know not what, ’tis trash. Farewell.
 
-@AJAX.
+AJAX.
 Farewell. Who shall answer him?
 
-@ACHIL.
+ACHIL.
 I know not, ’tis put to lott’ry. Otherwise,
 He knew his man.
 
-@AJAX.
+AJAX.
 O, meaning you? I will go learn more of it.
 
-!Exeunt.
+Exeunt.
 
 
 ### Scene 2
-.TROY. A ROOM IN PRIAM’S PALACE.
 
-!Enter Priam, Hector, Troilus, Paris, and Helenus.
 
-@PRI.
+Troy. A room in Priam’s palace.
+
+Enter Priam, Hector, Troilus, Paris, and Helenus.
+
+PRI.
 After so many hours, lives, speeches spent,
 Thus once again says Nestor from the Greeks;
 “Deliver Helen, and all damage else—
 As honor, loss of time, travail, expense,
 Wounds, friends, and what else dear that is consum’d
 In hot digestion of this cormorant war—
-Shall be strook off.” Hector, what say you to’t?
+Shall be struck off.” Hector, what say you to’t?
 
-@HECT.
+HECT.
 Though no man lesser fears the Greeks than I
 As far as toucheth my particular,
 Yet, dread Priam,
@@ -1568,7 +1561,7 @@ To guard a thing not ours nor worth to us
 What merit’s in that reason which denies
 The yielding of her up?
 
-@TRO.
+TRO.
 ^5 Fie, fie, my brother!
 Weigh you the worth and honor of a king
 So great as our dread father’s in a scale
@@ -1578,13 +1571,13 @@ And buckle in a waist most fathomless
 With spans and inches so diminutive
 As fears and reasons? Fie, for godly shame!
 
-@HEL.
+HEL.
 No marvel though you bite so sharp at reasons,
 You are so empty of them. Should not our father
 Bear the great sway of his affairs with reason,
 Because your speech hath none that tell him so?
 
-@TRO.
+TRO.
 You are for dreams and slumbers, brother priest,
 You fur your gloves with reason. Here are your reasons:
 You know an enemy intends you harm;
@@ -1600,14 +1593,14 @@ Should have hare hearts, would they but fat their thoughts
 With this cramm’d reason; reason and respect
 Make livers pale and lustihood deject.
 
-@HECT.
+HECT.
 Brother, she is not worth what she doth cost
 The keeping.
 
-@TRO.
+TRO.
 ^3 What’s aught but as ’tis valued?
 
-@HECT.
+HECT.
 But value dwells not in particular will,
 It holds his estimate and dignity
 As well wherein ’tis precious of itself
@@ -1617,7 +1610,7 @@ And the will dotes that is attributive
 To what infectiously itself affects,
 Without some image of th’ affected merit.
 
-@TRO.
+TRO.
 I take today a wife, and my election
 Is led on in the conduct of my will,
 My will enkindled by mine eyes and ears,
@@ -1655,33 +1648,33 @@ But thieves unworthy of a thing so stol’n,
 That in their country did them that disgrace
 We fear to warrant in our native place!
 
-@CAS.
+CAS.
 (Within.)
 Cry, Troyans, cry!
 
-@PRI.
+PRI.
 ^4 What noise? What shrike is this?
 
-@TRO.
+TRO.
 ’Tis our mad sister, I do know her voice.
 
-@CAS.
+CAS.
 (Within.)
 Cry, Troyans!
 
-@HECT.
+HECT.
 It is Cassandra.
 
-!Enter Cassandra raving with her hair about her ears.
+Enter Cassandra raving with her hair about her ears.
 
-@CAS.
+CAS.
 Cry, Troyans, cry! Lend me ten thousand eyes,
 And I will fill them with prophetic tears.
 
-@HECT.
+HECT.
 Peace, sister, peace!
 
-@CAS.
+CAS.
 Virgins and boys, mid-age and wrinkled eld,
 Soft infancy, that nothing canst but cry,
 Add to my clamors! Let us pay betimes
@@ -1692,9 +1685,9 @@ Our fire-brand brother Paris burns us all.
 Cry, Troyans, cry! A Helen and a woe!
 Cry, cry! Troy burns, or else let Helen go.
 
-!Exit.
+Exit.
 
-@HECT.
+HECT.
 Now, youthful Troilus, do not these high strains
 Of divination in our sister work
 Some touches of remorse? Or is your blood
@@ -1702,7 +1695,7 @@ So madly hot that no discourse of reason,
 Nor fear of bad success in a bad cause,
 Can qualify the same?
 
-@TRO.
+TRO.
 ^4 Why, brother Hector,
 We may not think the justness of each act
 Such and no other than event doth form it,
@@ -1716,7 +1709,7 @@ And Jove forbid there should be done amongst us
 Such things as might offend the weakest spleen
 To fight for and maintain.
 
-@PAR.
+PAR.
 Else might the world convince of levity
 As well my undertakings as your counsels,
 But I attest the gods, your full consent
@@ -1731,13 +1724,13 @@ And had as ample power as I have will,
 Paris should ne’er retract what he hath done,
 Nor faint in the pursuit.
 
-@PRI.
+PRI.
 ^5 Paris, you speak
 Like one besotted on your sweet delights.
 You have the honey still, but these the gall;
 So to be valiant, is no praise at all.
 
-@PAR.
+PAR.
 Sir, I propose not merely to myself
 The pleasures such a beauty brings with it,
 But I would have the soil of her fair rape
@@ -1756,7 +1749,7 @@ Where Helen is the subject. Then I say,
 Well may we fight for her whom we know well
 The world’s large spaces cannot parallel.
 
-@HECT.
+HECT.
 Paris and Troilus, you have both said well,
 And on the cause and question now in hand
 Have gloz’d, but superficially, not much
@@ -1789,7 +1782,7 @@ In resolution to keep Helen still,
 For ’tis a cause that hath no mean dependance
 Upon our joint and several dignities.
 
-@TRO.
+TRO.
 Why, there you touch’d the life of our design!
 Were it not glory that we more affected
 Than the performance of our heaving spleens,
@@ -1804,7 +1797,7 @@ So rich advantage of a promis’d glory
 As smiles upon the forehead of this action
 For the wide world’s revenue.
 
-@HECT.
+HECT.
 ^6 I am yours,
 You valiant offspring of great Priamus.
 I have a roisting challenge sent amongst
@@ -1814,110 +1807,109 @@ I was advertis’d their great general slept,
 Whilst emulation in the army crept:
 This I presume will wake him.
 
-!Exeunt.
+Exeunt.
 
 
 ### Scene 3
-.THE GRECIAN CAMP. BEFORE ACHILLES’ TENT.
 
-!Enter Thersites solus.
 
-@THER.
+The Grecian camp. Before Achilles’ tent.
+
+Enter Thersites solus.
+
+THER.
 How now, Thersites? What, lost in the labyrinth of thy fury? Shall the elephant Ajax carry it thus? He beats me, and I rail at him. O worthy satisfaction! Would it were otherwise: that I could beat him, whilst he rail’d at me. ’Sfoot, I’ll learn to conjure and raise devils, but I’ll see some issue of my spiteful execrations. Then there’s Achilles, a rare enginer! If Troy be not taken till these two undermine it, the walls will stand till they fall of themselves. O thou great thunder-darter of Olympus, forget that thou art Jove, the king of gods, and, Mercury, lose all the serpentine craft of thy caduceus, if ye take not that little little less than little wit from them that they have, which short-arm’d ignorance itself knows is so abundant scarce, it will not in circumvention deliver a fly from a spider, without drawing their massy irons and cutting the web! After this, the vengeance on the whole camp! Or rather, the Neapolitan bone-ache! For that methinks is the curse depending on those that war for a placket. I have said my prayers, and devil Envy say amen. What ho! My Lord Achilles!
 
-@PATR.
+PATR.
 (Within.)
 Who’s there? Thersites? Good Thersites, come in and rail.
 
-@THER.
+THER.
 If I could ’a’ rememb’red a gilt counterfeit, thou wouldst not have slipp’d out of my contemplation. But it is no matter, thyself upon thyself! The common curse of mankind, folly and ignorance, be thine in great revenue! Heaven bless thee from a tutor, and discipline come not near thee! Lee thy blood be thy direction till thy death; then if she that lays thee out says thou art a fair corse, I’ll be sworn and sworn upon’t she never shrouded any but lazars. Amen.
-
-!Enter Patroclus.
-
-@THER. (CONT'D)
+(Enter Patroclus.)
 Where’s Achilles?
 
-@PATR.
+PATR.
 What, art thou devout? Wast thou in prayer?
 
-@THER.
+THER.
 Ay, the heavens hear me!
 
-@PATR.
+PATR.
 Amen.
 
-!Enter Achilles.
+Enter Achilles.
 
-@ACHIL.
+ACHIL.
 Who’s there?
 
-@PATR.
+PATR.
 Thersites, my lord.
 
-@ACHIL.
+ACHIL.
 Where? Where? O, where? Art thou come? Why, my cheese, my digestion, why hast thou not serv’d thyself in to my table so many meals? Come, what’s Agamemnon?
 
-@THER.
+THER.
 Thy commander, Achilles. Then tell me, Patroclus, what’s Achilles?
 
-@PATR.
+PATR.
 Thy lord, Thersites. Then tell me, I pray thee, what’s Thersites?
 
-@THER.
+THER.
 Thy knower, Patroclus. Then tell me, Patroclus, what art thou?
 
-@PATR.
+PATR.
 Thou must tell that knowest.
 
-@ACHIL.
+ACHIL.
 O, tell, tell.
 
-@THER.
+THER.
 I’ll decline the whole question: Agamemnon commands Achilles, Achilles is my lord, I am Patroclus’ knower, and Patroclus is a fool.
 
-@PATR.
+PATR.
 You rascal!
 
-@THER.
+THER.
 Peace, fool, I have not done.
 
-@ACHIL.
+ACHIL.
 He is a privileg’d man. Proceed, Thersites.
 
-@THER.
+THER.
 Agamemnon is a fool, Achilles is a fool, Thersites is a fool, and, as aforesaid, Patroclus is a fool.
 
-@ACHIL.
+ACHIL.
 Derive this; come.
 
-@THER.
+THER.
 Agamemnon is a fool to offer to command Achilles, Achilles is a fool to be commanded of Agamemnon, Thersites is a fool to serve such a fool, and this Patroclus is a fool positive.
 
-@PATR.
+PATR.
 Why am I a fool?
 
-@THER.
+THER.
 Make that demand of the prover, it suffices me thou art. Look you, who comes here?
 
-!Enter Agamemnon, Ulysses, Nestor, Diomedes, Ajax, and Calchas.
+Enter Agamemnon, Ulysses, Nestor, Diomedes, Ajax, and Calchas.
 
-@ACHIL.
+ACHIL.
 Come, Patroclus, I’ll speak with nobody. Come in with me, Thersites.
 
-!Exit.
+Exit.
 
-@THER.
+THER.
 Here is such patchery, such juggling, and such knavery! All the argument is a whore and a cuckold, a good quarrel to draw emulous factions and bleed to death upon. Now the dry suppeago on the subject, and war and lechery confound all!
 
-!Exit.
+Exit.
 
-@AGAM.
+AGAM.
 Where is Achilles?
 
-@PATR.
+PATR.
 Within his tent, but ill dispos’d, my lord.
 
-@AGAM.
+AGAM.
 Let it be known to him that we are here.
 He shent our messengers, and we lay by
 Our appertainings, visiting of him.
@@ -1925,64 +1917,61 @@ Let him be told so, lest perchance he think
 We dare not move the question of our place,
 Or know not what we are.
 
-@PATR.
+PATR.
 ^5 I shall say so to him.
 
-!Exit.
+Exit.
 
-@ULYSS.
+ULYSS.
 We saw him at the opening of his tent,
 He is not sick.
 
-@AJAX.
+AJAX.
 Yes, lion-sick, sick of proud heart. You may call it melancholy, if you will favor the man; but by my head, ’tis pride. But why, why? Let him show us a cause. A word, my lord.
 
-!Takes Agamemnon aside.
+Takes Agamemnon aside.
 
-@NEST.
+NEST.
 What moves Ajax thus to bay at him?
 
-@ULYSS.
+ULYSS.
 Achilles hath inveigled his fool from him.
 
-@NEST.
+NEST.
 Who, Thersites?
 
-@ULYSS.
+ULYSS.
 He.
 
-@NEST.
+NEST.
 Then will Ajax lack matter, if he have lost his argument.
 
-@ULYSS.
+ULYSS.
 No, you see he is his argument that has his argument, Achilles.
 
-@NEST.
+NEST.
 All the better, their fraction is more our wish than their faction. But it was a strong composure a fool could disunite.
 
-@ULYSS.
+ULYSS.
 The amity that wisdom knits not, folly may easily untie.
-
-!Enter Patroclus.
-
-@ULYSS. (CONT'D)
+(Enter Patroclus.)
 Here comes Patroclus.
 
-@NEST.
+NEST.
 No Achilles with him.
 
-@ULYSS.
+ULYSS.
 The elephant hath joints, but none for courtesy; his legs are legs for necessity, not for flexure.
 
-@PATR.
+PATR.
 Achilles bids me say he is much sorry,
 If any thing more than your sport and pleasure
 Did move your greatness and this noble state
 To call upon him. He hopes it is no other
-But for your health and your disgestion sake,
+But for your health and your digestion sake,
 An after-dinner’s breath.
 
-@AGAM.
+AGAM.
 ^5 Hear you, Patroclus:
 We are too well acquainted with these answers,
 But his evasion, wing’d thus swift with scorn,
@@ -2011,67 +2000,67 @@ Not portable, lie under this report:
 A stirring dwarf we do allowance give
 Before a sleeping giant. Tell him so.
 
-@PATR.
+PATR.
 I shall, and bring his answer presently.
 
-!Exit.
+Exit.
 
-@AGAM.
+AGAM.
 In second voice we’ll not be satisfied,
 We come to speak with him. Ulysses, enter you.
 
-!Exit Ulysses.
+Exit Ulysses.
 
-@AJAX.
+AJAX.
 What is he more than another?
 
-@AGAM.
+AGAM.
 No more than what he thinks he is.
 
-@AJAX.
+AJAX.
 Is he so much? Do you not think he thinks himself a better man than I am?
 
-@AGAM.
+AGAM.
 No question.
 
-@AJAX.
+AJAX.
 Will you subscribe his thought, and say he is?
 
-@AGAM.
+AGAM.
 No, noble Ajax, you are as strong, as valiant, as wise, no less noble, much more gentle, and altogether more tractable.
 
-@AJAX.
+AJAX.
 Why should a man be proud? How doth pride grow? I know not what pride is.
 
-@AGAM.
+AGAM.
 Your mind is the clearer, Ajax, and your virtues the fairer. He that is proud eats up himself. Pride is his own glass, his own trumpet, his own chronicle, and whatever praises itself but in the deed, devours the deed in the praise.
 
-!Enter Ulysses.
+Enter Ulysses.
 
-@AJAX.
+AJAX.
 I do hate a proud man, as I do hate the engend’ring of toads.
 
-@NEST.
+NEST.
 (Aside.)
 And yet he loves himself. Is’t not strange?
 
-@ULYSS.
+ULYSS.
 Achilles will not to the field tomorrow.
 
-@AGAM.
+AGAM.
 What’s his excuse?
 
-@ULYSS.
+ULYSS.
 ^4 He doth rely on none,
 But carries on the stream of his dispose
 Without observance or respect of any,
 In will peculiar and in self-admission.
 
-@AGAM.
+AGAM.
 Why will he not upon our fair request
 Untent his person and share th’ air with us?
 
-@ULYSS.
+ULYSS.
 Things small as nothing, for request’s sake only,
 He makes important. Possess’d he is with greatness,
 And speaks not to himself but with a pride
@@ -2083,13 +2072,13 @@ And batters down himself. What should I say?
 He is so plaguy proud that the death-tokens of it
 Cry “No recovery.”
 
-@AGAM.
+AGAM.
 ^4 Let Ajax go to him.
 Dear lord, go you and greet him in his tent.
 ’Tis said he holds you well, and will be led
 At your request a little from himself.
 
-@ULYSS.
+ULYSS.
 O Agamemnon, let it not be so!
 We’ll consecrate the steps that Ajax makes
 When they go from Achilles. Shall the proud lord
@@ -2109,113 +2098,113 @@ With entertaining great Hyperion.
 This lord go to him! Jupiter forbid,
 And say in thunder, “Achilles go to him.”
 
-@NEST.
+NEST.
 (Aside to Diomedes)
 O, this is well. He rubs the vein of him.
 
-@DIO.
+DIO.
 (Aside to Nestor)
 And how his silence drinks up his applause!
 
-@AJAX.
+AJAX.
 If I go to him, with my armed fist
 I’ll pash him o’er the face.
 
-@AGAM.
+AGAM.
 O no, you shall not go.
 
-@AJAX.
+AJAX.
 And he be proud with me, I’ll pheese his pride.
 Let me go to him.
 
-@ULYSS.
+ULYSS.
 Not for the worth that hangs upon our quarrel.
 
-@AJAX.
+AJAX.
 A paltry, insolent fellow!
 
-@NEST.
+NEST.
 (Aside.)
 How he describes himself!
 
-@AJAX.
+AJAX.
 Can he not be sociable?
 
-@ULYSS.
+ULYSS.
 (Aside.)
 The raven chides blackness.
 
-@AJAX.
+AJAX.
 I’ll let his humors blood.
 
-@AGAM.
+AGAM.
 (Aside.)
 He will be the physician that should be the patient.
 
-@AJAX.
+AJAX.
 And all men were of my mind—
 
-@ULYSS.
+ULYSS.
 (Aside.)
 Wit would be out of fashion.
 
-@AJAX.
+AJAX.
 ’A should not bear it so, ’a should eat swords first. Shall pride carry it?
 
-@NEST.
+NEST.
 (Aside.)
 And ’twould, you’d carry half.
 
-@ULYSS.
+ULYSS.
 (Aside.)
 ’A would have ten shares. I will knead him, I’ll make him supple. He’s not yet through warm.
 
-@NEST.
+NEST.
 (Aside.)
 Force him with praises—pour in, pour in, his ambition is dry.
 
-@ULYSS.
+ULYSS.
 (To Agamemnon.)
 My lord, you feed too much on this dislike.
 
-@NEST.
+NEST.
 Our noble general, do not do so.
 
-@DIO.
+DIO.
 You must prepare to fight without Achilles.
 
-@ULYSS.
+ULYSS.
 Why, ’tis this naming of him does him harm.
 Here is a man—but ’tis before his face,
 I will be silent.
 
-@NEST.
+NEST.
 ^3 Wherefore should you so?
 He is not emulous, as Achilles is.
 
-@ULYSS.
+ULYSS.
 Know the whole world, he is as valiant—
 
-@AJAX.
+AJAX.
 A whoreson dog, that shall palter with us thus!
 Would he were a Troyan!
 
-@NEST.
+NEST.
 What a vice were it in Ajax now—
 
-@ULYSS.
+ULYSS.
 If he were proud—
 
-@DIO.
+DIO.
 Or covetous of praise—
 
-@ULYSS.
+ULYSS.
 Ay, or surly borne—
 
-@DIO.
+DIO.
 Or strange, or self-affected!
 
-@ULYSS.
+ULYSS.
 Thank the heavens, lord, thou art of sweet composure.
 Praise him that gat thee, she that gave thee suck;
 Fam’d be thy tutor, and thy parts of nature
@@ -2234,16 +2223,16 @@ As green as Ajax’, and your brain so temper’d,
 You should not have the eminence of him,
 But be as Ajax.
 
-@AJAX.
+AJAX.
 ^3 Shall I call you father?
 
-@NEST.
+NEST.
 Ay, my good son.
 
-@DIO.
+DIO.
 ^4 Be rul’d by him, Lord Ajax.
 
-@ULYSS.
+ULYSS.
 There is no tarrying here, the hart Achilles
 Keeps thicket. Please it our great general
 To call together all his state of war.
@@ -2252,11 +2241,11 @@ We must with all our main of power stand fast;
 And here’s a lord—come knights from east to west,
 And cull their flower, Ajax shall cope the best.
 
-@AGAM.
+AGAM.
 Go we to council. Let Achilles sleep:
 Light boats sail swift, though greater hulks draw deep.
 
-!Exeunt.
+Exeunt.
 
 
 
@@ -2264,222 +2253,221 @@ Light boats sail swift, though greater hulks draw deep.
 
 # Act 3
 ### Scene 1
-.TROY. PRIAM’S PALACE.
 
-!Music sounds within. Enter Pandarus and Paris’s Servant.
 
-@PAN.
+Troy. Priam’s palace.
+
+Music sounds within. Enter Pandarus and Paris’s Servant.
+
+PAN.
 Friend, you! Pray you a word. Do you not follow the young Lord Paris?
 
-@PAR. SERV.
+PAR. SERV.
 Ay, sir, when he goes before me.
 
-@PAN.
+PAN.
 You depend upon him, I mean.
 
-@PAR. SERV.
+PAR. SERV.
 Sir, I do depend upon the Lord.
 
-@PAN.
+PAN.
 You depend upon a notable gentleman; I must needs praise him.
 
-@PAR. SERV.
+PAR. SERV.
 The Lord be prais’d!
 
-@PAN.
+PAN.
 You know me, do you not?
 
-@PAR. SERV.
+PAR. SERV.
 Faith, sir, superficially.
 
-@PAN.
+PAN.
 Friend, know me better, I am the Lord Pandarus.
 
-@PAR. SERV.
+PAR. SERV.
 I hope I shall know your honor better!
 
-@PAN.
+PAN.
 I do desire it.
 
-@PAR. SERV.
+PAR. SERV.
 You are in the state of grace.
 
-@PAN.
+PAN.
 Grace? Not so, friend, honor and lordship are my titles. What music is this?
 
-@PAR. SERV.
+PAR. SERV.
 I do but partly know, sir, it is music in parts.
 
-@PAN.
+PAN.
 Know you the musicians?
 
-@PAR. SERV.
+PAR. SERV.
 Wholly, sir.
 
-@PAN.
+PAN.
 Who play they to?
 
-@PAR. SERV.
+PAR. SERV.
 To the hearers, sir.
 
-@PAN.
+PAN.
 At whose pleasure, friend?
 
-@PAR. SERV.
+PAR. SERV.
 At mine, sir, and theirs that love music.
 
-@PAN.
+PAN.
 Command, I mean, friend.
 
-@PAR. SERV.
+PAR. SERV.
 Who shall I command, sir?
 
-@PAN.
+PAN.
 Friend, we understand not one another; I am too courtly and thou too cunning. At whose request do these men play?
 
-@PAR. SERV.
+PAR. SERV.
 That’s to’t indeed, sir. Marry, sir, at the request of Paris my lord, who is there in person; with him, the mortal Venus, the heart-blood of beauty, love’s invisible soul.
 
-@PAN.
+PAN.
 Who? My cousin Cressida?
 
-@PAR. SERV.
+PAR. SERV.
 No, sir, Helen. Could not you find out that by her attributes?
 
-@PAN.
+PAN.
 It should seem, fellow, thou hast not seen the Lady Cressid. I come to speak with Paris from the Prince Troilus. I will make a complimental assault upon him, for my business seethes.
 
-@PAR. SERV.
+PAR. SERV.
 Sodden business! There’s a stew’d phrase indeed!
 
-!Enter Paris and Helen attended.
+Enter Paris and Helen attended.
 
-@PAN.
+PAN.
 Fair be to you, my lord, and to all this fair company! Fair desires, in all fair measure, fairly guide them! Especially to you, fair queen, fair thoughts be your fair pillow!
 
-@HELEN.
+HELEN.
 Dear lord, you are full of fair words.
 
-@PAN.
+PAN.
 You speak your fair pleasure, sweet queen. Fair prince, here is good broken music.
 
-@PAR.
+PAR.
 You have broke it, cousin; and by my life you shall make it whole again—you shall piece it out with a piece of your performance. Nell, he is full of harmony.
 
-@PAN.
+PAN.
 Truly, lady, no.
 
-@HELEN.
+HELEN.
 O sir—
 
-@PAN.
+PAN.
 Rude, in sooth, in good sooth, very rude.
 
-@PAR.
+PAR.
 Well said, my lord, well, you say so in fits.
 
-@PAN.
+PAN.
 I have business to my lord, dear queen. My lord, will you vouchsafe me a word?
 
-@HELEN.
+HELEN.
 Nay, this shall not hedge us out, we’ll hear you sing, certainly.
 
-@PAN.
+PAN.
 Well, sweet queen, you are pleasant with me. But marry thus, my lord: my dear lord and most esteem’d friend, your brother Troilus—
 
-@HELEN.
+HELEN.
 My Lord Pandarus, honey-sweet lord—
 
-@PAN.
+PAN.
 Go to, sweet queen, go to—commends himself most affectionately to you—
 
-@HELEN.
+HELEN.
 You shall not bob us out of our melody. If you do, our melancholy upon your head!
 
-@PAN.
+PAN.
 Sweet queen, sweet queen, that’s a sweet queen—i’ faith—
 
-@HELEN.
+HELEN.
 And to make a sweet lady sad is a sour offense.
 
-@PAN.
+PAN.
 Nay, that shall not serve your turn, that shall it not, in truth la! Nay, I care not for such words, no, no. And, my lord, he desires you, that if the King call for him at supper, you will make his excuse.
 
-@HELEN.
+HELEN.
 My Lord Pandarus—
 
-@PAN.
+PAN.
 What says my sweet queen, my very very sweet queen?
 
-@PAR.
+PAR.
 What exploit’s in hand? Where sups he tonight?
 
-@HELEN.
+HELEN.
 Nay, but, my lord—
 
-@PAN.
+PAN.
 What says my sweet queen? My cousin will fall out with you.
 
-@HELEN.
+HELEN.
 You must not know where he sups.
 
-@PAR.
+PAR.
 I’ll lay my life, with my disposer Cressida.
 
-@PAN.
+PAN.
 No, no! No such matter, you are wide. Come, your disposer is sick.
 
-@PAR.
+PAR.
 Well, I’ll make ’s excuse.
 
-@PAN.
+PAN.
 Ay, good my lord. Why should you say Cressida? No, your poor disposer’s sick.
 
-@PAR.
+PAR.
 I spy!
 
-@PAN.
+PAN.
 You spy? What do you spy?—Come, give me an instrument.—Now, sweet queen.
 
-@HELEN.
+HELEN.
 Why, this is kindly done.
 
-@PAN.
+PAN.
 My niece is horribly in love with a thing you have, sweet queen.
 
-@HELEN.
+HELEN.
 She shall have it, my lord, if it be not my Lord Paris.
 
-@PAN.
+PAN.
 He? No! She’ll none of him. They two are twain.
 
-@HELEN.
+HELEN.
 Falling in, after falling out, may make them three.
 
-@PAN.
+PAN.
 Come, come, I’ll hear no more of this, I’ll sing you a song now.
 
-@HELEN.
+HELEN.
 Ay, ay, prithee now. By my troth, sweet lord, thou hast a fine forehead.
 
-@PAN.
+PAN.
 Ay, you may, you may.
 
-@HELEN.
+HELEN.
 Let thy song be love. This love will undo us all. O Cupid, Cupid, Cupid!
 
-@PAN.
+PAN.
 Love? Ay, that it shall, i’ faith.
 
-@PAR.
+PAR.
 Ay, good now, love, love, nothing but love.
 
-@PAN.
+PAN.
 In good troth, it begins so.
-
-!Sings.
-
-@PAN. (CONT'D)
+(Sings.)
 ~“Love, love, nothing but love, still love, still more!
 ~For O, love’s bow
 ~Shoots buck and doe.
@@ -2493,39 +2481,39 @@ In good troth, it begins so.
 ~O ho! A while, but ha, ha, ha!
 ~O ho! Groans out for ha, ha, ha!—hey ho!”
 
-@HELEN.
+HELEN.
 In love, i’ faith, to the very tip of the nose.
 
-@PAR.
+PAR.
 He eats nothing but doves, love, and that breeds hot blood, and hot blood begets hot thoughts, and hot thoughts beget hot deeds, and hot deeds is love.
 
-@PAN.
+PAN.
 Is this the generation of love—hot blood, hot thoughts, and hot deeds? Why, they are vipers. Is love a generation of vipers? Sweet lord, who’s a-field today?
 
-@PAR.
+PAR.
 Hector, Deiphobus, Helenus, Antenor, and all the gallantry of Troy. I would fain have arm’d today, but my Nell would not have it so. How chance my brother Troilus went not?
 
-@HELEN.
+HELEN.
 He hangs the lip at something. You know all, Lord Pandarus.
 
-@PAN.
+PAN.
 Not I, honey-sweet queen. I long to hear how they sped today. You’ll remember your brother’s excuse?
 
-@PAR.
+PAR.
 To a hair.
 
-@PAN.
+PAN.
 Farewell, sweet queen.
 
-@HELEN.
+HELEN.
 Commend me to your niece.
 
-@PAN.
+PAN.
 I will, sweet queen.
 
-!Exit. Sound a retreat.
+Exit. Sound a retreat.
 
-@PAR.
+PAR.
 They’re come from the field. Let us to Priam’s hall
 To greet the warriors. Sweet Helen, I must woo you
 To help unarm our Hector. His stubborn buckles,
@@ -2534,43 +2522,45 @@ Shall more obey than to the edge of steel,
 Or force of Greekish sinews. You shall do more
 Than all the island kings—disarm great Hector.
 
-@HELEN.
+HELEN.
 ’Twill make us proud to be his servant, Paris!
 Yea, what he shall receive of us in duty
 Gives us more palm in beauty than we have,
 Yea, overshines ourself.
 
-@PAR.
+PAR.
 Sweet, above thought I love thee!
 
-!Exeunt.
+Exeunt.
 
 
 ### Scene 2
-.TROY. PANDARUS’ ORCHARD.
 
-!Enter Pandarus, Troilus’ Boy, meeting.
 
-@PAN.
+Troy. Pandarus’ orchard.
+
+Enter Pandarus, Troilus’ Boy, meeting.
+
+PAN.
 How now, where’s thy master? At my cousin Cressida’s?
 
-@TRO. BOY.
+TRO. BOY.
 No, sir, he stays for you to conduct him thither.
 
-!Enter Troilus.
+Enter Troilus.
 
-@PAN.
+PAN.
 O, here he comes! How now, how now?
 
-@TRO.
+TRO.
 Sirrah, walk off.
 
-!Exit Troilus’ Boy.
+Exit Troilus’ Boy.
 
-@PAN.
+PAN.
 Have you seen my cousin?
 
-@TRO.
+TRO.
 No, Pandarus, I stalk about her door,
 Like to a strange soul upon the Stygian banks
 Staying for waftage. O, be thou my Charon,
@@ -2580,12 +2570,12 @@ Propos’d for the deserver! O gentle Pandar,
 From Cupid’s shoulder pluck his painted wings,
 And fly with me to Cressid!
 
-@PAN.
+PAN.
 Walk here i’ th’ orchard, I’ll bring her straight.
 
-!Exit.
+Exit.
 
-@TRO.
+TRO.
 I am giddy; expectation whirls me round;
 Th’ imaginary relish is so sweet
 That it enchants my sense; what will it be,
@@ -2599,103 +2589,100 @@ That I shall lose distinction in my joys,
 As doth a battle, when they charge on heaps
 The enemy flying.
 
-!Enter Pandarus.
+Enter Pandarus.
 
-@PAN.
+PAN.
 She’s making her ready, she’ll come straight. You must be witty now: she does so blush, and fetches her wind so short, as if she were fray’d with a spirit. I’ll fetch her. It is the prettiest villain, she fetches her breath as short as a new-ta’en sparrow.
 
-!Exit.
+Exit.
 
-@TRO.
+TRO.
 Even such a passion doth embrace my bosom:
 My heart beats thicker than a feverous pulse,
 And all my powers do their bestowing lose,
 Like vassalage at unawares encount’ring
 The eye of majesty.
 
-!Enter Pandar and Cressida.
+Enter Pandar and Cressida.
 
-@PAN.
+PAN.
 Come, come, what need you blush? Shame’s a baby. Here she is now, swear the oaths now to her that you have sworn to me.
-
-!Cressida draws backward.
-
-@PAN. (CONT'D)
+(Cressida draws backward.)
 What, are you gone again? You must be watch’d ere you be made tame, must you? Come your ways, come your ways; and you draw backward, we’ll put you i’ th’ fills. Why do you not speak to her? Come, draw this curtain, and let’s see your picture. Alas the day, how loath you are to offend daylight! And ’twere dark you’d close sooner. So, so, rub on and kiss the mistress. How now, a kiss in fee-farm? Build there, carpenter, the air is sweet. Nay, you shall fight your hearts out ere I part you—the falcon as the tercel, for all the ducks i’ th’ river. Go to, go to.
 
-@TRO.
+TRO.
 You have bereft me of all words, lady.
 
-@PAN.
+PAN.
 Words pay no debts, give her deeds; but she’ll bereave you a’ th’ deeds too, if she call your activity in question. What, billing again? Here’s “In witness whereof the parties interchangeably”—Come in, come in, I’ll go get a fire.
 
-!Exit.
+Exit.
 
-@CRES.
+CRES.
 Will you walk in, my lord?
 
-@TRO.
+TRO.
 O Cressid, how often have I wish’d me thus!
 
-@CRES.
+CRES.
 Wish’d, my lord? The gods grant—O my lord!
 
-@TRO.
+TRO.
 What should they grant? What makes this pretty abruption? What too curious dreg espies my sweet lady in the fountain of our love?
 
-@CRES.
+CRES.
 More dregs than water, if my fears have eyes.
 
-@TRO.
+TRO.
 Fears make devils of cherubins, they never see truly.
 
-@CRES.
+CRES.
 Blind fear that seeing reason leads finds safer footing than blind reason stumbling without fear. To fear the worst oft cures the worse.
 
-@TRO.
+TRO.
 O, let my lady apprehend no fear. In all Cupid’s pageant there is presented no monster.
 
-@CRES.
+CRES.
 Nor nothing monstrous neither?
 
-@TRO.
+TRO.
 Nothing but our undertakings, when we vow to weep seas, live in fire, eat rocks, tame tigers; thinking it harder for our mistress to devise imposition enough than for us to undergo any difficulty impos’d. This is the monstruosity in love, lady, that the will is infinite and the execution confin’d, that the desire is boundless and the act a slave to limit.
 
-@CRES.
+CRES.
 They say all lovers swear more performance than they are able, and yet reserve an ability that they never perform; vowing more than the perfection of ten, and discharging less than the tenth part of one. They that have the voice of lions and the act of hares, are they not monsters?
 
-@TRO.
+TRO.
 Are there such? Such are not we. Praise us as we are tasted, allow us as we prove. Our head shall go bare till merit crown it. No perfection in reversion shall have a praise in present; we will not name desert before his birth, and being born, his addition shall be humble. Few words to fair faith. Troilus shall be such to Cressid as what envy can say worst shall be a mock for his truth, and what truth can speak truest not truer than Troilus.
 
-@CRES.
+CRES.
 Will you walk in, my lord?
 
-!Enter Pandarus.
+Enter Pandarus.
 
-@PAN.
+PAN.
 What, blushing still? Have you not done talking yet?
 
-@CRES.
+CRES.
 Well, uncle, what folly I commit, I dedicate to you.
 
-@PAN.
+PAN.
 I thank you for that; if my lord get a boy of you, you’ll give him me. Be true to my lord; if he flinch, chide me for it.
 
-@TRO.
+TRO.
 You know now your hostages: your uncle’s word and my firm faith.
 
-@PAN.
+PAN.
 Nay, I’ll give my word for her too. Our kindred, though they be long ere they be woo’d, they are constant being won. They are burs, I can tell you, they’ll stick where they are thrown.
 
-@CRES.
+CRES.
 Boldness comes to me now, and brings me heart.
 Prince Troilus, I have lov’d you night and day
 For many weary months.
 
-@TRO.
+TRO.
 Why was my Cressid then so hard to win?
 
-@CRES.
+CRES.
 Hard to seem won; but I was won, my lord,
 With the first glance that ever—pardon me,
 If I confess much, you will play the tyrant.
@@ -2714,56 +2701,56 @@ The thing I shall repent. See, see, your silence,
 Cunning in dumbness, from my weakness draws
 My very soul of counsel! Stop my mouth.
 
-@TRO.
+TRO.
 And shall, albeit sweet music issues thence.
 
-!Kisses her.
+Kisses her.
 
-@PAN.
+PAN.
 Pretty, i’ faith.
 
-@CRES.
+CRES.
 My lord, I do beseech you pardon me,
 ’Twas not my purpose thus to beg a kiss.
 I am asham’d. O heavens, what have I done!
 For this time will I take my leave, my lord.
 
-@TRO.
+TRO.
 Your leave, sweet Cressid!
 
-@PAN.
+PAN.
 Leave! And you take leave till tomorrow morning—
 
-@CRES.
+CRES.
 Pray you content you.
 
-@TRO.
+TRO.
 What offends you, lady?
 
-@CRES.
+CRES.
 Sir, mine own company.
 
-@TRO.
+TRO.
 You cannot shun yourself.
 
-@CRES.
+CRES.
 Let me go and try.
 I have a kind of self resides with you;
 But an unkind self, that itself will leave
 To be another’s fool. I would be gone.
 Where is my wit? I know not what I speak.
 
-@TRO.
+TRO.
 Well know they what they speak that speak so wisely.
 
-@CRES.
+CRES.
 Perchance, my lord, I show more craft than love,
 And fell so roundly to a large confession,
 To angle for your thoughts, but you are wise,
 Or else you love not; for to be wise and love
 Exceeds man’s might; that dwells with gods above.
 
-@TRO.
+TRO.
 O that I thought it could be in a woman—
 As, if it can, I will presume in you—
 To feed for aye her lamp and flames of love,
@@ -2778,10 +2765,10 @@ How were I then uplifted! But alas,
 I am as true as truth’s simplicity,
 And simpler than the infancy of truth.
 
-@CRES.
+CRES.
 In that I’ll war with you.
 
-@TRO.
+TRO.
 ^5 O virtuous fight,
 When right with right wars who shall be most right!
 True swains in love shall in the world to come
@@ -2796,7 +2783,7 @@ Yet after all comparisons of truth
 “As true as Troilus” shall crown up the verse,
 And sanctify the numbers.
 
-@CRES.
+CRES.
 ^5 Prophet may you be!
 If I be false, or swerve a hair from truth,
 When time is old and hath forgot itself,
@@ -2812,33 +2799,32 @@ Pard to the hind, or step-dame to her son,
 Yea, let them say, to stick the heart of falsehood,
 “As false as Cressid.”
 
-@PAN.
+PAN.
 Go to, a bargain made, seal it, seal it, I’ll be the witness. Here I hold your hand, here my cousin’s. If ever you prove false one to another, since I have taken such pain to bring you together, let all pitiful goers-between be call’d to the world’s end after my name; call them all Pandars. Let all constant men be Troiluses, all false women Cressids, and all brokers-between Pandars! Say, amen.
 
-@TRO.
+TRO.
 Amen.
 
-@CRES.
+CRES.
 Amen.
 
-@PAN.
+PAN.
 Amen. Whereupon I will show you a chamber, which bed, because it shall not speak of your pretty encounters, press it to death. Away!
-
-!Exeunt Troilus and Cressida.
-
-@PAN. (CONT'D)
+(Exeunt Troilus and Cressida.)
 And Cupid grant all tongue-tied maidens here
 Bed, chamber, Pandar to provide this gear!
 
-!Exit.
+Exit.
 
 
 ### Scene 3
-.THE GRECIAN CAMP. BEFORE ACHILLES’ TENT.
 
-!Enter Ulysses, Diomedes, Nestor, Agamemnon, Ajax, Menelaus, and Calchas. Flourish.
 
-@CAL.
+The Grecian camp. Before Achilles’ tent.
+
+Enter Ulysses, Diomedes, Nestor, Agamemnon, Ajax, Menelaus, and Calchas. Flourish.
+
+CAL.
 Now, princes, for the service I have done,
 Th’ advantage of the time prompts me aloud
 To call for recompense. Appear it to your mind,
@@ -2856,10 +2842,10 @@ To give me now a little benefit
 Out of those many regist’red in promise,
 Which you say live to come in my behalf.
 
-@AGAM.
+AGAM.
 What wouldst thou of us, Troyan? Make demand.
 
-@CAL.
+CAL.
 You have a Troyan prisoner call’d Antenor,
 Yesterday took; Troy holds him very dear.
 Oft have you —often have you thanks therefore—
@@ -2874,7 +2860,7 @@ And he shall buy my daughter; and her presence
 Shall quite strike off all service I have done,
 In most accepted pain.
 
-@AGAM.
+AGAM.
 Let Diomedes bear him,
 And bring us Cressid hither; Calchas shall have
 What he requests of us. Good Diomed,
@@ -2882,15 +2868,15 @@ Furnish you fairly for this interchange;
 Withal bring word if Hector will tomorrow
 Be answered in his challenge: Ajax is ready.
 
-@DIO.
+DIO.
 This shall I undertake, and ’tis a burden
 Which I am proud to bear.
 
-!Exit with Calchas.
+Exit with Calchas.
 
-!Enter Achilles and Patroclus and stand in the door of their tent.
+Enter Achilles and Patroclus and stand in the door of their tent.
 
-@ULYSS.
+ULYSS.
 Achilles stands i’ th’ entrance of his tent.
 Please it our general pass strangely by him,
 As if he were forgot, and, princes all,
@@ -2904,72 +2890,72 @@ It may do good, pride hath no other glass
 To show itself but pride; for supple knees
 Feed arrogance and are the proud man’s fees.
 
-@AGAM.
+AGAM.
 We’ll execute your purpose, and put on
 A form of strangeness as we pass along.
 So do each lord, and either greet him not,
 Or else disdainfully, which shall shake him more
 Than if not look’d on. I will lead the way.
 
-@ACHIL.
+ACHIL.
 What comes the general to speak with me?
 You know my mind, I’ll fight no more ’gainst Troy.
 
-@AGAM.
+AGAM.
 What says Achilles? Would he aught with us?
 
-@NEST.
+NEST.
 Would you, my lord, aught with the general?
 
-@ACHIL.
+ACHIL.
 No.
 
-@NEST.
+NEST.
 Nothing, my lord.
 
-@AGAM.
+AGAM.
 The better.
 
-!Exeunt Agamemnon and Nestor.
+Exeunt Agamemnon and Nestor.
 
-@ACHIL.
+ACHIL.
 Good day, good day.
 
-@MEN.
+MEN.
 How do you? How do you?
 
-!Exit.
+Exit.
 
-@ACHIL.
+ACHIL.
 What, does the cuckold scorn me?
 
-@AJAX.
+AJAX.
 How now, Patroclus?
 
-@ACHIL.
+ACHIL.
 Good morrow, Ajax.
 
-@AJAX.
+AJAX.
 Ha?
 
-@ACHIL.
+ACHIL.
 Good morrow.
 
-@AJAX.
+AJAX.
 Ay, and good next day too.
 
-!Exit.
+Exit.
 
-@ACHIL.
+ACHIL.
 What mean these fellows? Know they not Achilles?
 
-@PATR.
+PATR.
 They pass by strangely. They were us’d to bend,
 To send their smiles before them to Achilles,
 To come as humbly as they us’d to creep
 To holy altars.
 
-@ACHIL.
+ACHIL.
 ^3 What, am I poor of late?
 ’Tis certain, greatness, once fall’n out with fortune,
 Must fall out with men too. What the declin’d is,
@@ -2992,13 +2978,13 @@ As they have often given. Here is Ulysses,
 I’ll interrupt his reading.
 How now, Ulysses?
 
-@ULYSS.
+ULYSS.
 ^4 Now, great Thetis’ son!
 
-@ACHIL.
+ACHIL.
 What are you reading?
 
-@ULYSS.
+ULYSS.
 ^5 A strange fellow here
 Writes me that man, how dearly ever parted,
 How much in having, or without or in,
@@ -3008,7 +2994,7 @@ As when his virtues, aiming upon others,
 Heat them, and they retort that heat again
 To the first giver.
 
-@ACHIL.
+ACHIL.
 ^4 This is not strange, Ulysses.
 The beauty that is borne here in the face
 The bearer knows not, but commends itself
@@ -3017,10 +3003,10 @@ That most pure spirit of sense, behold itself,
 Not going from itself; but eye to eye opposed,
 Salutes each other with each other’s form;
 For speculation turns not to itself,
-Till it hath travell’d and is mirror’d there
+Till it hath travel’d and is mirror’d there
 Where it may see itself. This is not strange at all.
 
-@ULYSS.
+ULYSS.
 I do not strain at the position—
 It is familiar—but at the author’s drift,
 Who in his circumstance expressly proves
@@ -3052,12 +3038,12 @@ They clap the lubber Ajax on the shoulder,
 As if his foot were on brave Hector’s breast,
 And great Troy shrieking.
 
-@ACHIL.
+ACHIL.
 I do believe it, for they pass’d by me
 As misers do by beggars, neither gave to me
 Good word nor look. What, are my deeds forgot?
 
-@ULYSS.
+ULYSS.
 Time hath, my lord, a wallet at his back,
 Wherein he puts alms for oblivion,
 A great-siz’d monster of ingratitudes.
@@ -3105,20 +3091,20 @@ Whose glorious deeds but in these fields of late
 Made emulous missions ’mongst the gods themselves,
 And drave great Mars to faction.
 
-@ACHIL.
+ACHIL.
 ^7 Of this my privacy
 I have strong reasons.
 
-@ULYSS.
+ULYSS.
 ^4 But ’gainst your privacy
 The reasons are more potent and heroical.
 ’Tis known, Achilles, that you are in love
 With one of Priam’s daughters.
 
-@ACHIL.
+ACHIL.
 ^7 Ha? Known?
 
-@ULYSS.
+ULYSS.
 Is that a wonder?
 The providence that’s in a watchful state
 Knows almost every grain of Pluto’s gold,
@@ -3141,9 +3127,9 @@ But our great Ajax bravely beat down him.”
 Farewell, my lord; I as your lover speak:
 The fool slides o’er the ice that you should break.
 
-!Exit.
+Exit.
 
-@PATR.
+PATR.
 To this effect, Achilles, have I mov’d you.
 A woman impudent and mannish grown
 Is not more loath’d than an effeminate man
@@ -3155,17 +3141,17 @@ Shall from your neck unloose his amorous fold,
 And like a dewdrop from the lion’s mane,
 Be shook to air.
 
-@ACHIL.
+ACHIL.
 ^3 Shall Ajax fight with Hector?
 
-@PATR.
+PATR.
 Ay, and perhaps receive much honor by him.
 
-@ACHIL.
+ACHIL.
 I see my reputation is at stake,
-My fame is shrowdly gor’d.
+My fame is shrewdly gor’d.
 
-@PATR.
+PATR.
 ^6 O then beware!
 Those wounds heal ill that men do give themselves.
 Omission to do what is necessary
@@ -3173,7 +3159,7 @@ Seals a commission to a blank of danger,
 And danger like an ague subtly taints
 Even then when they sit idly in the sun.
 
-@ACHIL.
+ACHIL.
 Go call Thersites hither, sweet Patroclus.
 I’ll send the fool to Ajax and desire him
 T’ invite the Troyan lords after the combat
@@ -3182,112 +3168,109 @@ An appetite that I am sick withal,
 To see great Hector in his weeds of peace,
 To talk with him, and to behold his visage,
 Even to my full of view.
-
-!Enter Thersites.
-
-@ACHIL. (CONT'D)
+(Enter Thersites.)
 ^5 A labor sav’d!
 
-@THER.
+THER.
 A wonder!
 
-@ACHIL.
+ACHIL.
 What?
 
-@THER.
+THER.
 Ajax goes up and down the field, asking for himself.
 
-@ACHIL.
+ACHIL.
 How so?
 
-@THER.
+THER.
 He must fight singly tomorrow with Hector, and is so prophetically proud of an heroical cudgelling that he raves in saying nothing.
 
-@ACHIL.
+ACHIL.
 How can that be?
 
-@THER.
+THER.
 Why, ’a stalks up and down like a peacock—a stride and a stand; ruminates like an hostess that hath no arithmetic but her brain to set down her reckoning; bites his lip with a politic regard, as who should say there were wit in this head and ’twould out—and so there is; but it lies as coldly in him as fire in a flint, which will not show without knocking. The man’s undone forever, for if Hector break not his neck i’ th’ combat, he’ll break’t himself in vainglory. He knows not me. I said, “Good morrow, Ajax”; and he replies, “Thanks, Agamemnon.” What think you of this man that takes me for the general? He’s grown a very land-fish, languageless, a monster. A plague of opinion! A man may wear it on both sides, like a leather jerkin.
 
-@ACHIL.
+ACHIL.
 Thou must be my ambassador to him, Thersites.
 
-@THER.
+THER.
 Who, I? Why, he’ll answer nobody; he professes not answering. Speaking is for beggars; he wears his tongue in ’s arms. I will put on his presence, let Patroclus make demands to me; you shall see the pageant of Ajax.
 
-@ACHIL.
+ACHIL.
 To him, Patroclus. Tell him I humbly desire the valiant Ajax to invite the most valorous Hector to come unarm’d to my tent, and to procure safe-conduct for his person of the magnanimous and most illustrious six-or-seven-times-honor’d captain-general of the army, Agamemnon, et cetera. Do this.
 
-@PATR.
+PATR.
 Jove bless great Ajax!
 
-@THER.
+THER.
 Hum?
 
-@PATR.
+PATR.
 I come from the worthy Achilles—
 
-@THER.
+THER.
 Ha?
 
-@PATR.
+PATR.
 Who most humbly desires you to invite Hector to his tent—
 
-@THER.
+THER.
 Hum?
 
-@PATR.
+PATR.
 And to procure safe-conduct from Agamemnon.
 
-@THER.
+THER.
 Agamemnon?
 
-@PATR.
+PATR.
 Ay, my lord.
 
-@THER.
+THER.
 Ha?
 
-@PATR.
+PATR.
 What say you to’t?
 
-@THER.
+THER.
 God buy you, with all my heart.
 
-@PATR.
+PATR.
 Your answer, sir.
 
-@THER.
-If tomorrow be a fair day, by aleven of the clock it will go one way or other. Howsoever, he shall pay for me ere he has me.
+THER.
+If tomorrow be a fair day, by eleven of the clock it will go one way or other. Howsoever, he shall pay for me ere he has me.
 
-@PATR.
+PATR.
 Your answer, sir.
 
-@THER.
+THER.
 Fare ye well, with all my heart.
 
-@ACHIL.
+ACHIL.
 Why, but he is not in this tune, is he?
 
-@THER.
+THER.
 No; but he’s out of tune thus. What music will be in him when Hector has knock’d out his brains, I know not; but I am sure none, unless the fiddler Apollo get his sinews to make catlings on.
 
-@ACHIL.
+ACHIL.
 Come, thou shalt bear a letter to him straight.
 
-@THER.
+THER.
 Let me bear another to his horse, for that’s the more capable creature.
 
-@ACHIL.
+ACHIL.
 My mind is troubled, like a fountain stirr’d,
 And I myself see not the bottom of it.
 
-!Exeunt Achilles and Patroclus.
+Exeunt Achilles and Patroclus.
 
-@THER.
+THER.
 Would the fountain of your mind were clear again, that I might water an ass at it! I had rather be a tick in a sheep than such a valiant ignorance.
 
-!Exit.
+Exit.
 
 
 
@@ -3295,45 +3278,47 @@ Would the fountain of your mind were clear again, that I might water an ass at i
 
 # Act 4
 ### Scene 1
-.TROY. A STREET.
 
-!Enter at one door Aeneas with a torch; at another, Paris, Deiphobus, Antenor, Diomedes the Grecian, and others with torches.
 
-@PAR.
+Troy. A street.
+
+Enter at one door Aeneas with a torch; at another, Paris, Deiphobus, Antenor, Diomedes the Grecian, and others with torches.
+
+PAR.
 See ho! Who is that there?
 
-@DEI.
+DEI.
 It is the Lord Aeneas.
 
-@AENE.
+AENE.
 Is the Prince there in person?
 Had I so good occasion to lie long
 As you, Prince Paris, nothing but heavenly business
 Should rob my bed-mate of my company.
 
-@DIO.
+DIO.
 That’s my mind too. Good morrow, Lord Aeneas.
 
-@PAR.
+PAR.
 A valiant Greek, Aeneas, take his hand,
 Witness the process of your speech, wherein
 You told how Diomed, a whole week by days,
 Did haunt you in the field.
 
-@AENE.
+AENE.
 ^5 Health to you, valiant sir,
 During all question of the gentle truce;
 But when I meet you arm’d, as black defiance
 As heart can think or courage execute.
 
-@DIO.
+DIO.
 The one and other Diomed embraces.
 Our bloods are now in calm, and, so long, health!
 But when contention and occasion meet,
 By Jove I’ll play the hunter for thy life,
 With all my force, pursuit, and policy.
 
-@AENE.
+AENE.
 And thou shalt hunt a lion that will fly
 With his face backward. In humane gentleness,
 Welcome to Troy! Now, by Anchises’ life,
@@ -3341,28 +3326,28 @@ Welcome indeed! By Venus’ hand I swear,
 No man alive can love in such a sort
 The thing he means to kill, more excellently.
 
-@DIO.
+DIO.
 We sympathize. Jove, let Aeneas live,
 If to my sword his fate be not the glory,
 A thousand complete courses of the sun!
 But in mine emulous honor let him die,
 With every joint a wound, and that tomorrow!
 
-@AENE.
+AENE.
 We know each other well.
 
-@DIO.
+DIO.
 We do, and long to know each other worse.
 
-@PAR.
+PAR.
 This is the most despiteful gentle greeting,
 The noblest hateful love, that e’er I heard of.
 What business, lord, so early?
 
-@AENE.
+AENE.
 I was sent for to the King, but why, I know not.
 
-@PAR.
+PAR.
 His purpose meets you; ’twas to bring this Greek
 To Calchas’ house, and there to render him,
 For the enfreed Antenor, the fair Cressid.
@@ -3374,28 +3359,28 @@ Rouse him and give him note of our approach,
 With the whole quality wherefore. I fear
 We shall be much unwelcome.
 
-@AENE.
+AENE.
 ^6 That I assure you.
 Troilus had rather Troy were borne to Greece
 Than Cressid borne from Troy.
 
-@PAR.
+PAR.
 ^7 There is no help.
 The bitter disposition of the time
 Will have it so. On, lord, we’ll follow you.
 
-@AENE.
+AENE.
 Good morrow, all.
 
-!Exit.
+Exit.
 
-@PAR.
+PAR.
 And tell me, noble Diomed—faith, tell me true,
 Even in soul of sound good-fellowship—
 Who, in your thoughts, deserves fair Helen best,
 Myself, or Menelaus?
 
-@DIO.
+DIO.
 ^5 Both alike.
 He merits well to have her that doth seek her,
 Not making any scruple of her soil,
@@ -3410,10 +3395,10 @@ Are pleas’d to breed out your inheritors.
 Both merits pois’d, each weighs nor less nor more,
 But he as he, the heavier for a whore.
 
-@PAR.
+PAR.
 You are too bitter to your country-woman.
 
-@DIO.
+DIO.
 She’s bitter to her country. Hear me, Paris:
 For every false drop in her bawdy veins,
 A Grecian’s life hath sunk; for every scruple
@@ -3422,153 +3407,149 @@ A Troyan hath been slain. Since she could speak,
 She hath not given so many good words breath
 As for her Greeks and Troyans suff’red death.
 
-@PAR.
+PAR.
 Fair Diomed, you do as chapmen do,
 Dispraise the thing that they desire to buy,
 But we in silence hold this virtue well,
 We’ll not commend what we intend to sell.
 Here lies our way.
 
-!Exeunt.
+Exeunt.
 
 
 ### Scene 2
-.TROY. A COURT BEFORE PANDARUS’S HOUSE.
 
-!Enter Troilus and Cressida.
 
-@TRO.
+Troy. A court before Pandarus’s house.
+
+Enter Troilus and Cressida.
+
+TRO.
 Dear, trouble not yourself, the morn is cold.
 
-@CRES.
+CRES.
 Then, sweet my lord, I’ll call mine uncle down,
 He shall unbolt the gates.
 
-@TRO.
+TRO.
 ^5 Trouble him not;
 To bed, to bed. Sleep kill those pretty eyes,
 And give as soft attachment to thy senses
 As infants empty of all thought!
 
-@CRES.
+CRES.
 ^7 Good morrow then.
 
-@TRO.
+TRO.
 I prithee now to bed.
 
-@CRES.
+CRES.
 ^4 Are you a-weary of me?
 
-@TRO.
+TRO.
 O Cressida! But that the busy day,
 Wak’d by the lark, hath rous’d the ribald crows,
 And dreaming night will hide our joys no longer,
 I would not from thee.
 
-@CRES.
+CRES.
 Night hath been too brief.
 
-@TRO.
+TRO.
 Beshrew the witch! With venomous wights she stays
 As tediously as hell, but flies the grasps of love
 With wings more momentary-swift than thought.
 You will catch cold and curse me.
 
-@CRES.
+CRES.
 ^7 Prithee tarry,
 You men will never tarry.
 O foolish Cressid! I might have still held off,
 And then you would have tarried. Hark, there’s one up.
 
-@PAN.
+PAN.
 (Within.)
 What’s all the doors open here?
 
-@TRO.
+TRO.
 It is your uncle.
 
-!Enter Pandarus.
+Enter Pandarus.
 
-@CRES.
+CRES.
 A pestilence on him! Now will he be mocking.
 I shall have such a life!
 
-@PAN.
+PAN.
 How now, how now, how go maidenheads?
 Here, you maid! Where’s my cousin Cressid?
 
-@CRES.
+CRES.
 Go hang yourself, you naughty mocking uncle!
 You bring me to do—and then you flout me too.
 
-@PAN.
+PAN.
 To do what, to do what? Let her say what.
 What have I brought you to do?
 
-@CRES.
+CRES.
 Come, come, beshrew your heart, you’ll ne’er be good,
 Nor suffer others.
 
-@PAN.
+PAN.
 Ha, ha! Alas, poor wretch! A poor capocchia! Hast not slept tonight? Would he not, a naughty man, let it sleep? A bugbear take him!
 
-@CRES.
+CRES.
 Did not I tell you? Would he were knock’d i’ th’ head!
-
-!One knocks.
-
-@CRES. (CONT'D)
+(One knocks.)
 Who’s that at door? Good uncle, go and see.
 My lord, come you again into my chamber.
 You smile and mock me, as if I meant naughtily.
 
-@TRO.
+TRO.
 Ha, ha!
 
-@CRES.
+CRES.
 Come, you are deceived, I think of no such thing.
-
-!Knock.
-
-@CRES. (CONT'D)
+(Knock.)
 How earnestly they knock! Pray you come in.
 I would not for half Troy have you seen here.
 
-!Exeunt Troilus and Cressida.
+Exeunt Troilus and Cressida.
 
-@PAN.
+PAN.
 Who’s there? What’s the matter? Will you beat down the door? How now, what’s the matter?
 
-!Enter Aeneas.
+Enter Aeneas.
 
-@AENE.
+AENE.
 Good morrow, lord, good morrow.
 
-@PAN.
+PAN.
 Who’s there? My Lord Aeneas! By my troth,
 I knew you not. What news with you so early?
 
-@AENE.
+AENE.
 Is not Prince Troilus here?
 
-@PAN.
+PAN.
 Here? What should he do here?
 
-@AENE.
+AENE.
 Come, he is here, my lord, do not deny him. It doth import him much to speak with me.
 
-@PAN.
+PAN.
 Is he here, say you? It’s more than I know, I’ll be sworn. For my own part, I came in late. What should he do here?
 
-@AENE.
+AENE.
 Who!—nay then. Come, come, you’ll do him wrong ere you are ware. You’ll be so true to him, to be false to him. Do not you know of him, but yet go fetch him hither, go.
 
-!Enter Troilus.
+Enter Troilus.
 
-@TRO.
+TRO.
 How now, what’s the matter?
 
-@AENE.
+AENE.
 My lord, I scarce have leisure to salute you,
 My matter is so rash. There is at hand
 Paris your brother, and Deiphobus,
@@ -3578,60 +3559,60 @@ Ere the first sacrifice, within this hour,
 We must give up to Diomedes’ hand
 The Lady Cressida.
 
-@TRO.
+TRO.
 ^4 Is it so concluded?
 
-@AENE.
+AENE.
 By Priam and the general state of Troy.
 They are at hand and ready to effect it.
 
-@TRO.
+TRO.
 How my achievements mock me!
 I will go meet them; and, my Lord Aeneas,
 We met by chance, you did not find me here.
 
-@AENE.
+AENE.
 Good, good, my lord, the secrets of neighbor Pandar
 Have not more gift in taciturnity.
 
-!Exeunt Troilus and Aeneas.
+Exeunt Troilus and Aeneas.
 
-@PAN.
+PAN.
 Is’t possible? No sooner got but lost? The devil take Antenor! The young prince will go mad. A plague upon Antenor! I would they had broke ’s neck!
 
-!Enter Cressida.
+Enter Cressida.
 
-@CRES.
+CRES.
 How now? What’s the matter? Who was here?
 
-@PAN.
+PAN.
 Ah, ah!
 
-@CRES.
+CRES.
 Why sigh you so profoundly? Where’s my lord? Gone? Tell me, sweet uncle, what’s the matter?
 
-@PAN.
+PAN.
 Would I were as deep under the earth as I am above!
 
-@CRES.
+CRES.
 O the gods! What’s the matter?
 
-@PAN.
+PAN.
 Pray thee get thee in. Would thou hadst ne’er been born! I knew thou wouldest be his death. O poor gentleman! A plague upon Antenor!
 
-@CRES.
+CRES.
 Good uncle, I beseech you, on my knees I beseech you, what’s the matter?
 
-@PAN.
+PAN.
 Thou must be gone, wench, thou must be gone; thou art chang’d for Antenor. Thou must to thy father, and be gone from Troilus. ’Twill be his death, ’twill be his bane, he cannot bear it.
 
-@CRES.
+CRES.
 O you immortal gods! I will not go.
 
-@PAN.
+PAN.
 Thou must.
 
-@CRES.
+CRES.
 I will not, uncle. I have forgot my father,
 I know no touch of consanguinity;
 No kin, no love, no blood, no soul so near me
@@ -3643,55 +3624,59 @@ But the strong base and building of my love
 Is as the very centre of the earth,
 Drawing all things to it. I’ll go in and weep.
 
-@PAN.
+PAN.
 Do, do.
 
-@CRES.
+CRES.
 Tear my bright hair, and scratch my praised cheeks,
 Crack my clear voice with sobs, and break my heart,
 With sounding Troilus. I will not go from Troy.
 
-!Exeunt.
+Exeunt.
 
 
 ### Scene 3
-.TROY. A STREET BEFORE PANDARUS’S HOUSE.
 
-!Enter Paris, Troilus, Aeneas, Deiphobus, Antenor, Diomedes.
 
-@PAR.
+Troy. A street before Pandarus’s house.
+
+Enter Paris, Troilus, Aeneas, Deiphobus, Antenor, Diomedes.
+
+PAR.
 It is great morning, and the hour prefix’d
 For her delivery to this valiant Greek
 Comes fast upon. Good my brother Troilus,
 Tell you the lady what she is to do,
 And haste her to the purpose.
 
-@TRO.
+TRO.
 ^6 Walk into her house.
 I’ll bring her to the Grecian presently;
 And to his hand when I deliver her,
 Think it an altar, and thy brother Troilus
 A priest there off’ring to it his own heart.
 
-!Exit.
+Exit.
 
-@PAR.
+PAR.
 I know what ’tis to love,
 And would, as I shall pity, I could help!
 Please you walk in, my lords.
 
-!Exeunt.
+Exeunt.
 
 
 ### Scene 4
-.TROY. PANDARUS’S HOUSE.
 
-!Enter Pandarus and Cressida.
 
-@PAN.
+Troy. Pandarus’s House.
+
+Enter Pandarus and Cressida.
+
+PAN.
 Be moderate, be moderate.
 
-@CRES.
+CRES.
 Why tell you me of moderation?
 The grief is fine, full, perfect, that I taste,
 And violenteth in a sense as strong
@@ -3702,17 +3687,17 @@ The like allayment could I give my grief:
 My love admits no qualifying dross,
 No more my grief, in such a precious loss.
 
-!Enter Troilus.
+Enter Troilus.
 
-@PAN.
+PAN.
 Here, here, here he comes. Ah, sweet ducks!
 
-@CRES.
+CRES.
 O Troilus, Troilus!
 
-!Embracing him.
+Embracing him.
 
-@PAN.
+PAN.
 What a pair of spectacles is here! Let me embrace too. “O heart,” as the goodly saying is,
 
 *“O heart, heavy heart,* 
@@ -3725,34 +3710,34 @@ Where he answers again,
 
 There was never a truer rhyme. Let us cast away nothing, for we may live to have need of such a verse. We see it, we see it. How now, lambs?
 
-@TRO.
+TRO.
 Cressid, I love thee in so strain’d a purity
 That the blest gods, as angry with my fancy,
 More bright in zeal than the devotion which
 Cold lips blow to their deities, take thee from me.
 
-@CRES.
+CRES.
 Have the gods envy?
 
-@PAN.
+PAN.
 Ay, ay, ay, ay, ’tis too plain a case.
 
-@CRES.
+CRES.
 And is it true that I must go from Troy?
 
-@TRO.
+TRO.
 A hateful truth.
 
-@CRES.
+CRES.
 ^3 What, and from Troilus too?
 
-@TRO.
+TRO.
 From Troy and Troilus.
 
-@CRES.
+CRES.
 ^5 Is’t possible?
 
-@TRO.
+TRO.
 And suddenly, where injury of chance
 Puts back leave-taking, justles roughly by
 All time of pause, rudely beguiles our lips
@@ -3766,41 +3751,41 @@ Injurious time now with a robber’s haste
 Crams his rich thiev’ry up, he knows not how.
 As many farewells as be stars in heaven,
 With distinct breath and consign’d kisses to them,
-He fumbles up into a loose *adieu* ;
+He fumbles up into a loose adieu;
 And scants us with a single famish’d kiss,
 Distasted with the salt of broken tears.
 
-@AENE.
+AENE.
 (Within.)
 My lord, is the lady ready?
 
-@TRO.
+TRO.
 Hark, you are call’d. Some say the Genius so
 Cries “come” to him that instantly must die.
 —Bid them have patience, she shall come anon.
 
-@PAN.
+PAN.
 Where are my tears? Rain, to lay this wind, or my heart will be blown up by th’ root.
 
-!Exit.
+Exit.
 
-@CRES.
+CRES.
 I must then to the Grecians?
 
-@TRO.
+TRO.
 ^6 No remedy.
 
-@CRES.
+CRES.
 A woeful Cressid ’mongst the merry Greeks!
 When shall we see again?
 
-@TRO.
+TRO.
 Hear me, love. Be thou but true of heart—
 
-@CRES.
+CRES.
 I true? How now? What wicked deem is this?
 
-@TRO.
+TRO.
 Nay, we must use expostulation kindly,
 For it is parting from us.
 I speak not “be thou true” as fearing thee,
@@ -3810,25 +3795,25 @@ But “be thou true” say I to fashion in
 My sequent protestation: be thou true,
 And I will see thee.
 
-@CRES.
+CRES.
 O, you shall be expos’d, my lord, to dangers
 As infinite as imminent! But I’ll be true.
 
-@TRO.
+TRO.
 And I’ll grow friend with danger. Wear this sleeve.
 
-@CRES.
+CRES.
 And you this glove. When shall I see you?
 
-@TRO.
+TRO.
 I will corrupt the Grecian sentinels,
 To give thee nightly visitation.
 But yet be true.
 
-@CRES.
+CRES.
 ^3 O heavens, “be true” again?
 
-@TRO.
+TRO.
 Hear why I speak it, love.
 The Grecian youths are full of quality;
 Their loving well compos’d with gift of nature,
@@ -3838,10 +3823,10 @@ Alas, a kind of godly jealousy
 —Which I beseech you call a virtuous sin—
 Makes me afeard.
 
-@CRES.
+CRES.
 ^4 O heavens, you love me not.
 
-@TRO.
+TRO.
 Die I a villain then!
 In this I do not call your faith in question
 So mainly as my merit. I cannot sing,
@@ -3852,35 +3837,35 @@ But I can tell that in each grace of these
 There lurks a still and dumb-discoursive devil
 That tempts most cunningly, but be not tempted.
 
-@CRES.
+CRES.
 Do you think I will?
 
-@TRO.
+TRO.
 No,
 But something may be done that we will not,
 And sometimes we are devils to ourselves,
 When we will tempt the frailty of our powers,
 Presuming on their changeful potency.
 
-@AENE.
+AENE.
 (Within.)
 Nay, good my lord!
 
-@TRO.
+TRO.
 ^4 Come kiss, and let us part.
 
-@PAR.
+PAR.
 (Within.)
 Brother Troilus!
 
-@TRO.
+TRO.
 ^4 Good brother, come you hither,
 And bring Aeneas and the Grecian with you.
 
-@CRES.
+CRES.
 My lord, will you be true?
 
-@TRO.
+TRO.
 Who, I? Alas, it is my vice, my fault:
 Whiles others fish with craft for great opinion,
 I with great truth catch mere simplicity;
@@ -3888,10 +3873,7 @@ Whilst some with cunning gild their copper crowns,
 With truth and plainness I do wear mine bare.
 Fear not my truth: the moral of my wit
 Is “plain and true”; there’s all the reach of it.
-
-!Enter Aeneas, Paris, Antenor, Deiphobus, and Diomedes.
-
-@TRO. (CONT'D)
+(Enter Aeneas, Paris, Antenor, Deiphobus, and Diomedes.)
 Welcome, Sir Diomed! Here is the lady
 Which for Antenor we deliver you.
 At the port, lord, I’ll give her to thy hand,
@@ -3901,14 +3883,14 @@ If e’er thou stand at mercy of my sword,
 Name Cressid, and thy life shall be as safe
 As Priam is in Ilion.
 
-@DIO.
+DIO.
 ^4 Fair Lady Cressid,
 So please you, save the thanks this prince expects.
 The lustre in your eye, heaven in your cheek,
 Pleads your fair usage, and to Diomed
 You shall be mistress, and command him wholly.
 
-@TRO.
+TRO.
 Grecian, thou dost not use me courteously,
 To shame the seal of my petition to thee
 In praising her. I tell thee, lord of Greece,
@@ -3919,7 +3901,7 @@ For by the dreadful Pluto, if thou dost not,
 Though the great bulk Achilles be thy guard,
 I’ll cut thy throat.
 
-@DIO.
+DIO.
 ^4 O, be not mov’d, Prince Troilus.
 Let me be privileg’d by my place and message,
 To be a speaker free. When I am hence,
@@ -3928,43 +3910,45 @@ I’ll nothing do on charge. To her own worth
 She shall be priz’d; but that you say, “Be’t so,”
 I speak it in my spirit and honor, “No.”
 
-@TRO.
+TRO.
 Come, to the port. I’ll tell thee, Diomed,
 This brave shall oft make thee to hide thy head.
 Lady, give me your hand, and as we walk,
 To our own selves bend we our needful talk.
 
-!Exeunt Troilus, Cressida, and Diomedes. Sound trumpet.
+Exeunt Troilus, Cressida, and Diomedes. Sound trumpet.
 
-@PAR.
+PAR.
 Hark, Hector’s trumpet!
 
-@AENE.
+AENE.
 ^5 How have we spent this morning!
 The Prince must think me tardy and remiss,
 That swore to ride before him to the field.
 
-@PAR.
+PAR.
 ’Tis Troilus’ fault. Come, come, to field with him.
 
-@DEI.
+DEI.
 Let us make ready straight.
 
-@AENE.
+AENE.
 Yea, with a bridegroom’s fresh alacrity
 Let us address to tend on Hector’s heels.
 The glory of our Troy doth this day lie
 On his fair worth and single chivalry.
 
-!Exeunt.
+Exeunt.
 
 
 ### Scene 5
-.THE GRECIAN CAMP.
 
-!Enter Ajax armed, Achilles, Patroclus, Agamemnon, Menelaus, Ulysses, Nestor, Greek Trumpeter, etc.
 
-@AGAM.
+The Grecian camp.
+
+Enter Ajax armed, Achilles, Patroclus, Agamemnon, Menelaus, Ulysses, Nestor, Greek Trumpeter, etc.
+
+AGAM.
 Here art thou in appointment fresh and fair,
 Anticipating time. With starting courage,
 Give with thy trumpet a loud note to Troy,
@@ -3972,7 +3956,7 @@ Thou dreadful Ajax, that the appalled air
 May pierce the head of the great combatant,
 And hale him hither.
 
-@AJAX.
+AJAX.
 ^4 Thou, trumpet, there’s my purse.
 Now crack thy lungs, and split thy brazen pipe.
 Blow, villain, till thy sphered bias cheek
@@ -3980,145 +3964,145 @@ Outswell the colic of puff’d Aquilon;
 Come, stretch thy chest, and let thy eyes spout blood;
 Thou blowest for Hector.
 
-!Trumpet sounds.
+Trumpet sounds.
 
-@ULYSS.
+ULYSS.
 No trumpet answers.
 
-@ACHIL.
+ACHIL.
 ^4 ’Tis but early days.
 
-!Enter Diomedes and Cressida.
+Enter Diomedes and Cressida.
 
-@AGAM.
+AGAM.
 Is not yond Diomed, with Calchas’ daughter?
 
-@ULYSS.
+ULYSS.
 ’Tis he, I ken the manner of his gait,
 He rises on the toe. That spirit of his
 In aspiration lifts him from the earth.
 
-@AGAM.
+AGAM.
 Is this the Lady Cressid?
 
-@DIO.
+DIO.
 ^5 Even she.
 
-@AGAM.
+AGAM.
 Most dearly welcome to the Greeks, sweet lady.
 
-!Kisses her.
+Kisses her.
 
-@NEST.
+NEST.
 Our general doth salute you with a kiss.
 
-@ULYSS.
+ULYSS.
 Yet is the kindness but particular,
 ’Twere better she were kiss’d in general.
 
-@NEST.
+NEST.
 And very courtly counsel. I’ll begin.
 So much for Nestor.
 
-!Kisses her.
+Kisses her.
 
-@ACHIL.
+ACHIL.
 I’ll take that winter from your lips, fair lady;
 Achilles bids you welcome.
 
-!Kisses her.
+Kisses her.
 
-@MEN.
+MEN.
 I had good argument for kissing once.
 
-@PATR.
+PATR.
 But that’s no argument for kissing now,
 For thus popp’d Paris in his hardiment,
 And parted thus you and your argument.
 
-!Kisses her.
+Kisses her.
 
-@ULYSS.
+ULYSS.
 O deadly gall, and theme of all our scorns,
 For which we lose our heads to gild his horns!
 
-@PATR.
+PATR.
 The first was Menelaus’ kiss, this, mine;
 Patroclus kisses you.
 
-!Kisses her again.
+Kisses her again.
 
-@MEN.
+MEN.
 ^4 O, this is trim!
 
-@PATR.
+PATR.
 Paris and I kiss evermore for him.
 
-@MEN.
+MEN.
 I’ll have my kiss, sir. Lady, by your leave.
 
-@CRES.
+CRES.
 In kissing, do you render or receive?
 
-@PATR.
+PATR.
 Both take and give.
 
-@CRES.
+CRES.
 ^4 I’ll make my match to live,
 The kiss you take is better than you give;
 Therefore no kiss.
 
-@MEN.
+MEN.
 I’ll give you boot, I’ll give you three for one.
 
-@CRES.
+CRES.
 You are an odd man, give even or give none.
 
-@MEN.
+MEN.
 An odd man, lady? Every man is odd.
 
-@CRES.
+CRES.
 No, Paris is not, for you know ’tis true
 That you are odd, and he is even with you.
 
-@MEN.
+MEN.
 You fillip me a’ th’ head.
 
-@CRES.
+CRES.
 ^5 No, I’ll be sworn.
 
-@ULYSS.
+ULYSS.
 It were no match, your nail against his horn.
 May I, sweet lady, beg a kiss of you?
 
-@CRES.
+CRES.
 You may.
 
-@ULYSS.
+ULYSS.
 ^2 I do desire it.
 
-@CRES.
+CRES.
 ^5 Why, beg then.
 
-@ULYSS.
+ULYSS.
 Why then for Venus’ sake, give me a kiss
 When Helen is a maid again and his.
 
-@CRES.
+CRES.
 I am your debtor, claim it when ’tis due.
 
-@ULYSS.
+ULYSS.
 Never’s my day, and then a kiss of you.
 
-@DIO.
+DIO.
 Lady, a word. I’ll bring you to your father.
 
-!Exit with Cressida.
+Exit with Cressida.
 
-@NEST.
+NEST.
 A woman of quick sense.
 
-@ULYSS.
+ULYSS.
 ^5 Fie, fie upon her!
 There’s language in her eye, her cheek, her lip,
 Nay, her foot speaks; her wanton spirits look out
@@ -4130,17 +4114,17 @@ To every ticklish reader! Set them down
 For sluttish spoils of opportunity,
 And daughters of the game.
 
-!Flourish.
+Flourish.
 
-@ALL.
+ALL.
 The Troyans’ trumpet.
 
-!Enter all of Troy: Hector armed, Paris, Aeneas, Helenus, Troilus, and Attendants.
+Enter all of Troy: Hector armed, Paris, Aeneas, Helenus, Troilus, and Attendants.
 
-@AGAM.
+AGAM.
 ^5 Yonder comes the troop.
 
-@AENE.
+AENE.
 Hail, all the state of Greece! What shall be done
 To him that victory commands? Or do you purpose
 A victor shall be known? Will you the knights
@@ -4149,28 +4133,28 @@ Pursue each other, or shall they be divided
 By any voice or order of the field?
 Hector bade ask.
 
-@AGAM.
+AGAM.
 ^3 Which way would Hector have it?
 
-@AENE.
+AENE.
 He cares not, he’ll obey conditions.
 
-@AGAM.
+AGAM.
 ’Tis done like Hector.
 
-@ACHIL.
+ACHIL.
 ^4 But securely done,
 A little proudly, and great deal misprising
 The knight oppos’d.
 
-@AENE.
+AENE.
 ^4 If not Achilles, sir,
 What is your name?
 
-@ACHIL.
+ACHIL.
 ^4 If not Achilles, nothing.
 
-@AENE.
+AENE.
 Therefore Achilles, but what e’er, know this:
 In the extremity of great and little,
 Valor and pride excel themselves in Hector,
@@ -4182,12 +4166,12 @@ In love whereof, half Hector stays at home;
 Half heart, half hand, half Hector comes to seek
 This blended knight, half Troyan and half Greek.
 
-@ACHIL.
+ACHIL.
 A maiden battle then? O, I perceive you.
 
-!Enter Diomedes.
+Enter Diomedes.
 
-@AGAM.
+AGAM.
 Here is Sir Diomed. Go, gentle knight,
 Stand by our Ajax. As you and Lord Aeneas
 Consent upon the order of their fight,
@@ -4195,15 +4179,15 @@ So be it, either to the uttermost,
 Or else a breath. The combatants being kin
 Half stints their strife before their strokes begin.
 
-!Ajax and Hector enter the lists.
+Ajax and Hector enter the lists.
 
-@ULYSS.
+ULYSS.
 They are oppos’d already.
 
-@AGAM.
+AGAM.
 What Troyan is that same that looks so heavy?
 
-@ULYSS.
+ULYSS.
 The youngest son of Priam, a true knight,
 Not yet mature, yet matchless, firm of word,
 Speaking in deeds, and deedless in his tongue,
@@ -4222,36 +4206,36 @@ Thus says Aeneas, one that knows the youth
 Even to his inches, and with private soul
 Did in great Ilion thus translate him to me.
 
-!Alarum. Hector and Ajax fight.
+Alarum. Hector and Ajax fight.
 
-@AGAM.
+AGAM.
 They are in action.
 
-@NEST.
+NEST.
 Now, Ajax, hold thine own!
 
-@TRO.
+TRO.
 ^5 Hector, thou sleep’st,
 Awake thee!
 
-@AGAM.
+AGAM.
 His blows are well dispos’d. There, Ajax!
 
-!Trumpets cease.
+Trumpets cease.
 
-@DIO.
+DIO.
 You must no more.
 
-@AENE.
+AENE.
 ^4 Princes, enough, so please you.
 
-@AJAX.
+AJAX.
 I am not warm yet, let us fight again.
 
-@DIO.
+DIO.
 As Hector pleases.
 
-@HECT.
+HECT.
 ^4 Why then will I no more.
 Thou art, great lord, my father’s sister’s son,
 A cousin-german to great Priam’s seed;
@@ -4273,53 +4257,53 @@ By him that thunders, thou hast lusty arms!
 Hector would have them fall upon him thus.
 Cousin, all honor to thee!
 
-@AJAX.
+AJAX.
 ^5 I thank thee, Hector.
 Thou art too gentle and too free a man.
 I came to kill thee, cousin, and bear hence
 A great addition earned in thy death.
 
-@HECT.
+HECT.
 Not Neoptolemus so mirable,
 On whose bright crest Fame with her loud’st Oyes
 Cries, “This is he,” could promise to himself
 A thought of added honor torn from Hector.
 
-@AENE.
+AENE.
 There is expectance here from both the sides,
 What further you will do.
 
-@HECT.
+HECT.
 ^5 We’ll answer it:
 The issue is embracement. Ajax, farewell.
 
-@AJAX.
+AJAX.
 If I might in entreaties find success,
 As seld I have the chance, I would desire
 My famous cousin to our Grecian tents.
 
-@DIO.
+DIO.
 ’Tis Agamemnon’s wish, and great Achilles
 Doth long to see unarm’d the valiant Hector.
 
-@HECT.
+HECT.
 Aeneas, call my brother Troilus to me,
 And signify this loving interview
 To the expecters of our Troyan part;
 Desire them home. Give me thy hand, my cousin.
 I will go eat with thee and see your knights.
 
-!Agamemnon and the rest come forward.
+Agamemnon and the rest come forward.
 
-@AJAX.
+AJAX.
 Great Agamemnon comes to meet us here.
 
-@HECT.
+HECT.
 The worthiest of them tell me name by name;
 But for Achilles, my own searching eyes
 Shall find him by his large and portly size.
 
-@AGAM.
+AGAM.
 Worthy all arms! As welcome as to one
 That would be rid of such an enemy.
 But that’s no welcome. Understand more clear,
@@ -4330,36 +4314,36 @@ Strain’d purely from all hollow bias-drawing,
 Bids thee, with most divine integrity,
 From heart of very heart, great Hector, welcome.
 
-@HECT.
+HECT.
 I thank thee, most imperious Agamemnon.
 
-@AGAM.
+AGAM.
 (To Troilus.)
 My well-fam’d lord of Troy, no less to you.
 
-@MEN.
+MEN.
 Let me confirm my princely brother’s greeting:
 You brace of warlike brothers, welcome hither.
 
-@HECT.
+HECT.
 Who must we answer?
 
-@AENE.
+AENE.
 ^4 The noble Menelaus.
 
-@HECT.
+HECT.
 O, you, my lord? By Mars his gauntlet, thanks!
 Mock not that I affect th’ untraded oath,
 Your quondam wife swears still by Venus’ glove.
 She’s well, but bade me not commend her to you.
 
-@MEN.
+MEN.
 Name her not now, sir, she’s a deadly theme.
 
-@HECT.
+HECT.
 O, pardon, I offend.
 
-@NEST.
+NEST.
 I have, thou gallant Troyan, seen thee oft,
 Laboring for destiny, make cruel way
 Through ranks of Greekish youth, and I have seen thee,
@@ -4371,7 +4355,7 @@ That I have said to some my standers-by
 “Lo Jupiter is yonder, dealing life!”
 And I have seen thee pause and take thy breath,
 When that a ring of Greeks have hemm’d thee in,
-Like an Olympian wrastling. This have I seen,
+Like an Olympian wrestling. This have I seen,
 But this thy countenance, still lock’d in steel,
 I never saw till now. I knew thy grandsire,
 And once fought with him. He was a soldier good,
@@ -4379,44 +4363,44 @@ But, by great Mars, the captain of us all,
 Never like thee. O, let an old man embrace thee,
 And, worthy warrior, welcome to our tents.
 
-@AENE.
+AENE.
 ’Tis the old Nestor.
 
-@HECT.
+HECT.
 Let me embrace thee, good old chronicle,
 That hast so long walk’d hand in hand with time.
 Most reverend Nestor, I am glad to clasp thee.
 
-@NEST.
+NEST.
 I would my arms could match thee in contention,
 As they contend with thee in courtesy.
 
-@HECT.
+HECT.
 I would they could.
 
-@NEST.
+NEST.
 Ha!
 By this white beard, I’d fight with thee tomorrow.
 Well, welcome, welcome!—I have seen the time.
 
-@ULYSS.
+ULYSS.
 I wonder now how yonder city stands
 When we have here her base and pillar by us.
 
-@HECT.
+HECT.
 I know your favor, Lord Ulysses, well.
 Ah, sir, there’s many a Greek and Troyan dead
 Since first I saw yourself and Diomed
 In Ilion, on your Greekish embassy.
 
-@ULYSS.
+ULYSS.
 Sir, I foretold you then what would ensue.
 My prophecy is but half his journey yet,
 For yonder walls that pertly front your town,
 Yon towers, whose wanton tops do buss the clouds,
 Must kiss their own feet.
 
-@HECT.
+HECT.
 ^5 I must not believe you.
 There they stand yet, and modestly I think
 The fall of every Phrygian stone will cost
@@ -4424,60 +4408,60 @@ A drop of Grecian blood. The end crowns all,
 And that old common arbitrator, Time,
 Will one day end it.
 
-@ULYSS.
+ULYSS.
 ^4 So to him we leave it.
 Most gentle and most valiant Hector, welcome!
 After the general, I beseech you next
 To feast with me and see me at my tent.
 
-@ACHIL.
+ACHIL.
 I shall forestall thee, Lord Ulysses, thou!
 Now, Hector, I have fed mine eyes on thee;
 I have with exact view perus’d thee, Hector,
 And quoted joint by joint.
 
-@HECT.
+HECT.
 ^5 Is this Achilles?
 
-@ACHIL.
+ACHIL.
 I am Achilles.
 
-@HECT.
+HECT.
 Stand fair, I pray thee, let me look on thee.
 
-@ACHIL.
+ACHIL.
 Behold thy fill.
 
-@HECT.
+HECT.
 ^3 Nay, I have done already.
 
-@ACHIL.
+ACHIL.
 Thou art too brief. I will the second time,
 As I would buy thee, view thee limb by limb.
 
-@HECT.
+HECT.
 O, like a book of sport thou’lt read me o’er;
 But there’s more in me than thou understand’st.
 Why dost thou so oppress me with thine eye?
 
-@ACHIL.
+ACHIL.
 Tell me, you heavens, in which part of his body
 Shall I destroy him—whether there, or there, or there?—
 That I may give the local wound a name,
 And make distinct the very breach whereout
 Hector’s great spirit flew. Answer me, heavens!
 
-@HECT.
+HECT.
 It would discredit the blest gods, proud man,
 To answer such a question. Stand again.
 Think’st thou to catch my life so pleasantly
 As to prenominate in nice conjecture
 Where thou wilt hit me dead?
 
-@ACHIL.
+ACHIL.
 ^6 I tell thee, yea.
 
-@HECT.
+HECT.
 Wert thou an oracle to tell me so,
 I’d not believe thee. Henceforth guard thee well,
 For I’ll not kill thee there, nor there, nor there,
@@ -4488,7 +4472,7 @@ His insolence draws folly from my lips,
 But I’ll endeavor deeds to match these words,
 Or may I never—
 
-@AJAX.
+AJAX.
 ^3 Do not chafe thee, cousin,
 And you, Achilles, let these threats alone,
 Till accident or purpose bring you to’t.
@@ -4496,20 +4480,20 @@ You may have every day enough of Hector,
 If you have stomach. The general state, I fear,
 Can scarce entreat you to be odd with him.
 
-@HECT.
+HECT.
 I pray you let us see you in the field;
 We have had pelting wars since you refus’d
 The Grecians’ cause.
 
-@ACHIL.
+ACHIL.
 ^4 Dost thou entreat me, Hector?
 Tomorrow do I meet thee, fell as death;
 Tonight all friends.
 
-@HECT.
+HECT.
 ^4 Thy hand upon that match.
 
-@AGAM.
+AGAM.
 First, all you peers of Greece, go to my tent;
 There in the full convive we. Afterwards,
 As Hector’s leisure and your bounties shall
@@ -4517,37 +4501,37 @@ Concur together, severally entreat him.
 Beat loud the taborins, let the trumpets blow,
 That this great soldier may his welcome know.
 
-!Exeunt all but Troilus and Ulysses.
+Exeunt all but Troilus and Ulysses.
 
-@TRO.
+TRO.
 My Lord Ulysses, tell me, I beseech you,
 In what place of the field doth Calchas keep?
 
-@ULYSS.
+ULYSS.
 At Menelaus’ tent, most princely Troilus.
 There Diomed doth feast with him tonight,
 Who neither looks upon the heaven nor earth,
 But gives all gaze and bent of amorous view
 On the fair Cressid.
 
-@TRO.
+TRO.
 Shall I, sweet lord, be bound to you so much,
 After we part from Agamemnon’s tent,
 To bring me thither?
 
-@ULYSS.
+ULYSS.
 ^4 You shall command me, sir.
 But gentle tell me, of what honor was
 This Cressida in Troy? Had she no lover there
 That wails her absence?
 
-@TRO.
+TRO.
 O, sir, to such as boasting show their scars
 A mock is due. Will you walk on, my lord?
 She was belov’d, she lov’d; she is, and doth:
 But still sweet love is food for fortune’s tooth.
 
-!Exeunt.
+Exeunt.
 
 
 
@@ -4555,70 +4539,72 @@ But still sweet love is food for fortune’s tooth.
 
 # Act 5
 ### Scene 1
-.THE GRECIAN CAMP. BEFORE ACHILLES’ TENT.
 
-!Enter Achilles and Patroclus.
 
-@ACHIL.
+The Grecian camp. Before Achilles’ tent.
+
+Enter Achilles and Patroclus.
+
+ACHIL.
 I’ll heat his blood with Greekish wine tonight,
 Which with my scimitar I’ll cool tomorrow.
 Patroclus, let us feast him to the height.
 
-@PATR.
+PATR.
 Here comes Thersites.
 
-!Enter Thersites.
+Enter Thersites.
 
-@ACHIL.
+ACHIL.
 ^4 How now, thou core of envy?
 Thou crusty batch of nature, what’s the news?
 
-@THER.
+THER.
 Why, thou picture of what thou seemest, and idol of idiot-worshippers, here’s a letter for thee.
 
-@ACHIL.
+ACHIL.
 From whence, fragment?
 
-@THER.
+THER.
 Why, thou full dish of fool, from Troy.
 
-@PATR.
+PATR.
 Who keeps the tent now?
 
-@THER.
+THER.
 The surgeon’s box, or the patient’s wound.
 
-@PATR.
+PATR.
 Well said, adversity! And what needs these tricks?
 
-@THER.
+THER.
 Prithee be silent, boy, I profit not by thy talk. Thou art said to be Achilles’ male varlot.
 
-@PATR.
+PATR.
 Male varlot, you rogue! What’s that?
 
-@THER.
+THER.
 Why, his masculine whore. Now the rotten diseases of the south, the guts-griping, ruptures, catarrhs, loads a’ gravel in the back, lethargies, cold palsies, raw eyes, dirt-rotten livers, whissing lungs, bladders full of imposthume, sciaticas, lime-kills i’ th’ palm, incurable bone-ache, and the rivell’d fee-simple of the tetter, take and take again such preposterous discoveries!
 
-@PATR.
+PATR.
 Why, thou damnable box of envy, thou, what means thou to curse thus?
 
-@THER.
+THER.
 Do I curse thee?
 
-@PATR.
+PATR.
 Why, no, you ruinous butt, you whoreson indistinguishable cur, no.
 
-@THER.
+THER.
 No? Why art thou then exasperate, thou idle immaterial skein of sleave-silk, thou green sarcenet flap for a sore eye, thou tossel of a prodigal’s purse, thou? Ah, how the poor world is pest’red with such water-flies, diminutives of nature!
 
-@PATR.
+PATR.
 Out, gall!
 
-@THER.
+THER.
 Finch-egg!
 
-@ACHIL.
+ACHIL.
 My sweet Patroclus, I am thwarted quite
 From my great purpose in tomorrow’s battle.
 Here is a letter from Queen Hecuba,
@@ -4631,339 +4617,341 @@ Come, come, Thersites, help to trim my tent;
 This night in banqueting must all be spent.
 Away, Patroclus!
 
-!Exeunt Achilles and Patroclus.
+Exeunt Achilles and Patroclus.
 
-@THER.
-With too much blood and too little brain, these two may run mad, but, if with too much brain and too little blood they do, I’ll be a curer of madmen. Here’s Agamemnon, an honest fellow enough, and one that loves quails, but he has not so much brain as ear-wax; and the goodly transformation of Jupiter there, his brother, the bull, the primitive statue and oblique memorial of cuckolds, a thrifty shoeing-horn in a chain, hanging at his brother’s leg—to what form but that he is, should wit larded with malice, and malice fac’d with wit, turn him to? To an ass, were nothing, he is both ass and ox; to an ox, were nothing, he is both ox and ass. To be a dog, a moile, a cat, a fitchook, a toad, a lezard, an owl, a puttock, or a herring without a roe, I would not care; but to be Menelaus, I would conspire against destiny. Ask me not what I would be if I were not Thersites, for I care not to be the louse of a lazar, so I were not Menelaus. Hey-day! Sprites and fires!
+THER.
+With too much blood and too little brain, these two may run mad, but, if with too much brain and too little blood they do, I’ll be a curer of madmen. Here’s Agamemnon, an honest fellow enough, and one that loves quails, but he has not so much brain as ear-wax; and the goodly transformation of Jupiter there, his brother, the bull, the primitive statue and oblique memorial of cuckolds, a thrifty shoeing-horn in a chain, hanging at his brother’s leg—to what form but that he is, should wit larded with malice, and malice fac’d with wit, turn him to? To an ass, were nothing, he is both ass and ox; to an ox, were nothing, he is both ox and ass. To be a dog, a mule, a cat, a fitchook, a toad, a lizard, an owl, a puttock, or a herring without a roe, I would not care; but to be Menelaus, I would conspire against destiny. Ask me not what I would be if I were not Thersites, for I care not to be the louse of a lazar, so I were not Menelaus. Hey-day! Sprites and fires!
 
-!Enter Agamemnon, Hector, Troilus, Ajax, Ulysses, Nestor, Menelaus, and Diomedes, with lights.
+Enter Agamemnon, Hector, Troilus, Ajax, Ulysses, Nestor, Menelaus, and Diomedes, with lights.
 
-@AGAM.
+AGAM.
 We go wrong, we go wrong.
 
-@AJAX.
+AJAX.
 ^6 No, yonder ’tis,
 There where we see the lights.
 
-@HECT.
+HECT.
 ^6 I trouble you.
 
-@AJAX.
+AJAX.
 No, not a whit.
 
-!Enter Achilles.
+Enter Achilles.
 
-@ULYSS.
+ULYSS.
 ^3 Here comes himself to guide you.
 
-@ACHIL.
+ACHIL.
 Welcome, brave Hector, welcome, princes all.
 
-@AGAM.
+AGAM.
 So now, fair Prince of Troy, I bid good night.
 Ajax commands the guard to tend on you.
 
-@HECT.
+HECT.
 Thanks and good night to the Greeks’ general.
 
-@MEN.
+MEN.
 Good night, my lord.
 
-@HECT.
+HECT.
 ^4 Good night, sweet Lord Menelaus.
 
-@THER.
+THER.
 Sweet draught! “Sweet,” quoth ’a! Sweet sink, sweet sewer.
 
-@ACHIL.
+ACHIL.
 Good night and welcome, both at once, to those
 That go or tarry.
 
-@AGAM.
+AGAM.
 Good night.
 
-!Exeunt Agamemnon, Menelaus.
+Exeunt Agamemnon, Menelaus.
 
-@ACHIL.
+ACHIL.
 Old Nestor tarries; and you too, Diomed,
 Keep Hector company an hour or two.
 
-@DIO.
+DIO.
 I cannot, lord, I have important business,
 The tide whereof is now. Good night, great Hector.
 
-@HECT.
+HECT.
 Give me your hand.
 
-@ULYSS.
+ULYSS.
 (Aside to Troilus)
 Follow his torch, he goes to Calchas’ tent.
 I’ll keep you company.
 
-@TRO.
+TRO.
 ^5 Sweet sir, you honor me.
 
-@HECT.
+HECT.
 And so good night.
 
-!Exit Diomedes, Ulysses and Troilus following.
+Exit Diomedes, Ulysses and Troilus following.
 
-@ACHIL.
+ACHIL.
 ^4 Come, come, enter my tent.
 
-!Exeunt Achilles, Hector, Ajax, and Nestor.
+Exeunt Achilles, Hector, Ajax, and Nestor.
 
-@THER.
+THER.
 That same Diomed’s a false-hearted rogue, a most unjust knave. I will no more trust him when he leers than I will a serpent when he hisses. He will spend his mouth and promise, like Brabbler the hound, but when he performs, astronomers foretell it: it is prodigious, there will come some change; the sun borrows of the moon when Diomed keeps his word. I will rather leave to see Hector than not to dog him. They say he keeps a Troyan drab, and uses the traitor Calchas’ tent. I’ll after—nothing but lechery! All incontinent varlots!
 
-!Exit.
+Exit.
 
 
 ### Scene 2
-.THE GRECIAN CAMP. BEFORE CALCHAS’S TENT.
 
-!Enter Diomedes.
 
-@DIO.
+The Grecian camp. Before Calchas’s tent.
+
+Enter Diomedes.
+
+DIO.
 What, are you up here, ho? Speak!
 
-@CAL.
+CAL.
 (Within.)
 Who calls?
 
-@DIO.
+DIO.
 Diomed. Calchas, I think. Where’s your daughter?
 
-@CAL.
+CAL.
 (Within.)
 She comes to you.
 
-!Enter Troilus and Ulysses at a distance; after them, Thersites.
+Enter Troilus and Ulysses at a distance; after them, Thersites.
 
-@ULYSS.
+ULYSS.
 Stand where the torch may not discover us.
 
-!Enter Cressida.
+Enter Cressida.
 
-@TRO.
+TRO.
 Cressid comes forth to him.
 
-@DIO.
+DIO.
 ^5 How now, my charge?
 
-@CRES.
+CRES.
 Now, my sweet guardian, hark, a word with you.
 
-!Whispers.
+Whispers.
 
-@TRO.
+TRO.
 Yea, so familiar?
 
-@ULYSS.
+ULYSS.
 She will sing any man at first sight.
 
-@THER.
+THER.
 And any man may sing her, if he can take her cliff; she’s noted.
 
-@DIO.
+DIO.
 Will you remember?
 
-@CRES.
+CRES.
 Remember? Yes.
 
-@DIO.
+DIO.
 Nay, but do then,
 And let your mind be coupled with your words.
 
-@TRO.
+TRO.
 What shall she remember?
 
-@ULYSS.
+ULYSS.
 List!
 
-@CRES.
+CRES.
 Sweet honey Greek, tempt me no more to folly.
 
-@THER.
+THER.
 Roguery!
 
-@DIO.
+DIO.
 Nay then—
 
-@CRES.
+CRES.
 I’ll tell you what—
 
-@DIO.
+DIO.
 Fo, fo, come, tell a pin. You are forsworn.
 
-@CRES.
+CRES.
 In faith, I cannot. What would you have me do?
 
-@THER.
+THER.
 A juggling trick—to be secretly open.
 
-@DIO.
+DIO.
 What did you swear you would bestow on me?
 
-@CRES.
+CRES.
 I prithee do not hold me to mine oath,
 Bid me do any thing but that, sweet Greek.
 
-@DIO.
+DIO.
 Good night.
 
-@TRO.
+TRO.
 Hold, patience.
 
-@ULYSS.
+ULYSS.
 How now, Troyan?
 
-@CRES.
+CRES.
 Diomed—
 
-@DIO.
+DIO.
 No, no, good night, I’ll be your fool no more.
 
-@TRO.
+TRO.
 Thy better must.
 
-@CRES.
+CRES.
 Hark a word in your ear.
 
-@TRO.
+TRO.
 O plague and madness!
 
-@ULYSS.
+ULYSS.
 You are moved, Prince, let us depart, I pray,
 Lest your displeasure should enlarge itself
 To wrathful terms. This place is dangerous,
 The time right deadly. I beseech you go.
 
-@TRO.
+TRO.
 Behold, I pray you.
 
-@ULYSS.
+ULYSS.
 ^4 Now, good my lord, go off;
 You flow to great distraction. Come, my lord.
 
-@TRO.
+TRO.
 I prithee stay.
 
-@ULYSS.
+ULYSS.
 ^3 You have not patience, come.
 
-@TRO.
+TRO.
 I pray you stay. By hell and all hell’s torments,
 I will not speak a word.
 
-@DIO.
+DIO.
 ^5 And so good night.
 
-@CRES.
+CRES.
 Nay, but you part in anger.
 
-@TRO.
+TRO.
 ^5 Doth that grieve thee?
 O withered truth!
 
-@ULYSS.
+ULYSS.
 ^4 How now, my lord?
 
-@TRO.
+TRO.
 ^8 By Jove
 I will be patient.
 
-@CRES.
+CRES.
 ^4 Guardian! Why, Greek!
 
-@DIO.
-Fo, fo, *adieu* , you palter.
+DIO.
+Fo, fo, adieu, you palter.
 
-@CRES.
+CRES.
 In faith, I do not. Come hither once again.
 
-@ULYSS.
+ULYSS.
 You shake, my lord, at something; will you go?
 You will break out.
 
-@TRO.
+TRO.
 ^4 She strokes his cheek.
 
-@ULYSS.
+ULYSS.
 ^9 Come, come.
 
-@TRO.
+TRO.
 Nay, stay; by Jove I will not speak a word.
 There is between my will and all offenses
 A guard of patience. Stay a little while.
 
-@THER.
+THER.
 How the devil Luxury, with his fat rump and potato finger, tickles these together! Fry, lechery, fry!
 
-@DIO.
+DIO.
 But will you then?
 
-@CRES.
+CRES.
 In faith I will lo, never trust me else.
 
-@DIO.
+DIO.
 Give me some token for the surety of it.
 
-@CRES.
+CRES.
 I’ll fetch you one.
 
-!Exit.
+Exit.
 
-@ULYSS.
+ULYSS.
 You have sworn patience.
 
-@TRO.
+TRO.
 ^5 Fear me not, my lord.
 I will not be myself, nor have cognition
 Of what I feel; I am all patience.
 
-!Enter Cressida.
+Enter Cressida.
 
-@THER.
+THER.
 Now the pledge, now, now, now!
 
-@CRES.
+CRES.
 Here, Diomed, keep this sleeve.
 
-@TRO.
+TRO.
 O beauty, where is thy faith?
 
-@ULYSS.
+ULYSS.
 ^6 My lord—
 
-@TRO.
+TRO.
 I will be patient, outwardly I will.
 
-@CRES.
+CRES.
 You look upon that sleeve, behold it well.
 He lov’d me—O false wench!—Give’t me again.
 
-@DIO.
+DIO.
 Whose was’t?
 
-@CRES.
+CRES.
 It is no matter now I ha’t again.
 I will not meet with you tomorrow night.
 I prithee, Diomed, visit me no more.
 
-@THER.
+THER.
 Now she sharpens. Well said, whetstone!
 
-@DIO.
+DIO.
 I shall have it.
 
-@CRES.
+CRES.
 ^3 What, this?
 
-@DIO.
+DIO.
 ^6 Ay, that.
 
-@CRES.
+CRES.
 O all you gods! O pretty, pretty pledge!
 Thy master now lies thinking on his bed
 Of thee and me, and sighs, and takes my glove,
@@ -4971,77 +4959,74 @@ And gives memorial dainty kisses to it,
 As I kiss thee. Nay, do not snatch it from me.
 He that takes that doth take my heart withal.
 
-@DIO.
+DIO.
 I had your heart before, this follows it.
 
-@TRO.
+TRO.
 I did swear patience.
 
-@CRES.
+CRES.
 You shall not have it, Diomed, faith, you shall not.
 I’ll give you something else.
 
-@DIO.
+DIO.
 I will have this. Whose was it?
 
-@CRES.
+CRES.
 ^7 It is no matter.
 
-@DIO.
+DIO.
 Come, tell me whose it was.
 
-@CRES.
+CRES.
 ’Twas one’s that lov’d me better than you will.
 But now you have it, take it.
 
-@DIO.
+DIO.
 ^6 Whose was it?
 
-@CRES.
+CRES.
 By all Diana’s waiting-women yond,
 And by herself, I will not tell you whose.
 
-@DIO.
+DIO.
 Tomorrow will I wear it on my helm,
 And grieve his spirit that dares not challenge it.
 
-@TRO.
+TRO.
 Wert thou the devil, and wor’st it on thy horn,
 It should be challeng’d.
 
-@CRES.
+CRES.
 Well, well, ’tis done, ’tis past. And yet it is not;
 I will not keep my word.
 
-@DIO.
+DIO.
 ^5 Why then farewell,
 Thou never shalt mock Diomed again.
 
-@CRES.
+CRES.
 You shall not go. One cannot speak a word
 But it straight starts you.
 
-@DIO.
+DIO.
 ^5 I do not like this fooling.
 
-@THER.
+THER.
 Nor I, by Pluto; but that that likes not you pleases me best.
 
-@DIO.
+DIO.
 What, shall I come? The hour—
 
-@CRES.
+CRES.
 Ay, come—O Jove!—do come.—I shall be plagued.
 
-@DIO.
+DIO.
 Farewell till then.
 
-@CRES.
+CRES.
 ^4 Good night. I prithee come.
-
-!Exit Diomedes.
-
-@CRES. (CONT'D)
+(Exit Diomedes.)
 Troilus, farewell! One eye yet looks on thee,
 But with my heart the other eye doth see.
 Ah, poor our sex! This fault in us I find,
@@ -5049,22 +5034,22 @@ The error of our eye directs our mind.
 What error leads must err; O then conclude,
 Minds sway’d by eyes are full of turpitude.
 
-!Exit.
+Exit.
 
-@THER.
+THER.
 A proof of strength she could not publish more,
 Unless she said, “My mind is now turn’d whore.”
 
-@ULYSS.
+ULYSS.
 All’s done, my lord.
 
-@TRO.
+TRO.
 ^4 It is.
 
-@ULYSS.
+ULYSS.
 ^5 Why stay we then?
 
-@TRO.
+TRO.
 To make a recordation to my soul
 Of every syllable that here was spoke.
 But if I tell how these two did co-act,
@@ -5076,38 +5061,38 @@ As if those organs had deceptious functions,
 Created only to calumniate.
 Was Cressid here?
 
-@ULYSS.
+ULYSS.
 ^4 I cannot conjure, Troyan.
 
-@TRO.
+TRO.
 She was not, sure.
 
-@ULYSS.
+ULYSS.
 ^4 Most sure she was.
 
-@TRO.
+TRO.
 Why, my negation hath no taste of madness.
 
-@ULYSS.
+ULYSS.
 Nor mine, my lord; Cressid was here but now.
 
-@TRO.
+TRO.
 Let it not be believ’d for womanhood!
 Think we had mothers, do not give advantage
 To stubborn critics, apt without a theme
 For depravation, to square the general sex
 By Cressid’s rule. Rather think this not Cressid.
 
-@ULYSS.
+ULYSS.
 What hath she done, Prince, that can soil our mothers?
 
-@TRO.
+TRO.
 Nothing at all, unless that this were she.
 
-@THER.
+THER.
 Will ’a swagger himself out on ’s own eyes?
 
-@TRO.
+TRO.
 This she? No, this is Diomed’s Cressida.
 If beauty have a soul, this is not she;
 If souls guide vows, if vows be sanctimonies,
@@ -5133,11 +5118,11 @@ The fractions of her faith, orts of her love,
 The fragments, scraps, the bits and greasy relics
 Of her o’er-eaten faith, are given to Diomed.
 
-@ULYSS.
+ULYSS.
 May worthy Troilus be half attached
 With that which here his passion doth express?
 
-@TRO.
+TRO.
 Ay, Greek, and that shall be divulged well
 In characters as red as Mars his heart
 Inflam’d with Venus. Never did young man fancy
@@ -5153,121 +5138,120 @@ Shall dizzy with more clamor Neptune’s ear,
 In his descent, than shall my prompted sword
 Falling on Diomed.
 
-@THER.
+THER.
 He’ll tickle it for his concupy.
 
-@TRO.
+TRO.
 O Cressid! O false Cressid! False, false, false!
 Let all untruths stand by thy stained name,
 And they’ll seem glorious.
 
-@ULYSS.
+ULYSS.
 ^5 O, contain yourself;
 Your passion draws ears hither.
 
-!Enter Aeneas.
+Enter Aeneas.
 
-@AENE.
+AENE.
 I have been seeking you this hour, my lord.
 Hector by this is arming him in Troy;
 Ajax, your guard, stays to conduct you home.
 
-@TRO.
-Have with you, Prince. My courteous lord, *adieu* .
+TRO.
+Have with you, Prince. My courteous lord, adieu.
 Farewell, revolted fair! And, Diomed,
 Stand fast, and wear a castle on thy head!
 
-@ULYSS.
+ULYSS.
 I’ll bring you to the gates.
 
-@TRO.
+TRO.
 Accept distracted thanks.
 
-!Exeunt Troilus, Aeneas, and Ulysses.
+Exeunt Troilus, Aeneas, and Ulysses.
 
-@THER.
+THER.
 Would I could meet that rogue Diomed! I would croak like a raven, I would bode, I would bode. Patroclus will give me any thing for the intelligence of this whore. The parrot will not do more for an almond than he for a commodious drab. Lechery, lechery, still wars and lechery, nothing else holds fashion. A burning devil take them!
 
-!Exit.
+Exit.
 
 
 ### Scene 3
-.TROY. BEFORE PRIAM’S PALACE.
 
-!Enter Hector and Andromache.
 
-@AND.
+Troy. Before Priam’s palace.
+
+Enter Hector and Andromache.
+
+AND.
 When was my lord so much ungently temper’d
 To stop his ears against admonishment?
 Unarm, unarm, and do not fight today.
 
-@HECT.
+HECT.
 You train me to offend you, get you in.
 By all the everlasting gods, I’ll go!
 
-@AND.
+AND.
 My dreams will sure prove ominous to the day.
 
-@HECT.
+HECT.
 No more, I say.
 
-!Enter Cassandra.
+Enter Cassandra.
 
-@CAS.
+CAS.
 ^4 Where is my brother Hector?
 
-@AND.
+AND.
 Here, sister, arm’d, and bloody in intent.
 Consort with me in loud and dear petition,
 Pursue we him on knees; for I have dreamt
 Of bloody turbulence, and this whole night
 Hath nothing been but shapes and forms of slaughter.
 
-@CAS.
+CAS.
 O, ’tis true.
 
-@HECT.
+HECT.
 ^3 Ho! Bid my trumpet sound!
 
-@CAS.
+CAS.
 No notes of sally, for the heavens, sweet brother.
 
-@HECT.
+HECT.
 Be gone, I say, the gods have heard me swear.
 
-@CAS.
+CAS.
 The gods are deaf to hot and peevish vows;
 They are polluted off’rings, more abhorr’d
 Than spotted livers in the sacrifice.
 
-@AND.
+AND.
 O, be persuaded! Do not count it holy
 To hurt by being just; it is as lawful,
 For we would give much, to use violent thefts,
 And rob in the behalf of charity.
 
-@CAS.
+CAS.
 It is the purpose that makes strong the vow,
 But vows to every purpose must not hold;
 Unarm, sweet Hector.
 
-@HECT.
+HECT.
 ^4 Hold you still, I say;
 Mine honor keeps the weather of my fate.
 Life every man holds dear, but the dear man
 Holds honor far more precious-dear than life.
-
-!Enter Troilus.
-
-@HECT. (CONT'D)
+(Enter Troilus.)
 How now, young man, meanest thou to fight today?
 
-@AND.
+AND.
 Cassandra, call my father to persuade.
 
-!Exit Cassandra.
+Exit Cassandra.
 
-@HECT.
+HECT.
 No, faith, young Troilus, doff thy harness, youth,
 I am today i’ th’ vein of chivalry.
 Let grow thy sinews till their knots be strong,
@@ -5275,44 +5259,44 @@ And tempt not yet the brushes of the war.
 Unarm thee, go, and doubt thou not, brave boy,
 I’ll stand today for thee and me and Troy.
 
-@TRO.
+TRO.
 Brother, you have a vice of mercy in you,
 Which better fits a lion than a man.
 
-@HECT.
+HECT.
 What vice is that? Good Troilus, chide me for it.
 
-@TRO.
+TRO.
 When many times the captive Grecian falls,
 Even in the fan and wind of your fair sword,
 You bid them rise and live.
 
-@HECT.
+HECT.
 O, ’tis fair play.
 
-@TRO.
+TRO.
 ^3 Fool’s play, by heaven, Hector.
 
-@HECT.
+HECT.
 How now? How now?
 
-@TRO.
+TRO.
 ^4 For th’ love of all the gods,
 Let’s leave the hermit pity with our mother,
 And when we have our armors buckled on,
 The venom’d vengeance ride upon our swords,
 Spur them to ruthful work, rein them from ruth.
 
-@HECT.
+HECT.
 Fie, savage, fie!
 
-@TRO.
+TRO.
 ^3 Hector, then ’tis wars.
 
-@HECT.
+HECT.
 Troilus, I would not have you fight today.
 
-@TRO.
+TRO.
 Who should withhold me?
 Not fate, obedience, nor the hand of Mars
 Beck’ning with fiery truncheon my retire,
@@ -5322,15 +5306,15 @@ Nor you, my brother, with your true sword drawn,
 Oppos’d to hinder me, should stop my way,
 But by my ruin.
 
-!Enter Priam and Cassandra.
+Enter Priam and Cassandra.
 
-@CAS.
+CAS.
 Lay hold upon him, Priam, hold him fast,
 He is thy crutch. Now if thou lose thy stay,
 Thou on him leaning, and all Troy on thee,
 Fall all together.
 
-@PRI.
+PRI.
 ^4 Come, Hector, come, go back.
 Thy wife hath dreamt, thy mother hath had visions,
 Cassandra doth foresee, and I myself
@@ -5338,39 +5322,39 @@ Am like a prophet suddenly enrapt
 To tell thee that this day is ominous:
 Therefore come back.
 
-@HECT.
+HECT.
 ^4 Aeneas is a-field,
 And I do stand engag’d to many Greeks,
 Even in the faith of valor, to appear
 This morning to them.
 
-@PRI.
+PRI.
 ^5 Ay, but thou shalt not go.
 
-@HECT.
+HECT.
 I must not break my faith.
 You know me dutiful, therefore, dear sir,
 Let me not shame respect, but give me leave
 To take that course by your consent and voice,
 Which you do here forbid me, royal Priam.
 
-@CAS.
+CAS.
 O Priam, yield not to him.
 
-@AND.
+AND.
 ^5 Do not, dear father.
 
-@HECT.
+HECT.
 Andromache, I am offended with you,
 Upon the love you bear me, get you in.
 
-!Exit Andromache.
+Exit Andromache.
 
-@TRO.
+TRO.
 This foolish, dreaming, superstitious girl
 Makes all these bodements.
 
-@CAS.
+CAS.
 ^5 O, farewell, dear Hector.
 Look how thou diest, look how thy eye turns pale.
 Look how thy wounds do bleed at many vents,
@@ -5380,128 +5364,126 @@ Behold, distraction, frenzy, and amazement,
 Like witless antics, one another meet,
 And all cry, Hector! Hector’s dead! O Hector!
 
-@TRO.
+TRO.
 Away, away.
 
-@CAS.
+CAS.
 Farewell; yet soft: Hector, I take my leave.
 Thou dost thyself and all our Troy deceive.
 
-!Exit.
+Exit.
 
-@HECT.
+HECT.
 You are amaz’d, my liege, at her exclaim.
 Go in and cheer the town. We’ll forth and fight,
 Do deeds worth praise, and tell you them at night.
 
-@PRI.
+PRI.
 Farewell, the gods with safety stand about thee!
 
-!Exeunt severally Priam and Hector. Alarum.
+Exeunt severally Priam and Hector. Alarum.
 
-@TRO.
+TRO.
 They are at it, hark! Proud Diomed, believe,
 I come to lose my arm, or win my sleeve.
 
-!Enter Pandar.
+Enter Pandar.
 
-@PAN.
+PAN.
 Do you hear, my lord? Do you hear?
 
-@TRO.
+TRO.
 What now?
 
-@PAN.
+PAN.
 Here’s a letter come from yond poor girl.
 
-@TRO.
+TRO.
 Let me read.
 
-@PAN.
+PAN.
 A whoreson tisick, a whoreson rascally tisick so troubles me, and the foolish fortune of this girl, and what one thing, what another, that I shall leave you one a’ th’s days; and I have a rheum in mine eyes too, and such an ache in my bones, that unless a man were curs’d, I cannot tell what to think on’t. What says she there?
 
-@TRO.
+TRO.
 Words, words, mere words, no matter from the heart;
 Th’ effect doth operate another way.
-
-!Tearing the letter.
-
-@TRO. (CONT'D)
+(Tearing the letter.)
 Go, wind, to wind, there turn and change together.
 My love with words and errors still she feeds,
 But edifies another with her deeds.
 
-!Exeunt severally.
+Exeunt severally.
 
 
 ### Scene 4
-.THE PLAINS BETWEEN TROY AND THE GRECIAN CAMP.
 
-!Alarum. Enter Thersites. Excursions.
 
-@THER.
-Now they are clapper-clawing one another; I’ll go look on. That dissembling abominable varlet, Diomed, has got that same scurvy doting foolish young knave’s sleeve of Troy there in his helm. I would fain see them meet, that that same young Troyan ass, that loves the whore there, might send that Greekish whoremasterly villain with the sleeve back to the dissembling luxurious drab, of a sleeveless arrant. A’ th’ t’ other side, the policy of those crafty swearing rascals, that stale old mouse-eaten dry cheese, Nestor, and that same dog-fox, Ulysses, is not prov’d worth a blackberry. They set me up, in policy, that mongril cur, Ajax, against that dog of as bad a kind, Achilles; and now is the cur Ajax prouder than the cur Achilles, and will not arm today; whereupon the Grecians began to proclaim barbarism, and policy grows into an ill opinion.
+The plains between Troy and the Grecian camp.
 
-!Enter Diomedes, and Troilus following.
+Alarum. Enter Thersites. Excursions.
 
-@THER. (CONT'D)
+THER.
+Now they are clapper-clawing one another; I’ll go look on. That dissembling abominable varlet, Diomed, has got that same scurvy doting foolish young knave’s sleeve of Troy there in his helm. I would fain see them meet, that that same young Troyan ass, that loves the whore there, might send that Greekish whoremasterly villain with the sleeve back to the dissembling luxurious drab, of a sleeveless arrant. A’ th’ t’ other side, the policy of those crafty swearing rascals, that stale old mouse-eaten dry cheese, Nestor, and that same dog-fox, Ulysses, is not prov’d worth a blackberry. They set me up, in policy, that mongrel cur, Ajax, against that dog of as bad a kind, Achilles; and now is the cur Ajax prouder than the cur Achilles, and will not arm today; whereupon the Grecians began to proclaim barbarism, and policy grows into an ill opinion.
+(Enter Diomedes, and Troilus following.)
 Soft, here comes sleeve and t’ other.
 
-@TRO.
+TRO.
 Fly not, for shouldst thou take the river Styx,
 I would swim after.
 
-@DIO.
+DIO.
 ^4 Thou dost miscall retire.
 I do not fly, but advantageous care
 Withdrew me from the odds of multitude.
 Have at thee!
 
-@THER.
+THER.
 Hold thy whore, Grecian!—now for thy whore, Troyan!—now the sleeve, now the sleeve!
 
-!Exeunt Troilus and Diomedes fighting.
+Exeunt Troilus and Diomedes fighting.
 
-!Enter Hector.
+Enter Hector.
 
-@HECT.
+HECT.
 What art thou, Greek? Art thou for Hector’s match?
 Art thou of blood and honor?
 
-@THER.
+THER.
 No, no, I am a rascal, a scurvy railing knave, a very filthy rogue.
 
-@HECT.
+HECT.
 I do believe thee, live.
 
-!Exit.
+Exit.
 
-@THER.
+THER.
 God-a-mercy, that thou wilt believe me, but a plague break thy neck—for frighting me! What’s become of the wenching rogues? I think they have swallow’d one another. I would laugh at that miracle—yet in a sort lechery eats itself. I’ll seek them.
 
-!Exit.
+Exit.
 
 
 ### Scene 5
-.ANOTHER PART OF THE PLAINS.
 
-!Enter Diomedes and his Servant.
 
-@DIO.
+Another part of the plains.
+
+Enter Diomedes and his Servant.
+
+DIO.
 Go, go, my servant, take thou Troilus’ horse,
 Present the fair steed to my lady Cressid.
 Fellow, commend my service to her beauty;
 Tell her I have chastis’d the amorous Troyan,
 And am her knight by proof.
 
-@DIO. SERV.
+DIO. SERV.
 ^6 I go, my lord.
 
-!Exit.
+Exit.
 
-!Enter Agamemnon.
+Enter Agamemnon.
 
-@AGAM.
+AGAM.
 Renew, renew! The fierce Polydamas
 Hath beat down Menon; bastard Margarelon
 Hath Doreus prisoner,
@@ -5514,9 +5496,9 @@ Sore hurt and bruised. The dreadful Sagittary
 Appalls our numbers. Haste we, Diomed,
 To reinforcement, or we perish all.
 
-!Enter Nestor.
+Enter Nestor.
 
-@NEST.
+NEST.
 Go bear Patroclus’ body to Achilles,
 And bid the snail-pac’d Ajax arm for shame.
 There is a thousand Hectors in the field:
@@ -5531,9 +5513,9 @@ Dexterity so obeying appetite
 That what he will he does, and does so much
 That proof is call’d impossibility.
 
-!Enter Ulysses.
+Enter Ulysses.
 
-@ULYSS.
+ULYSS.
 O, courage, courage, princes! Great Achilles
 Is arming, weeping, cursing, vowing vengeance.
 Patroclus’ wounds have rous’d his drowsy blood,
@@ -5548,138 +5530,139 @@ With such a careless force, and forceless care,
 As if that luck, in very spite of cunning,
 Bade him win all.
 
-!Enter Ajax.
+Enter Ajax.
 
-@AJAX.
+AJAX.
 Troilus, thou coward Troilus!
 
-!Exit.
+Exit.
 
-@DIO.
+DIO.
 Ay, there, there.
 
-@NEST.
+NEST.
 So, so, we draw together.
 
-!Exit.
+Exit.
 
-!Enter Achilles.
+Enter Achilles.
 
-@ACHIL.
+ACHIL.
 ^6 Where is this Hector?
 Come, come, thou boy-queller, show thy face,
 Know what it is to meet Achilles angry.
 Hector, where’s Hector? I will none but Hector.
 
-!Exeunt.
+Exeunt.
 
 
 ### Scene 6
-.ANOTHER PART OF THE PLAINS.
 
-!Enter Ajax.
 
-@AJAX.
+Another part of the plains.
+
+Enter Ajax.
+
+AJAX.
 Troilus, thou coward Troilus, show thy head!
 
-!Enter Diomedes.
+Enter Diomedes.
 
-@DIO.
+DIO.
 Troilus, I say, where’s Troilus?
 
-@AJAX.
+AJAX.
 ^7 What wouldst thou?
 
-@DIO.
+DIO.
 I would correct him.
 
-@AJAX.
+AJAX.
 Were I the general, thou shouldst have my office
 Ere that correction. Troilus, I say, what, Troilus!
 
-!Enter Troilus.
+Enter Troilus.
 
-@TRO.
+TRO.
 O traitor Diomed! Turn thy false face, thou traitor,
 And pay thy life thou owest me for my horse.
 
-@DIO.
+DIO.
 Ha, art thou there?
 
-@AJAX.
+AJAX.
 I’ll fight with him alone. Stand, Diomed.
 
-@DIO.
+DIO.
 He is my prize, I will not look upon.
 
-@TRO.
+TRO.
 Come both you cogging Greeks, have at you both!
 
-!Exeunt fighting.
+Exeunt fighting.
 
-!Enter Hector.
+Enter Hector.
 
-@HECT.
+HECT.
 Yea, Troilus? O, well fought, my youngest brother!
 
-!Enter Achilles.
+Enter Achilles.
 
-@ACHIL.
+ACHIL.
 Now do I see thee, ha! Have at thee, Hector!
 
-!They fight.
+They fight.
 
-@HECT.
+HECT.
 Pause if thou wilt.
 
-@ACHIL.
+ACHIL.
 I do disdain thy courtesy, proud Troyan.
 Be happy that my arms are out of use;
 My rest and negligence befriends thee now,
 But thou anon shalt hear of me again;
 Till when, go seek thy fortune.
 
-!Exit.
+Exit.
 
-@HECT.
+HECT.
 ^7 Fare thee well.
 I would have been much more a fresher man,
 Had I expected thee. How now, my brother?
 
-!Enter Troilus.
+Enter Troilus.
 
-@TRO.
+TRO.
 Ajax hath ta’en Aeneas! Shall it be?
 No, by the flame of yonder glorious heaven,
 He shall not carry him; I’ll be ta’en too,
 Or bring him off. Fate, hear me what I say!
 I reck not though I end my life today.
 
-!Exit.
+Exit.
 
-!Enter a Greek Knight in armor.
+Enter a Greek Knight in armor.
 
-@HECT.
+HECT.
 Stand, stand, thou Greek, thou art a goodly mark.
 No? Wilt thou not? I like thy armor well;
 I’ll frush it and unlock the rivets all,
 But I’ll be master of it.
-
-!Exit Greek Knight.
-
-@HECT. (CONT'D)
+(Exit Greek Knight.)
 ^5 Wilt thou not, beast, abide?
 Why then fly on, I’ll hunt thee for thy hide.
 
-!Exit.
+Exit.
 
 
 ### Scene 7
-.ANOTHER PART OF THE PLAINS.
 
-!Enter Achilles with Myrmidons.
 
-@ACHIL.
+Another part of the plains.
+
+Enter Achilles with Myrmidons.
+
+ACHIL.
 Come here about me, you my Myrmidons,
 Mark what I say. Attend me where I wheel;
 Strike not a stroke, but keep yourselves in breath,
@@ -5689,144 +5672,141 @@ In fellest manner execute your arms.
 Follow me, sirs, and my proceedings eye,
 It is decreed Hector the great must die.
 
-!Exeunt.
+Exeunt.
 
-!Enter Thersites; Menelaus and Paris fighting.
+Enter Thersites; Menelaus and Paris fighting.
 
-@THER.
+THER.
 The cuckold and the cuckold-maker are at it. Now, bull! Now, dog! ’Loo, Paris, ’loo! Now my double-henn’d Spartan! ’Loo, Paris, ’loo! The bull has the game, ware horns ho!
 
-!Exeunt Paris and Menelaus.
+Exeunt Paris and Menelaus.
 
-!Enter Bastard Margarelon.
+Enter Bastard Margarelon.
 
-@MAR.
+MAR.
 Turn, slave, and fight.
 
-@THER.
+THER.
 What art thou?
 
-@MAR.
+MAR.
 A bastard son of Priam’s.
 
-@THER.
+THER.
 I am a bastard too, I love bastards. I am bastard begot, bastard instructed, bastard in mind, bastard in valor, in every thing illegitimate. One bear will not bite another, and wherefore should one bastard? Take heed, the quarrel’s most ominous to us. If the son of a whore fight for a whore, he tempts judgment. Farewell, bastard.
 
-!Exit.
+Exit.
 
-@MAR.
+MAR.
 The devil take thee, coward!
 
-!Exit.
+Exit.
 
 
 ### Scene 8
-.ANOTHER PART OF THE PLAINS.
 
-!Enter Hector.
 
-@HECT.
+Another part of the plains.
+
+Enter Hector.
+
+HECT.
 Most putrefied core, so fair without,
 Thy goodly armor thus hath cost thy life.
 Now is my day’s work done, I’ll take good breath.
 Rest, sword, thou hast thy fill of blood and death.
 
-!Puts off his helmet and hangs his shield behind him.
+Puts off his helmet and hangs his shield behind him.
 
-!Enter Achilles and Myrmidons.
+Enter Achilles and Myrmidons.
 
-@ACHIL.
+ACHIL.
 Look, Hector, how the sun begins to set,
 How ugly night comes breathing at his heels;
 Even with the vail and dark’ning of the sun,
 To close the day up, Hector’s life is done.
 
-@HECT.
+HECT.
 I am unarm’d, forgo this vantage, Greek.
 
-@ACHIL.
+ACHIL.
 Strike, fellows, strike, this is the man I seek.
-
-!Hector falls.
-
-@ACHIL. (CONT'D)
+(Hector falls.)
 So, Ilion, fall thou next! Come, Troy, sink down!
 Here lies thy heart, thy sinews, and thy bone.
 On, Myrmidons, and cry you all amain,
 “Achilles hath the mighty Hector slain!”
-
-!Retreat.
-
-@ACHIL. (CONT'D)
+(Retreat.)
 Hark, a retire upon our Grecian part.
 
-@MYR.
+MYR.
 The Troyans’ trumpet sound the like, my lord.
 
-@ACHIL.
+ACHIL.
 The dragon wing of night o’erspreads the earth,
 And stickler-like the armies separates.
 My half-supp’d sword that frankly would have fed,
 Pleas’d with this dainty bait, thus goes to bed.
-
-!Sheathes his sword.
-
-@ACHIL. (CONT'D)
+(Sheathes his sword.)
 Come tie his body to my horse’s tail,
 Along the field I will the Troyan trail.
 
-!Exeunt.
+Exeunt.
 
 
 ### Scene 9
-.ANOTHER PART OF THE PLAINS.
 
-!Sound retreat. Shout. Enter Agamemnon, Ajax, Menelaus, Nestor, Diomedes, and the rest, marching.
 
-@AGAM.
+Another part of the plains.
+
+Sound retreat. Shout. Enter Agamemnon, Ajax, Menelaus, Nestor, Diomedes, and the rest, marching.
+
+AGAM.
 Hark, hark, what shout is this?
 
-@NEST.
+NEST.
 Peace, drums!
 
-@MYRMIDONS.
+MYRMIDONS.
 (Within.)
 Achilles! Achilles! Hector’s slain! Achilles!
 
-@DIO.
+DIO.
 The bruit is, Hector’s slain, and by Achilles.
 
-@AJAX.
+AJAX.
 If it be so, yet bragless let it be,
 Great Hector was as good a man as he.
 
-@AGAM.
+AGAM.
 March patiently along; let one be sent
 To pray Achilles see us at our tent.
 If in his death the gods have us befriended,
 Great Troy is ours, and our sharp wars are ended.
 
-!Exeunt.
+Exeunt.
 
 
 ### Scene 10
-.ANOTHER PART OF THE PLAINS.
 
-!Enter Aeneas, Paris, Antenor, Deiphobus.
 
-@AENE.
+Another part of the plains.
+
+Enter Aeneas, Paris, Antenor, Deiphobus.
+
+AENE.
 Stand ho! Yet are we masters of the field.
 
-!Enter Troilus.
+Enter Troilus.
 
-@TRO.
+TRO.
 Never go home, here starve we out the night—
 Hector is slain.
 
-@ALL AENE., PAR., DEI., ANT.
+ALL AENE., PAR., DEI., ANT.
 ^3 Hector! The gods forbid!
 
-@TRO.
+TRO.
 He’s dead, and at the murderer’s horse’s tail,
 In beastly sort, dragg’d through the shameful field.
 Frown on, you heavens, effect your rage with speed!
@@ -5834,10 +5814,10 @@ Sit, gods, upon your thrones, and smile at Troy!
 I say at once, let your brief plagues be mercy,
 And linger not our sure destructions on!
 
-@AENE.
+AENE.
 My lord, you do discomfort all the host.
 
-@TRO.
+TRO.
 You understand me not that tell me so.
 I do not speak of flight, of fear, of death,
 But dare all imminence that gods and men
@@ -5860,23 +5840,20 @@ That mouldeth goblins swift as frenzy’s thoughts.
 Strike a free march. To Troy with comfort go;
 Hope of revenge shall hide our inward woe.
 
-!Enter Pandarus.
+Enter Pandarus.
 
-@PAN.
+PAN.
 But hear you, hear you!
 
-@TRO.
+TRO.
 Hence, broker, lackey!
-
-!Strikes him.
-
-@TRO. (CONT'D)
+(Strikes him.)
 ^5 Ignominy, shame
 Pursue thy life, and live aye with thy name!
 
-!Exeunt all but Pandarus.
+Exeunt all but Pandarus.
 
-@PAN.
+PAN.
 A goodly medicine for my aching bones! O world, world, world! Thus is the poor agent despis’d! O traders and bawds, how earnestly are you set a-work, and how ill requited! Why should our endeavor be so lov’d and the performance so loath’d? What verse for it? What instance for it? Let me see:
 
 ~Full merrily the humble-bee doth sing,
@@ -5897,7 +5874,7 @@ Good traders in the flesh, set this in your painted cloths:
 ~Till then I’ll sweat and seek about for eases,
 ~And at that time bequeath you my diseases.
 
-!Exit.
+Exit.
 
 
 
