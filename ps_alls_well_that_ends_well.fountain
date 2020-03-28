@@ -1,9 +1,9 @@
 Title: All’s Well That Ends Well
 Credit: Written by
-Author: William Shakespeare and Thomas Middleton
+Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -15,35 +15,35 @@ Notes:
 >_Cast of Characters_<
 
 |King of France (KING.): | 
-|Duke of Florence (DUKE.): | 
 |Bertram, Count of Roussillon (BER.): | 
-|Lafew (LAF.): | 
 |Parolles (PAR.): | 
-|Rinaldo (STEW.): | 
+|Lafew (LAF.): | 
 |Lavatch (CLO.): | 
-|Countess’s Page (PAGE.): | 
-|Gentleman (GENT.): | 
-|Countess of Roussillon (COUNT.): | 
+|Rinaldo (STEW.): | 
+|Duke of Florence (DUKE.): | 
 |Helena (HEL.): | 
-|An Old Widow of Florence (WID.): | 
+|Countess of Roussillon (COUNT.): | 
 |Diana (DIA.): | 
+|An Old Widow of Florence (WID.): | 
 |Mariana (MAR.): | 
-|Violenta (VIOL.): | 
-|First French Lord (1. LORD.): | 
-|Second French Lord (2. LORD.): | 
-|Third French Lord (3. LORD.): | 
-|Fourth French Lord (4. LORD.): | 
 |First French Lord Dumaine (1. LORD. DUM.): | 
 |Second French Lord Dumaine (2. LORD. DUM.): | 
 |First Soldier as Interpreter (1. SOLD. AS INTERPRETER.): | 
 |Second Soldier (2. SOLD.): | 
+|Gentleman (GENT.): | 
+|First French Lord (1. LORD.): | 
+|Second French Lord (2. LORD.): | 
+|Third French Lord (3. LORD.): | 
+|Fourth French Lord (4. LORD.): | 
+|Countess’s Page (PAGE.): | 
 |Messenger (MESS.): | 
+|Violenta (VIOL.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 Roussillon. A room in the Count’s palace.
@@ -324,12 +324,12 @@ But my intents are fix’d, and will not leave me.
 Exit.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 Paris. The King’s palace.
 
-Flourish cornets. Enter the King of France with letters, Lords, and divers Attendants.
+Flourish cornets. Enter the King of France with letters, Lords, and diverse Attendants.
 
 KING.
 The Florentines and Senoys are by th’ ears,
@@ -458,7 +458,7 @@ BER.
 Exeunt. Flourish.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 Roussillon. A room in the Count’s palace.
@@ -794,13 +794,13 @@ Exeunt.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 Paris. The King’s palace.
 
-Enter the King, with divers young Lords taking leave for the Florentine war, (Bertram) Count Roussillon, and Parolles. Flourish cornets.
+Enter the King, with diverse young Lords taking leave for the Florentine war, (Bertram) Count Roussillon, and Parolles. Flourish cornets.
 
 KING.
 Farewell, young lords, these warlike principles
@@ -820,8 +820,8 @@ Will not confess he owes the malady
 That doth my life besiege. Farewell, young lords,
 Whether I live or die, be you the sons
 Of worthy Frenchmen. Let higher Italy
-—Those bated that inherit but the fall
-Of the last monarchy— see that you come
+(Those bated that inherit but the fall
+Of the last monarchy) see that you come
 Not to woo honor, but to wed it, when
 The bravest questant shrinks. Find what you seek,
 That fame may cry you loud. I say farewell.
@@ -1159,7 +1159,7 @@ As high as word, my deed shall match thy deed.
 Flourish. Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 Roussillon. The Count’s palace.
@@ -1260,7 +1260,7 @@ Haste you again.
 Exeunt.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 Paris. The King’s palace.
@@ -1745,7 +1745,7 @@ The King has done you wrong; but hush, ’tis so.
 Exeunt.
 
 
-### Scene 4
+### Act 2, Scene 4
 
 
 Another room in the King’s palace.
@@ -1848,7 +1848,7 @@ HEL.
 Exeunt.
 
 
-### Scene 5
+### Act 2, Scene 5
 
 
 Another room in the King’s palace.
@@ -2029,8 +2029,8 @@ Exeunt.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 Florence. The Duke’s palace.
@@ -2081,7 +2081,7 @@ Tomorrow to th’ field.
 Flourish. Exeunt.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 Rossillon. The Count’s palace.
@@ -2120,7 +2120,6 @@ COUNT.
 (Reads a letter.)
 *“I have sent you a daughter-in-law; she hath recover’d the King, and undone me. I have wedded her, not bedded her, and sworn to make the “not” eternal. You shall hear I am run away; know it before the report come. If there be breadth enough in the world, I will hold a long distance. My duty to you.* 
 *Your unfortunate son, Bertram.”* 
-
 This is not well, rash and unbridled boy,
 To fly the favors of so good a king,
 To pluck his indignation on thy head
@@ -2172,7 +2171,8 @@ Thither we bend again.
 HEL.
 Look on his letter, madam, here’s my passport.
 (Reads.)
-*“When thou canst get the ring upon my finger, which never shall come off, and show me a child begotten of thy body that I am father to, then call me husband; but in such a ‘then’ I write a ‘never.’” This is a dreadful sentence.* 
+*“When thou canst get the ring upon my finger, which never shall come off, and show me a child begotten of thy body that I am father to, then call me husband; but in such a ‘then’ I write a ‘never.’” * 
+This is a dreadful sentence.
 
 COUNT.
 Brought you this letter, gentlemen?
@@ -2208,7 +2208,6 @@ Ay, madam, with the swiftest wing of speed.
 HEL.
 (Reads.)
 *“Till I have no wife, I have nothing in France.”* 
-
 ’Tis bitter.
 
 COUNT.
@@ -2301,7 +2300,7 @@ For with the dark, poor thief, I’ll steal away.
 Exit.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 Florence. Before the Duke’s palace.
@@ -2333,7 +2332,7 @@ A lover of thy drum, hater of love.
 Exeunt omnes.
 
 
-### Scene 4
+### Act 3, Scene 4
 
 
 Roussillon. The Count’s palace.
@@ -2346,7 +2345,7 @@ Might you not know she would do as she has done
 By sending me a letter? Read it again.
 
 STEW.
-Reads letter.
+(Reads letter.)
 *“I am Saint Jaques’ pilgrim, thither gone.* 
 *Ambitious love hath so in me offended* 
 *That barefoot plod I the cold ground upon* 
@@ -2398,7 +2397,7 @@ Grief would have tears, and sorrow bids me speak.
 Exeunt.
 
 
-### Scene 5
+### Act 3, Scene 5
 
 
 Without the walls of Florence.
@@ -2593,13 +2592,13 @@ Shall be for me, and to requite you further,
 I will bestow some precepts of this virgin
 Worthy the note.
 
-BOTH. MAR. AND WID.
+BOTH MAR. AND WID.
 ^4 We’ll take your offer kindly.
 
 Exeunt.
 
 
-### Scene 6
+### Act 3, Scene 6
 
 
 Camp before Florence.
@@ -2738,7 +2737,7 @@ Will you go see her?
 Exeunt.
 
 
-### Scene 7
+### Act 3, Scene 7
 
 
 Florence. The Widow’s house.
@@ -2823,8 +2822,8 @@ Exeunt.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 Without the Florentine camp.
@@ -2996,7 +2995,7 @@ Till then I’ll keep him dark and safely lock’d.
 Exeunt.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 Florence. The Widow’s house.
@@ -3134,7 +3133,7 @@ To cozen him that would unjustly win.
 Exit.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 The Florentine camp.
@@ -3230,6 +3229,8 @@ He met the Duke in the street, sir, of whom he hath taken a solemn leave. His lo
 2. LORD. DUM.
 They shall be no more than needful there, if they were more than they can commend.
 
+Exit Messenger.
+
 Enter (Bertram) Count Roussillon.
 
 1. LORD. DUM.
@@ -3289,8 +3290,7 @@ And truly, as I hope to live.
 
 1. SOLD. AS INTERPRETER.
 (Reads.)
-*“First demand of him, how many horse the Duke is strong.”* 
-What say you to that?
+*“First demand of him, how many horse the Duke is strong.”* What say you to that?
 
 PAR.
 Five or six thousand, but very weak and unserviceable. The troops are all scatter’d, and the commanders very poor rogues, upon my reputation and credit and as I hope to live.
@@ -3333,8 +3333,7 @@ I humbly thank you, sir. A truth’s a truth, the rogues are marvelous poor.
 
 1. SOLD. AS INTERPRETER.
 (Reads.)
-*“Demand of him, of what strength they are afoot.”* 
-What say you to that?
+*“Demand of him, of what strength they are afoot.”* What say you to that?
 
 PAR.
 By my troth, sir, if I were to live this present hour, I will tell true. Let me see: Spurio, a hundred and fifty; Sebastian, so many; Corambus, so many; Jaques, so many; Guiltian, Cosmo, Lodowick, and Gratii, two hundred fifty each; mine own company, Chitopher, Vaumond, Bentii, two hundred fifty each; so that the muster-file, rotten and sound, upon my life, amounts not to fifteen thousand pole, half of the which dare not shake the snow from off their cassocks, lest they shake themselves to pieces.
@@ -3348,8 +3347,7 @@ Nothing, but let him have thanks. Demand of him my condition, and what credit I 
 1. SOLD. AS INTERPRETER.
 Well, that’s set down.
 (Reads.)
-*“You shall demand of him, whether one Captain Dumaine be i’ th’ camp, a Frenchman; what his reputation is with the Duke; what his valor, honesty, and expertness in wars; or whether he thinks it were not possible with well-weighing sums of gold to corrupt him to a revolt.”* 
-What say you to this? What do you know of it?
+*“You shall demand of him, whether one Captain Dumaine be i’ th’ camp, a Frenchman; what his reputation is with the Duke; what his valor, honesty, and expertness in wars; or whether he thinks it were not possible with well-weighing sums of gold to corrupt him to a revolt.”* What say you to this? What do you know of it?
 
 PAR.
 I beseech you let me answer to the particular of the inter’gatories. Demand them singly.
@@ -3550,7 +3548,7 @@ I’ll after them.
 Exit.
 
 
-### Scene 4
+### Act 4, Scene 4
 
 
 Florence. The Widow’s house.
@@ -3610,7 +3608,7 @@ What e’er the course, the end is the renown.
 Exeunt.
 
 
-### Scene 5
+### Act 4, Scene 5
 
 
 Roussillon. The Count’s palace.
@@ -3741,8 +3739,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 Marseilles. A street.
@@ -3830,7 +3828,7 @@ Go, go, provide.
 Exeunt.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 Roussillon. Before the Count’s palace.
@@ -3897,7 +3895,7 @@ I praise God for you.
 Exeunt.
 
 
-### Scene 3
+### Act 5, Scene 3
 
 
 Roussillon. The Count’s palace.
@@ -4273,7 +4271,7 @@ DIA.
 ^6 I must be patient.
 You that have turn’d off a first so noble wife,
 May justly diet me. I pray you yet
-—Since you lack virtue, I will lose a husband—
+(Since you lack virtue, I will lose a husband) 
 Send for your ring, I will return it home,
 And give me mine again.
 

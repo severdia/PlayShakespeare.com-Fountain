@@ -2,8 +2,8 @@ Title: Sir Thomas More
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,75 +14,75 @@ Notes:
 
 >_Cast of Characters_<
 
-|Earl of Shrewsbury (SHREWSBURY.): | 
-|Earl of Surrey (SURREY.): | 
-|Sir Thomas Palmer (PALMER.): | 
-|Sir Roger Cholmley (CHOLMLEY.): | 
 |Sir Thomas More (MORE.): | 
-|Lord Mayor (LORD MAYOR.): | 
-|Sir John Munday (MUNDAY.): | 
+|Earl of Surrey (SURREY.): | 
+|Earl of Shrewsbury (SHREWSBURY.): | 
 |Justice Suresby (SURESBY.): | 
-|Recorder (RECORDER.): | 
-|Sergeant at Arms (SERG.): | 
-|Clerk of the Council (CLERK.): | 
-|Erasmus (ERASMUS.): | 
-|Bishop of Rochester (ROCHESTER.): | 
-|Roper (ROPER.): | 
-|Roper’s Wife (ROP. WIFE.): | 
 |John Lincoln (LINCOLN.): | 
-|George Betts (GEORGE.): | 
-|Williamson (WILLIAMSON.): | 
-|Sherwin (SHERWIN.): | 
-|Francis de Barde (BARDE.): | 
-|Caveler (CAVELER.): | 
+|Player of Inclination the Vice (INCLINATION.): | 
 |Lifter (LIFTER.): | 
-|Smart (SMART.): | 
-|Harry (HARRY.): | 
-|Robin (ROBIN.): | 
-|Kit (KIT.): | 
-|Morris (MORRIS.): | 
+|Roper (ROPER.): | 
+|Sir Thomas Palmer (PALMER.): | 
+|Clown Betts (CLOWN.): | 
+|Bishop of Rochester (ROCHESTER.): | 
 |Faulkner (FAULKNER.): | 
+|Erasmus (ERASMUS.): | 
+|Lieutenant of the Tower (LIEU.): | 
+|George Betts (GEORGE.): | 
 |Gough (GOUGH.): | 
+|Williamson (WILLIAMSON.): | 
 |Catesby (CATESBY.): | 
-|Randall (RANDALL.): | 
-|Downes (DOWNES.): | 
-|Ned (BUTLER.): | 
-|Robin (BREWER.): | 
-|Ralph (HORSEKEEPER.): | 
-|Giles (PORTER.): | 
-|Lieutenant of the Tower (LIEUTENANT.): | 
-|Gentleman Porter of the Tower (GENTLEMAN PORTER.): | 
-|Hangman (HANGMAN.): | 
-|Servingman (MAN.): | 
-|Crofts (CROFTS.): | 
-|Servant to More (SERVANT.): | 
+|Morris (MORRIS.): | 
+|Sir Roger Cholmley (CHOLMLEY.): | 
+|Doll Williamson (DOLL.): | 
 |Lady More (LADY MORE.): | 
+|Roper’s Wife (ROP. WIFE.): | 
 |Daughter to More (DAUGHTER.): | 
 |Lady Mayoress (LADY MAYORESS.): | 
-|Doll Williamson (DOLL.): | 
+|Lord Mayor (LORD MAYOR.): | 
 |A Poor Woman (POOR WOMAN.): | 
-|Player of Inclination the Vice (INCLINATION.): | 
-|Player of Lady Vanity (VANITY.): | 
-|Player of Wit (WIT.): | 
-|Player of Prologue (PLAYER.): | 
-|Luggins (LUGGINS.): | 
-|First Officer (1. OFFICER.): | 
-|Second Officer (2. OFFICER.): | 
-|First Warder of the Tower (1. WARDER.): | 
-|Second Warder of the Tower (2. WARDER.): | 
-|Third Warder of the Tower (3. WARDER.): | 
+|Sherwin (SHERWIN.): | 
+|Randall (RANDALL.): | 
+|Francis de Barde (BARDE.): | 
+|Crofts (CROFTS.): | 
+|Harry (HARRY.): | 
+|Sir John Munday (MUNDAY.): | 
+|Hangman (HANGMAN.): | 
+|Sergeant at Arms (SERG.): | 
+|Recorder (RECORDER.): | 
+|Kit (KIT.): | 
+|Giles (PORTER.): | 
+|Caveler (CAVELER.): | 
+|Ralph (HORSEKEEPER.): | 
+|Ned (BUTLER.): | 
+|Robin (BREWER.): | 
+|Downes (DOWNES.): | 
+|Clerk of the Council (CLERK.): | 
+|Robin (ROBIN.): | 
 |First Sheriff (1. SHERIFF.): | 
 |Second Sheriff (2. SHERIFF.): | 
+|Player of Prologue (PLAYER.): | 
+|Player of Wit (WIT.): | 
+|Player of Lady Vanity (VANITY.): | 
+|Luggins (LUGGINS.): | 
+|First Warder of the Tower (1. WARDER): | 
+|Second Warder of the Tower (2. WARDER.): | 
+|Third Warder of the Tower (3. WARDER.): | 
+|First Officer (1. OFF.): | 
+|Second Officer (2. OFF.): | 
 |First Messenger (1. MESS.): | 
 |Second Messenger (2. MESS.): | 
 |Third Messenger (3. MESS.): | 
-|Clown Betts (CLOWN.): | 
+|Servingman (MAN.): | 
+|Servant to More (SERVANT.): | 
+|Gentleman Porter of the Tower (GENTLEMAN PORTER.): | 
+|Smart (SMART.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 London. A street.
@@ -146,7 +146,7 @@ BARDE.
 What art thou that talkest of revenge? My lord ambassador shall once more make your Major have a check, if he punish thee for this saucy presumption.
 
 WILLIAMSON.
-Indeed, my lord Mayor, on the ambassador’s complaint, sent me to Newgate one day, because —against my will— I took the wall of a stranger. You may do any thing; the goldsmith’s wife and mine now must be at your commandment.
+Indeed, my lord Mayor, on the ambassador’s complaint, sent me to Newgate one day, because (against my will) I took the wall of a stranger. You may do any thing; the goldsmith’s wife and mine now must be at your commandment.
 
 GEORGE.
 The more patient fools are ye both, to suffer it.
@@ -180,7 +180,7 @@ SHERWIN.
 It is not our lack of courage in the cause, but the strict obedience that we are bound to. I am the goldsmith whose wrongs you talked of; but how to redress yours or mine own is a matter beyond our abilities.
 
 LINCOLN.
-Not so, not so, my good friends. I, though a mean man, a broker by profession, and named John Lincoln, have long time winked at these wild enormities with mighty impatience, and, as these two brethren here —Betts by name— can witness, with loss of mine own life would gladly remedy them.
+Not so, not so, my good friends. I, though a mean man, a broker by profession, and named John Lincoln, have long time winked at these wild enormities with mighty impatience, and, as these two brethren here (Betts by name) can witness, with loss of mine own life would gladly remedy them.
 
 GEORGE.
 And he is in a good forwardness, I tell ye, if all hit right.
@@ -234,7 +234,7 @@ There spake an angel. Come, let us along, then.
 Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 London. The Sessions House.
@@ -303,7 +303,7 @@ But such fond baits that foolish people lay
 To tempt the needy miserable wretch?
 Ten pounds, odd money; this is a pretty sum
 To bear about, which were more safe at home.
-’Fore God, ’twere well to fine ye as much more
+’Fore God, ’twere well to fine ye as much more.
 (Lord Mayor and More whisper.)
 To the relief of the poor prisoners,
 To teach ye be more careful of your own,
@@ -531,7 +531,7 @@ Let it be given. There is first for me.
 RECORDER.
 And there for me.
 
-1. OFFICER.
+1. OFF.
 ^4 And me.
 
 SURESBY.
@@ -602,7 +602,7 @@ Wisdom still keeps the mean and locks the door.
 Exeunt.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 London. A state apartment.
@@ -751,8 +751,8 @@ Exeunt.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 Cheapside.
@@ -792,7 +792,7 @@ Why, I am a prentice as thou art; seest thou now? I’ll play with thee at blunt
 Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 Saint Martin’s-le-Grand.
@@ -920,7 +920,7 @@ If hanging come, ’tis welcome; that’s the worst.
 Exit.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 The Guildhall.
@@ -1006,7 +1006,7 @@ With breath of gravity, not dangerous blows!
 Exeunt.
 
 
-### Scene 4
+### Act 2, Scene 4
 
 
 St. Martin’s Gate.
@@ -1212,7 +1212,7 @@ To qualify a rebel? You’ll put down strangers,
 Kill them, cut their throats, possess their houses,
 And lead the majesty of law in line,
 To slip him like a hound. Say now the king
-—As he is clement, if th’ offender mourn—
+(As he is clement, if th’ offender mourn) 
 Should so much come to short of your great trespass
 As but to banish you, whether would you go?
 What country, by the nature of your error,
@@ -1348,7 +1348,7 @@ I thank his highness for thus honoring me.
 SHREWSBURY.
 This is but first taste of his princely favor:
 For it hath pleased his high majesty
-—Noting your wisdom and deserving merit—
+(Noting your wisdom and deserving merit) 
 To put this staff of honor in your hand,
 For he hath chose you of his Privy Council.
 
@@ -1399,7 +1399,7 @@ Life whirls bout fate, then to a grave it slides.
 Exeunt severally.
 
 
-### Scene 5
+### Act 2, Scene 5
 
 
 Cheapside.
@@ -1451,7 +1451,7 @@ Keep in his prentices, and every man
 Stand with a weapon ready at his door,
 As he will answer to the contrary.
 
-1. OFFICER.
+1. OFF.
 I’ll see it done, sir.
 
 Exit.
@@ -1463,7 +1463,7 @@ Bring them away to execution:
 The writ is come above two hours since:
 The city will be fined for this neglect.
 
-2. OFFICER.
+2. OFF.
 There’s such a press and multitude at Newgate,
 They cannot bring the carts onto the stairs,
 To take the prisoners in.
@@ -1472,7 +1472,7 @@ To take the prisoners in.
 ^4 Then let them come on foot;
 We may not dally time with great command.
 
-2. OFFICER.
+2. OFF.
 Some of the bench, sir, think it very fit
 That stay be made, and give it out abroad
 The execution is deferred till morning,
@@ -1515,7 +1515,7 @@ I patiently submit me to the law;
 But God forgive them that were cause of it!
 And, as a Christian, truly from my heart
 I likewise crave they would forgive me too
-—As freely as I do forgive their wrong—
+(As freely as I do forgive their wrong) 
 That others by example of the same
 Henceforth be warned to attempt the like
 ’Gainst any alien that repaireth hither.
@@ -1692,8 +1692,8 @@ Exeunt.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 Chelsea. A room in More’s house.
@@ -2134,7 +2134,7 @@ I care not to be turned off, and ’twere a ladder, so it be in my humor, or the
 Exeunt.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 Chelsea. Antechamber in More’s house.
@@ -2170,7 +2170,7 @@ The Londoners fare richest at their boards.
 Exeunt.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 Chelsea. A room in More’s house.
@@ -2632,7 +2632,7 @@ Enter a Servingman.
 MAN.
 Where be these players?
 
-ALL. PLAYERS.
+ALL PLAYERS.
 Here, sir.
 
 MAN.
@@ -2670,7 +2670,8 @@ Your lordship sent eight angels by your man,
 And I have lost two of them in the rushes.
 
 MORE.
-Wit, look to that:—eight angels! I did send them ten. Who gave it them?
+Wit, look to that:—eight angels! I did send them ten.
+Who gave it them?
 
 MAN.
 I, my lord; I had no more about me;
@@ -2712,8 +2713,8 @@ Exeunt.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 Whitehall. The council chamber.
@@ -2923,7 +2924,7 @@ Error in learned heads hath much to do.
 Exeunt.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 Chelsea.
@@ -3095,7 +3096,7 @@ It sets at midday oft with public scorn.
 Exeunt.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 The Tower.
@@ -3150,7 +3151,7 @@ As ever truant bade the school adieu.
 Exeunt.
 
 
-### Scene 4
+### Act 4, Scene 4
 
 
 Chelsea. A room in More’s house.
@@ -3459,15 +3460,15 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 The Tower Gate.
 
 Enter the Warders of the Tower, with halberds.
 
-1. WARDER.
+1. WARDER
 Ho, make a guard there!
 
 2. WARDER.
@@ -3477,7 +3478,7 @@ The people be avoided from the bridge.
 3. WARDER.
 From whence is he committed, who can tell?
 
-1. WARDER.
+1. WARDER
 From Durham House, I hear.
 
 2. WARDER.
@@ -3499,7 +3500,7 @@ So generally bewailed of every one.
 (Enter a Poor Woman.)
 What means this woman?—Whether dost thou press?
 
-1. WARDER.
+1. WARDER
 This woman will be trod to death anon.
 
 2. WARDER.
@@ -3519,7 +3520,7 @@ Therefore, if thou hast a petition to deliver,
 Thou mayst keep it now, for any thing I know.
 
 POOR WOMAN.
-I am a poor woman, and have had —God knows—
+I am a poor woman, and have had (God knows) 
 A suit this two year in the Chancery;
 And he hath all the evidence I have
 Which should I lose, I am utterly undone.
@@ -3584,7 +3585,7 @@ MORE.
 My lord, and my dear fellow in the Muses,
 Farewell; farewell, most noble poet.
 
-LIEUTENANT.
+LIEU.
 Adieu, most honored lords.
 
 Exeunt Lords.
@@ -3607,7 +3608,7 @@ God is as strong here as he is abroad.
 Exeunt.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 More’s house.
@@ -3666,8 +3667,8 @@ But his sweet soul to live among the saints.
 
 GOUGH.
 Let us entreat ye to go call together
-The rest of your sad fellows —by the rule
-Y’are just seven score—, and tell them what we hear
+The rest of your sad fellows (by the rule
+Y’are just seven score), and tell them what we hear
 A virtuous honorable lord hath done
 Even for the meanest follower that he had.
 This writing found my lady in his study,
@@ -3691,7 +3692,7 @@ Fellow-like hence, copartners of one woe.
 Exeunt.
 
 
-### Scene 3
+### Act 5, Scene 3
 
 
 The Tower.
@@ -3702,14 +3703,14 @@ MORE.
 Master Lieutenant, is the warrant come?
 If it be so, a God’s name, let us know it.
 
-LIEUTENANT.
+LIEU.
 My lord, it is.
 
 MORE.
 ^3 ’Tis welcome, sir, to me
 With all my heart. His blessed will be done!
 
-LIEUTENANT.
+LIEU.
 Your wisdom, sir, hath been so well approved,
 And your fair patience in imprisonment
 Hath ever shewn such constancy of mind
@@ -3723,7 +3724,7 @@ Though the world and I are at a little odds:
 But we’ll be even now, I hope, ere long.
 When is the execution of your warrant?
 
-LIEUTENANT.
+LIEU.
 Tomorrow morning.
 
 MORE.
@@ -3734,14 +3735,14 @@ I have had a sore fit of the stone tonight;
 But the King hath sent me such a rare receipt,
 I thank him, as I shall not need to fear it much.
 
-LIEUTENANT.
+LIEU.
 In life and death still merry Sir Thomas More.
 
 MORE.
 Sirrah fellow, reach me the urinal:
 (He gives it him.)
-Ha! Let me see —there’s— gravel in the water;
-—And yet I see no grave danger in that—
+Ha! Let me see (there’s) gravel in the water;
+(And yet I see no grave danger in that) 
 The man were likely to live long enough,
 So pleased the king. Here, fellow, take it.
 
@@ -3754,7 +3755,7 @@ Thou shalt see me take a dram tomorrow morning,
 Shall cure the stone, I warrant; doubt it not.
 Master Lieutenant, what news of my Lord of Rochester?
 
-LIEUTENANT.
+LIEU.
 Yesterday morning was he put to death.
 
 MORE.
@@ -3762,7 +3763,7 @@ The peace of soul sleep with him!
 He was a learned and a reverend prelate,
 And a rich man, believe me.
 
-LIEUTENANT.
+LIEU.
 If he were rich, what is Sir Thomas More,
 That all this while hath been Lord Chancellor?
 
@@ -3771,7 +3772,7 @@ Say ye so, Master Lieutenant? What do ye think
 A man, that with my time had held my place,
 Might purchase?
 
-LIEUTENANT.
+LIEU.
 Perhaps, my lord, two thousand pound a year.
 
 MORE.
@@ -3782,7 +3783,7 @@ I think I am the poorest Chancellor
 That ever was in England, though I could wish,
 For credit of the place, that my estate were better.
 
-LIEUTENANT.
+LIEU.
 It’s very strange.
 
 MORE.
@@ -3791,9 +3792,9 @@ I think, sir, that with most part of my coin
 I have purchased as strange commodities
 As ever you heard tell of in your life.
 
-LIEUTENANT.
+LIEU.
 Commodities, my lord!
-Might I —without offense— inquire of them?
+Might I (without offense) inquire of them?
 
 MORE.
 Croutches, Master Lieutenant, and bare cloaks;
@@ -3809,7 +3810,7 @@ Poets were never thrifty, never shall.
 
 Enter Lady More mourning, Daughters, Master Roper.
 
-LIEUTENANT.
+LIEU.
 Oh, noble More!—
 My lord, your wife, your son-in-law, and daughters.
 
@@ -3830,7 +3831,7 @@ Although imprisoned, might have had your life.
 
 MORE.
 To live in prison, what a life were that!
-The king —I thank him— loves me more then so.
+The king (I thank him) loves me more then so.
 Tomorrow I shall be at liberty
 To go even whether I can,
 After I have dispatched my business.
@@ -3869,7 +3870,7 @@ The headsman now shall cut off head and all.
 
 ROP. WIFE.
 Father, his majesty, upon your meek submission,
-Will yet —they say— receive you to his grace
+Will yet (they say) receive you to his grace
 In as great credit as you were before.
 
 MORE.
@@ -3921,7 +3922,7 @@ More heavy hearts ne’er parted in the Tower.
 Exeunt.
 
 
-### Scene 4
+### Act 5, Scene 4
 
 
 Tower Hill.
@@ -3931,7 +3932,7 @@ Enter the Sheriffs of London and their Officers at one door, the Warders with th
 2. SHERIFF.
 Officers, what time of day is’t?
 
-1. OFFICER.
+1. OFF.
 Almost eight o’clock.
 
 2. SHERIFF.
@@ -3956,7 +3957,7 @@ Yet, God be thanked, here’s a fair day toward,
 To take our journey in. Master Lieutenant,
 It were fair walking on the Tower leads.
 
-LIEUTENANT.
+LIEU.
 And so it might have liked my sovereign lord,
 I would to God you might have walked there still!
 
@@ -3969,7 +3970,7 @@ Are like sweet odors to embalm your friend!
 Thank your good lady; since I was your guest,
 She has made me a very wanton, in good sooth.
 
-LIEUTENANT.
+LIEU.
 Oh, I had hoped we should not yet have parted!
 
 MORE.
@@ -3980,7 +3981,7 @@ That I shall be so proud, I will not speak;
 And, sure, my memory is grown so ill,
 I fear I shall forget my head behind me.
 
-LIEUTENANT.
+LIEU.
 God and his blessed angels be about ye!—
 Here, Master Sheriffs, receive your prisoner.
 
@@ -4040,7 +4041,7 @@ Your great offense unto his majesty.
 MORE.
 My lord, I’ll bequeath this legacy to the hangman, and do it instantly.
 (Gives the Hangman his gown.)
-I confess, his majesty hath been ever good to me; and my offense to his highness makes me of a state pleader a stage player —though I am old, and have a bad voice—, to act this last scene of my tragedy. I’ll send him —for my trespass— a reverend head, somewhat bald; for it is not requisite any head should stand covered to so high majesty. If that content him not, because I think my body will then do me small pleasure, let him but bury it, and take it.
+I confess, his majesty hath been ever good to me; and my offense to his highness makes me of a state pleader a stage player (though I am old, and have a bad voice), to act this last scene of my tragedy. I’ll send him (for my trespass) a reverend head, somewhat bald; for it is not requisite any head should stand covered to so high majesty. If that content him not, because I think my body will then do me small pleasure, let him but bury it, and take it.
 
 SURREY.
 My lord, my lord, hold conference with your soul;
@@ -4061,7 +4062,7 @@ For your death, my lord.
 MORE.
 O, my death? I had rather it were in thy power to forgive me, for thou hast the sharpest action against me; the law, my honest friend, lies in thy hands now. Here’s thy fee;
 (Gives his purse.)
-and, my good fellow, let my suit be dispatched presently; for ’tis all one pain, to die a lingering death, and to live in the continual mill of a lawsuit. But I can tell thee, my neck is so short, that, if thou shouldst behead an hundred noblemen like myself, thou wouldst ne’er get credit by it; therefore —look ye, sir—, do it handsomely, or, of my word, thou shalt never deal with me hereafter.
+and, my good fellow, let my suit be dispatched presently; for ’tis all one pain, to die a lingering death, and to live in the continual mill of a lawsuit. But I can tell thee, my neck is so short, that, if thou shouldst behead an hundred noblemen like myself, thou wouldst ne’er get credit by it; therefore (look ye, sir), do it handsomely, or, of my word, thou shalt never deal with me hereafter.
 
 HANGMAN.
 I’ll take an order for that, my lord.

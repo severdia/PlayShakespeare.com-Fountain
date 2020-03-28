@@ -2,8 +2,8 @@ Title: Edward III
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,64 +14,64 @@ Notes:
 
 >_Cast of Characters_<
 
-|King of Bohemia (KING OF BOHEMIA.): | 
+|Edward III (KING EDWARD.): | 
+|Prince Edward (PRINCE EDWARD.): | 
+|John de Valois, King of France (KING JOHN.): | 
+|Earl of Warwick (WARWICK.): | 
+|Earl of Salisbury (SALISBURY.): | 
+|Charles (CHARLES.): | 
+|French Mariner (FR. MARINER.): | 
+|Robert of Artois (ARTOIS.): | 
+|Lodowick (LODOWICK.): | 
+|Earl of Derby (DERBY.): | 
 |Duke of Lorraine (LORRAINE.): | 
 |Philip (PHILIP.): | 
-|Charles (CHARLES.): | 
-|John de Valois, King of France (KING JOHN.): | 
-|Gobin de Grey (GOBIN.): | 
-|Earl of Mountford (MOUNTFORD.): | 
-|Robert of Artois (ARTOIS.): | 
+|David, King of Scotland (KING DAVID.): | 
 |Villiers (VILLIERS.): | 
 |Sir John Copland (COPLAND.): | 
 |Sir William Mountague (MOUNTAGUE.): | 
-|Lodowick (LODOWICK.): | 
-|Lord Percy (PERCY.): | 
-|Lord Audley (AUDLEY.): | 
-|Earl of Salisbury (SALISBURY.): | 
-|Earl of Derby (DERBY.): | 
-|Earl of Warwick (WARWICK.): | 
-|Prince Edward (PRINCE EDWARD.): | 
-|Countess of Salisbury (COUNTESS.): | 
-|Queen Philippa (QUEEN PHILIP.): | 
+|Earl of Mountford (MOUNTFORD.): | 
 |Earl Douglas (DOUGLAS.): | 
-|David, King of Scotland (KING DAVID.): | 
-|Edward III (KING EDWARD.): | 
-|First Scottish Messenger (1. SCOT. MESS.): | 
-|Second Scottish Messenger (2. SCOT. MESS.): | 
-|Polish Captain (POL. CAPTAIN.): | 
-|French Mariner (FR. MARINER.): | 
+|Gobin de Grey (GOBIN.): | 
+|King of Bohemia (KING OF BOHEMIA.): | 
+|Countess of Salisbury (COUNTESS.): | 
+|Queen Philippa (Q. PHILIP.): | 
+|Lord Audley (AUDLEY.): | 
+|Lord Percy (PERCY.): | 
 |First Frenchman (1. FRENCH.): | 
 |Second Frenchman (2. FRENCH.): | 
 |Third Frenchman (3. FRENCH.): | 
 |Fourth Frenchman (4. FRENCH.): | 
 |Frenchwoman (FRENCHWOMAN.): | 
+|First French Captain (1. FR. CAPTAIN.): | 
+|Second French Captain (2. FR. CAPTAIN.): | 
+|Polish Captain (POL. CAPTAIN.): | 
+|First Scottish Messenger (1. SCOT. MESS.): | 
+|Second Scottish Messenger (2. SCOT. MESS.): | 
 |First Herald (1. HERALD.): | 
 |Second Herald (2. HERALD.): | 
 |Third Herald (3. HERALD.): | 
 |Fourth Herald (4. HERALD.): | 
-|Poor Inhabitant of Calais (POOR.): | 
-|Five Poor Inhabitants of Calais (FIVE POOR.): | 
 |First French Herald (1. FR. HERALD.): | 
 |Second French Herald (2. FR. HERALD.): | 
 |Third French Herald (3. FR. HERALD.): | 
-|First French Captain (1. FR. CAPTAIN.): | 
-|Second French Captain (2. FR. CAPTAIN.): | 
+|English Herald (E. HER.): | 
 |First English Esquire (1. ESQUIRE.): | 
 |Second English Esquire (2. ESQUIRE.): | 
-|English Herald (ENG. HERALD.): | 
 |First Citizen of Calais (1. CIT. CAL.): | 
 |Second Citizen of Calais (2. CIT. CAL.): | 
 |Third Citizen of Calais (3. CIT. CAL.): | 
 |Fourth Citizen of Calais (4. CIT. CAL.): | 
 |Fifth Citizen of Calais (5. CIT. CAL.): | 
 |Sixth Citizen of Calais (6. CIT. CAL.): | 
+|Poor Inhabitant of Calais (POOR.): | 
+|Five Poor Inhabitants of Calais (FIVE POOR.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 London. A room of state in the palace.
@@ -306,7 +306,7 @@ In great affairs ’tis nought to use delay.
 Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 Roxborough. Before the castle.
@@ -587,8 +587,8 @@ Exeunt.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 Roxborough. The gardens of the castle.
@@ -1229,7 +1229,7 @@ My body sink my soul in endless woe!
 Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 Roxborough. Another part of the castle.
@@ -1382,6 +1382,8 @@ My liege, the drum that stroke the lusty march,
 Stands with Prince Edward, your thrice valiant son.
 
 Enter Prince Edward.
+
+Exit Lodowick.
 
 KING EDWARD.
 I see the boy; oh, how his mother’s face,
@@ -1579,8 +1581,8 @@ Exeunt.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 Flanders. The French camp.
@@ -1827,7 +1829,7 @@ This soldier’s words have pierced thy father’s heart.
 Exeunt.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 Picardy. The fields near Cressy.
@@ -1943,7 +1945,7 @@ Thy glory shaketh like a tottering wall.
 Exeunt.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 Picardy. The fields near Cressy.
@@ -2042,7 +2044,7 @@ I hold thee for a false pernicious wretch:
 And, last of all, although I scorn to cope
 With one so much inferior to myself,
 Yet, in respect thy thirst is all for gold,
-Thy labour rather to be feared than loved,
+Thy labor rather to be feared than loved,
 To satisfy thy lust in either part,
 Here am I come, and with me have I brought
 Exceeding store of treasure, pearl, and coin.
@@ -2259,7 +2261,7 @@ Let us to horse; and God grant us the day!
 Exeunt.
 
 
-### Scene 4
+### Act 3, Scene 4
 
 
 Picardy. The fields near Cressy.
@@ -2288,7 +2290,7 @@ If we can counsel some of them to stay.
 Exeunt.
 
 
-### Scene 5
+### Act 3, Scene 5
 
 
 Picardy. The fields near Cressy.
@@ -2485,8 +2487,8 @@ Exeunt.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 Bretagne. The camp of the English.
@@ -2555,7 +2557,7 @@ Thus once I mean to try a Frenchman’s faith.
 Exit.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 Picardy. The English camp before Calais.
@@ -2695,7 +2697,7 @@ And better some do go to wrack them all.
 Exit.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 Poitou. Fields near Poitiers. The French camp; tent of the Duke of Normandy.
@@ -2835,7 +2837,7 @@ Catch we the father after how we can.
 Exeunt.
 
 
-### Scene 4
+### Act 4, Scene 4
 
 
 Poitou. Fields near Poitiers. The English camp.
@@ -3051,7 +3053,7 @@ To live or die I hold indifferent.
 Exeunt.
 
 
-### Scene 5
+### Act 4, Scene 5
 
 
 Poitou. Fields near Poitiers. The French camp.
@@ -3247,7 +3249,7 @@ Will choke our foes, though bullets hit them not.
 Exit.
 
 
-### Scene 6
+### Act 4, Scene 6
 
 
 Poitou. Fields near Poitiers. A part of the field of battle.
@@ -3282,7 +3284,7 @@ My soul doth prophecy we win the day.
 Exeunt.
 
 
-### Scene 7
+### Act 4, Scene 7
 
 
 Poitou. Fields near Poitiers. Another part of the field of battle.
@@ -3352,7 +3354,7 @@ KING JOHN.
 Exeunt.
 
 
-### Scene 8
+### Act 4, Scene 8
 
 
 Poitou. Fields near Poitiers. Another part of the field of battle.
@@ -3381,7 +3383,7 @@ Doth end the harvest of his Audley’s war.
 Exeunt.
 
 
-### Scene 9
+### Act 4, Scene 9
 
 
 Poitou. Fields near Poitiers. The English camp.
@@ -3411,7 +3413,7 @@ Welcome, Artois; and welcome, Philip, too:
 Who now of you or I have need to pray?
 Now is the proverb verified in you:
 “Too bright a morning breeds a low’ring day.”
-(Sound Trumpets. Enter Audley.)
+(Sound trumpets. Enter Audley.)
 But say, what grim discouragement comes here!
 Alas, what thousand armed men of France
 Have writ that note of death in Audley’s face?
@@ -3478,8 +3480,8 @@ Exit.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 Picardy. The English camp before Calais.
@@ -3497,7 +3499,7 @@ Put all to sword, and make the spoil your own.
 
 Enter six Citizens of Calais in their shirts, barefoot, with halters about their necks.
 
-ALL. CIT. CAL.
+ALL CIT. CAL.
 Mercy, king Edward, mercy, gracious lord!
 
 KING EDWARD.
@@ -3540,7 +3542,7 @@ Your bodies shall be dragged about these walls,
 And after feel the stroke of quartering steel:
 This is your doom;—go, soldiers, see it done.
 
-QUEEN PHILIP.
+Q. PHILIP.
 Ah, be more mild unto these yielding men!
 It is a glorious thing to stablish peace,
 And kings approach the nearest unto God
@@ -3605,7 +3607,7 @@ The wealthy tribute of my laboring hands,
 Which should long since have been surrendered up,
 Had but your gracious self been there in place.
 
-QUEEN PHILIP.
+Q. PHILIP.
 But, Copland, thou didst scorn the king’s command,
 Neglecting our commission in his name.
 
@@ -3679,9 +3681,9 @@ There twice as many pikes in quadrant wise,
 Here crossbows, and deadly wounding darts:
 And in the midst, like to a slender point
 Within the compass of the horizon,
-—As twere a rising bubble in the sea,
+(As twere a rising bubble in the sea,
 A hazel wand amidst a wood of pines,
-Or as a bear fast chained unto a stake—,
+Or as a bear fast chained unto a stake),
 Stood famous Edward, still expecting when
 Those dogs of France would fasten on his flesh.
 Anon the death procuring knell begins:
@@ -3696,7 +3698,7 @@ As black as powder fuming into smoke.
 And thus, I fear, unhappy have I told
 The most untimely tale of Edward’s fall.
 
-QUEEN PHILIP.
+Q. PHILIP.
 Ah me, is this my welcome into France?
 Is this the comfort that I looked to have,
 When I should meet with my beloved son?
@@ -3721,7 +3723,7 @@ While we bewail our valiant son’s decease.
 
 After a flourish, sounded within, enter an English Herald.
 
-ENG. HERALD.
+E. HER.
 Rejoice, my lord; ascend the imperial throne!
 The mighty and redoubted prince of Wales,
 Great servitor to bloody Mars in arms,
@@ -3740,7 +3742,7 @@ As things long lost, when they are found again,
 So doth my son rejoice his father’s heart,
 For whom even now my soul was much perplexed.
 
-QUEEN PHILIP.
+Q. PHILIP.
 Be this a token to express my joy,
 (Kisses him.)
 For inward passion will not let me speak.
@@ -3812,7 +3814,9 @@ God willing, then for England we’ll be shipped;
 Where, in a happy hour, I trust, we shall
 Arrive, three kings, two princes, and a queen.
 
-FINIS. 
+Exeunt.
+
+
 
 >_**THE END**_<
 

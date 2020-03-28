@@ -2,8 +2,8 @@ Title: Henry VI, Pt. 3
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -15,68 +15,68 @@ Notes:
 >_Cast of Characters_<
 
 |King Henry the Sixth (K. HEN.): | 
-|Edward, Prince of Wales (PRINCE.): | 
-|Lewis the Eleventh, King of France (K. LEW.): | 
-|Duke of Exeter (EXE.): | 
-|Earl of Oxford (OXF.): | 
-|Earl of Northumberland (NORTH.): | 
-|Duke of Somerset (D. SOM.): | 
-|Earl of Westmorland (WEST.): | 
-|Richard Plantagenet, Duke of York (YORK.): | 
-|Lord Clifford (CLIF.): | 
-|Edward, Earl of March (EDW.): | 
-|Edmund, Earl of Rutland (RUT.): | 
 |Earl of Warwick (WAR.): | 
-|George (GEO.): | 
+|Edward, Earl of March (EDW.): | 
 |Richard (RICH.): | 
-|Duke of Norfolk (NORF.): | 
-|Marquess Montague (MONT.): | 
-|Earl of Pembroke (PEMB.): | 
-|Lord Hastings (HAST.): | 
-|Lord Stafford (STAFF.): | 
-|Sir John Mortimer (SIR JOHN.): | 
-|Sir Hugh Mortimer (SIR. HUGH.): | 
-|Henry, Earl of Richmond (HEN. RICH.): | 
-|Lord Rivers (RIV.): | 
-|Sir William Stanley (WILL.): | 
-|Sir John Montgomery (MONTG.): | 
-|Sir John Somervile (SOM.): | 
-|Tutor to Rutland (TUT.): | 
-|Mayor of York (MAY.): | 
-|Mayor of Coventry (MAY. COV.): | 
-|Lieutenant of the Tower (LIEU.): | 
-|Nobleman (NOB.): | 
-|A Son That Has Killed His Father (SON.): | 
+|Richard Plantagenet, Duke of York (YORK.): | 
+|George (GEO.): | 
+|Lewis the Eleventh, King of France (K. LEW.): | 
+|Edward, Prince of Wales (PRINCE.): | 
+|Earl of Oxford (OXF.): | 
+|Duke of Somerset (D. SOM.): | 
+|Earl of Northumberland (NORTH.): | 
 |A Father That Has Killed His Son (FATH.): | 
+|A Son That Has Killed His Father (SON.): | 
+|Edmund, Earl of Rutland (RUT.): | 
+|Duke of Exeter (EXE.): | 
+|Marquess Montague (MONT.): | 
+|Sir John Montgomery (MONTG.): | 
+|Earl of Westmorland (WEST.): | 
+|Sir John Somervile (SOM.): | 
+|Mayor of York (MAY.): | 
+|Duke of Norfolk (NORF.): | 
+|Tutor to Rutland (TUT.): | 
+|Lieutenant of the Tower (LIEU.): | 
+|Huntsman (HUNT.): | 
+|Sir John Mortimer (SIR JOHN.): | 
 |Queen Margaret (Q. MAR.): | 
 |Lady Grey (L. GREY.): | 
 |Lady Bona (BONA.): | 
-|First Yorkist Messenger (1. YORK. MESS.): | 
-|Second Yorkist Messenger (2. YORK. MESS.): | 
-|Norfolk Messenger (NOR. MESS.): | 
-|First Lancastrian Messenger (1. LAN. MESS.): | 
-|Second Lancastrian Messenger (2. LAN. MESS.): | 
+|Lord Clifford (CLIF.): | 
+|Lord Hastings (HAST.): | 
+|Lord Rivers (RIV.): | 
 |First Gamekeeper (1. KEEP.): | 
 |Second Gamekeeper (2. KEEP.): | 
-|Post (POST.): | 
 |First Watchman (1. WATCH.): | 
 |Second Watchman (2. WATCH.): | 
 |Third Watchman (3. WATCH.): | 
-|Huntsman (HUNT.): | 
-|Warwick’s Messenger (WAR. MESS.): | 
 |Yorkist Soldier (YORK. SOLD.): | 
+|Post (POST.): | 
+|Warwick’s Messenger (WAR. MESS.): | 
+|Norfolk Messenger (NOR. MESS.): | 
 |Oxford Messenger (OXF. MESS.): | 
 |Montague Messenger (MONT. MESS.): | 
+|First Lancastrian Messenger (1. LAN. MESS.): | 
+|Second Lancastrian Messenger (2. LAN. MESS.): | 
+|First Yorkist Messenger (1. YORK. MESS.): | 
+|Second Yorkist Messenger (2. YORK. MESS.): | 
+|Nobleman (NOB.): | 
+|Earl of Pembroke (PEMB.): | 
+|Sir Hugh Mortimer (SIR. HUGH.): | 
+|Lord Stafford (STAFF.): | 
+|Mayor of Coventry (MAY. COV.): | 
+|Sir William Stanley (WILL.): | 
+|Henry, Earl of Richmond (HEN. RICH.): | 
 |Aldermen of York (ALD. YORK.): | 
-|Nurse Bess (BESS.): | 
 |Lord Bourbon (BOURB.): | 
+|Nurse Bess (BESS.): | 
 |Prince Edward (Ned) (EDWARD (NED)): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 London. The Parliament House.
@@ -638,7 +638,7 @@ And I, I hope, shall reconcile them all.
 Flourish. Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 Yorkshire. A room in Sandal Castle.
@@ -786,7 +786,7 @@ Why should I not now have the like success?
 Alarum. Exeunt.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 Field of battle between Sandal Castle and Wakefield.
@@ -893,7 +893,7 @@ Congeal’d with this, do make me wipe off both.
 Exit.
 
 
-### Scene 4
+### Act 1, Scene 4
 
 
 Another part of the field of battle between Sandal Castle and Wakefield.
@@ -1147,8 +1147,8 @@ Flourish. Exeunt.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 Herfordshire. A plain near Mortimer’s Cross.
@@ -1399,7 +1399,7 @@ That cries “Retire!” if Warwick bid him stay.
 
 EDW.
 Lord Warwick, on thy shoulder will I lean,
-And when thou fail’st —as God forbid the hour!—
+And when thou fail’st (as God forbid the hour!) 
 Must Edward fall, which peril heaven forefend!
 
 WAR.
@@ -1437,7 +1437,7 @@ Why then it sorts, brave warriors. Let’s away.
 Exeunt omnes.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 Before York.
@@ -1673,7 +1673,7 @@ As venom toads, or lizards’ dreadful stings.
 RICH.
 Iron of Naples hid with English gilt,
 Whose father bears the title of a king
-—As if a channel should be call’d the sea—,
+(As if a channel should be call’d the sea),
 Sham’st thou not, knowing whence thou art extraught,
 To let thy tongue detect thy base-born heart?
 
@@ -1724,7 +1724,7 @@ These words will cost ten thousand lives this day.
 Exeunt omnes.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 Yorkshire. A battlefield between Towton and Saxton.
@@ -1789,7 +1789,7 @@ And in this vow do chain my soul to thine!
 And ere my knee rise from the earth’s cold face,
 I throw my hands, mine eyes, my heart to Thee,
 Thou setter-up and plucker-down of kings,
-Beseeching thee —if with thy will it stands—
+Beseeching thee (if with thy will it stands) 
 That to my foes this body must be prey,
 Yet that thy brazen gates of heaven may ope
 And give sweet passage to my sinful soul!
@@ -1818,7 +1818,7 @@ Foreslow no longer, make we hence amain.
 Exeunt.
 
 
-### Scene 4
+### Act 2, Scene 4
 
 
 Yorkshire. Another part of the battlefield between Towton and Saxton.
@@ -1853,7 +1853,7 @@ For I myself will hunt this wolf to death.
 Exeunt.
 
 
-### Scene 5
+### Act 2, Scene 5
 
 
 Yorkshire. Another part of the battlefield between Towton and Saxton.
@@ -2048,7 +2048,7 @@ Whither the Queen intends. Forward, away!
 Exeunt.
 
 
-### Scene 6
+### Act 2, Scene 6
 
 
 Yorkshire. Another part of the battlefield between Towton and Saxton.
@@ -2102,7 +2102,7 @@ But think you, lords, that Clifford fled with them?
 
 WAR.
 No, ’tis impossible he should escape;
-For —though before his face I speak the words—
+For (though before his face I speak the words) 
 Your brother Richard mark’d him for the grave,
 And wheresoe’er he is, he’s surely dead.
 
@@ -2226,8 +2226,8 @@ Exeunt.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 A forest in the North of England.
@@ -2396,7 +2396,7 @@ And what he will, I humbly yield unto.
 Exeunt.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 London. A palace room.
@@ -2788,7 +2788,7 @@ Tut, were it farther off, I’ll pluck it down.
 Exit.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 France. A room in King Lewis XI’s palace.
@@ -3054,7 +3054,7 @@ Q. MAR.
 Peace, impudent and shameless Warwick,
 Proud setter-up and puller-down of kings!
 I will not hence, till with my talk and tears
-—Both full of truth— I make King Lewis behold
+(Both full of truth) I make King Lewis behold
 Thy sly conveyance and thy lord’s false love,
 For both of you are birds of self-same feather.
 
@@ -3241,8 +3241,8 @@ Exit.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 London. A palace room.
@@ -3401,7 +3401,7 @@ From France?
 
 POST.
 My sovereign liege, no letters, and few words,
-But such as I —without your special pardon—
+But such as I (without your special pardon) 
 Dare not relate.
 
 K. EDW.
@@ -3508,7 +3508,7 @@ Till we meet Warwick with his foreign pow’r.
 Exeunt.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 A plain in Warwickshire.
@@ -3555,7 +3555,7 @@ For Warwick and his friends, God and Saint George!
 Exeunt.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 Edward’s camp near Warwick.
@@ -3689,7 +3689,7 @@ And see him seated in the regal throne.
 Exeunt.
 
 
-### Scene 4
+### Act 4, Scene 4
 
 
 London. A palace room.
@@ -3744,7 +3744,7 @@ I am inform’d that he comes towards London
 To set the crown once more on Henry’s head.
 Guess thou the rest; King Edward’s friends must down.
 But to prevent the tyrant’s violence
-—For trust not him that hath once broken faith—,
+(For trust not him that hath once broken faith),
 I’ll hence forthwith unto the sanctuary,
 To save, at least, the heir of Edward’s right;
 There shall I rest secure from force and fraud.
@@ -3754,7 +3754,7 @@ If Warwick take us we are sure to die.
 Exeunt.
 
 
-### Scene 5
+### Act 4, Scene 5
 
 
 Yorkshire. A park near Middleham Castle.
@@ -3823,7 +3823,7 @@ And pray that I may repossess the crown.
 Exeunt.
 
 
-### Scene 6
+### Act 4, Scene 6
 
 
 London. The Tower.
@@ -3913,7 +3913,7 @@ Ay, therein Clarence shall not want his part.
 
 K. HEN.
 But with the first of all your chief affairs,
-Let me entreat —for I command no more—
+Let me entreat (for I command no more) 
 That Margaret your queen and my son Edward
 Be sent for, to return from France with speed;
 For till I see them here, by doubtful fear
@@ -3949,7 +3949,7 @@ What news, my friend?
 
 WAR. MESS.
 That Edward is escaped from your brother,
-And fled —as he hears since— to Burgundy.
+And fled (as he hears since) to Burgundy.
 
 WAR.
 Unsavory news! But how made he escape?
@@ -3991,7 +3991,7 @@ Come therefore, let’s about it speedily.
 Exeunt.
 
 
-### Scene 7
+### Act 4, Scene 7
 
 
 Before York.
@@ -4168,7 +4168,7 @@ And that once gotten, doubt not of large pay.
 Exeunt.
 
 
-### Scene 8
+### Act 4, Scene 8
 
 
 London. A palace room.
@@ -4288,8 +4288,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 Coventry.
@@ -4490,7 +4490,7 @@ I am so sorry for my trespass made
 That to deserve well at my brother’s hands,
 I here proclaim myself thy mortal foe;
 With resolution, wheresoe’er I meet thee
-—As I will meet thee, if thou stir abroad—,
+(As I will meet thee, if thou stir abroad),
 To plague thee for thy foul misleading me.
 And so, proud-hearted Warwick, I defy thee,
 And to my brother turn my blushing cheeks.
@@ -4524,7 +4524,7 @@ Lords, to the field! Saint George and victory!
 Exeunt King Edward and his company. March. Warwick and his company follows.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 A battlefield near Barnet.
@@ -4604,7 +4604,7 @@ Away, away, to meet the Queen’s great power!
 Here they bear away his body. Exeunt.
 
 
-### Scene 3
+### Act 5, Scene 3
 
 
 Another part of the battlefield near Barnet.
@@ -4646,7 +4646,7 @@ Strike up the drum, cry “Courage!” and away.
 Exeunt.
 
 
-### Scene 4
+### Act 5, Scene 4
 
 
 Plains near Tewksbury.
@@ -4675,7 +4675,7 @@ The friends of France our shrouds and tacklings?
 And though unskillful, why not Ned and I
 For once allow’d the skillful pilot’s charge?
 We will not from the helm to sit and weep,
-But keep our course —though the rough wind say no—
+But keep our course (though the rough wind say no) 
 From shelves and rocks that threaten us with wrack.
 As good to chide the waves as speak them fair.
 And what is Edward but a ruthless sea?
@@ -4774,7 +4774,7 @@ Then Queen Margaret is taken, and Prince Edward and Oxford and Somerset.
 Exeunt.
 
 
-### Scene 5
+### Act 5, Scene 5
 
 
 Another part of the battlefield near Barnet.
@@ -4972,7 +4972,7 @@ By this, I hope, she hath a son for me.
 Exeunt.
 
 
-### Scene 6
+### Act 5, Scene 6
 
 
 London. The Tower.
@@ -5111,7 +5111,7 @@ And triumph, Henry, in thy day of doom.
 Exit with the body.
 
 
-### Scene 7
+### Act 5, Scene 7
 
 
 London. A room in the palace.

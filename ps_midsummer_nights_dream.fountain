@@ -2,8 +2,8 @@ Title: Midsummer Night’s Dream
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2013 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,36 +14,36 @@ Notes:
 
 >_Cast of Characters_<
 
+|Oberon (OBE.): | 
 |Theseus, Duke of Athens (THE.): | 
-|Egeus (EGE.): | 
+|Puck (PUCK.): | 
 |Lysander (LYS.): | 
 |Demetrius (DEM.): | 
-|Philostrate (PHIL.): | 
-|Quince (QUIN.): | 
 |Bottom (BOT.): | 
+|Quince (QUIN.): | 
 |Flute (FLU.): | 
 |Snout (SNOUT.): | 
 |Snug (SNUG.): | 
 |Starveling (STAR.): | 
-|Hippolyta (HIP.): | 
-|Hermia (HER.): | 
-|Helena (HEL.): | 
-|Oberon (OBE.): | 
+|Egeus (EGE.): | 
+|Philostrate (PHIL.): | 
 |Titania (TITA.): | 
-|Puck (PUCK.): | 
+|Helena (HEL.): | 
+|Hermia (HER.): | 
+|Mustardseed (MUS.): | 
 |Peaseblossom (PEAS.): | 
 |Cobweb (COB.): | 
 |Moth (MOTH.): | 
-|Mustardseed (MUS.): | 
 |A Fairy (FAIRY.): | 
+|Hippolyta (HIP.): | 
 |First Fairy (1. FAIRY.): | 
 |Second Fairy (2. FAIRY.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 Athens. A room in the palace of Theseus.
@@ -101,7 +101,7 @@ With bracelets of thy hair, rings, gawds, conceits,
 Knacks, trifles, nosegays, sweetmeats—messengers
 Of strong prevailment in unhardened youth.
 With cunning hast thou filch’d my daughter’s heart,
-Turn’d her obedience —which is due to me—
+Turn’d her obedience (which is due to me) 
 To stubborn harshness. And, my gracious Duke,
 Be it so she will not here before your Grace
 Consent to marry with Demetrius,
@@ -148,7 +148,7 @@ Either to die the death, or to abjure
 Forever the society of men.
 Therefore, fair Hermia, question your desires,
 Know of your youth, examine well your blood,
-Whether —if you yield not to your father’s choice—
+Whether (if you yield not to your father’s choice) 
 You can endure the livery of a nun,
 For aye to be in shady cloister mew’d,
 To live a barren sister all your life,
@@ -193,8 +193,8 @@ LYS.
 I am, my lord, as well deriv’d as he,
 As well possess’d; my love is more than his;
 My fortunes every way as fairly rank’d
-—If not with vantage— as Demetrius’;
-And —which is more than all these boasts can be—
+(If not with vantage) as Demetrius’;
+And (which is more than all these boasts can be) 
 I am belov’d of beauteous Hermia.
 Why should not I then prosecute my right?
 Demetrius, I’ll avouch it to his head,
@@ -213,7 +213,7 @@ I have some private schooling for you both.
 For you, fair Hermia, look you arm yourself
 To fit your fancies to your father’s will;
 Or else the law of Athens yields you up
-—Which by no means we may extenuate—
+(Which by no means we may extenuate) 
 To death, or to a vow of single life.
 Come, my Hippolyta; what cheer, my love?
 Demetrius and Egeus, go along;
@@ -285,8 +285,8 @@ And to that place the sharp Athenian law
 Cannot pursue us. If thou lovest me, then
 Steal forth thy father’s house tomorrow night;
 And in the wood, a league without the town
-—Where I did meet thee once with Helena
-To do observance to a morn of May—,
+(Where I did meet thee once with Helena
+To do observance to a morn of May),
 There will I stay for thee.
 
 HER.
@@ -298,7 +298,7 @@ By that which knitteth souls and prospers loves,
 And by that fire which burn’d the Carthage queen
 When the false Troyan under sail was seen,
 By all the vows that ever men have broke
-—In number more than ever women spoke—,
+(In number more than ever women spoke),
 In that same place thou hast appointed me
 Tomorrow truly will I meet with thee.
 
@@ -362,7 +362,7 @@ Helen, to you our minds we will unfold:
 Tomorrow night, when Phoebe doth behold
 Her silver visage in the wat’ry glass,
 Decking with liquid pearl the bladed grass
-—A time that lovers’ flights doth still conceal—,
+(A time that lovers’ flights doth still conceal),
 Through Athens gates have we devis’d to steal.
 
 HER.
@@ -416,7 +416,7 @@ To have his sight thither and back again.
 Exit.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 Athens. A room in Quince’s house.
@@ -458,7 +458,6 @@ A lover, that kills himself most gallant for love.
 
 BOT.
 That will ask some tears in the true performing of it. If I do it, let the audience look to their eyes. I will move storms; I will condole in some measure. To the rest—yet my chief humor is for a tyrant. I could play Ercles rarely, or a part to tear a cat in, to make all split.
-
 *“The raging rocks* 
 *And shivering shocks* 
 *Shall break the locks* 
@@ -467,7 +466,6 @@ That will ask some tears in the true performing of it. If I do it, let the audie
 *Shall shine from far,* 
 *And make and mar* 
 *The foolish Fates.”* 
-
 This was lofty! Now name the rest of the players. This is Ercles’ vein, a tyrant’s vein; a lover is more condoling.
 
 QUIN.
@@ -492,7 +490,7 @@ QUIN.
 That’s all one; you shall play it in a mask, and you may speak as small as you will.
 
 BOT.
-And I may hide my face, let me play Thisbe too. I’ll speak in a monstrous little voice, “Thisne! Thisne! Ah, Pyramus, my lover dear! Thy Thisbe dear, and lady dear!”
+And I may hide my face, let me play Thisbe too. I’ll speak in a monstrous little voice, “Thisne! Thisne!” “Ah, Pyramus, my lover dear! Thy Thisbe dear, and lady dear!”
 
 QUIN.
 No, no, you must play Pyramus; and, Flute, you Thisbe.
@@ -563,8 +561,8 @@ Exeunt.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 In the woods near Athens.
@@ -699,7 +697,7 @@ And the quaint mazes in the wanton green,
 For lack of tread, are undistinguishable.
 The human mortals want their winter here;
 No night is now with hymn or carol blest.
-Therefore the moon —the governess of floods—,
+Therefore the moon (the governess of floods),
 Pale in her anger, washes all the air,
 That rheumatic diseases do abound.
 And thorough this distemperature, we see
@@ -732,7 +730,7 @@ Marking th’ embarked traders on the flood;
 When we have laugh’d to see the sails conceive
 And grow big-bellied with the wanton wind;
 Which she, with pretty and with swimming gait,
-Following —her womb then rich with my young squire—
+Following (her womb then rich with my young squire) 
 Would imitate, and sail upon the land
 To fetch me trifles, and return again,
 As from a voyage, rich with merchandise.
@@ -773,7 +771,7 @@ PUCK.
 ^6 I remember.
 
 OBE.
-That very time I saw —but thou couldst not—,
+That very time I saw (but thou couldst not),
 Flying between the cold moon and the earth,
 Cupid all arm’d. A certain aim he took
 At a fair vestal throned by the west,
@@ -805,11 +803,11 @@ OBE.
 I’ll watch Titania when she is asleep,
 And drop the liquor of it in her eyes;
 The next thing then she waking looks upon
-—Be it on lion, bear, or wolf, or bull,
-On meddling monkey, or on busy ape—,
+(Be it on lion, bear, or wolf, or bull,
+On meddling monkey, or on busy ape),
 She shall pursue it with the soul of love.
 And ere I take this charm from off her sight
-—As I can take it with another herb—,
+(As I can take it with another herb),
 I’ll make her render up her page to me.
 But who comes here? I am invisible,
 And I will overhear their conference.
@@ -844,7 +842,7 @@ Use me but as your spaniel; spurn me, strike me,
 Neglect me, lose me; only give me leave,
 Unworthy as I am, to follow you.
 What worser place can I beg in your love
-—And yet a place of high respect with me—
+(And yet a place of high respect with me) 
 Than to be used as you use your dog?
 
 DEM.
@@ -937,7 +935,7 @@ Fear not, my lord! Your servant shall do so.
 Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 Another part of the woods near Athens.
@@ -1142,7 +1140,7 @@ Is’t not enough, is’t not enough, young man,
 That I did never, no, nor never can,
 Deserve a sweet look from Demetrius’ eye,
 But you must flout my insufficiency?
-Good troth, you do me wrong —good sooth, you do—
+Good troth, you do me wrong (good sooth, you do) 
 In such disdainful manner me to woo.
 But fare you well; perforce I must confess
 I thought you lord of more true gentleness.
@@ -1171,8 +1169,8 @@ Help me, Lysander, help me! Do thy best
 To pluck this crawling serpent from my breast!
 Ay me, for pity! What a dream was here!
 Lysander, look how I do quake with fear.
-Methought a serpent eat my heart away,
-And you sate smiling at his cruel prey.
+Methought a serpent ate my heart away,
+And you sat smiling at his cruel prey.
 Lysander! What, remov’d? Lysander! Lord!
 What, out of hearing gone? No sound, no word?
 Alack, where are you? Speak, and if you hear;
@@ -1186,8 +1184,8 @@ Exit.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 In the woods.
@@ -1231,13 +1229,13 @@ STAR.
 I fear it, I promise you.
 
 BOT.
-Masters, you ought to consider with yourselves, to bring in —God shield us!— a lion among ladies, is a most dreadful thing; for there is not a more fearful wild-fowl than your lion living; and we ought to look to’t.
+Masters, you ought to consider with yourselves, to bring in (God shield us!) a lion among ladies, is a most dreadful thing; for there is not a more fearful wild-fowl than your lion living; and we ought to look to’t.
 
 SNOUT.
 Therefore another prologue must tell he is not a lion.
 
 BOT.
-Nay; you must name his name, and half his face must be seen through the lion’s neck, and he himself muse speak through, saying thus, or to the same defect: “Ladies,” or “Fair ladies, I would wish you,” or “I would request you,” or “I would entreat you, not to fear, not to tremble: my life for yours. If you think I come hither as a lion, it were pity of my life. No! I am no such thing; I am a man as other men are”; and there indeed let him name his name, and tell them plainly he is Snug the joiner.
+Nay; you must name his name, and half his face must be seen through the lion’s neck, and he himself must speak through, saying thus, or to the same defect: “Ladies,” or “Fair ladies, I would wish you,” or “I would request you,” or “I would entreat you, not to fear, not to tremble: my life for yours. If you think I come hither as a lion, it were pity of my life. No! I am no such thing; I am a man as other men are”; and there indeed let him name his name, and tell them plainly he is Snug the joiner.
 
 QUIN.
 Well; it shall be so. But there is two hard things: that is, to bring the moonlight into a chamber; for you know, Pyramus and Thisbe meet by moonlight.
@@ -1252,10 +1250,10 @@ QUIN.
 Yes; it doth shine that night.
 
 BOT.
-Why then may you leave a casement of the great chamber window —where we play— open; and the moon may shine in at the casement.
+Why then may you leave a casement of the great chamber window (where we play) open; and the moon may shine in at the casement.
 
 QUIN.
-Ay; or else one must come in with a bush of thorns and a lantern, and say he comes to disfigure, or to present, the person of Moonshine. Then, there is another thing: we must have a wall in the great chamber; for Pyramus and Thisbe —says the story— did talk through the chink of a wall.
+Ay; or else one must come in with a bush of thorns and a lantern, and say he comes to disfigure, or to present, the person of Moonshine. Then, there is another thing: we must have a wall in the great chamber; for Pyramus and Thisbe (says the story) did talk through the chink of a wall.
 
 SNOUT.
 You can never bring in a wall. What say you, Bottom?
@@ -1371,7 +1369,7 @@ What angel wakes me from my flow’ry bed?
 BOT.
 (Sings.)
 ~The finch, the sparrow, and the lark,
-~The plain-song cuckoo grey,
+~The plainsong cuckoo grey,
 ~Whose note full many a man doth mark,
 ~And dares not answer nay—
 For indeed, who would set his wit to so foolish a bird? Who would give a bird the lie, though he cry “cuckoo” never so?
@@ -1380,7 +1378,7 @@ TITA.
 I pray thee, gentle mortal, sing again.
 Mine ear is much enamored of thy note;
 So is mine eye enthralled to thy shape;
-And thy fair virtue’s force —perforce— doth move me
+And thy fair virtue’s force (perforce) doth move me
 On the first view to say, to swear, I love thee.
 
 BOT.
@@ -1419,7 +1417,7 @@ MOTH.
 MUS.
 ^5 And I.
 
-ALL. FAIRIES.
+ALL FAIRIES.
 ^7 Where shall we go?
 
 TITA.
@@ -1478,7 +1476,7 @@ Tie up my lover’s tongue, bring him silently.
 Exeunt.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 Another part of the woods.
@@ -1510,7 +1508,7 @@ Anon his Thisbe must be answered,
 And forth my mimic comes. When they him spy,
 As wild geese that the creeping fowler eye,
 Or russet-pated choughs, many in sort
-—Rising and cawing at the gun’s report—,
+(Rising and cawing at the gun’s report),
 Sever themselves and madly sweep the sky,
 So, at his sight, away his fellows fly;
 And at our stamp, here o’er and o’er one falls;
@@ -1521,7 +1519,7 @@ For briers and thorns at their apparel snatch;
 Some sleeves, some hats, from yielders all things catch.
 I led them on in this distracted fear,
 And left sweet Pyramus translated there;
-When in that moment —so it came to pass—
+When in that moment (so it came to pass) 
 Titania wak’d, and straightway lov’d an ass.
 
 OBE.
@@ -1530,7 +1528,7 @@ But hast thou yet latch’d the Athenian’s eyes
 With the love-juice, as I did bid thee do?
 
 PUCK.
-I took him sleeping —that is finish’d too—
+I took him sleeping (that is finish’d too) 
 And the Athenian woman by his side;
 That when he wak’d, of force she must be ey’d.
 
@@ -1548,7 +1546,7 @@ Lay breath so bitter on your bitter foe.
 
 HER.
 Now I but chide; but I should use thee worse,
-For thou —I fear— hast given me cause to curse.
+For thou (I fear) hast given me cause to curse.
 If thou hast slain Lysander in his sleep,
 Being o’er shoes in blood, plunge in the deep,
 And kill me too.
@@ -1556,7 +1554,7 @@ The sun was not so true unto the day
 As he to me. Would he have stolen away
 From sleeping Hermia? I’ll believe as soon
 This whole earth may be bor’d, and that the moon
-May through the centre creep, and so displease
+May through the center creep, and so displease
 Her brother’s noontide with th’ Antipodes.
 It cannot be but thou hast murd’red him;
 So should a murderer look—so dead, so grim.
@@ -1815,16 +1813,16 @@ HEL.
 Have you not set Lysander, as in scorn,
 To follow me and praise my eyes and face?
 And made your other love, Demetrius
-—Who even but now did spurn me with his foot—,
+(Who even but now did spurn me with his foot),
 To call me goddess, nymph, divine and rare,
 Precious, celestial? Wherefore speaks he this
 To her he hates? And wherefore doth Lysander
-Deny your love —so rich within his soul—
-And tender me —forsooth— affection,
+Deny your love (so rich within his soul) 
+And tender me (forsooth) affection,
 But by your setting on, by your consent?
 What though I be not so in grace as you,
 So hung upon with love, so fortunate
-—But miserable most, to love unlov’d—?
+(But miserable most, to love unlov’d)?
 This you should pity rather than despise.
 
 HER.
@@ -1915,7 +1913,7 @@ Hate me, wherefore? O me, what news, my love!
 Am not I Hermia? Are not you Lysander?
 I am as fair now as I was erewhile.
 Since night you lov’d me; yet since night you left me:
-Why then, you left me —O, the gods forbid!—
+Why then, you left me (O, the gods forbid!) 
 In earnest, shall I say?
 
 LYS.
@@ -2246,8 +2244,8 @@ Exit.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 Another part of the woods.
@@ -2501,8 +2499,8 @@ Of this their purpose hither to this wood,
 And I in fury hither followed them,
 Fair Helena in fancy following me.
 But, my good lord, I wot not by what power
-—But by some power it is—, my love to Hermia
-—Melted as the snow— seems to me now
+(But by some power it is), my love to Hermia
+(Melted as the snow) seems to me now
 As the remembrance of an idle gaud,
 Which in my childhood I did dote upon;
 And all the faith, the virtue of my heart,
@@ -2569,7 +2567,7 @@ When my cue comes, call me, and I will answer. My next is, “Most fair Pyramus.
 Exit.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 Athens. A room in Quince’s house.
@@ -2595,7 +2593,7 @@ QUIN.
 Yea, and the best person too; and he is a very paramour for a sweet voice.
 
 FLU.
-You must say “paragon.” A paramour is —God bless us!— a thing of naught.
+You must say “paragon.” A paramour is (God bless us!) a thing of naught.
 
 Enter Snug the joiner.
 
@@ -2628,8 +2626,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 Athens. A room in the palace of Theseus.
@@ -2707,25 +2705,18 @@ THE.
 (Reads.)
 *“The battle with the Centaurs, to be sung* 
 *By an Athenian eunuch to the harp.”* 
-
 We’ll none of that: that have I told my love,
 In glory of my kinsman Hercules.
-
 *“The riot of the tipsy Bacchanals,* 
 *Tearing the Thracian singer in their rage.”* 
-
 That is an old device; and it was play’d
 When I from Thebes came last a conqueror.
-
 *“The thrice three Muses mourning for the death* 
 *Of Learning, late deceas’d in beggary.”* 
-
 That is some satire, keen and critical,
 Not sorting with a nuptial ceremony.
-
 *“A tedious brief scene of young Pyramus* 
 *And his love Thisbe; very tragical mirth.”* 
-
 Merry and tragical? Tedious and brief?
 That is hot ice and wondrous strange snow.
 How shall we find the concord of this discord?
@@ -2930,7 +2921,7 @@ To spy and I can hear my Thisbe’s face.
 Thisbe!
 
 THIS.
-My love thou art, my love I think.
+^3 My love thou art, my love I think.
 
 PYR.
 Think what thou wilt, I am thy lover’s grace;

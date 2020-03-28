@@ -2,8 +2,8 @@ Title: Macbeth
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,55 +14,55 @@ Notes:
 
 >_Cast of Characters_<
 
-|Duncan, King of Scotland (DUN.): | 
-|Malcolm (MAL.): | 
-|Donalbain (DON.): | 
 |Macbeth (MACB.): | 
-|Lady Macbeth (LADY MACB.): | 
-|Lady Macduff (L. MACD.): | 
-|Banquo (BAN.): | 
+|Malcolm (MAL.): | 
 |Macduff (MACD.): | 
-|Lennox (LEN.): | 
 |Rosse (ROSSE.): | 
-|Menteth (MENT.): | 
-|Angus (ANG.): | 
-|Cathness (CATH.): | 
-|Fleance (FLE.): | 
+|Banquo (BAN.): | 
+|Lennox (LEN.): | 
+|Duncan, King of Scotland (DUN.): | 
 |Siward, Earl of Northumberland (SIW.): | 
 |Young Siward (Y. SIW.): | 
-|Seyton (SEY.): | 
-|Son to Macduff (SON.): | 
-|English Doctor (DOCT.): | 
 |Doctor of Physic (DOCT. PHYS.): | 
-|Sergeant (SERG.): | 
-|Porter (PORT.): | 
-|Old Man (OLD MAN.): | 
-|First Murderer (1. MUR.): | 
-|Second Murderer (2. MUR.): | 
-|Third Murderer (3. MUR.): | 
-|Servant (SERV.): | 
-|Soldiers (SOLDIERS.): | 
-|Lord (LORD.): | 
-|Gentlewoman (GENT.): | 
-|Hecat (HEC.): | 
+|Angus (ANG.): | 
+|Donalbain (DON.): | 
+|Lady Macbeth (L. MACB.): | 
+|Lady Macduff (L. MACD.): | 
 |First Witch (1. WITCH.): | 
 |Second Witch (2. WITCH.): | 
 |Third Witch (3. WITCH.): | 
+|Hecat (HEC.): | 
 |Fourth Witch (4. WITCH.): | 
 |Fifth Witch (5. WITCH.): | 
 |Sixth Witch (6. WITCH.): | 
+|Seyton (SEY.): | 
+|Fleance (FLE.): | 
+|Son to Macduff (SON.): | 
+|English Doctor (DOCT.): | 
+|Menteth (MENT.): | 
+|Old Man (OLD MAN.): | 
+|Cathness (CATH.): | 
+|Porter (PORT.): | 
+|Sergeant (SERG.): | 
+|First Murderer (1. MUR.): | 
+|Second Murderer (2. MUR.): | 
+|Third Murderer (3. MUR.): | 
 |First Apparition (1. APP.): | 
 |Second Apparition (2. APP.): | 
 |Third Apparition (3. APP.): | 
+|Gentlewoman (GENTLEW.): | 
+|Lord (LORD.): | 
 |Macbeth’s Messenger (MACB. MESS.): | 
 |Messenger (MESS.): | 
+|Servant (SERV.): | 
+|Soldiers (SOLDIERS.): | 
 |Sewer (SEW.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 A desert place.
@@ -105,7 +105,7 @@ Hover through the fog and filthy air.
 Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 A camp near Forres.
@@ -128,16 +128,16 @@ SERG.
 ^5 Doubtful it stood,
 As two spent swimmers that do cling together
 And choke their art. The merciless Macdonwald
-—Worthy to be a rebel, for to that
+(Worthy to be a rebel, for to that
 The multiplying villainies of nature
-Do swarm upon him— from the Western Isles
+Do swarm upon him) from the Western Isles
 Of kerns and gallowglasses is supplied,
 And Fortune, on his damned quarrel smiling,
 Show’d like a rebel’s whore. But all’s too weak;
-For brave Macbeth —well he deserves that name—,
+For brave Macbeth (well he deserves that name),
 Disdaining Fortune, with his brandish’d steel,
 Which smok’d with bloody execution,
-—Like Valor’s minion— carv’d out his passage
+(Like Valor’s minion) carv’d out his passage
 Till he fac’d the slave;
 Which nev’r shook hands, nor bade farewell to him,
 Till he unseam’d him from the nave to th’ chops,
@@ -229,7 +229,7 @@ What he hath lost, noble Macbeth hath won.
 Exeunt.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 A heath near Forres.
@@ -527,7 +527,7 @@ Till then, enough.—Come, friends.
 Exeunt.
 
 
-### Scene 4
+### Act 1, Scene 4
 
 
 Forres. A room in the palace.
@@ -628,17 +628,16 @@ It is a peerless kinsman.
 Flourish. Exeunt.
 
 
-### Scene 5
+### Act 1, Scene 5
 
 
 Inverness. Macbeth’s castle.
 
 Enter Macbeth’s Wife alone, with a letter.
 
-LADY MACB.
+L. MACB.
 (Reads.)
 *“They met me in the day of success; and I have learn’d by the perfect’st report, they have more in them than mortal knowledge. When I burnt in desire to question them further, they made themselves air, into which they vanish’d. Whiles I stood rapt in the wonder of it, came missives from the King, who all-hail’d me “Thane of Cawdor,” by which title, before, these weird sisters saluted me, and referr’d me to the coming on of time with “Hail, King that shalt be!” This have I thought good to deliver thee, my dearest partner of greatness, that thou mightst not lose the dues of rejoicing by being ignorant of what greatness is promis’d thee. Lay it to thy heart, and farewell.”* 
-
 Glamis thou art, and Cawdor, and shalt be
 What thou art promis’d. Yet do I fear thy nature,
 It is too full o’ th’ milk of human kindness
@@ -661,7 +660,7 @@ To have thee crown’d withal.
 MACB. MESS.
 The King comes here tonight.
 
-LADY MACB.
+L. MACB.
 ^7 Thou’rt mad to say it!
 Is not thy master with him? Who, were’t so,
 Would have inform’d for preparation.
@@ -672,7 +671,7 @@ One of my fellows had the speed of him,
 Who, almost dead for breath, had scarcely more
 Than would make up his message.
 
-LADY MACB.
+L. MACB.
 ^7 Give him tending,
 He brings great news.
 (Exit Macbeth’s Messenger.)
@@ -704,13 +703,13 @@ MACB.
 ^5 My dearest love,
 Duncan comes here tonight.
 
-LADY MACB.
+L. MACB.
 ^6 And when goes hence?
 
 MACB.
 Tomorrow, as he purposes.
 
-LADY MACB.
+L. MACB.
 ^6 O, never
 Shall sun that morrow see!
 Your face, my thane, is as a book, where men
@@ -726,7 +725,7 @@ Give solely sovereign sway and masterdom.
 MACB.
 We will speak further.
 
-LADY MACB.
+L. MACB.
 ^4 Only look up clear:
 To alter favor ever is to fear.
 Leave all the rest to me.
@@ -734,7 +733,7 @@ Leave all the rest to me.
 Exeunt.
 
 
-### Scene 6
+### Act 1, Scene 6
 
 
 Before Macbeth’s castle.
@@ -765,7 +764,7 @@ Which still we thank as love. Herein I teach you
 How you shall bid God ’ield us for your pains,
 And thank us for your trouble.
 
-LADY MACB.
+L. MACB.
 ^6 All our service
 In every point twice done, and then done double,
 Were poor and single business to contend
@@ -782,7 +781,7 @@ And his great love, sharp as his spur, hath holp him
 To his home before us. Fair and noble hostess,
 We are your guest tonight.
 
-LADY MACB.
+L. MACB.
 ^5 Your servants ever
 Have theirs, themselves, and what is theirs, in compt,
 To make their audit at your Highness’ pleasure,
@@ -797,12 +796,12 @@ By your leave, hostess.
 Exeunt.
 
 
-### Scene 7
+### Act 1, Scene 7
 
 
 A room in Macbeth’s castle.
 
-Hoboys, torches. Enter a Sewer and divers Servants with dishes and service over the stage. Then enter Macbeth.
+Hoboys, torches. Enter a Sewer and diverse Servants with dishes and service over the stage. Then enter Macbeth.
 
 MACB.
 If it were done, when ’tis done, then ’twere well
@@ -836,13 +835,13 @@ And falls on th’ other—
 (Enter Lady Macbeth.)
 ^5 How now? What news?
 
-LADY MACB.
+L. MACB.
 He has almost supp’d. Why have you left the chamber?
 
 MACB.
 Hath he ask’d for me?
 
-LADY MACB.
+L. MACB.
 ^4 Know you not he has?
 
 MACB.
@@ -852,7 +851,7 @@ Golden opinions from all sorts of people,
 Which would be worn now in their newest gloss,
 Not cast aside so soon.
 
-LADY MACB.
+L. MACB.
 ^5 Was the hope drunk
 Wherein you dress’d yourself? Hath it slept since?
 And wakes it now to look so green and pale
@@ -870,7 +869,7 @@ MACB.
 I dare do all that may become a man;
 Who dares do more is none.
 
-LADY MACB.
+L. MACB.
 ^6 What beast was’t then
 That made you break this enterprise to me?
 When you durst do it, then you were a man;
@@ -888,12 +887,12 @@ Have done to this.
 MACB.
 ^4 If we should fail?
 
-LADY MACB.
+L. MACB.
 ^8 We fail?
 But screw your courage to the sticking place,
 And we’ll not fail. When Duncan is asleep
-—Whereto the rather shall his day’s hard journey
-Soundly invite him—, his two chamberlains
+(Whereto the rather shall his day’s hard journey
+Soundly invite him), his two chamberlains
 Will I with wine and wassail so convince,
 That memory, the warder of the brain,
 Shall be a fume, and the receipt of reason
@@ -912,7 +911,7 @@ When we have mark’d with blood those sleepy two
 Of his own chamber, and us’d their very daggers,
 That they have done’t?
 
-LADY MACB.
+L. MACB.
 ^5 Who dares receive it other,
 As we shall make our griefs and clamor roar
 Upon his death?
@@ -929,8 +928,8 @@ Exeunt.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 The court of Macbeth’s castle.
@@ -1050,14 +1049,14 @@ That summons thee to heaven or to hell.
 Exit.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 The court of Macbeth’s castle.
 
 Enter Lady Macbeth.
 
-LADY MACB.
+L. MACB.
 That which hath made them drunk hath made me bold;
 What hath quench’d them hath given me fire. Hark! Peace!
 It was the owl that shriek’d, the fatal bellman,
@@ -1071,7 +1070,7 @@ MACB.
 (Within.)
 ^5 Who’s there? What ho?
 
-LADY MACB.
+L. MACB.
 Alack, I am afraid they have awak’d,
 And ’tis not done; th’ attempt, and not the deed,
 Confounds us. Hark! I laid their daggers ready,
@@ -1083,26 +1082,26 @@ My father as he slept, I had done’t.
 MACB.
 I have done the deed. Didst thou not hear a noise?
 
-LADY MACB.
+L. MACB.
 I heard the owl scream and the crickets cry.
 Did not you speak?
 
 MACB.
 ^4 When?
 
-LADY MACB.
-^5 Now.
+L. MACB.
+^6 Now.
 
 MACB.
 ^7 As I descended?
 
-LADY MACB.
+L. MACB.
 Ay.
 
 MACB.
 Hark! Who lies i’ th’ second chamber?
 
-LADY MACB.
+L. MACB.
 Donalbain.
 
 MACB.
@@ -1110,7 +1109,7 @@ MACB.
 
 Looking on his hands.
 
-LADY MACB.
+L. MACB.
 A foolish thought, to say a sorry sight.
 
 MACB.
@@ -1119,7 +1118,7 @@ That they did wake each other. I stood and heard them;
 But they did say their prayers, and address’d them
 Again to sleep.
 
-LADY MACB.
+L. MACB.
 ^3 There are two lodg’d together.
 
 MACB.
@@ -1128,7 +1127,7 @@ As they had seen me with these hangman’s hands.
 List’ning their fear, I could not say “Amen,”
 When they did say “God bless us!”
 
-LADY MACB.
+L. MACB.
 ^7 Consider it not so deeply.
 
 MACB.
@@ -1136,7 +1135,7 @@ But wherefore could not I pronounce “Amen”?
 I had most need of blessing, and “Amen”
 Stuck in my throat.
 
-LADY MACB.
+L. MACB.
 ^4 These deeds must not be thought
 After these ways; so, it will make us mad.
 
@@ -1148,7 +1147,7 @@ The death of each day’s life, sore labor’s bath,
 Balm of hurt minds, great nature’s second course,
 Chief nourisher in life’s feast.
 
-LADY MACB.
+L. MACB.
 ^6 What do you mean?
 
 MACB.
@@ -1156,7 +1155,7 @@ Still it cried, “Sleep no more!” to all the house;
 “Glamis hath murder’d sleep, and therefore Cawdor
 Shall sleep no more—Macbeth shall sleep no more.”
 
-LADY MACB.
+L. MACB.
 Who was it that thus cried? Why, worthy thane,
 You do unbend your noble strength, to think
 So brain-sickly of things. Go get some water,
@@ -1170,7 +1169,7 @@ MACB.
 I am afraid to think what I have done;
 Look on’t again I dare not.
 
-LADY MACB.
+L. MACB.
 ^5 Infirm of purpose!
 Give me the daggers. The sleeping and the dead
 Are but as pictures; ’tis the eye of childhood
@@ -1193,7 +1192,7 @@ Making the green one red.
 
 Enter Lady Macbeth.
 
-LADY MACB.
+L. MACB.
 My hands are of your color; but I shame
 To wear a heart so white.
 (Knock.)
@@ -1216,7 +1215,7 @@ Wake Duncan with thy knocking! I would thou couldst!
 Exeunt.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 The court of Macbeth’s castle.
@@ -1257,7 +1256,7 @@ MACD.
 I believe drink gave thee the lie last night.
 
 PORT.
-That it did, sir, i’ the very throat on me; but I requited him for his lie, and —I think— being too strong for him, though he took up my legs sometime, yet I made a shift to cast him.
+That it did, sir, i’ the very throat on me; but I requited him for his lie, and (I think) being too strong for him, though he took up my legs sometime, yet I made a shift to cast him.
 
 MACD.
 Is thy master stirring?
@@ -1305,7 +1304,7 @@ MACB.
 
 LEN.
 The night has been unruly. Where we lay,
-Our chimneys were blown down, and —as they say—
+Our chimneys were blown down, and (as they say) 
 Lamentings heard i’ th’ air; strange screams of death,
 And prophesying, with accents terrible,
 Of dire combustion and confus’d events
@@ -1359,7 +1358,7 @@ Bell rings.
 
 Enter Lady Macbeth.
 
-LADY MACB.
+L. MACB.
 What’s the business,
 That such a hideous trumpet calls to parley
 The sleepers of the house? Speak, speak!
@@ -1373,7 +1372,7 @@ Would murder as it fell.
 ^5 O Banquo, Banquo,
 Our royal master’s murder’d!
 
-LADY MACB.
+L. MACB.
 ^6 Woe, alas!
 What, in our house?
 
@@ -1435,7 +1434,7 @@ Unmannerly breech’d with gore. Who could refrain,
 That had a heart to love, and in that heart
 Courage to make ’s love known?
 
-LADY MACB.
+L. MACB.
 ^7 Help me hence, ho!
 
 MACD.
@@ -1506,7 +1505,7 @@ Which steals itself, when there’s no mercy left.
 Exeunt.
 
 
-### Scene 4
+### Act 2, Scene 4
 
 
 Outside Macbeth’s castle.
@@ -1535,7 +1534,7 @@ A falcon, tow’ring in her pride of place,
 Was by a mousing owl hawk’d at, and kill’d.
 
 ROSSE.
-And Duncan’s horses —a thing most strange and certain—,
+And Duncan’s horses (a thing most strange and certain),
 Beauteous and swift, the minions of their race,
 Turn’d wild in nature, broke their stalls, flung out,
 Contending ’gainst obedience, as they would make
@@ -1614,8 +1613,8 @@ Exeunt omnes.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 Forres. The palace.
@@ -1639,7 +1638,7 @@ Sennet sounded. Enter Macbeth as King, Lady Macbeth as Queen, Lennox, Rosse, Lor
 MACB.
 Here’s our chief guest.
 
-LADY MACB.
+L. MACB.
 ^4 If he had been forgotten,
 It had been as a gap in our great feast,
 And all-thing unbecoming.
@@ -1662,7 +1661,7 @@ BAN.
 
 MACB.
 We should have else desir’d your good advice
-—Which still hath been both grave and prosperous—
+(Which still hath been both grave and prosperous) 
 In this day’s council; but we’ll take tomorrow.
 Is’t far you ride?
 
@@ -1853,29 +1852,29 @@ If it find heaven, must find it out tonight.
 Exit.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 Forres. The palace.
 
 Enter Macbeth’s Lady and her Waiting Gentlewoman.
 
-LADY MACB.
+L. MACB.
 Is Banquo gone from court?
 
-GENT.
+GENTLEW.
 Ay, madam, but returns again tonight.
 
-LADY MACB.
+L. MACB.
 Say to the King, I would attend his leisure
 For a few words.
 
-GENT.
+GENTLEW.
 ^4 Madam, I will.
 
 Exit.
 
-LADY MACB.
+L. MACB.
 ^7 Nought’s had, all’s spent,
 Where our desire is got without content;
 ’Tis safer to be that which we destroy
@@ -1903,7 +1902,7 @@ Treason has done his worst; nor steel, nor poison,
 Malice domestic, foreign levy, nothing,
 Can touch him further.
 
-LADY MACB.
+L. MACB.
 ^5 Come on;
 Gentle my lord, sleek o’er your rugged looks,
 Be bright and jovial among your guests tonight.
@@ -1917,14 +1916,14 @@ Must lave our honors in these flattering streams,
 And make our faces vizards to our hearts,
 Disguising what they are.
 
-LADY MACB.
+L. MACB.
 ^5 You must leave this.
 
 MACB.
 O, full of scorpions is my mind, dear wife!
 Thou know’st that Banquo and his Fleance lives.
 
-LADY MACB.
+L. MACB.
 But in them nature’s copy’s not eterne.
 
 MACB.
@@ -1935,7 +1934,7 @@ The shard-borne beetle with his drowsy hums
 Hath rung night’s yawning peal, there shall be done
 A deed of dreadful note.
 
-LADY MACB.
+L. MACB.
 ^5 What’s to be done?
 
 MACB.
@@ -1955,7 +1954,7 @@ So prithee go with me.
 Exeunt.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 Forres. A park near the palace.
@@ -2046,7 +2045,7 @@ Well, let’s away, and say how much is done.
 Exeunt.
 
 
-### Scene 4
+### Act 3, Scene 4
 
 
 A room of state in the palace.
@@ -2068,7 +2067,7 @@ And play the humble host.
 Our hostess keeps her state, but in best time
 We will require her welcome.
 
-LADY MACB.
+L. MACB.
 Pronounce it for me, sir, to all our friends,
 For my heart speaks they are welcome.
 
@@ -2122,7 +2121,7 @@ We’ll hear ourselves again.
 
 Exit Murderer.
 
-LADY MACB.
+L. MACB.
 ^6 My royal lord,
 You do not give the cheer. The feast is sold
 That is not often vouch’d, while ’tis a-making,
@@ -2176,7 +2175,7 @@ Thy gory locks at me.
 ROSSE.
 Gentlemen, rise, his Highness is not well.
 
-LADY MACB.
+L. MACB.
 Sit, worthy friends; my lord is often thus,
 And hath been from his youth. Pray you keep seat.
 The fit is momentary, upon a thought
@@ -2188,12 +2187,12 @@ MACB.
 Ay, and a bold one, that dare look on that
 Which might appall the devil.
 
-LADY MACB.
+L. MACB.
 ^6 O proper stuff!
 This is the very painting of your fear;
 This is the air-drawn dagger which you said
 Led you to Duncan. O, these flaws and starts
-—Impostors to true fear— would well become
+(Impostors to true fear) would well become
 A woman’s story at a winter’s fire,
 Authoriz’d by her grandam. Shame itself,
 Why do you make such faces? When all’s done,
@@ -2209,13 +2208,13 @@ Shall be the maws of kites.
 
 Exit Ghost.
 
-LADY MACB.
+L. MACB.
 ^6 What? Quite unmann’d in folly?
 
 MACB.
 If I stand here, I saw him.
 
-LADY MACB.
+L. MACB.
 ^5 Fie, for shame!
 
 MACB.
@@ -2229,7 +2228,7 @@ With twenty mortal murders on their crowns,
 And push us from our stools. This is more strange
 Than such a murder is.
 
-LADY MACB.
+L. MACB.
 ^5 My worthy lord,
 Your noble friends do lack you.
 
@@ -2254,7 +2253,7 @@ Thy bones are marrowless, thy blood is cold;
 Thou hast no speculation in those eyes
 Which thou dost glare with!
 
-LADY MACB.
+L. MACB.
 ^5 Think of this, good peers,
 But as a thing of custom. ’Tis no other;
 Only it spoils the pleasure of the time.
@@ -2273,7 +2272,7 @@ Unreal mock’ry, hence!
 ^5 Why, so; being gone,
 I am a man again. Pray you sit still.
 
-LADY MACB.
+L. MACB.
 You have displac’d the mirth, broke the good meeting,
 With most admir’d disorder.
 
@@ -2289,7 +2288,7 @@ When mine is blanch’d with fear.
 ROSSE.
 ^7 What sights, my lord?
 
-LADY MACB.
+L. MACB.
 I pray you speak not. He grows worse and worse,
 Question enrages him. At once, good night.
 Stand not upon the order of your going,
@@ -2299,7 +2298,7 @@ LEN.
 ^3 Good night, and better health
 Attend his Majesty!
 
-LADY MACB.
+L. MACB.
 ^5 A kind good night to all!
 
 Exeunt Lords and Attendants.
@@ -2311,21 +2310,21 @@ Augures and understood relations have
 By maggot-pies and choughs and rooks brought forth
 The secret’st man of blood. What is the night?
 
-LADY MACB.
+L. MACB.
 Almost at odds with morning, which is which.
 
 MACB.
 How say’st thou, that Macduff denies his person
 At our great bidding?
 
-LADY MACB.
+L. MACB.
 ^4 Did you send to him, sir?
 
 MACB.
 I hear it by the way; but I will send.
 There’s not a one of them but in his house
 I keep a servant fee’d. I will tomorrow
-—And betimes I will— to the weird sisters.
+(And betimes I will) to the weird sisters.
 More shall they speak; for now I am bent to know,
 By the worst means, the worst. For mine own good
 All causes shall give way. I am in blood
@@ -2334,7 +2333,7 @@ Returning were as tedious as go o’er.
 Strange things I have in head, that will to hand,
 Which must be acted ere they may be scann’d.
 
-LADY MACB.
+L. MACB.
 You lack the season of all natures, sleep.
 
 MACB.
@@ -2345,7 +2344,7 @@ We are yet but young in deed.
 Exeunt.
 
 
-### Scene 5
+### Act 3, Scene 5
 
 
 A heath.
@@ -2366,7 +2365,7 @@ Was never call’d to bear my part,
 Or show the glory of our art?
 And which is worse, all you have done
 Hath been but for a wayward son,
-Spiteful and wrathful, who —as others do—
+Spiteful and wrathful, who (as others do) 
 Loves for his own ends, not for you.
 But make amends now. Get you gone,
 And at the pit of Acheron
@@ -2401,7 +2400,7 @@ Come, let’s make haste, she’ll soon be back again.
 Exeunt.
 
 
-### Scene 6
+### Act 3, Scene 6
 
 
 Forres. The palace.
@@ -2414,7 +2413,7 @@ Which can interpret farther; only I say
 Things have been strangely borne. The gracious Duncan
 Was pitied of Macbeth; marry, he was dead.
 And the right valiant Banquo walk’d too late,
-Whom you may say —if’t please you— Fleance kill’d,
+Whom you may say (if’t please you) Fleance kill’d,
 For Fleance fled. Men must not walk too late.
 Who cannot want the thought, how monstrous
 It was for Malcolm and for Donalbain
@@ -2427,7 +2426,7 @@ For ’twould have anger’d any heart alive
 To hear the men deny’t. So that, I say,
 He has borne all things well, and I do think
 That had he Duncan’s sons under his key
-—As, and’t please heaven, he shall not—, they should find
+(As, and’t please heaven, he shall not), they should find
 What ’twere to kill a father; so should Fleance.
 But peace! For from broad words, and ’cause he fail’d
 His presence at the tyrant’s feast, I hear
@@ -2436,15 +2435,15 @@ Where he bestows himself?
 
 LORD.
 ^5 The son of Duncan
-—From whom this tyrant holds the due of birth—
+(From whom this tyrant holds the due of birth) 
 Lives in the English court, and is receiv’d
 Of the most pious Edward with such grace
 That the malevolence of fortune nothing
 Takes from his high respect. Thither Macduff
 Is gone to pray the holy king, upon his aid
 To wake Northumberland and warlike Siward,
-That by the help of these —with Him above
-To ratify the work— we may again
+That by the help of these (with Him above
+To ratify the work) we may again
 Give to our tables meat, sleep to our nights;
 Free from our feasts and banquets bloody knives;
 Do faithful homage and receive free honors;
@@ -2479,8 +2478,8 @@ Exeunt.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 A cavern.
@@ -2571,12 +2570,12 @@ MACB.
 How now, you secret, black, and midnight hags?
 What is’t you do?
 
-ALL. WITCHES
+ALL WITCHES
 ^4 A deed without a name.
 
 MACB.
 I conjure you, by that which you profess
-—How e’er you come to know it—, answer me:
+(How e’er you come to know it), answer me:
 Though you untie the winds, and let them fight
 Against the churches; though the yesty waves
 Confound and swallow navigation up;
@@ -2610,7 +2609,7 @@ Her nine farrow; grease that’s sweaten
 From the murderer’s gibbet throw
 Into the flame.
 
-ALL. WITCHES
+ALL WITCHES
 ^3 Come high or low;
 Thyself and office deftly show!
 
@@ -2664,7 +2663,7 @@ That rises like the issue of a king,
 And wears upon his baby-brow the round
 And top of sovereignty?
 
-ALL. WITCHES, APP.
+ALL WITCHES, APP.
 ^5 Listen, but speak not to’t.
 
 3. APP.
@@ -2688,7 +2687,7 @@ Throbs to know one thing: tell me, if your art
 Can tell so much, shall Banquo’s issue ever
 Reign in this kingdom?
 
-ALL. WITCHES, APP.
+ALL WITCHES, APP.
 ^5 Seek to know no more.
 
 MACB.
@@ -2707,7 +2706,7 @@ Show!
 3. WITCH.
 Show!
 
-ALL. WITCHES
+ALL WITCHES
 Show his eyes, and grieve his heart;
 Come like shadows, so depart.
 
@@ -2800,7 +2799,7 @@ Come bring me where they are.
 Exeunt.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 Fife. Macduff’s castle.
@@ -2990,7 +2989,7 @@ Dies.
 Exit Lady Macduff crying “Murder!” and pursued by the Murderers.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 England. Before the King’s palace.
@@ -3417,8 +3416,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 Dunsinane. An anteroom in the castle.
@@ -3428,19 +3427,19 @@ Enter a Doctor of Physic and a Waiting Gentlewoman.
 DOCT. PHYS.
 I have two nights watch’d with you, but can perceive no truth in your report. When was it she last walk’d?
 
-GENT.
+GENTLEW.
 Since his Majesty went into the field, I have seen her rise from her bed, throw her night-gown upon her, unlock her closet, take forth paper, fold it, write upon’t, read it, afterwards seal it, and again return to bed; yet all this while in a most fast sleep.
 
 DOCT. PHYS.
 A great perturbation in nature, to receive at once the benefit of sleep and do the effects of watching! In this slumb’ry agitation, besides her walking and other actual performances, what, at any time, have you heard her say?
 
-GENT.
+GENTLEW.
 That, sir, which I will not report after her.
 
 DOCT. PHYS.
 You may to me, and ’tis most meet you should.
 
-GENT.
+GENTLEW.
 Neither to you nor any one, having no witness to confirm my speech.
 (Enter Lady Macbeth with a taper.)
 Lo you, here she comes! This is her very guise, and upon my life, fast asleep. Observe her, stand close.
@@ -3448,67 +3447,67 @@ Lo you, here she comes! This is her very guise, and upon my life, fast asleep. O
 DOCT. PHYS.
 How came she by that light?
 
-GENT.
+GENTLEW.
 Why, it stood by her. She has light by her continually, ’tis her command.
 
 DOCT. PHYS.
 You see her eyes are open.
 
-GENT.
+GENTLEW.
 Ay, but their sense are shut.
 
 DOCT. PHYS.
 What is it she does now? Look how she rubs her hands.
 
-GENT.
+GENTLEW.
 It is an accustom’d action with her, to seem thus washing her hands. I have known her continue in this a quarter of an hour.
 
-LADY MACB.
+L. MACB.
 Yet here’s a spot.
 
 DOCT. PHYS.
 Hark, she speaks. I will set down what comes from her, to satisfy my remembrance the more strongly.
 
-LADY MACB.
+L. MACB.
 Out, damn’d spot! Out, I say! One—two—why then ’tis time to do’t. Hell is murky. Fie, my lord, fie, a soldier, and afeard? What need we fear who knows it, when none can call our pow’r to accompt? Yet who would have thought the old man to have had so much blood in him?
 
 DOCT. PHYS.
 Do you mark that?
 
-LADY MACB.
+L. MACB.
 The Thane of Fife had a wife; where is she now? What, will these hands ne’er be clean? No more o’ that, my lord, no more o’ that; you mar all with this starting.
 
 DOCT. PHYS.
 Go to, go to; you have known what you should not.
 
-GENT.
+GENTLEW.
 She has spoke what she should not, I am sure of that; heaven knows what she has known.
 
-LADY MACB.
+L. MACB.
 Here’s the smell of the blood still. All the perfumes of Arabia will not sweeten this little hand. O, O, O!
 
 DOCT. PHYS.
 What a sigh is there! The heart is sorely charg’d.
 
-GENT.
+GENTLEW.
 I would not have such a heart in my bosom for the dignity of the whole body.
 
 DOCT. PHYS.
 Well, well, well.
 
-GENT.
+GENTLEW.
 Pray God it be, sir.
 
 DOCT. PHYS.
 This disease is beyond my practice; yet I have known those which have walk’d in their sleep who have died holily in their beds.
 
-LADY MACB.
+L. MACB.
 Wash your hands, put on your night-gown, look not so pale. I tell you yet again, Banquo’s buried; he cannot come out on ’s grave.
 
 DOCT. PHYS.
 Even so?
 
-LADY MACB.
+L. MACB.
 To bed, to bed; there’s knocking at the gate. Come, come, come, come, give me your hand. What’s done cannot be undone. To bed, to bed, to bed.
 
 Exit Lady.
@@ -3516,7 +3515,7 @@ Exit Lady.
 DOCT. PHYS.
 Will she go now to bed?
 
-GENT.
+GENTLEW.
 Directly.
 
 DOCT. PHYS.
@@ -3530,13 +3529,13 @@ And still keep eyes upon her. So good night.
 My mind she has mated, and amaz’d my sight.
 I think, but dare not speak.
 
-GENT.
+GENTLEW.
 ^5 Good night, good doctor.
 
 Exeunt.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 The country near Dunsinane.
@@ -3603,7 +3602,7 @@ Make we our march towards Birnan.
 Exeunt marching.
 
 
-### Scene 3
+### Act 5, Scene 3
 
 
 Dunsinane. A room in the castle.
@@ -3730,7 +3729,7 @@ Profit again should hardly draw me here.
 Exit.
 
 
-### Scene 4
+### Act 5, Scene 4
 
 
 Country near Birnam wood.
@@ -3787,7 +3786,7 @@ Towards which advance the war.
 Exeunt marching.
 
 
-### Scene 5
+### Act 5, Scene 5
 
 
 Dunsinane. Within the castle.
@@ -3882,7 +3881,7 @@ At least we’ll die with harness on our back.
 Exeunt.
 
 
-### Scene 6
+### Act 5, Scene 6
 
 
 Dunsinane. Before the castle.
@@ -3909,7 +3908,7 @@ Those clamorous harbingers of blood and death.
 Exeunt. Alarums continued.
 
 
-### Scene 7
+### Act 5, Scene 7
 
 
 A part of the field.
@@ -3992,7 +3991,7 @@ SIW.
 Exeunt. Alarum.
 
 
-### Scene 8
+### Act 5, Scene 8
 
 
 Another part of the field.
@@ -4065,7 +4064,7 @@ Exeunt fighting. Alarums.
 Enter fighting, and Macbeth slain. Macduff carries off Macbeth’s body.
 
 
-### Scene 9
+### Act 5, Scene 9
 
 
 Dunsinane. Within Macbeth’s castle.
@@ -4144,7 +4143,7 @@ As calling home our exil’d friends abroad
 That fled the snares of watchful tyranny,
 Producing forth the cruel ministers
 Of this dead butcher and his fiend-like queen,
-Who —as ’tis thought— by self and violent hands
+Who (as ’tis thought) by self and violent hands
 Took off her life; this, and what needful else
 That calls upon us, by the grace of Grace,
 We will perform in measure, time, and place.

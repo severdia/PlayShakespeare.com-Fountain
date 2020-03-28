@@ -2,8 +2,8 @@ Title: Merchant of Venice
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,35 +14,35 @@ Notes:
 
 >_Cast of Characters_<
 
-|The Duke of Venice (DUKE.): | 
+|Shylock (SHY.): | 
 |Antonio (ANT.): | 
 |Bassanio (BASS.): | 
-|Solanio (SOL.): | 
 |Gratiano (GRA.): | 
-|Salerio (SAL.): | 
 |Lorenzo (LOR.): | 
-|Shylock (SHY.): | 
-|Tubal (TUB.): | 
-|Launcelot Gobbo (LAUN.): | 
-|Old Gobbo (GOB.): | 
-|Leonardo (LEON.): | 
-|Balthazar (BALTH.): | 
-|Stephano (STEPH.): | 
-|Portia (POR.): | 
-|Nerissa (NER.): | 
-|Jessica (JES.): | 
+|Salerio (SAL.): | 
 |The Prince of Morocco (MOR.): | 
 |The Prince of Arragon (AR.): | 
-|Jailer (JAIL.): | 
+|The Duke of Venice (DUKE.): | 
+|Solanio (SOL.): | 
+|Launcelot Gobbo (LAUN.): | 
+|Old Gobbo (GOB.): | 
+|Portia (POR.): | 
+|Jessica (JES.): | 
+|Nerissa (NER.): | 
+|Stephano (STEPH.): | 
+|Singer (SING.): | 
+|Tubal (TUB.): | 
+|Leonardo (LEON.): | 
+|Balthazar (BALTH.): | 
 |Portia’s Servant (SERV.): | 
 |Antonio’s Servant (ANT. SERV.): | 
-|Singer (SING.): | 
+|Jailer (JAIL.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 Venice. A street.
@@ -303,7 +303,7 @@ To have it of my trust, or for my sake.
 Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 Belmont. A room in Portia’s house.
@@ -404,7 +404,7 @@ Whiles we shut the gate upon one wooer, another knocks at the door.
 Exeunt.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 Venice. A public place.
@@ -520,7 +520,7 @@ ANT.
 SHY.
 When Jacob graz’d his uncle Laban’s sheep—
 This Jacob from our holy Abram was
-—As his wise mother wrought in his behalf—
+(As his wise mother wrought in his behalf) 
 The third possessor; ay, he was the third—
 
 ANT.
@@ -574,7 +574,7 @@ Signior Antonio, many a time and oft
 In the Rialto you have rated me
 About my moneys and my usances.
 Still have I borne it with a patient shrug
-—For suff’rance is the badge of all our tribe—.
+(For suff’rance is the badge of all our tribe).
 You call me misbeliever, cut-throat dog,
 And spet upon my Jewish gaberdine,
 And all for use of that which is mine own.
@@ -684,8 +684,8 @@ Exeunt.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 Belmont. A room in Portia’s house.
@@ -758,7 +758,7 @@ To make me blest or cursed’st among men.
 Cornets. Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 Venice. A street.
@@ -766,7 +766,7 @@ Venice. A street.
 Enter the Clown Launcelot Gobbo alone.
 
 LAUN.
-Certainly my conscience will serve me to run from this Jew my master. The fiend is at mine elbow and tempts me, saying to me, “Gobbo, Launcelot Gobbo, good Launcelot,” or “good Gobbo,” or “good Launcelot Gobbo, use your legs, take the start, run away.” My conscience says, “No; take heed, honest Launcelot, take heed, honest Gobbo,” or as aforesaid, “honest Launcelot Gobbo, do not run, scorn running with thy heels.” Well, the most courageous fiend bids me pack. “Fia!” says the fiend; “away!” says the fiend; “for the heavens, rouse up a brave mind,” says the fiend, “and run.” Well, my conscience, hanging about the neck of my heart, says very wisely to me, “My honest friend Launcelot, being an honest man’s son”—or rather an honest woman’s son, for indeed my father did something smack, something grow to, he had a kind of taste—well, my conscience says, “Launcelot, bouge not.” “Bouge,” says the fiend. “Bouge not,” says my conscience. “Conscience,” say I, “you counsel well.” “Fiend,” say I, “you counsel well.” To be rul’d by my conscience, I should stay with the Jew my master, who —God bless the mark— is a kind of devil; and to run away from the Jew, I should be rul’d by the fiend, who, saving your reverence, is the devil himself. Certainly the Jew is the very devil incarnation, and in my conscience, my conscience is but a kind of hard conscience, to offer to counsel me to stay with the Jew. The fiend gives the more friendly counsel: I will run, fiend; my heels are at your commandment, I will run.
+Certainly my conscience will serve me to run from this Jew my master. The fiend is at mine elbow and tempts me, saying to me, “Gobbo, Launcelot Gobbo, good Launcelot,” or “good Gobbo,” or “good Launcelot Gobbo, use your legs, take the start, run away.” My conscience says, “No; take heed, honest Launcelot, take heed, honest Gobbo,” or as aforesaid, “honest Launcelot Gobbo, do not run, scorn running with thy heels.” Well, the most courageous fiend bids me pack. “Fia!” says the fiend; “away!” says the fiend; “for the heavens, rouse up a brave mind,” says the fiend, “and run.” Well, my conscience, hanging about the neck of my heart, says very wisely to me, “My honest friend Launcelot, being an honest man’s son”—or rather an honest woman’s son, for indeed my father did something smack, something grow to, he had a kind of taste—well, my conscience says, “Launcelot, bouge not.” “Bouge,” says the fiend. “Bouge not,” says my conscience. “Conscience,” say I, “you counsel well.” “Fiend,” say I, “you counsel well.” To be rul’d by my conscience, I should stay with the Jew my master, who (God bless the mark) is a kind of devil; and to run away from the Jew, I should be rul’d by the fiend, who, saving your reverence, is the devil himself. Certainly the Jew is the very devil incarnation, and in my conscience, my conscience is but a kind of hard conscience, to offer to counsel me to stay with the Jew. The fiend gives the more friendly counsel: I will run, fiend; my heels are at your commandment, I will run.
 
 Enter Old Gobbo with a basket.
 
@@ -881,7 +881,7 @@ LAUN.
 Indeed the short and the long is, I serve the Jew, and have a desire, as my father shall specify—
 
 GOB.
-His master and he —saving your worship’s reverence— are scarce cater-cousins—
+His master and he (saving your worship’s reverence) are scarce cater-cousins—
 
 LAUN.
 To be brief, the very truth is that the Jew, having done me wrong, doth cause me, as my father, being I hope an old man, shall frutify unto you—
@@ -1002,7 +1002,7 @@ But we will visit you at supper-time.
 Exeunt.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 Venice. A room in Shylock’s house.
@@ -1036,7 +1036,7 @@ Become a Christian and thy loving wife.
 Exit.
 
 
-### Scene 4
+### Act 2, Scene 4
 
 
 Venice. A street.
@@ -1126,7 +1126,7 @@ Fair Jessica shall be my torch-bearer.
 Exeunt.
 
 
-### Scene 5
+### Act 2, Scene 5
 
 
 Venice. Before Shylock’s house.
@@ -1222,7 +1222,7 @@ I have a father, you a daughter, lost.
 Exit.
 
 
-### Scene 6
+### Act 2, Scene 6
 
 
 Venice. Before Shylock’s house.
@@ -1357,7 +1357,7 @@ Than to be under sail, and gone tonight.
 Exeunt.
 
 
-### Scene 7
+### Act 2, Scene 7
 
 
 Belmont. A room in Portia’s house.
@@ -1454,7 +1454,6 @@ There is a written scroll! I’ll read the writing.
 *Fare you well, your suit is cold.”* 
 *Cold indeed, and labor lost:* 
 *Then farewell heat, and welcome frost!* 
-
 Portia, adieu. I have too griev’d a heart
 To take a tedious leave; thus losers part.
 
@@ -1467,7 +1466,7 @@ Let all of his complexion choose me so.
 Exeunt.
 
 
-### Scene 8
+### Act 2, Scene 8
 
 
 Venice. A street.
@@ -1554,7 +1553,7 @@ SAL.
 Exeunt.
 
 
-### Scene 9
+### Act 2, Scene 9
 
 
 Belmont. A room in Portia’s house.
@@ -1592,14 +1591,10 @@ That comes to hazard for my worthless self.
 AR.
 And so have I address’d me. Fortune now
 To my heart’s hope! Gold, silver, and base lead.
-
 *“Who chooseth me must give and hazard all he hath.”* 
-
 You shall look fairer ere I give or hazard.
 What says the golden chest? Ha, let me see:
-
 *“Who chooseth me shall gain what many men desire.”* 
-
 What many men desire! That many may be meant
 By the fool multitude that choose by show,
 Not learning more than the fond eye doth teach,
@@ -1611,9 +1606,7 @@ Because I will not jump with common spirits,
 And rank me with the barbarous multitudes.
 Why then to thee, thou silver treasure house,
 Tell me once more what title thou dost bear:
-
 *“Who chooseth me shall get as much as he deserves.”* 
-
 And well said too; for who shall go about
 To cozen fortune, and be honorable
 Without the stamp of merit? Let none presume
@@ -1627,9 +1620,7 @@ How much low peasantry would then be gleaned
 From the true seed of honor? And how much honor
 Pick’d from the chaff and ruin of the times
 To be new varnish’d? Well, but to my choice:
-
 *“Who chooseth me shall get as much as he deserves.”* 
-
 I will assume desert. Give me a key for this,
 And instantly unlock my fortunes here.
 
@@ -1698,7 +1689,7 @@ Madam, there is alighted at your gate
 A young Venetian, one that comes before
 To signify th’ approaching of his lord,
 From whom he bringeth sensible regreets:
-To wit —besides commends and courteous breath—,
+To wit (besides commends and courteous breath),
 Gifts of rich value. Yet I have not seen
 So likely an ambassador of love.
 A day in April never came so sweet,
@@ -1721,8 +1712,8 @@ Exeunt.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 Venice. A street.
@@ -1837,7 +1828,7 @@ SHY.
 Thou stick’st a dagger in me. I shall never see my gold again. Fourscore ducats at a sitting, fourscore ducats!
 
 TUB.
-There came divers of Antonio’s creditors in my company to Venice that swear he cannot choose but break.
+There came diverse of Antonio’s creditors in my company to Venice that swear he cannot choose but break.
 
 SHY.
 I am very glad of it. I’ll plague him, I’ll torture him. I am glad of it.
@@ -1857,7 +1848,7 @@ Nay, that’s true, that’s very true. Go, Tubal, fee me an officer; bespeak hi
 Exeunt.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 Belmont. A room in Portia’s house.
@@ -1868,7 +1859,7 @@ POR.
 I pray you tarry, pause a day or two
 Before you hazard, for in choosing wrong
 I lose your company; therefore forbear a while.
-There’s something tells me —but it is not love—
+There’s something tells me (but it is not love) 
 I would not lose you, and you know yourself,
 Hate counsels not in such a quality.
 But lest you should not understand me well—
@@ -2000,7 +1991,7 @@ The seeming truth which cunning times put on
 To entrap the wisest. Therefore then, thou gaudy gold,
 Hard food for Midas, I will none of thee;
 Nor none of thee, thou pale and common drudge
-’Tween man and man; but thou, thou meagre lead,
+’Tween man and man; but thou, thou meager lead,
 Which rather threaten’st than dost promise aught,
 Thy paleness moves me more than eloquence,
 And here choose I. Joy be the consequence!
@@ -2043,7 +2034,6 @@ The continent and summary of my fortune.
 *And hold your fortune for your bliss,* 
 *Turn you where your lady is,* 
 *And claim her with a loving kiss.”* 
-
 A gentle scroll. Fair lady, by your leave,
 I come by note, to give and to receive.
 Like one of two contending in a prize,
@@ -2310,7 +2300,7 @@ Nor rest be interposer ’twixt us twain.
 Exeunt.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 Venice. A street.
@@ -2379,7 +2369,7 @@ To see me pay his debt, and then I care not!
 Exeunt.
 
 
-### Scene 4
+### Act 3, Scene 4
 
 
 Belmont. A room in Portia’s house.
@@ -2505,7 +2495,7 @@ For we must measure twenty miles today.
 Exeunt.
 
 
-### Scene 5
+### Act 3, Scene 5
 
 
 Belmont. A garden at Portia’s house.
@@ -2626,8 +2616,8 @@ Exeunt.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 Venice. A court of justice.
@@ -3380,7 +3370,7 @@ Fly toward Belmont. Come, Antonio.
 Exeunt.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 Venice. A street.
@@ -3432,8 +3422,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 Belmont. Outside Portia’s house.
@@ -3479,7 +3469,7 @@ And ne’er a true one.
 
 LOR.
 ^4 In such a night
-Did pretty Jessica —like a little shrew—
+Did pretty Jessica (like a little shrew) 
 Slander her love, and he forgave it her.
 
 JES.

@@ -2,8 +2,8 @@ Title: Richard III
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,75 +14,75 @@ Notes:
 
 >_Cast of Characters_<
 
+|Richard, Duke of Gloucester (GLOU.): | 
+|Duke of Buckingham (BUCK.): | 
+|George, Duke of Clarence (CLAR.): | 
+|Henry, Earl of Richmond (RICHM.): | 
 |King Edward the Fourth (K. EDW.): | 
+|Sir William Catesby (CATE.): | 
+|Earl Rivers (RIV.): | 
 |Edward, Prince of Wales (PRINCE.): | 
 |Richard, Duke of York (YORK.): | 
-|George, Duke of Clarence (CLAR.): | 
-|Edward Plantagenet (EDW.): | 
-|Richard, Duke of Gloucester (GLOU.): | 
-|Henry, Earl of Richmond (RICHM.): | 
-|Cardinal Bourchier (CARD.): | 
-|Thomas Rotherham, Archbishop of York (ARCH.): | 
-|John Morton, Bishop of Ely (ELY.): | 
-|Duke of Buckingham (BUCK.): | 
-|Duke of Norfolk (NOR.): | 
-|Earl of Surrey (SUR.): | 
-|Earl Rivers (RIV.): | 
-|Marquess of Dorset (DOR.): | 
-|Lord Grey (GREY.): | 
-|Earl of Oxford (OXF.): | 
-|Lord Hastings (HAST.): | 
-|Lord Stanley (STAN.): | 
-|Lord Lovel (LOV.): | 
-|Sir Thomas Vaughan (VAUG.): | 
-|Sir Richard Ratcliffe (RAT.): | 
-|Sir William Catesby (CATE.): | 
 |Sir James Tyrrel (TYR.): | 
-|Sir James Blunt (BLUNT.): | 
-|Sir Walter Herbert (HERB.): | 
+|Sir Richard Ratcliffe (RAT.): | 
+|Edward Plantagenet (EDW.): | 
 |Sir Robert Brakenbury (BRAK.): | 
-|Sir William Brandon (BRAND.): | 
-|Christopher Urswick (CHRIS.): | 
 |Queen Elizabeth (Q. ELIZ.): | 
 |Queen Margaret (Q. MAR.): | 
-|Duchess of York (DUCH.): | 
 |Lady Anne (ANNE.): | 
-|Tressel (TRESS.): | 
-|Berkeley (BERK.): | 
-|Keeper in the Tower (KEEP.): | 
-|Lord Mayor of London (MAY.): | 
-|Sheriff of Wiltshire (SHER.): | 
-|Pursuivant (PURS.): | 
+|Duchess of York (DUCH.): | 
 |Margaret Plantagenet (MARG.): | 
+|Marquess of Dorset (DOR.): | 
+|Lord Hastings (HAST.): | 
+|Lord Stanley (STAN.): | 
+|Lord Grey (GREY.): | 
+|Lord Mayor of London (MAY.): | 
+|Duke of Norfolk (NOR.): | 
+|Cardinal Bourchier (CARD.): | 
+|Christopher Urswick (CHRIS.): | 
+|Sir James Blunt (BLUNT.): | 
+|John Morton, Bishop of Ely (ELY.): | 
+|Sir Thomas Vaughan (VAUG.): | 
+|Pursuivant (PURS.): | 
 |Sir John (PRIEST.): | 
+|Earl of Oxford (OXF.): | 
+|Sheriff of Wiltshire (SHER.): | 
+|Sir Walter Herbert (HERB.): | 
+|Earl of Surrey (SUR.): | 
+|Lord Lovel (LOV.): | 
 |First Murderer (1. MUR.): | 
 |Second Murderer (2. MUR.): | 
-|Gentleman (GENT.): | 
 |First Citizen (1. CIT.): | 
 |Second Citizen (2. CIT.): | 
 |Third Citizen (3. CIT.): | 
-|Messenger to the Queen (MESS. QUEEN.): | 
-|Stanley Messenger (STAN. MESS.): | 
-|Scrivener (SCRIV.): | 
-|Aldermen of London (ALD.): | 
-|Halberds (HALB.): | 
-|Two Bishops (TWO BISH.): | 
-|Page (PAGE.): | 
 |First Messenger (1. MESS.): | 
 |Second Messenger (2. MESS.): | 
 |Third Messenger (3. MESS.): | 
 |Fourth Messenger (4. MESS.): | 
 |Fifth Messenger (5. MESS.): | 
+|Messenger to the Queen (MESS. QUEEN.): | 
+|Stanley Messenger (STAN. MESS.): | 
+|Keeper in the Tower (KEEP.): | 
+|Scrivener (SCRIV.): | 
+|Thomas Rotherham, Archbishop of York (ARCH.): | 
 |Ghost of King Henry VI (GHOST OF HENRY.): | 
 |Ghost of Prince Edward of Lancaster (GHOST OF ED.): | 
+|Page (PAGE.): | 
 |First Lord to Richmond (1. LORD. RICH.): | 
 |Second Lord to Richmond (2. LORD. RICH.): | 
+|Gentleman (GENT.): | 
+|Sir William Brandon (BRAND.): | 
+|Tressel (TRESS.): | 
+|Berkeley (BERK.): | 
+|Two Bishops (TWO BISH.): | 
+|Halberds (HALB.): | 
+|Aldermen of London (ALD.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 London. A street.
@@ -162,7 +162,7 @@ And says a wizard told him that by G
 His issue disinherited should be;
 And for my name of George begins with G,
 It follows in his thought that I am he.
-These —as I learn— and such-like toys as these
+These (as I learn) and such-like toys as these
 Hath mov’d his Highness to commit me now.
 
 GLOU.
@@ -197,7 +197,7 @@ BRAK.
 I beseech your Graces both to pardon me:
 His Majesty hath straitly given in charge
 That no man shall have private conference
-—Of what degree soever— with your brother.
+(Of what degree soever) with your brother.
 
 GLOU.
 Even so? And please your worship, Brakenbury,
@@ -215,7 +215,7 @@ With this, my lord, myself have nought to do.
 
 GLOU.
 Naught to do with Mistress Shore? I tell thee, fellow,
-He that doth naught with her —excepting one—
+He that doth naught with her (excepting one) 
 Were best to do it secretly alone.
 
 BRAK.
@@ -327,7 +327,7 @@ When they are gone, then must I count my gains.
 Exit.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 London. Another street.
@@ -727,11 +727,11 @@ GLOU.
 That it may please you leave these sad designs
 To him that hath most cause to be a mourner,
 And presently repair to Crosby House;
-Where —after I have solemnly interr’d
+Where (after I have solemnly interr’d
 At Chertsey monast’ry this noble king,
-And wet his grave with my repentant tears—
+And wet his grave with my repentant tears) 
 I will with all expedient duty see you.
-For divers unknown reasons, I beseech you,
+For diverse unknown reasons, I beseech you,
 Grant me this boon.
 
 ANNE.
@@ -775,7 +775,7 @@ Edward, her lord, whom I, some three months since,
 Stabb’d in my angry mood at Tewksbury?
 A sweeter and a lovelier gentleman,
 Fram’d in the prodigality of nature—
-Young, valiant, wise, and —no doubt— right royal—
+Young, valiant, wise, and (no doubt) right royal—
 The spacious world cannot again afford.
 And will she yet abase her eyes on me,
 That cropp’d the golden prime of this sweet prince
@@ -784,7 +784,7 @@ On me, whose all not equals Edward’s moi’ty?
 On me, that halts and am misshapen thus?
 My dukedom to a beggarly denier,
 I do mistake my person all this while!
-Upon my life, she finds —although I cannot—
+Upon my life, she finds (although I cannot) 
 Myself to be a marv’lous proper man.
 I’ll be at charges for a looking-glass,
 And entertain a score or two of tailors
@@ -799,7 +799,7 @@ That I may see my shadow as I pass.
 Exit.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 London. The palace.
@@ -915,14 +915,14 @@ To thee, that hast nor honesty nor grace:
 When have I injur’d thee? When done thee wrong?
 Or thee? Or thee? Or any of your faction?
 A plague upon you all! His royal Grace
-—Whom God preserve better than you would wish!—
+(Whom God preserve better than you would wish!) 
 Cannot be quiet scarce a breathing while
 But you must trouble him with lewd complaints.
 
 Q. ELIZ.
 Brother of Gloucester, you mistake the matter:
 The King, on his own royal disposition
-—And not provok’d by any suitor else—,
+(And not provok’d by any suitor else),
 Aiming, belike, at your interior hatred,
 That in your outward action shows itself
 Against my children, brothers, and myself,
@@ -1405,7 +1405,7 @@ We will, my noble lord.
 Exeunt.
 
 
-### Scene 4
+### Act 1, Scene 4
 
 
 London. The Tower.
@@ -1437,7 +1437,7 @@ During the wars of York and Lancaster,
 That had befall’n us. As we pac’d along
 Upon the giddy footing of the hatches,
 Methought that Gloucester stumbled, and in falling
-Struck me —that thought to stay him— overboard
+Struck me (that thought to stay him) overboard
 Into the tumbling billows of the main.
 O Lord, methought what pain it was to drown!
 What dreadful noise of waters in my ears!
@@ -1449,7 +1449,7 @@ Inestimable stones, unvalued jewels,
 All scatt’red in the bottom of the sea:
 Some lay in dead men’s skulls, and in the holes
 Where eyes did once inhabit, there were crept
-—As ’twere in scorn of eyes— reflecting gems,
+(As ’twere in scorn of eyes) reflecting gems,
 That woo’d the slimy bottom of the deep,
 And mock’d the dead bones that lay scatt’red by.
 
@@ -1471,7 +1471,7 @@ Awak’d you not in this sore agony?
 CLAR.
 No, no, my dream was lengthen’d after life.
 O then began the tempest to my soul!
-I pass’d —methought— the melancholy flood,
+I pass’d (methought) the melancholy flood,
 With that sour ferryman which poets write of,
 Unto the kingdom of perpetual night.
 The first that there did greet my stranger soul
@@ -1484,7 +1484,7 @@ Dabbled in blood, and he shriek’d out aloud,
 “Clarence is come—false, fleeting, perjur’d Clarence,
 That stabb’d me in the field by Tewksbury:
 Seize on him, Furies, take him unto torment!”
-With that —methoughts— a legion of foul fiends
+With that (methoughts) a legion of foul fiends
 Environ’d me, and howled in mine ears
 Such hideous cries that with the very noise
 I, trembling, wak’d, and for a season after
@@ -1493,11 +1493,11 @@ Such terrible impression made my dream.
 
 KEEP.
 No marvel, lord, though it affrighted you;
-I am afraid —methinks— to hear you tell it.
+I am afraid (methinks) to hear you tell it.
 
 KEEP.
 Ah, Keeper, Keeper, I have done these things
-—That now give evidence against my soul—
+(That now give evidence against my soul) 
 For Edward’s sake, and see how he requites me!
 O God! If my deep pray’rs cannot appease thee,
 But thou wilt be aveng’d on my misdeeds,
@@ -1617,7 +1617,7 @@ When he opens his purse to give us our reward, thy conscience flies out.
 What if it come to thee again?
 
 2. MUR.
-I’ll not meddle with it, it makes a man a coward. A man cannot steal, but it accuseth him; a man cannot swear, but it checks him; a man cannot lie with his neighbor’s wife, but it detects him. ’Tis a blushing shame-fac’d spirit that mutinies in a man’s bosom. It fills a man full of obstacles. It made me once restore a purse of gold that —by chance— I found. It beggars any man that keeps it. It is turn’d out of towns and cities for a dangerous thing, and every man that means to live well endeavors to trust to himself and live without it.
+I’ll not meddle with it, it makes a man a coward. A man cannot steal, but it accuseth him; a man cannot swear, but it checks him; a man cannot lie with his neighbor’s wife, but it detects him. ’Tis a blushing shame-fac’d spirit that mutinies in a man’s bosom. It fills a man full of obstacles. It made me once restore a purse of gold that (by chance) I found. It beggars any man that keeps it. It is turn’d out of towns and cities for a dangerous thing, and every man that means to live well endeavors to trust to himself and live without it.
 
 1. MUR.
 ’Zounds, ’tis even now at my elbow, persuading me not to kill the Duke.
@@ -1675,13 +1675,13 @@ How darkly and how deadly dost thou speak!
 Your eyes do menace me. Why look you pale?
 Who sent you hither? Wherefore do you come?
 
-BOTH. 1. MUR. AND 2. MUR.
+BOTH 1. MUR. AND 2. MUR.
 To, to, to—
 
 CLAR.
 To murder me?
 
-BOTH. 1. MUR. AND 2. MUR.
+BOTH 1. MUR. AND 2. MUR.
 Ay, ay.
 
 CLAR.
@@ -1788,7 +1788,7 @@ Go you to him from me.
 CLAR.
 Tell him, when that our princely father York
 Blest his three sons with his victorious arm,
-And charg’d us from his soul to love each other,—
+And charg’d us from his soul to love each other,) 
 He little thought of this divided friendship.
 Bid Gloucester think of this, and he will weep.
 
@@ -1887,8 +1887,8 @@ Exit.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 London. The palace.
@@ -2077,7 +2077,7 @@ Have I a tongue to doom my brother’s death,
 And shall that tongue give pardon to a slave?
 My brother kill’d no man, his fault was thought,
 And yet his punishment was bitter death.
-Who sued to me for him? Who —in my wrath—
+Who sued to me for him? Who (in my wrath) 
 Kneel’d at my feet and bid me be advis’d?
 Who spoke of brotherhood? Who spoke of love?
 Who told me how the poor soul did forsake
@@ -2086,9 +2086,9 @@ Who told me, in the field at Tewksbury,
 When Oxford had me down, he rescued me,
 And said, “Dear brother, live, and be a king”?
 Who told me, when we both lay in the field
-Frozen —almost— to death, how he did lap me
+Frozen (almost) to death, how he did lap me
 Even in his own garments, and did give himself
-—All thin and naked— to the numb cold night?
+(All thin and naked) to the numb cold night?
 All this from my remembrance brutish wrath
 Sinfully pluck’d, and not a man of you
 Had so much grace to put it in my mind.
@@ -2096,10 +2096,10 @@ But when your carters or your waiting vassals
 Have done a drunken slaughter, and defac’d
 The precious image of our dear Redeemer,
 You straight are on your knees for pardon, pardon,
-And I —unjustly too— must grant it you.
+And I (unjustly too) must grant it you.
 (Stanley rises.)
 But for my brother not a man would speak,
-Nor I —ungracious— speak unto myself
+Nor I (ungracious) speak unto myself
 For him, poor soul. The proudest of you all
 Have been beholding to him in his life;
 Yet none of you would once beg for his life.
@@ -2123,7 +2123,7 @@ We wait upon your Grace.
 Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 London. The palace.
@@ -2224,7 +2224,7 @@ And hast the comfort of thy children left;
 But death hath snatch’d my husband from mine arms,
 And pluck’d two crutches from my feeble hands,
 Clarence and Edward. O, what cause have I
-—Thine being but a moi’ty of my moan—
+(Thine being but a moi’ty of my moan) 
 To overgo thy woes and drown thy cries!
 
 EDW.
@@ -2344,7 +2344,7 @@ I hope the King made peace with all of us,
 And the compact is firm and true in me.
 
 RIV.
-And so in me, and so —I think— in all.
+And so in me, and so (I think) in all.
 Yet since it is but green, it should be put
 To no apparent likelihood of breach,
 Which haply by much company might be urg’d;
@@ -2381,7 +2381,7 @@ Toward Ludlow then, for we’ll not stay behind.
 Exeunt.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 London. A street.
@@ -2467,7 +2467,7 @@ All may be well; but if God sort it so,
 
 2. CIT.
 Truly, the hearts of men are full of fear.
-You cannot reason —almost— with a man
+You cannot reason (almost) with a man
 That looks not heavily and full of dread.
 
 3. CIT.
@@ -2486,7 +2486,7 @@ And so was I. I’ll bear you company.
 Exeunt.
 
 
-### Scene 4
+### Act 2, Scene 4
 
 
 London. The palace.
@@ -2542,7 +2542,7 @@ DUCH.
 How, my young York? I prithee let me hear it.
 
 YORK.
-Marry —they say— my uncle grew so fast
+Marry (they say) my uncle grew so fast
 That he could gnaw a crust at two hours old;
 ’Twas full two years ere I could get a tooth.
 Grandam, this would have been a biting jest.
@@ -2610,7 +2610,7 @@ The tiger now hath seiz’d the gentle hind;
 Insulting tyranny begins to jut
 Upon the innocent and aweless throne.
 Welcome destruction, blood, and massacre!
-I see —as in a map— the end of all.
+I see (as in a map) the end of all.
 
 DUCH.
 Accursed and unquiet wrangling days,
@@ -2650,8 +2650,8 @@ Exeunt.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 London. A street.
@@ -3046,7 +3046,7 @@ We may digest our complots in some form.
 Exeunt.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 Before Lord Hastings’ house.
@@ -3172,7 +3172,7 @@ HAST.
 O monstrous, monstrous! And so falls it out
 With Rivers, Vaughan, Grey; and so ’twill do
 With some men else, that think themselves as safe
-As thou and I, who —as thou know’st— are dear
+As thou and I, who (as thou know’st) are dear
 To princely Richard and to Buckingham.
 
 CATE.
@@ -3232,7 +3232,7 @@ I tell thee, man, ’tis better with me now
 Than when thou met’st me last where now we meet.
 Then was I going prisoner to the Tower,
 By the suggestion of the Queen’s allies;
-But now I tell thee —keep it to thyself—
+But now I tell thee (keep it to thyself) 
 This day those enemies are put to death,
 And I in better state than e’er I was.
 
@@ -3294,7 +3294,7 @@ HAST.
 Exeunt.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 Pomfret Castle.
@@ -3350,7 +3350,7 @@ Farewell, until we meet again in heaven.
 Exeunt.
 
 
-### Scene 4
+### Act 3, Scene 4
 
 
 The Tower of London.
@@ -3542,7 +3542,7 @@ They smile at me who shortly shall be dead.
 Exeunt.
 
 
-### Scene 5
+### Act 3, Scene 5
 
 
 The Tower-walls.
@@ -3724,7 +3724,7 @@ Have any time recourse unto the Princes.
 Exeunt.
 
 
-### Scene 6
+### Act 3, Scene 6
 
 
 London. A street.
@@ -3750,7 +3750,7 @@ When such ill dealing must be seen in thought.
 Exit.
 
 
-### Scene 7
+### Act 3, Scene 7
 
 
 Baynard’s castle.
@@ -3922,7 +3922,7 @@ Deferr’d the visitation of my friends.
 But leaving this, what is your Grace’s pleasure?
 
 BUCK.
-Even that —I hope— which pleaseth God above
+Even that (I hope) which pleaseth God above
 And all good men of this ungovern’d isle.
 
 GLOU.
@@ -3993,7 +3993,7 @@ And much I need to help you, were there need:
 The royal tree hath left us royal fruit,
 Which mellow’d by the stealing hours of time,
 Will well become the seat of majesty,
-And make —no doubt— us happy by his reign.
+And make (no doubt) us happy by his reign.
 On him I lay that you would lay on me,
 The right and fortune of his happy stars,
 Which God defend that I should wring from him!
@@ -4116,8 +4116,8 @@ Exeunt.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 Outside the Tower.
@@ -4299,7 +4299,7 @@ So foolish sorrows bids your stones farewell.
 Exeunt.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 London. The palace.
@@ -4566,7 +4566,7 @@ To Brecknock while my fearful head is on!
 Exit.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 London. The palace.
@@ -4618,7 +4618,7 @@ K. RICH.
 
 TYR.
 The chaplain of the Tower hath buried them,
-But where —to say the truth— I do not know.
+But where (to say the truth) I do not know.
 
 K. RICH.
 Come to me, Tyrrel, soon, at after-supper,
@@ -4669,7 +4669,7 @@ We must be brief when traitors brave the field.
 Exeunt.
 
 
-### Scene 4
+### Act 4, Scene 4
 
 
 London. Before the palace.
@@ -5046,7 +5046,7 @@ Q. ELIZ.
 Cousins indeed, and by their uncle cozen’d
 Of comfort, kingdom, kindred, freedom, life.
 Whose hand soever lanch’d their tender hearts,
-Thy head —all indirectly— gave direction.
+Thy head (all indirectly) gave direction.
 No doubt the murd’rous knife was dull and blunt
 Till it was whetted on thy stone-hard heart
 To revel in the entrails of my lambs.
@@ -5149,7 +5149,7 @@ And bid her wipe her weeping eyes withal.
 If this inducement move her not to love,
 Send her a letter of thy noble deeds:
 Tell her thou mad’st away her uncle Clarence,
-Her uncle Rivers, ay —and for her sake!—,
+Her uncle Rivers, ay (and for her sake!),
 Mad’st quick conveyance with her good aunt Anne.
 
 K. RICH.
@@ -5634,7 +5634,7 @@ To Salisbury, the rest march on with me.
 Flourish. Exeunt.
 
 
-### Scene 5
+### Act 4, Scene 5
 
 
 Lord Stanley’s house.
@@ -5678,8 +5678,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 Salisbury. An open place.
@@ -5728,7 +5728,7 @@ Wrong hath but wrong, and blame the due of blame.
 Exeunt Buckingham and Sheriff with Officers.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 The camp near Tamworth.
@@ -5772,7 +5772,7 @@ Kings it makes gods, and meaner creatures kings.
 Exeunt omnes.
 
 
-### Scene 3
+### Act 5, Scene 3
 
 
 Bosworth Field.
@@ -5841,7 +5841,7 @@ Where is Lord Stanley quarter’d, do you know?
 
 BLUNT.
 Unless I have mista’en his colors much
-—Which well I am assur’d I have not done—,
+(Which well I am assur’d I have not done),
 His regiment lies half a mile at least
 South from the mighty power of the King.
 
@@ -6048,7 +6048,7 @@ GHOST OF V.
 Think upon Vaughan, and with guilty fear
 Let fall thy lance. Despair and die!
 
-ALL. GHOSTS.
+ALL GHOSTS
 (To Richmond.)
 Awake and think our wrongs in Richard’s bosom
 Will conquer him! Awake and win the day!
@@ -6338,7 +6338,7 @@ Felt so much cold as over shoes in snow?
 Let’s whip these stragglers o’er the seas again;
 Lash hence these overweening rags of France,
 These famish’d beggars weary of their lives,
-Who —but for dreaming on this fond exploit—
+Who (but for dreaming on this fond exploit) 
 For want of means, poor rats, had hang’d themselves.
 If we be conquered, let men conquer us,
 And not these bastard Britains, whom our fathers
@@ -6375,7 +6375,7 @@ Upon them! Victory sits on our helms.
 Exeunt.
 
 
-### Scene 4
+### Act 5, Scene 4
 
 
 Another part of Bosworth Field.
@@ -6408,7 +6408,7 @@ A horse, a horse! My kingdom for a horse!
 Exeunt.
 
 
-### Scene 5
+### Act 5, Scene 5
 
 
 Another part of Bosworth Field.
@@ -6461,7 +6461,7 @@ Divided in their dire division,
 O now let Richmond and Elizabeth,
 The true succeeders of each royal house,
 By God’s fair ordinance conjoin together!
-And let their heirs —God, if thy will be so—
+And let their heirs (God, if thy will be so) 
 Enrich the time to come with smooth-fac’d peace,
 With smiling plenty, and fair prosperous days!
 Abate the edge of traitors, gracious Lord,

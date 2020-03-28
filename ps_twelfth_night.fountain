@@ -2,8 +2,8 @@ Title: Twelfth Night
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -15,29 +15,29 @@ Notes:
 >_Cast of Characters_<
 
 |Orsino (DUKE.): | 
-|Sebastian (SEB.): | 
-|Antonio (ANT.): | 
-|Sea Captain (CAP.): | 
-|Valentine (VAL.): | 
-|Curio (CUR.): | 
 |Sir Toby Belch (SIR TO.): | 
-|Sir Andrew Aguecheek (SIR AND.): | 
-|Malvolio (MAL.): | 
-|Fabian (FAB.): | 
 |Feste (CLO.): | 
-|Olivia (OLI.): | 
+|Malvolio (MAL.): | 
+|Antonio (ANT.): | 
+|Sebastian (SEB.): | 
+|Sir Andrew Aguecheek (SIR AND.): | 
+|Fabian (FAB.): | 
 |Viola (VIO.): | 
+|Olivia (OLI.): | 
 |Maria (MAR.): | 
-|Olivia’s Servant (SERV.): | 
-|Priest (PRIEST.): | 
+|Sea Captain (CAP.): | 
 |First Officer (1. OFF.): | 
 |Second Officer (2. OFF.): | 
+|Valentine (VAL.): | 
+|Curio (CUR.): | 
+|Priest (PRIEST.): | 
+|Olivia’s Servant (SERV.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 Illyria. A room in Duke Orsino’s palace.
@@ -105,7 +105,7 @@ Love-thoughts lie rich when canopied with bow’rs.
 Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 The sea coast.
@@ -135,7 +135,7 @@ Assure yourself, after our ship did split,
 When you, and those poor number saved with you,
 Hung on our driving boat, I saw your brother,
 Most provident in peril, bind himself
-—Courage and hope both teaching him the practice—
+(Courage and hope both teaching him the practice) 
 To a strong mast that liv’d upon the sea;
 Where like Arion on the dolphin’s back,
 I saw him hold acquaintance with the waves
@@ -169,8 +169,8 @@ Orsino! I have heard my father name him. He was a bachelor then.
 CAP.
 And so is now, or was so very late;
 For but a month ago I went from hence,
-And then ’twas fresh in murmur —as you know
-What great ones do, the less will prattle of—
+And then ’twas fresh in murmur (as you know
+What great ones do, the less will prattle of) 
 That he did seek the love of fair Olivia.
 
 VIO.
@@ -201,7 +201,7 @@ And though that nature with a beauteous wall
 Doth oft close in pollution, yet of thee
 I will believe thou hast a mind that suits
 With this thy fair and outward character.
-I prithee —and I’ll pay thee bounteously—
+I prithee (and I’ll pay thee bounteously) 
 Conceal me what I am, and be my aid
 For such disguise as haply shall become
 The form of my intent. I’ll serve this duke;
@@ -222,7 +222,7 @@ I thank thee. Lead me on.
 Exeunt.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 A room in Olivia’s house.
@@ -435,7 +435,7 @@ No, sir, it is legs and thighs. Let me see thee caper. Ha, higher! Ha, ha, excel
 Exeunt.
 
 
-### Scene 4
+### Act 1, Scene 4
 
 
 A room in Duke Orsino’s palace.
@@ -517,7 +517,7 @@ Whoe’er I woo, myself would be his wife.
 Exeunt.
 
 
-### Scene 5
+### Act 1, Scene 5
 
 
 A room in Olivia’s house.
@@ -781,7 +781,7 @@ OLI.
 Are you a comedian?
 
 VIO.
-No, my profound heart; and yet —by the very fangs of malice I swear— I am not that I play. Are you the lady of the house?
+No, my profound heart; and yet (by the very fangs of malice I swear) I am not that I play. Are you the lady of the house?
 
 OLI.
 If I do not usurp myself, I am.
@@ -861,7 +861,7 @@ If you will lead these graces to the grave,
 And leave the world no copy.
 
 OLI.
-O, sir, I will not be so hard-hearted; I will give out divers schedules of my beauty. It shall be inventoried, and every particle and utensil labell’d to my will: as, item, two lips, indifferent red; item, two grey eyes, with lids to them; item, one neck, one chin, and so forth. Were you sent hither to praise me?
+O, sir, I will not be so hard-hearted; I will give out diverse schedules of my beauty. It shall be inventoried, and every particle and utensil labell’d to my will: as, item, two lips, indifferent red; item, two grey eyes, with lids to them; item, one neck, one chin, and so forth. Were you sent hither to praise me?
 
 VIO.
 I see you what you are, you are too proud;
@@ -917,7 +917,7 @@ I am a gentleman.
 OLI.
 ^4 Get you to your lord.
 I cannot love him; let him send no more—
-Unless —perchance— you come to me again
+Unless (perchance) you come to me again
 To tell me how he takes it. Fare you well.
 I thank you for your pains. Spend this for me.
 
@@ -974,8 +974,8 @@ Exit.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 The sea coast.
@@ -1024,7 +1024,7 @@ That danger shall seem sport, and I will go.
 Exit.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 Illyria. A street.
@@ -1066,11 +1066,11 @@ In women’s waxen hearts to set their forms!
 Alas, our frailty is the cause, not we,
 For such as we are made of, such we be.
 How will this fadge? My master loves her dearly,
-And I —poor monster— fond as much on him;
-And she —mistaken— seems to dote on me.
+And I (poor monster) fond as much on him;
+And she (mistaken) seems to dote on me.
 What will become of this? As I am man,
 My state is desperate for my master’s love;
-As I am woman —now alas the day!—,
+As I am woman (now alas the day!),
 What thriftless sighs shall poor Olivia breathe!
 O time, thou must untangle this, not I,
 It is too hard a knot for me t’ untie.
@@ -1078,7 +1078,7 @@ It is too hard a knot for me t’ untie.
 Exit.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 A room in Olivia’s house.
@@ -1316,7 +1316,7 @@ SIR AND.
 I have no exquisite reason for’t, but I have reason good enough.
 
 MAR.
-The dev’l a puritan that he is, or any thing constantly but a time-pleaser, an affection’d ass, that cons state without book, and utters it by great swarths; the best persuaded of himself, so cramm’d —as he thinks— with excellencies, that it is his grounds of faith that all that look on him love him; and on that vice in him will my revenge find notable cause to work.
+The dev’l a puritan that he is, or any thing constantly but a time-pleaser, an affection’d ass, that cons state without book, and utters it by great swarths; the best persuaded of himself, so cramm’d (as he thinks) with excellencies, that it is his grounds of faith that all that look on him love him; and on that vice in him will my revenge find notable cause to work.
 
 SIR TO.
 What wilt thou do?
@@ -1380,7 +1380,7 @@ Come, come, I’ll go burn some sack, ’tis too late to go to bed now. Come, kn
 Exeunt.
 
 
-### Scene 4
+### Act 2, Scene 4
 
 
 A room in Duke Orsino’s palace.
@@ -1601,7 +1601,7 @@ My love can give no place, bide no denay.
 Exeunt.
 
 
-### Scene 5
+### Act 2, Scene 5
 
 
 Olivia’s garden.
@@ -1763,9 +1763,7 @@ Her c’s, her u’s, and her t’s: why that?
 
 MAL.
 (Reads.)
-*“To the unknown belov’d, this, and my good wishes”:—* 
-
-Her very phrases! By your leave, wax. Soft! And the impressure her Lucrece, with which she uses to seal. ’Tis my lady. To whom should this be?
+*“To the unknown belov’d, this, and my good wishes”:—* Her very phrases! By your leave, wax. Soft! And the impressure her Lucrece, with which she uses to seal. ’Tis my lady. To whom should this be?
 
 FAB.
 This wins him, liver and all.
@@ -1776,7 +1774,6 @@ MAL.
 *But who?* 
 *Lips, do not move;* 
 *No man must know.”* 
-
 “No man must know.” What follows? The numbers alter’d! “No man must know.” If this should be thee, Malvolio?
 
 SIR TO.
@@ -1839,11 +1836,9 @@ M.O.A.I. This simulation is not as the former; and yet, to crush this a little, 
 (Reads.)
 *“If this fall into thy hand, revolve. In my stars I am above thee, but be not afraid of greatness. Some are born great, some achieve greatness, and some have greatness thrust upon ’em. Thy Fates open their hands, let thy blood and spirit embrace them, and to inure thyself to what thou art like to be, cast thy humble slough and appear fresh. Be opposite with a kinsman, surly with servants; let thy tongue tang arguments of state; put thyself into the trick of singularity. She thus advises thee that sighs for thee. Remember who commended thy yellow stockings, and wish’d to see thee ever cross-garter’d: I say, remember. Go to, thou art made if thou desir’st to be so; if not, let me see thee a steward still, the fellow of servants, and not worthy to touch Fortune’s fingers. Farewell. She that would alter services with thee,* 
 *The Fortunate-Unhappy.”* 
-
 Daylight and champian discovers not more. This is open. I will be proud, I will read politic authors, I will baffle Sir Toby, I will wash off gross acquaintance, I will be point-devise the very man. I do not now fool myself, to let imagination jade me; for every reason excites to this, that my lady loves me. She did commend my yellow stockings of late, she did praise my leg being cross-garter’d, and in this she manifests herself to my love, and with a kind of injunction drives me to these habits of her liking. I thank my stars, I am happy. I will be strange, stout, in yellow stockings, and cross-garter’d, even with the swiftness of putting on. Jove and my stars be prais’d! Here is yet a postscript.
 (Reads.)
 *“Thou canst not choose but know who I am. If thou entertain’st my love, let it appear in thy smiling; thy smiles become thee well. Therefore in my presence still smile, dear my sweet, I prithee.”* 
-
 Jove, I thank thee. I will smile, I will do every thing that thou wilt have me.
 
 Exit.
@@ -1904,8 +1899,8 @@ Exeunt.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 Olivia’s garden.
@@ -1964,7 +1959,7 @@ VIO.
 I saw thee late at the Count Orsino’s.
 
 CLO.
-Foolery, sir, does walk about the orb like the sun, it shines every where. I would be sorry, sir, but the fool should be as oft with your master as with my mistress. I think I saw your wisdom there.
+Foolery, sir, does walk about the orb like the sun, it shines everywhere. I would be sorry, sir, but the fool should be as oft with your master as with my mistress. I think I saw your wisdom there.
 
 VIO.
 Nay, and thou pass upon me, I’ll no more with thee. Hold, there’s expenses for thee.
@@ -2183,7 +2178,7 @@ That heart which now abhors, to like his love.
 Exeunt.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 A room in Olivia’s house.
@@ -2281,7 +2276,7 @@ Come bring us, bring us where he is.
 Exeunt omnes.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 Illyria. A street.
@@ -2295,9 +2290,9 @@ I will no further chide you.
 
 ANT.
 I could not stay behind you. My desire
-—More sharp than filed steel— did spur me forth,
-And not all love to see you —though so much
-As might have drawn one to a longer voyage—
+(More sharp than filed steel) did spur me forth,
+And not all love to see you (though so much
+As might have drawn one to a longer voyage) 
 But jealousy what might befall your travel,
 Being skilless in these parts; which to a stranger,
 Unguided and unfriended, often prove
@@ -2374,7 +2369,7 @@ SEB.
 Exeunt.
 
 
-### Scene 4
+### Act 3, Scene 4
 
 
 Olivia’s garden.
@@ -2648,7 +2643,6 @@ SIR TO.
 (Reads.)
 *“Fare thee well, and God have mercy upon one of our souls! He may have mercy upon mine, but my hope is better, and so look to thyself. Thy friend as thou usest him, and thy sworn enemy,* 
 *Andrew Aguecheek.”* 
-
 If this letter move him not, his legs cannot. I’ll give’t him.
 
 MAR.
@@ -2663,7 +2657,7 @@ Nay, let me alone for swearing.
 Exit.
 
 SIR TO.
-Now will not I deliver his letter; for the behavior of the young gentleman gives him out to be of good capacity and breeding; his employment between his lord and my niece confirms no less. Therefore this letter, being so excellently ignorant, will breed no terror in the youth; he will find it comes from a clodpole. But, sir, I will deliver his challenge by word of mouth, set upon Aguecheek a notable report of valor, and drive the gentleman —as I know his youth will aptly receive it— into a most hideous opinion of his rage, skill, fury, and impetuosity. This will so fright them both that they will kill one another by the look, like cockatrices.
+Now will not I deliver his letter; for the behavior of the young gentleman gives him out to be of good capacity and breeding; his employment between his lord and my niece confirms no less. Therefore this letter, being so excellently ignorant, will breed no terror in the youth; he will find it comes from a clodpole. But, sir, I will deliver his challenge by word of mouth, set upon Aguecheek a notable report of valor, and drive the gentleman (as I know his youth will aptly receive it) into a most hideous opinion of his rage, skill, fury, and impetuosity. This will so fright them both that they will kill one another by the look, like cockatrices.
 
 Enter Olivia and Viola.
 
@@ -2982,8 +2976,8 @@ Exeunt.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 Illyria, A street adjoining Olivia’s house.
@@ -3105,7 +3099,7 @@ OLI.
 Exeunt.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 A room in Olivia’s house.
@@ -3305,7 +3299,7 @@ CLO.
 Exit.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 Olivia’s garden.
@@ -3363,8 +3357,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 A street before Olivia’s house.
@@ -3491,11 +3485,11 @@ Did I redeem; a wrack past hope he was.
 His life I gave him, and did thereto add
 My love, without retention or restraint,
 All his in dedication. For his sake
-Did I expose myself —pure for his love—
+Did I expose myself (pure for his love) 
 Into the danger of this adverse town,
 Drew to defend him when he was beset;
 Where being apprehended, his false cunning
-—Not meaning to partake with me in danger—
+(Not meaning to partake with me in danger) 
 Taught him to face me out of his acquaintance,
 And grew a twenty years removed thing
 While one would wink; denied me mine own purse,
@@ -3559,10 +3553,10 @@ OLI.
 Even what it please my lord, that shall become him.
 
 DUKE.
-Why should I not —had I the heart to do it—,
+Why should I not (had I the heart to do it),
 Like to th’ Egyptian thief at point of death,
-Kill what I love? —a savage jealousy
-That sometime savors nobly—, but hear me this:
+Kill what I love? (a savage jealousy
+That sometime savors nobly), but hear me this:
 Since you to non-regardance cast my faith,
 And that I partly know the instrument
 That screws me from my true place in your favor,
@@ -3647,7 +3641,7 @@ When time hath sow’d a grizzle on thy case?
 Or will not else thy craft so quickly grow,
 That thine own trip shall be thine overthrow?
 Farewell, and take her, but direct thy feet
-Where thou and I —henceforth— may never meet.
+Where thou and I (henceforth) may never meet.
 
 VIO.
 My lord, I do protest—

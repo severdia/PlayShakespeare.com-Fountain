@@ -1,9 +1,9 @@
 Title: Double Falsehood
 Credit: Written by
-Author: William Shakespeare, Lewis Theobald
+Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,20 +14,20 @@ Notes:
 
 >_Cast of Characters_<
 
-|Don Bernard (D. BERN.): | 
+|Julio (JUL.): | 
+|Henriquez (HENR.): | 
 |Roderick (RODER.): | 
+|Camillo (CAM.): | 
+|Duke Angelo (DUKE.): | 
+|Don Bernard (D. BERN.): | 
 |Master of the Flocks (MAST.): | 
+|Citizen (CITIZ.): | 
 |Gerald (GER.): | 
 |Lopez (LOP.): | 
-|Henriquez (HENR.): | 
-|Violante (VIOL.): | 
-|Camillo (CAM.): | 
-|Leonora (LEON.): | 
-|Julio (JUL.): | 
 |Fabian (FAB.): | 
-|Citizen (CITIZ.): | 
+|Leonora (LEON.): | 
+|Violante (VIOL.): | 
 |Maid (MAID.): | 
-|Duke Angelo (DUKE.): | 
 |First Shepherd (1. SHEP.): | 
 |Second Shepherd (2. SHEP.): | 
 |First Gentleman (1. GENT.): | 
@@ -40,8 +40,8 @@ Notes:
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 The province of Andalusia in Spain. A royal palace.
@@ -97,8 +97,8 @@ RODER.
 Why he hath press’d this absence, sir, I know not;
 But have his letters of a modern date,
 Wherein by Julio, good Camillo’s son,
-—Who, as he says, shall follow hard upon;
-And whom I with the growing hour expect—
+(Who, as he says, shall follow hard upon;
+And whom I with the growing hour expect) 
 He doth solicit the return of gold
 To purchase certain horse, that like him well.
 This Julio he encounter’d first in France,
@@ -117,7 +117,7 @@ Bring him to court.
 Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 Prospect of a village at a distance.
@@ -305,7 +305,7 @@ LEON.
 Now I perceive the birth of these delays;
 Why Leonora was not worth your suit.
 Repair to court? Ay, there you shall, perhaps,
-—Rather, past doubt— behold some choicer beauty,
+(Rather, past doubt) behold some choicer beauty,
 Rich in her charms, train’d to the arts of soothing,
 Shall prompt you to a spirit of hardiness,
 To say, “So please you, father, I have chosen
@@ -358,7 +358,7 @@ My faith, or my obedience, to the rack.
 
 JUL.
 Fear not, but I with swiftest wing of time
-Will labour my return. And in my absence,
+Will labor my return. And in my absence,
 My noble friend, and now our honor’d guest,
 The lord Henriquez, will in my behalf
 Hang at your father’s ear, and with kind hints,
@@ -381,7 +381,7 @@ My father, whom it is my service follows;
 But only that I have a wife in chase.
 
 D. BERN.
-Chase!—let chase alone; no matter for that. You may halt after her, whom you profess to pursue, and catch her too; marry, not unless your father let you slip.—Briefly, I desire you, —for she tells me, my instructions shall be both eyes and feet to her— no farther to insist in your requiring, ’till, as I have formerly said, Camillo make known to me, that his good liking goes along with us; which but once breath’d, all is done; ’till when, the business has no life, and cannot find a beginning.
+Chase!—let chase alone; no matter for that. You may halt after her, whom you profess to pursue, and catch her too; marry, not unless your father let you slip.—Briefly, I desire you, (for she tells me, my instructions shall be both eyes and feet to her) no farther to insist in your requiring, ’till, as I have formerly said, Camillo make known to me, that his good liking goes along with us; which but once breath’d, all is done; ’till when, the business has no life, and cannot find a beginning.
 
 JUL.
 Sir, I will know his mind, e’er I taste sleep:
@@ -394,7 +394,7 @@ Remember, and be faithful.
 Exit Julio.
 
 D. BERN.
-His father is as unsettled, as he is wayward, in his disposition. If I thought young Julio’s temper were not mended by the metal of his mother, I should be something crazy in giving my consent to this match: and, to tell you true, if my eyes might be the directors to your mind, I could in this town look upon twenty men of more delicate choice. I speak not this altogether to unbend your affections to him: but the meaning of what I say is, that you set such price upon yourself to him, as many, and much his betters, would buy you at; —and reckon those virtues in you at the rate of their scarcity— to which if he come not up, you remain for a better mart.
+His father is as unsettled, as he is wayward, in his disposition. If I thought young Julio’s temper were not mended by the metal of his mother, I should be something crazy in giving my consent to this match: and, to tell you true, if my eyes might be the directors to your mind, I could in this town look upon twenty men of more delicate choice. I speak not this altogether to unbend your affections to him: but the meaning of what I say is, that you set such price upon yourself to him, as many, and much his betters, would buy you at; (and reckon those virtues in you at the rate of their scarcity) to which if he come not up, you remain for a better mart.
 
 LEON.
 My obedience, sir, is chain’d to your advice.
@@ -411,7 +411,7 @@ We shall hear soon what his father will do, and so proceed accordingly. I have n
 Exeunt.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 Outside an apartment.
@@ -478,7 +478,7 @@ VIOL.
 Alas! Sir, there are reasons numberless
 To bar your aims. Be warn’d to hours more wholesome;
 For, these you watch in vain. I have read stories,
-—I fear, too true ones— how young lords, like you,
+(I fear, too true ones) how young lords, like you,
 Have thus besung mean windows, rhymed their suff’rings
 Ev’n to th’ abuse of things divine, set up
 Plain girls, like me, the idols of their worship,
@@ -539,8 +539,8 @@ Exit.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 The prospect of a village.
@@ -562,7 +562,7 @@ To have enjoy’d her, I would have given—what?
 All that at present I could boast my own,
 And the reversion of the world to boot,
 Had the inheritance been mine: and now,
-—Just doom of guilty joys!— I grieve as much
+(Just doom of guilty joys!) I grieve as much
 That I have rifled all the stores of beauty,
 Those charms of innocence and artless love,
 As just before I was devour’d with sorrow,
@@ -592,7 +592,7 @@ Hold, let me be severe to myself, but not unjust. Was it a rape then? No. Her sh
 Not the resentment of a ravish’d maid.
 And is the man yet born, who would not risk
 The guilt, to meet the joy? The guilt! That’s true—
-But then the danger; the tears, the clamors of the ruin’d maid, pursuing me to court. That, that, I fear will —as it already does my conscience— something shatter my honor. What’s to be done? But now I have no choice. Fair Leonora reigns confessed the tyrant queen of my revolted heart, and Violante seems a short usurper there. Julio’s already by my arts remov’d.—O friendship!
+But then the danger; the tears, the clamors of the ruin’d maid, pursuing me to court. That, that, I fear will (as it already does my conscience) something shatter my honor. What’s to be done? But now I have no choice. Fair Leonora reigns confessed the tyrant queen of my revolted heart, and Violante seems a short usurper there. Julio’s already by my arts remov’d.—O friendship!
 How wilt thou answer that? Oh, that a man
 Could reason down this fever of the blood,
 Or sooth with words the tumult in his heart!
@@ -612,7 +612,7 @@ This man is certainly mad, and may be mischievous. Prithee, neighbor, let’s fo
 Exeunt after Henriquez.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 An apartment.
@@ -663,7 +663,7 @@ But then conceiv’d, when it was born?
 GER.
 Lady, I know not that; nor is it in the command I have to wait your answer. For the perusing the letter I commend you to your leisure.
 
-Exit Gerald.
+Exit Gerald and maid.
 
 VIOL.
 To hearts like mine suspense is misery.
@@ -675,7 +675,6 @@ Prosp’rous, or fatal, they are all my due.
 *Have already made one step towards this* 
 *Wisdom, by prevailing on myself to bid you* 
 *Farewell.* 
-
 O, wretched and betray’d! Lost Violante!
 Heart-wounded with a thousand perjur’d vows,
 Poison’d with studied language, and bequeath’d
@@ -696,7 +695,7 @@ As yet I know not. Sorrow be my guide.
 Exit Violante.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 Prospect of a village. Before Don Bernard’s house.
@@ -751,7 +750,7 @@ Pronounces my despair.
 D. BERN.
 ^7 Come, Leonora,
 You are not now to learn, this noble lord,
-—Whom but to name, restores my failing age,—
+(Whom but to name, restores my failing age,) 
 Has with a lover’s eye beheld your beauty;
 Through which his heart speaks more than language can;
 It offers joy and happiness to you,
@@ -834,7 +833,7 @@ LEON.
 I but begin to be so. I conjure you,
 By all the tender interests of nature,
 By the chaste love ’twixt you, and my dear mother,
-—O holy heav’n, that she were living now!—
+(O holy heav’n, that she were living now!) 
 Forgive and pity me.—Oh, sir, remember,
 I’ve heard my mother say a thousand times,
 Her father would have forced her virgin choice;
@@ -850,7 +849,7 @@ You are the father, which you then condemn’d;
 I, what my mother was; but not so happy.
 
 D. BERN.
-Go to, you’re a fool. No doubt, you have old stories enough to undo you. What, you can’t throw yourself away but by precedent, ha? You will needs be married to one, that will none of you? You will be happy no body’s way but your own, forsooth. But, d’ye mark me, spare your tongue for the future; —and that’s using you hardly too, to bid you spare what you have a great deal too much of— go, go your ways, and d’ye hear, get ready within these two days to be married to a husband you don’t deserve. Do it, or, by my dead father’s soul, you are no acquaintance of mine.
+Go to, you’re a fool. No doubt, you have old stories enough to undo you. What, you can’t throw yourself away but by precedent, ha? You will needs be married to one, that will none of you? You will be happy no body’s way but your own, forsooth. But, d’ye mark me, spare your tongue for the future; (and that’s using you hardly too, to bid you spare what you have a great deal too much of) go, go your ways, and d’ye hear, get ready within these two days to be married to a husband you don’t deserve. Do it, or, by my dead father’s soul, you are no acquaintance of mine.
 
 HENR.
 She weeps: be gentler to her, good Bernardo.
@@ -941,7 +940,7 @@ Ay, but two words must go to that bargain. It happens, that I am at present of o
 Exit Don Bernard, following him.
 
 
-### Scene 4
+### Act 2, Scene 4
 
 
 Another prospect of Don Bernard’s house.
@@ -952,8 +951,8 @@ LEON.
 How tediously I’ve waited at the window,
 Yet know not one that passes. Should I trust
 My letter to a stranger, whom I think
-To bear an honest face, —in which sometimes
-We fancy we are wond’rous skillful— then
+To bear an honest face, (in which sometimes
+We fancy we are wond’rous skillful) then
 I might be much deceiv’d. This late example
 Of base Henriquez, bleeding in me now,
 From each good aspect takes away my trust:
@@ -970,7 +969,7 @@ To me?
 
 LEON.
 As you were of a virtuous matron born,
-—There is no doubt, you are— I do conjure you
+(There is no doubt, you are) I do conjure you
 Grant me one boon. Say, do you know me, sir?
 
 CITIZ.
@@ -1028,13 +1027,13 @@ Exit Leonora from the window.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 The prospect of a village.
 
-Enter Julio with a letter, and citizen.
+Enter Julio with a letter, and Citizen.
 
 CITIZ.
 When from the window she did bow and call,
@@ -1107,7 +1106,7 @@ Shall be devoted to repay thy constancy.
 Exeunt.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 Don Bernard’s house.
@@ -1409,7 +1408,7 @@ And burns impatient of this forc’d delay.
 Exeunt; and the scene closes.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 Prospect of a village at a distance.
@@ -1419,7 +1418,7 @@ Enter Roderick.
 RODER.
 Julio’s departure thus in secret from me,
 With the long doubtful absence of my brother,
-—Who cannot suffer, but my father feels it—
+(Who cannot suffer, but my father feels it) 
 Have trusted me with strong suspicions,
 And dreams, that will not let me sleep, nor eat,
 Nor taste those recreations health demands:
@@ -1469,8 +1468,8 @@ Of that base strain, I understand you not.
 CAM.
 Indeed! You know not neither, o’ my conscience,
 How your most virtuous brother, noble Henriquez,
-—You look so like him, lord, you are the worse for’t;
-Rots upon such dissemblers!— under color
+(You look so like him, lord, you are the worse for’t;
+Rots upon such dissemblers!) under color
 Of buying coursers, and I know not what,
 Bought my poor boy out of possession
 Ev’n of his plighted faith. Was not this honor?
@@ -1501,7 +1500,7 @@ I’ve done; I’ve eas’d my heart; now you may talk.
 
 RODER.
 Then as I am a gentleman, believe me,
-—For I will lie for no man— I’m so far
+(For I will lie for no man) I’m so far
 From being guilty of the least suspicion
 Of sin that way, that fearing the long absence
 Of Julio and my brother might beget
@@ -1751,8 +1750,8 @@ Exeunt.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 A wide plain, with a prospect of mountains in the distance.
@@ -2220,7 +2219,7 @@ We shall bring night in with us.
 Exeunt.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 The prospect of the mountains.
@@ -2324,7 +2323,7 @@ What dangers have I run, and to what insults
 Expos’d this ruin of myself? Oh! Mischief
 On that soul-spotted hind, my vicious master!
 Who would have thought, that such poor worms as they,
-—Whose best feed is coarse bread; whose bev’rage, water—
+(Whose best feed is coarse bread; whose bev’rage, water) 
 Should have so much rank blood? I shake all over,
 And blush to think what had become of me,
 If that good man had not reliev’d me from him.
@@ -2340,10 +2339,10 @@ I cannot get this false man’s memory
 Out of my mind. You maidens, that shall live
 To hear my mournful tale, when I am ashes,
 Be wise; and to an oath no more give credit,
-To tears, to vows, —false both!— or any thing
+To tears, to vows, (false both!) or any thing
 A man shall promise, than to clouds, that now
 Bear such a pleasing shape, and now are nothing.
-For they will cozen, —if they may be cozen’d,—
+For they will cozen, (if they may be cozen’d,) 
 The very gods they worship. Valor, justice,
 Discretion, honesty, and all they covet,
 To make them seeming saints, are but the wiles
@@ -2411,7 +2410,7 @@ Before your griefs. Methought, when last we met,
 The accent of your voice struck on my ear
 Like something I had known, but floods of sorrow
 Drown’d the remembrance. If you’ll please to sit,
-—Since I have found a suff’ring true companion,—
+(Since I have found a suff’ring true companion,) 
 And give me hearing, I will tell you something
 Of Leonora, that may comfort you.
 
@@ -2434,8 +2433,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 Another part of the prospect of the mountains.
@@ -2456,7 +2455,7 @@ RODER.
 Not in the nunnery; never blush, nor tremble;
 Your honor has as fair a guard, as when
 Within a cloister. Know then, what is done,
-—Which, I presume, you understand not truly,—
+(Which, I presume, you understand not truly,) 
 Has this use, to preserve the life of one
 Dying for love of you: my brother, and your friend:
 Under which color we desir’d to rest
@@ -2585,7 +2584,7 @@ Lead me to Julio.
 Exeunt.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 An apartment in the lodge.
@@ -2599,7 +2598,7 @@ DUKE.
 Our sorrows cannot help us, gentlemen.
 
 CAM.
-Hang me, sir, if I shed one tear more. By Jove, I’ve wept so long, I’m as blind as justice. When I come to see my hawks —which I held a toy next to my son— if they be but house-high, I must stand aiming at them like a gunner.
+Hang me, sir, if I shed one tear more. By Jove, I’ve wept so long, I’m as blind as justice. When I come to see my hawks (which I held a toy next to my son) if they be but house-high, I must stand aiming at them like a gunner.
 
 DUKE.
 Why, he mourns like a man. Don Bernard, you
@@ -2736,8 +2735,8 @@ DUKE.
 The voice of parents is the voice of gods:
 For to their children they are heav’n’s lieutenants:
 Made fathers, not for common uses merely
-Of procreation; —beasts and birds would be
-As noble then as we are— but to steer
+Of procreation; (beasts and birds would be
+As noble then as we are) but to steer
 The wanton freight of youth through storms and dangers,
 Which with full sails they bear upon: and straighten
 The moral line of life, they bend so often.
@@ -2788,14 +2787,14 @@ CAM.
 ^6 Well, wench, thy equal
 Shall not be found in haste; I give thee that:
 Thou art a right one, ev’ry inch. Thy father
-—For, without doubt, that snuff never begot thee,—
+(For, without doubt, that snuff never begot thee,) 
 Was some choice fellow, some true gentleman;
 I give thy mother thanks for’t—there’s no harm done.
 Would I were young again, and had but thee,
 A good horse under me, and a good sword,
 And thus much for inheritance.
 
-Violante offers, once or twice, to shew herself, but goes back.
+Violante offers, once or twice, to show herself, but goes back.
 
 DUKE.
 ^6 What boy’s that,
@@ -2927,8 +2926,8 @@ This lord has abused men, women, and children already: what farther plot he has,
 
 DUKE.
 If thou can’st bring a witness of thy wrong,
-—Else it would be injustice to believe thee,
-He having sworn against it— thou shalt have,
+(Else it would be injustice to believe thee,
+He having sworn against it) thou shalt have,
 I bind it with my honor, satisfaction
 To thine own wishes.
 
@@ -2955,7 +2954,7 @@ Nay then ’tis plain, this is confederacy.
 RODER.
 That he has been an agent in your service,
 Appears from this. Here is a letter, brother,
-—Produc’d, perforce, to give him credit with me—
+(Produc’d, perforce, to give him credit with me) 
 The writing, yours; the matter, love; for so,
 He says, he can explain it.
 
@@ -2986,7 +2985,7 @@ Go on.
 HENR.
 ^2 My gracious father, give me pardon;
 I do confess, I some such letter wrote
-—The purport all too trivial for your ear,—
+(The purport all too trivial for your ear,) 
 But how it reach’d this young dissembler’s hands,
 Is what I cannot solve. For on my soul,
 And by the honors of my birth and house,
@@ -3162,7 +3161,7 @@ RODER.
 DUKE.
 I must, in part, repair my son’s offense:
 At your best leisure, Julio, know our court.
-And, Violante, —for I know you now—
+And, Violante, (for I know you now) 
 I have a debt to pay: your good old father,
 Once, when I chas’d the boar, preserv’d my life:
 For that good deed, and for your virtue’s sake,
@@ -3186,8 +3185,8 @@ All.
 
 DUKE.
 And I not least. We’ll now return to court:
-—And that short travel, and your loves completed,
-Shall, as I trust, for life restrain these wand’rings.—
+(And that short travel, and your loves completed,
+Shall, as I trust, for life restrain these wand’rings.) 
 There, the solemnity, and grace, I’ll do
 Your sev’ral nuptials, shall approve my joy;
 ^2 And make griev’d lovers, that your story read,

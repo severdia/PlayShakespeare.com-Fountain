@@ -2,8 +2,8 @@ Title: Henry V
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,61 +14,61 @@ Notes:
 
 >_Cast of Characters_<
 
-|Katherine (KATH.): | 
-|Queen Isabel (Q. ISA.): | 
-|Ambassador of France (1. AMB.): | 
-|Montjoy (MONT.): | 
-|Governor of Harfleur (GOV.): | 
-|Grandpré (GRAND.): | 
-|Rambures (RAM.): | 
-|Constable of France (CON.): | 
-|Duke of Berri (BERRI.): | 
-|Duke of Britain (BRIT.): | 
-|Duke of Bourbon (BOUR.): | 
-|Duke of Orléans (ORL.): | 
-|Duke of Burgundy (BUR.): | 
-|The Dauphin (DAU.): | 
-|Charles the Sixth (FR. KING.): | 
-|English Herald (HER.): | 
-|Boy (BOY.): | 
-|Bardolph (BARD.): | 
-|Nym (NYM.): | 
-|Pistol (PIST.): | 
-|Williams (WILL.): | 
-|Court (COURT.): | 
-|Bates (BATES.): | 
-|Jamy (JAMY.): | 
-|Macmorris (MAC.): | 
-|Fluellen (FLU.): | 
-|Gower (GOW.): | 
-|Sir Thomas Erpingham (ERP.): | 
-|Sir Thomas Grey (GREY.): | 
-|Lord Scroop (SCROOP.): | 
-|Richard, Earl of Cambridge (CAM.): | 
-|Bishop of Ely (ELY.): | 
-|Archbishop of Canterbury (CANT.): | 
-|Earl of Warwick (WAR.): | 
-|Earl of Westmorland (WEST.): | 
-|Earl of Salisbury (SAL.): | 
-|Duke of York (YORK.): | 
-|Duke of Exeter (EXE.): | 
-|Thomas, Duke of Clarence (CLAR.): | 
-|John, Duke of Bedford (BED.): | 
-|Humphrey, Duke of Gloucester (GLOU.): | 
 |King Henry the Fifth (K. HEN.): | 
 |Chorus (CHORUS.): | 
-|French Messenger (FR. MESS.): | 
+|Archbishop of Canterbury (CANT.): | 
+|Pistol (PIST.): | 
+|Duke of Exeter (EXE.): | 
+|Constable of France (CON.): | 
+|Charles the Sixth (FR. KING.): | 
+|The Dauphin (DAU.): | 
+|Fluellen (FLU.): | 
+|Duke of Burgundy (BUR.): | 
+|Bishop of Ely (ELY.): | 
+|Duke of Orléans (ORL.): | 
+|Williams (WILL.): | 
+|Gower (GOW.): | 
+|Nym (NYM.): | 
+|Earl of Westmorland (WEST.): | 
+|Grandpré (GRAND.): | 
+|Bardolph (BARD.): | 
+|Richard, Earl of Cambridge (CAM.): | 
+|Sir Thomas Grey (GREY.): | 
+|Duke of Bourbon (BOUR.): | 
+|Duke of Britain (BRIT.): | 
+|Earl of Salisbury (SAL.): | 
+|John, Duke of Bedford (BED.): | 
+|Bates (BATES.): | 
+|Sir Thomas Erpingham (ERP.): | 
+|Governor of Harfleur (GOV.): | 
+|Rambures (RAM.): | 
+|Humphrey, Duke of Gloucester (GLOU.): | 
+|Jamy (JAMY.): | 
+|Macmorris (MAC.): | 
+|Duke of York (YORK.): | 
+|Court (COURT.): | 
+|Earl of Warwick (WAR.): | 
+|Katherine (KATH.): | 
+|Queen Isabel (Q. ISA.): | 
+|Alice (ALICE.): | 
+|Hostess (HOST.): | 
+|Lord Scroop (SCROOP.): | 
+|Montjoy (MONT.): | 
+|English Herald (E. HER.): | 
+|Boy (BOY.): | 
+|Ambassador of France (1. AMB.): | 
 |French Soldier (FR. SOLD.): | 
 |French Court Attendant (FR. ATT.): | 
-|Hostess (HOST.): | 
-|Alice (ALICE.): | 
+|French Messenger (FR. MESS.): | 
 |English Lords (LORDS.): | 
+|Thomas, Duke of Clarence (CLAR.): | 
+|Duke of Berri (BERRI.): | 
 
 ===
 
 
-# Act 1
-### Prologue
+/* # Act 1 */
+### Act 1, Prologue
 
 Enter Chorus.
 
@@ -79,7 +79,7 @@ A kingdom for a stage, princes to act,
 And monarchs to behold the swelling scene!
 Then should the warlike Harry, like himself,
 Assume the port of Mars, and at his heels
-—Leash’d in, like hounds— should famine, sword, and fire
+(Leash’d in, like hounds) should famine, sword, and fire
 Crouch for employment. But pardon, gentles all,
 The flat unraised spirits that hath dar’d
 On this unworthy scaffold to bring forth
@@ -111,7 +111,7 @@ Gently to hear, kindly to judge, our play.
 Exit.
 
 
-### Scene 1
+### Act 1, Scene 1
 
 
 London. Antechamber in the King’s Palace.
@@ -171,7 +171,7 @@ Never was such a sudden scholar made;
 Never came reformation in a flood
 With such a heady currance, scouring faults;
 Nor never Hydra-headed willfulness
-So soon did lose his seat —and all at once—
+So soon did lose his seat (and all at once) 
 As in this king.
 
 ELY.
@@ -206,7 +206,7 @@ The strawberry grows underneath the nettle,
 And wholesome berries thrive and ripen best
 Neighbor’d by fruit of baser quality;
 And so the Prince obscur’d his contemplation
-Under the veil of wildness, which —no doubt—
+Under the veil of wildness, which (no doubt) 
 Grew like the summer grass, fastest by night,
 Unseen, yet crescive in his faculty.
 
@@ -267,7 +267,7 @@ I’ll wait upon you, and I long to hear it.
 Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 London. Presence Chamber in the King’s Palace.
@@ -481,12 +481,10 @@ With sunken wrack and sumless treasuries.
 
 ELY.
 But there’s a saying very old and true,
-
 *“If that you will France win,* 
 *Then with Scotland first begin.”* 
-
-For once the eagle —England— being in prey,
-To her unguarded nest the weasel —Scot—
+For once the eagle (England) being in prey,
+To her unguarded nest the weasel (Scot) 
 Comes sneaking, and so sucks her princely eggs,
 Playing the mouse in absence of the cat,
 To ’tame and havoc more than she can eat.
@@ -505,7 +503,7 @@ Like music.
 
 CANT.
 Therefore doth heaven divide
-The state of man in divers functions,
+The state of man in diverse functions,
 Setting endeavor in continual motion;
 To which is fixed, as an aim or butt,
 Obedience; for so work the honey-bees,
@@ -531,7 +529,7 @@ To one consent, may work contrariously,
 As many arrows loosed several ways
 Come to one mark; as many ways meet in one town;
 As many fresh streams meet in one salt sea;
-As many lines close in the dial’s centre;
+As many lines close in the dial’s center;
 So may a thousand actions, once afoot,
 End in one purpose, and be all well borne
 Without defeat. Therefore to France, my liege!
@@ -551,7 +549,7 @@ And yours, the noble sinews of our power,
 France being ours, we’ll bend it to our awe,
 Or break it all to pieces. Or there we’ll sit,
 Ruling in large and ample empery
-O’er France and all her —almost— kingly dukedoms,
+O’er France and all her (almost) kingly dukedoms,
 Or lay these bones in an unworthy urn,
 Tombless, with no remembrance over them.
 Either our history shall with full mouth
@@ -663,8 +661,8 @@ Exeunt.
 
 
 
-# Act 2
-### Prologue
+/* # Act 2 */
+### Act 2, Prologue
 
 Flourish. Enter Chorus.
 
@@ -694,7 +692,7 @@ With treacherous crowns; and three corrupted men,
 One, Richard Earl of Cambridge, and the second,
 Henry Lord Scroop of Masham, and the third,
 Sir Thomas Grey, knight, of Northumberland,
-Have for the gilt of France —O guilt indeed!—
+Have for the gilt of France (O guilt indeed!) 
 Confirm’d conspiracy with fearful France,
 And by their hands this grace of kings must die,
 If hell and treason hold their promises,
@@ -715,7 +713,7 @@ Unto Southampton do we shift our scene.
 Exit.
 
 
-### Scene 1
+### Act 2, Scene 1
 
 
 London. A street in Eastcheap.
@@ -908,7 +906,7 @@ Let us condole the knight, for, lambkins, we will live.
 Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 Southampton. A council-chamber.
@@ -1047,7 +1045,7 @@ To which we all appeal.
 K. HEN.
 The mercy that was quick in us but late,
 By your own counsel is suppress’d and kill’d.
-You must not dare —for shame— to talk of mercy,
+You must not dare (for shame) to talk of mercy,
 For your own reasons turn into your bosoms,
 As dogs upon their masters, worrying you.
 See you, my princes and my noble peers,
@@ -1064,7 +1062,7 @@ What shall I say to thee, Lord Scroop, thou cruel,
 Ingrateful, savage, and inhuman creature?
 Thou that didst bear the key of all my counsels,
 That knew’st the very bottom of my soul,
-That —almost— mightst have coin’d me into gold,
+That (almost) mightst have coin’d me into gold,
 Wouldst thou have practic’d on me, for thy use?
 May it be possible that foreign hire
 Could out of thee extract one spark of evil
@@ -1075,7 +1073,7 @@ Treason and murder ever kept together,
 As two yoke-devils sworn to either’s purpose,
 Working so grossly in a natural cause
 That admiration did not hoop at them;
-But thou —’gainst all proportion— didst bring in
+But thou (’gainst all proportion) didst bring in
 Wonder to wait on treason and on murder;
 And whatsoever cunning fiend it was
 That wrought upon thee so preposterously
@@ -1113,8 +1111,8 @@ Arrest them to the answer of the law,
 And God acquit them of their practices!
 
 EXE.
-I arrest thee of high treason, by the name of Richard Earl of Cambridge.
-I arrest thee of high treason, by the name of Henry Lord Scroop of Masham.
+I arrest thee of high treason, by the name of Richard, Earl of Cambridge.
+I arrest thee of high treason, by the name of Henry, Lord Scroop of Masham.
 I arrest thee of high treason, by the name of Thomas Grey, knight, of Northumberland.
 
 SCROOP.
@@ -1172,7 +1170,7 @@ No king of England, if not king of France!
 Flourish. Exeunt.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 London. Before a tavern in Eastcheap.
@@ -1262,7 +1260,7 @@ Farewell; adieu.
 Exeunt.
 
 
-### Scene 4
+### Act 2, Scene 4
 
 
 France. An apartment in the King’s palace.
@@ -1289,7 +1287,7 @@ DAU.
 ^3 My most redoubted father,
 It is most meet we arm us ’gainst the foe;
 For peace itself should not so dull a kingdom
-—Though war nor no known quarrel were in question—
+(Though war nor no known quarrel were in question) 
 But that defenses, musters, preparations,
 Should be maintain’d, assembled, and collected,
 As were a war in expectation.
@@ -1474,8 +1472,8 @@ Exeunt.
 
 
 
-# Act 3
-### Prologue
+/* # Act 3 */
+### Act 3, Prologue
 
 Flourish. Enter Chorus.
 
@@ -1520,7 +1518,7 @@ And eche out our performance with your mind.
 Exit.
 
 
-### Scene 1
+### Act 3, Scene 1
 
 
 France. Before Harfleur.
@@ -1566,12 +1564,12 @@ Cry, “God for Harry, England, and Saint George!”
 Exeunt. Alarum, and chambers go off.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 France. Before Harfleur.
 
-Irish Scottish Welsh Enter Nym, Bardolph, Pistol, and Boy.
+Enter Nym, Bardolph, Pistol, and Boy.
 
 BARD.
 On, on, on, on, on! To the breach, to the breach!
@@ -1705,7 +1703,7 @@ Captain Macmorris, when there is more better opportunity to be required, look yo
 Exeunt.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 France. Before the Harfleur Gates.
@@ -1781,7 +1779,7 @@ Tomorrow for the march are we address’d.
 Flourish, and enter the town.
 
 
-### Scene 4
+### Act 3, Scene 4
 
 
 Rouen. A room in the French King’s palace.
@@ -1896,7 +1894,7 @@ C’est assez pour une fois: allons-nous à dîner.
 Exeunt.
 
 
-### Scene 5
+### Act 3, Scene 5
 
 
 Rouen. Another room in the French King’s palace.
@@ -1999,12 +1997,12 @@ And quickly bring us word of England’s fall.
 Exeunt.
 
 
-### Scene 6
+### Act 3, Scene 6
 
 
 Picardy. The English camp.
 
-Welsh Enter Captains, English and Welsh, Gower and Fluellen.
+Enter Captains, English and Welsh, Gower and Fluellen.
 
 GOW.
 How now, Captain Fluellen, come you from the bridge?
@@ -2186,7 +2184,7 @@ And on tomorrow bid them march away.
 Exeunt.
 
 
-### Scene 7
+### Act 3, Scene 7
 
 
 Agincourt. The French camp.
@@ -2426,8 +2424,8 @@ Exeunt.
 
 
 
-# Act 4
-### Prologue
+/* # Act 4 */
+### Act 4, Prologue
 
 Enter Chorus.
 
@@ -2482,19 +2480,19 @@ A little touch of Harry in the night.
 And so our scene must to the battle fly;
 Where—O for pity!—we shall much disgrace
 With four or five most vile and ragged foils
-—Right ill dispos’d, in brawl ridiculous—
+(Right ill dispos’d, in brawl ridiculous) 
 The name of Agincourt. Yet sit and see,
 Minding true things by what their mock’ries be.
 
 Exit.
 
 
-### Scene 1
+### Act 4, Scene 1
 
 
 Agincourt. The English camp.
 
-Welsh Enter the King, Bedford, and Gloucester.
+Enter the King, Bedford, and Gloucester.
 
 K. HEN.
 Gloucester, ’tis true that we are in great danger,
@@ -2874,7 +2872,7 @@ The day, my friends, and all things stay for me.
 Exeunt.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 The French camp.
@@ -2982,7 +2980,7 @@ The sun is high, and we outwear the day.
 Exeunt.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 Agincourt. The English camp.
@@ -3059,7 +3057,7 @@ Will stand a’ tiptoe when this day is named,
 And rouse him at the name of Crispian.
 He that shall see this day, and live old age,
 Will yearly on the vigil feast his neighbors,
-And say, “Tomorrow is Saint Crispian.”
+And say, “Tomorrow is Saint Crispian .”
 Then will he strip his sleeve and show his scars,
 And say, “These wounds I had on Crispin’s day.”
 Old men forget; yet all shall be forgot,
@@ -3118,7 +3116,7 @@ Thou needs must be englutted. Besides, in mercy,
 The Constable desires thee thou wilt mind
 Thy followers of repentance; that their souls
 May make a peaceful and a sweet retire
-From off these fields, where —wretches!— their poor bodies
+From off these fields, where (wretches!) their poor bodies
 Must lie and fester.
 
 K. HEN.
@@ -3151,7 +3149,7 @@ We are but warriors for the working-day;
 Our gayness and our gilt are all besmirch’d
 With rainy marching in the painful field;
 There’s not a piece of feather in our host—
-Good argument —I hope— we will not fly—
+Good argument (I hope) we will not fly—
 And time hath worn us into slovenry.
 But, by the mass, our hearts are in the trim;
 And my poor soldiers tell me, yet ere night,
@@ -3187,7 +3185,7 @@ And how thou pleasest, God, dispose the day!
 Exeunt.
 
 
-### Scene 4
+### Act 4, Scene 4
 
 
 The field of battle.
@@ -3292,7 +3290,7 @@ PIST.
 Expound unto me, boy.
 
 BOY.
-He gives you, upon his knees, a thousand thanks, and he esteems himself happy that he hath fall’n into the hands of one —as he thinks— the most brave, valorous, and thrice-worthy seigneur of England.
+He gives you, upon his knees, a thousand thanks, and he esteems himself happy that he hath fall’n into the hands of one (as he thinks) the most brave, valorous, and thrice-worthy seigneur of England.
 
 PIST.
 As I suck blood, I will some mercy show. Follow me!
@@ -3305,7 +3303,7 @@ I did never know so full a voice issue from so empty a heart; but the saying is 
 Exit.
 
 
-### Scene 5
+### Act 4, Scene 5
 
 
 Another part of the battlefield.
@@ -3361,7 +3359,7 @@ Let life be short, else shame will be too long.
 Exeunt.
 
 
-### Scene 6
+### Act 4, Scene 6
 
 
 Another part of the battlefield.
@@ -3381,9 +3379,9 @@ I saw him down; thrice up again, and fighting;
 From helmet to the spur all blood he was.
 
 EXE.
-In which array —brave soldier!— doth he lie,
+In which array (brave soldier!) doth he lie,
 Larding the plain; and by his bloody side
-—Yoke-fellow to his honor-owing wounds—
+(Yoke-fellow to his honor-owing wounds) 
 The noble Earl of Suffolk also lies.
 Suffolk first died, and York, all haggled over,
 Comes to him where in gore he lay insteeped,
@@ -3421,12 +3419,12 @@ Give the word through.
 Exeunt.
 
 
-### Scene 7
+### Act 4, Scene 7
 
 
 Another part of the battlefield.
 
-Welsh Enter Fluellen and Gower.
+Enter Fluellen and Gower.
 
 FLU.
 Kill the poys and the luggage! ’Tis expressly against the law of arms. ’Tis as arrant a piece of knavery, mark you now, as can be offert; in your conscience, now, is it not?
@@ -3502,7 +3500,7 @@ I come to thee for charitable license,
 That we may wander o’er this bloody field
 To book our dead, and then to bury them;
 To sort our nobles from our common men.
-For many of our princes —woe the while!—
+For many of our princes (woe the while!) 
 Lie drown’d and soak’d in mercenary blood;
 So do our vulgar drench their peasant limbs
 In blood of princes, and their wounded steeds
@@ -3652,12 +3650,12 @@ Go you with me, uncle of Exeter.
 Exeunt.
 
 
-### Scene 8
+### Act 4, Scene 8
 
 
 Before King Henry’s pavilion.
 
-Welsh Enter Gower and Williams.
+Enter Gower and Williams.
 
 WILL.
 I warrant it is to knight you, captain.
@@ -3759,7 +3757,7 @@ Enter an English Herald.
 K. HEN.
 Now, herald, are the dead numb’red?
 
-HER.
+E. HER.
 Here is the number of the slaught’red French.
 
 Gives a paper.
@@ -3841,8 +3839,8 @@ Exeunt.
 
 
 
-# Act 5
-### Prologue
+/* # Act 5 */
+### Act 5, Prologue
 
 Enter Chorus.
 
@@ -3896,12 +3894,12 @@ After your thoughts, straight back again to France.
 Exit.
 
 
-### Scene 1
+### Act 5, Scene 1
 
 
 France. The English Court of Guard.
 
-Welsh Enter Fluellen and Gower.
+Enter Fluellen and Gower.
 
 GOW.
 Nay, that’s right; but why wear you your leek today? Saint Davy’s day is past.
@@ -4008,7 +4006,7 @@ And swear I got them in the Gallia wars.
 Exit.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 France. The French King’s apartment in Troyes.
@@ -4238,7 +4236,7 @@ K. HEN.
 Upon that I kiss your hand, and I call you my queen.
 
 KATH.
-Laissez, mon seigneur, lais sez, laissez! Ma foi, je ne veux point que vous abaissez votre grandeur en baisant la main d’une —Notre Seigneur!— indigne serviteur. Excusez-moi, je vous supplie, mon très puissant seigneur.
+Laissez, mon seigneur, lais sez, laissez! Ma foi, je ne veux point que vous abaissez votre grandeur en baisant la main d’une (Notre Seigneur!) indigne serviteur. Excusez-moi, je vous supplie, mon très puissant seigneur.
 
 K. HEN.
 Then I will kiss your lips, Kate.

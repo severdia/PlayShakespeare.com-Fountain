@@ -1,9 +1,9 @@
-Title: Love’s Labor’s Lost
+Title: Love’s Labour’s Lost
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,35 +14,35 @@ Notes:
 
 >_Cast of Characters_<
 
-|Ferdinand, King of Navarre (KING.): | 
 |Berowne (BER.): | 
-|Longaville (LONG.): | 
-|Dumaine (DUM.): | 
+|Ferdinand, King of Navarre (KING.): | 
 |Boyet (BOYET.): | 
 |Don Adriano de Armado (ARM.): | 
-|Sir Nathaniel (NATH.): | 
-|Holofernes (HOL.): | 
-|Dull (DULL.): | 
 |Costard (COST.): | 
 |Moth (MOTH.): | 
-|Forester (FOR.): | 
+|Dumaine (DUM.): | 
+|Holofernes (HOL.): | 
+|Longaville (LONG.): | 
+|Sir Nathaniel (NATH.): | 
+|Dull (DULL.): | 
 |The Princess of France (PRIN.): | 
 |Rosaline (ROS.): | 
-|Maria (MAR.): | 
 |Katherine (KATH.): | 
+|Maria (MAR.): | 
 |Jaquenetta (JAQ.): | 
+|Hiems, the Winter (WINTER.): | 
+|Ver, the Spring (SPRING.): | 
+|Forester (FOR.): | 
 |Marcade (MARC.): | 
-|Blackamoors (BLACK.): | 
 |First French Lord (1. FR. LORD.): | 
 |Second French Lord (2. FR. LORD.): | 
-|Ver, the Spring (SPRING.): | 
-|Hiems, the Winter (WINTER.): | 
+|Blackamoors (BLACK.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 The King of Navarre’s park.
@@ -124,7 +124,7 @@ KING.
 Why, that to know which else we should not know.
 
 BER.
-Things hid and barr’d —you mean— from common sense.
+Things hid and barr’d (you mean) from common sense.
 
 KING.
 Ay, that is study’s godlike recompense.
@@ -248,7 +248,6 @@ BER.
 A dangerous law against gentility.
 (Reads.)
 *“Item, If any man be seen to talk with a woman within the term of three years, he shall endure such public shame as the rest of the court can possible devise.”* 
-
 This article, my liege, yourself must break,
 For well you know here comes in embassy
 The French king’s daughter with yourself to speak—
@@ -438,14 +437,14 @@ With a wench.
 
 KING.
 (Reads.)
-*“with a child of our grandmother Eve, a female; or for thy more sweet understanding, a woman. Him I —as my ever-esteemed duty pricks me on— have sent to thee, to receive the meed of punishment, by thy sweet Grace’s officer, Anthony Dull, a man of good repute, carriage, bearing, and estimation.”* 
+*“with a child of our grandmother Eve, a female; or for thy more sweet understanding, a woman. Him I (as my ever-esteemed duty pricks me on) have sent to thee, to receive the meed of punishment, by thy sweet Grace’s officer, Anthony Dull, a man of good repute, carriage, bearing, and estimation.”* 
 
 DULL.
 Me, an’t shall please you: I am Anthony Dull.
 
 KING.
 (Reads.)
-*“For Jaquenetta —so is the weaker vessel called—, which I apprehended with the aforesaid swain, I keep her as a vessel of thy law’s fury, and shall, at the least of thy sweet notice, bring her to trial. Thine, in all complements of devoted and heart-burning heat of duty,* 
+*“For Jaquenetta (so is the weaker vessel called), which I apprehended with the aforesaid swain, I keep her as a vessel of thy law’s fury, and shall, at the least of thy sweet notice, bring her to trial. Thine, in all complements of devoted and heart-burning heat of duty,* 
 *Don Adriano de Armado.”* 
 
 BER.
@@ -512,7 +511,7 @@ I suffer for the truth, sir; for true it is, I was taken with Jaquenetta, and Ja
 Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 The King of Navarre’s park.
@@ -701,7 +700,6 @@ MOTH.
 *By this you shall not know,* 
 *For still her cheeks possess the same* 
 *Which native she doth owe.* 
-
 A dangerous rhyme, master, against the reason of white and red.
 
 ARM.
@@ -811,7 +809,7 @@ Nay, nothing, Master Moth, but what they look upon. It is not for prisoners to b
 Exit with Moth.
 
 ARM.
-I do affect the very ground —which is base— where her shoe —which is baser— guided by her foot —which is basest— doth tread. I shall be forsworn —which is a great argument of falsehood— if I love. And how can that be true love, which is falsely attempted? Love is a familiar; Love is a devil; there is no evil angel but Love. Yet was Sampson so tempted, and he had an excellent strength; yet was Salomon so seduced, and he had a very good wit. Cupid’s butt-shaft is too hard for Hercules’ club, and therefore too much odds for a Spaniard’s rapier. The first and second cause will not serve my turn; the passado he respects not, the duello he regards not: his disgrace is to be called boy, but his glory is to subdue men. Adieu, valor, rust, rapier, be still, drum, for your manager is in love; yea, he loveth. Assist me, some extemporal god of rhyme, for I am sure I shall turn sonnet. Devise, wit, write, pen, for I am for whole volumes in folio.
+I do affect the very ground (which is base) where her shoe (which is baser) guided by her foot (which is basest) doth tread. I shall be forsworn (which is a great argument of falsehood) if I love. And how can that be true love, which is falsely attempted? Love is a familiar; Love is a devil; there is no evil angel but Love. Yet was Sampson so tempted, and he had an excellent strength; yet was Salomon so seduced, and he had a very good wit. Cupid’s butt-shaft is too hard for Hercules’ club, and therefore too much odds for a Spaniard’s rapier. The first and second cause will not serve my turn; the passado he respects not, the duello he regards not: his disgrace is to be called boy, but his glory is to subdue men. Adieu, valor, rust, rapier, be still, drum, for your manager is in love; yea, he loveth. Assist me, some extemporal god of rhyme, for I am sure I shall turn sonnet. Devise, wit, write, pen, for I am for whole volumes in folio.
 
 Exit.
 
@@ -819,8 +817,8 @@ Exit.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 The King of Navarre’s park.
@@ -1104,7 +1102,7 @@ KING.
 It shall suffice me; at which interview
 All liberal reason I will yield unto.
 Mean time receive such welcome at my hand
-As honor —without breach of honor— may
+As honor (without breach of honor) may
 Make tender of to thy true worthiness.
 You may not come, fair Princess, within my gates,
 But here without you shall be so receiv’d
@@ -1277,7 +1275,7 @@ This civil war of wits were much better used
 On Navarre and his book-men, for here ’tis abused.
 
 BOYET.
-If my observation —which very seldom lies—,
+If my observation (which very seldom lies),
 By the heart’s still rhetoric, disclosed with eyes,
 Deceive me not now, Navarre is infected.
 
@@ -1346,8 +1344,8 @@ Exeunt omnes.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 The King of Navarre’s park.
@@ -1648,7 +1646,7 @@ Th’ anointed sovereign of sighs and groans,
 Liege of all loiterers and malcontents,
 Dread prince of plackets, king of codpieces,
 Sole imperator and great general
-Of trotting paritors —O my little heart!—,
+Of trotting paritors (O my little heart!),
 And I to be a corporal of his field,
 And wear his colors like a tumbler’s hoop!
 What! I love, I sue, I seek a wife—
@@ -1675,8 +1673,8 @@ Exit.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 The King of Navarre’s park.
@@ -1718,7 +1716,7 @@ Yes, madam, fair.
 PRIN.
 ^4 Nay, never paint me now;
 Where fair is not, praise cannot mend the brow.
-Here —good my glass—, take this for telling true:
+Here (good my glass), take this for telling true:
 (Giving him money.)
 Fair payment for foul words is more than due.
 
@@ -1798,7 +1796,6 @@ BOYET.
 (Reads.)
 *“By heaven, that thou art fair, is most infallible; true, that thou art beauteous; truth itself, that thou art lovely. More fairer than fair, beautiful than beauteous, truer than truth itself, have commiseration on thy heroical vassal! The magnanimous and most illustrate King Cophetua set eye upon the pernicious and indubitate beggar Zenelophon; and he it was that might rightly say, Veni, vidi, vici; which to annothanize in the vulgar—O base and obscure vulgar!—videlicet, He came, saw, and overcame: he came, one; saw, two; overcame, three. Who came? The king. Why did he come? To see. Why did he see? To overcome. To whom came he? To the beggar. What saw he? The beggar. Who overcame he? The beggar. The conclusion is victory; on whose side? The king’s. The captive is enrich’d; on whose side? The beggar’s. The catastrophe is a nuptial; on whose side? The king’s; no, on both in one, or one in both. I am the king, for so stands the comparison; thou the beggar, for so witnesseth thy lowliness. Shall I command thy love? I may. Shall I enforce thy love? I could. Shall I entreat thy love? I will. What shalt thou exchange for rags? Robes; for tittles? Titles; for thyself? Me. Thus expecting thy reply, I profane my lips on thy foot, my eyes on thy picture, and my heart on thy every part. Thine, in the dearest design of industry,* 
 *Don Adriano de Armado.* 
-
 Thus dost thou hear the Nemean lion roar
 ’Gainst thee, thou lamb, that standest as his prey;
 Submissive fall his princely feet before,
@@ -1949,7 +1946,7 @@ Sola, sola!
 Exit.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 The King of Navarre’s park.
@@ -1960,7 +1957,7 @@ NATH.
 Very reverent sport truly, and done in the testimony of a good conscience.
 
 HOL.
-The deer was —as you know— sanguis, in blood, ripe as the pomewater, who now hangeth like a jewel in the ear of caelo, the sky, the welkin, the heaven, and anon falleth like a crab on the face of terra, the soil, the land, the earth.
+The deer was (as you know) sanguis, in blood, ripe as the pomewater, who now hangeth like a jewel in the ear of caelo, the sky, the welkin, the heaven, and anon falleth like a crab on the face of terra, the soil, the land, the earth.
 
 NATH.
 Truly, Master Holofernes, the epithites are sweetly varied, like a scholar at the least; but, sir, I assure ye it was a buck of the first head.
@@ -2126,7 +2123,7 @@ NATH.
 Marvelous well for the pen.
 
 HOL.
-I do dine today at the father’s of a certain pupil of mine, where, if —before repast— it shall please you to gratify the table with a grace, I will, on my privilege I have with the parents of the foresaid child or pupil, undertake your bien venuto; where I will prove those verses to be very unlearned, neither savoring of poetry, wit, nor invention. I beseech your society.
+I do dine today at the father’s of a certain pupil of mine, where, if (before repast) it shall please you to gratify the table with a grace, I will, on my privilege I have with the parents of the foresaid child or pupil, undertake your bien venuto; where I will prove those verses to be very unlearned, neither savoring of poetry, wit, nor invention. I beseech your society.
 
 NATH.
 And thank you too; for society, saith the text, is the happiness of life.
@@ -2139,7 +2136,7 @@ Sir, I do invite you too, you shall not say me nay: pauca verba. Away, the gentl
 Exeunt.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 The King of Navarre’s park.
@@ -2178,7 +2175,6 @@ KING.
 *My tears for glasses, and still make me weep.* 
 *O queen of queens, how far dost thou excel* 
 *No thought can think, nor tongue of mortal tell.”* 
-
 How shall she know my griefs? I’ll drop the paper.
 Sweet leaves, shade folly. Who is he comes here?
 (Enter Longaville with a paper. The King steps aside.)
@@ -2350,7 +2346,6 @@ DUM.
 *Juno but an Ethiop were,* 
 *And deny himself for Jove,* 
 *Turning mortal for thy love.”* 
-
 This will I send and something else more plain
 That shall express my true love’s fasting pain.
 O would the King, Berowne, and Longaville
@@ -2537,7 +2532,7 @@ What, did these rent lines show some love of thine?
 
 BER.
 Did they, quoth you? Who sees the heavenly Rosaline,
-That —like a rude and savage man of Inde—,
+That (like a rude and savage man of Inde),
 At the first op’ning of the gorgeous east,
 Bows not his vassal head, and strucken blind,
 Kisses the base ground with obedient breast?
@@ -2547,8 +2542,8 @@ That is not blinded by her majesty?
 
 KING.
 What zeal, what fury, hath inspir’d thee now?
-My love —her mistress— is a gracious moon,
-She —an attending star— scarce seen a light.
+My love (her mistress) is a gracious moon,
+She (an attending star) scarce seen a light.
 
 BER.
 My eyes are then no eyes, nor I Berowne.
@@ -2664,7 +2659,7 @@ To fast, to study, and to see no woman—
 Flat treason ’gainst the kingly state of youth.
 Say, can you fast? Your stomachs are too young,
 And abstinence engenders maladies.
-—And where that you have vow’d to study, lords,
+(And where that you have vow’d to study, lords,
 In that each of you have forsworn his book,
 Can you still dream and pore and thereon look?
 For when would you, my lord, or you, or you,
@@ -2686,7 +2681,7 @@ Learning is but an adjunct to ourself,
 And where we are, our learning likewise is.
 Then when ourselves we see in ladies’ eyes,
 With ourselves,
-Do we not likewise see our learning there?—
+Do we not likewise see our learning there?) 
 O, we have made a vow to study, lords,
 And in that vow we have forsworn our books.
 For when would you, my liege, or you, or you,
@@ -2778,8 +2773,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 The King of Navarre’s park.
@@ -2908,7 +2903,7 @@ HOL.
 The posterior of the day, most generous sir, is liable, congruent, and measurable for the afternoon. The word is well cull’d, chose, sweet, and apt, I do assure you, sir, I do assure.
 
 ARM.
-Sir, the King is a noble gentleman, and my familiar, I do assure ye, very good friend; for what is inward between us, let it pass. I do beseech thee remember thy courtesy; I beseech thee apparel thy head; and among other importunate and most serious designs, and of great import indeed too—but let that pass; for I must tell thee it will please his Grace —by the world— sometime to lean upon my poor shoulder, and with his royal finger, thus, dally with my excrement, with my mustachio; but, sweet heart, let that pass. By the world, I recount no fable: some certain special honors it pleaseth his greatness to impart to Armado, a soldier, a man of travel, that hath seen the world; but let that pass. The very all of all is—but, sweet heart, I do implore secrety—that the King would have me present the Princess —sweet chuck— with some delightful ostentation, or show, or pageant, or antic, or firework. Now, understanding that the curate and your sweet self are good at such eruptions and sudden breaking out of mirth —as it were—, I have acquainted you withal, to the end to crave your assistance.
+Sir, the King is a noble gentleman, and my familiar, I do assure ye, very good friend; for what is inward between us, let it pass. I do beseech thee remember thy courtesy; I beseech thee apparel thy head; and among other importunate and most serious designs, and of great import indeed too—but let that pass; for I must tell thee it will please his Grace (by the world) sometime to lean upon my poor shoulder, and with his royal finger, thus, dally with my excrement, with my mustachio; but, sweet heart, let that pass. By the world, I recount no fable: some certain special honors it pleaseth his greatness to impart to Armado, a soldier, a man of travel, that hath seen the world; but let that pass. The very all of all is—but, sweet heart, I do implore secrety—that the King would have me present the Princess (sweet chuck) with some delightful ostentation, or show, or pageant, or antic, or firework. Now, understanding that the curate and your sweet self are good at such eruptions and sudden breaking out of mirth (as it were), I have acquainted you withal, to the end to crave your assistance.
 
 HOL.
 Sir, you shall present before her the Nine Worthies. Sir Nathaniel, as concerning some entertainment of time, some show in the posterior of this day, to be rend’red by our assistance, the King’s command, and this most gallant, illustrate, and learned gentleman, before the Princess, I say none so fit as to present the Nine Worthies.
@@ -2917,7 +2912,7 @@ NATH.
 Where will you find men worthy enough to present them?
 
 HOL.
-Joshua, yourself; myself; and this gallant gentleman, Judas Machabeus; this swain —because of his great limb or joint— shall pass Pompey the Great; the page, Hercules.
+Joshua, yourself; myself; and this gallant gentleman, Judas Machabeus; this swain (because of his great limb or joint) shall pass Pompey the Great; the page, Hercules.
 
 ARM.
 Pardon, sir, error: he is not quantity enough for that Worthy’s thumb, he is not so big as the end of his club.
@@ -2965,7 +2960,7 @@ Most dull, honest Dull! To our sport; away!
 Exeunt.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 The King of Navarre’s park.
@@ -3346,7 +3341,7 @@ We number nothing that we spend for you;
 Our duty is so rich, so infinite,
 That we may do it still without accompt.
 Vouchsafe to show the sunshine of your face,
-That we —like savages— may worship it.
+That we (like savages) may worship it.
 
 ROS.
 My face is but a moon, and clouded too.
@@ -3354,7 +3349,7 @@ My face is but a moon, and clouded too.
 KING.
 Blessed are clouds, to do as such clouds do!
 Vouchsafe, bright moon, and these thy stars, to shine
-—Those clouds removed— upon our watery eyne.
+(Those clouds removed) upon our watery eyne.
 
 ROS.
 O vain petitioner! Beg a greater matter,
@@ -3551,7 +3546,7 @@ Well-liking wits they have—gross gross, fat fat.
 
 PRIN.
 O poverty in wit, kingly-poor flout!
-Will they not —think you— hang themselves tonight?
+Will they not (think you) hang themselves tonight?
 Or ever but in vizards show their faces?
 This pert Berowne was out of count’nance quite.
 
@@ -3738,7 +3733,7 @@ Trim gallants, full of courtship and of state.
 
 ROS.
 Madam, speak true. It is not so, my lord.
-My lady —to the manner of the days—
+My lady (to the manner of the days) 
 In courtesy gives undeserving praise.
 We four indeed confronted were with four
 In Russian habit; here they stay’d an hour,
@@ -3817,7 +3812,7 @@ Three-pil’d hyperboles, spruce affection,
 Figures pedantical—these summer flies
 Have blown me full of maggot ostentation.
 I do forswear them, and I here protest,
-By this white glove —how white the hand, God knows!—,
+By this white glove (how white the hand, God knows!),
 Henceforth my wooing mind shall be express’d
 In russet yeas and honest kersey noes.
 And to begin, wench, so God help me law!
@@ -3920,7 +3915,7 @@ I knew her by this jewel on her sleeve.
 
 PRIN.
 Pardon me, sir, this jewel did she wear,
-And Lord Berowne —I thank him— is my dear.
+And Lord Berowne (I thank him) is my dear.
 What? Will you have me, or your pearl again?
 
 BER.
@@ -4048,7 +4043,7 @@ PRIN.
 ’A speaks not like a man of God his making.
 
 ARM.
-That is all one, my fair, sweet, honey monarch; for I protest, the schoolmaster is exceeding fantastical, too too vain, too too vain: but we will put it —as they say— to fortuna de la guerra. I wish you the peace of mind, most royal couplement.
+That is all one, my fair, sweet, honey monarch; for I protest, the schoolmaster is exceeding fantastical, too too vain, too too vain: but we will put it (as they say) to fortuna de la guerra. I wish you the peace of mind, most royal couplement.
 
 Exit.
 
@@ -4550,7 +4545,7 @@ PRIN.
 To make a world-without-end bargain in.
 No, no, my lord, your Grace is perjur’d much,
 Full of dear guiltiness, and therefore this:
-If for my love —as there is no such cause—
+If for my love (as there is no such cause) 
 You will do aught, this shall you do for me:
 Your oath I will not trust, but go with speed
 To some forlorn and naked hermitage,

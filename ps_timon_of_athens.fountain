@@ -1,9 +1,9 @@
 Title: Timon of Athens
 Credit: Written by
-Author: William Shakespeare and Thomas Middleton
+Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -15,61 +15,61 @@ Notes:
 >_Cast of Characters_<
 
 |Timon of Athens (TIM.): | 
-|Alcibiades (ALCIB.): | 
+|Flavius (FLAV.): | 
 |Apemantus (APEM.): | 
+|Alcibiades (ALCIB.): | 
+|Poet (POET.): | 
+|Painter (PAIN.): | 
+|Flaminius (FLAM.): | 
+|Servilius (SER.): | 
+|Timon’s Servant (TIM. SERV.): | 
+|Lucilius (LUCIL.): | 
+|Old Athenian (OLD ATH.): | 
+|Sempronius (SEM.): | 
 |Caphis (CAPH.): | 
-|Cupid (CUP.): | 
-|First Bandit (1. BAN.): | 
+|Titus (TIT.): | 
+|Lucius (LUC.): | 
+|Jeweler (JEW.): | 
+|Merchant (MER.): | 
+|Ventidius (VEN.): | 
+|Fool (FOOL.): | 
+|Hortensius (HOR.): | 
+|Lucullus (LUCUL.): | 
 |Second Bandit (2. BAN.): | 
+|First Bandit (1. BAN.): | 
 |Third Bandit (3. BAN.): | 
-|First Lady Amazon Masker (1. LADY MASK.): | 
-|All Lady Amazon Maskers (ALL LADY MASK.): | 
-|First Lord (1. LORD.): | 
-|Second Lord (2. LORD.): | 
-|Third Lord (3. LORD.): | 
-|Fourth Lord (4. LORD.): | 
+|Philotus (PHI.): | 
+|Phrynia (PHRY.): | 
+|Timandra (TIMAN.): | 
 |First Senator (1. SEN.): | 
 |Second Senator (2. SEN.): | 
 |Third Senator (3. SEN.): | 
 |Fourth Senator (4. SEN.): | 
+|First Lord (1. LORD.): | 
+|Second Lord (2. LORD.): | 
+|Third Lord (3. LORD.): | 
+|Fourth Lord (4. LORD.): | 
+|Isidore’s Servant (ISID. SERV.): | 
+|Lucius’s Servant (LUC. SERV.): | 
+|Varro’s First Servant (1. VAR. SERV.): | 
+|Varro’s Second Servant (2. VAR. SERV.): | 
+|Lucullus’s Servant (LUCUL. SERV.): | 
 |First Stranger (1. STRAN.): | 
 |Second Stranger (2. STRAN.): | 
 |Third Stranger (3. STRAN.): | 
-|Flaminius (FLAM.): | 
-|Flavius (FLAV.): | 
-|Fool (FOOL.): | 
-|Hortensius (HOR.): | 
-|Isidore’s Servant (ISID. SERV.): | 
-|Jeweler (JEW.): | 
-|Lucilius (LUCIL.): | 
-|Lucius (LUC.): | 
-|Lucius’s Servant (LUC. SERV.): | 
-|Lucullus (LUCUL.): | 
-|Lucullus’s Servant (LUCUL. SERV.): | 
-|Merchant (MER.): | 
+|Cupid (CUP.): | 
+|Soldier (SOLD.): | 
+|First Lady Amazon Masker (1. LADY MASK.): | 
+|All Lady Amazon Maskers (ALL LADY MASK.): | 
 |Messenger (MESS.): | 
 |Messenger from Ventidius (MESS. VENT.): | 
-|Old Athenian (OLD ATH.): | 
-|Painter (PAIN.): | 
-|Philotus (PHI.): | 
-|Phrynia (PHRY.): | 
-|Poet (POET.): | 
-|Sempronius (SEM.): | 
-|Servilius (SER.): | 
-|Soldier (SOLD.): | 
-|Timandra (TIMAN.): | 
 |Timon’s Page (TIM. PAGE.): | 
-|Timon’s Servant (TIM. SERV.): | 
-|Titus (TIT.): | 
-|Varro’s First Servant (1. VAR. SERV.): | 
-|Varro’s Second Servant (2. VAR. SERV.): | 
-|Ventidius (VEN.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 Athens. A hall in Timon’s house.
@@ -716,7 +716,7 @@ I’ll keep you company.
 Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 A banqueting-room in Timon’s house.
@@ -961,7 +961,7 @@ Yes, my lord.
 (Aside.)
 ^3 More jewels yet?
 There is no crossing him in ’s humor,
-Else I should tell him well —i’ faith, I should—,
+Else I should tell him well (i’ faith, I should),
 When all’s spent, he’ld be cross’d then, and he could.
 ’Tis pity bounty had not eyes behind,
 That man might ne’er be wretched for his mind.
@@ -1023,7 +1023,7 @@ Enter Servilius.
 
 SER.
 May it please your honor, Lord Lucius
-—Out of his free love— hath presented to you
+(Out of his free love) hath presented to you
 Four milk-white horses, trapp’d in silver.
 
 TIM.
@@ -1138,7 +1138,7 @@ Now, Apemantus, if thou wert not sullen,
 I would be good to thee.
 
 APEM.
-No, I’ll nothing; for if I should be brib’d too, there would be none left to rail upon thee, and then thou wouldst sin the faster. Thou giv’st so long, Timon —I fear me—, thou wilt give away thyself in paper shortly. What needs these feasts, pomps, and vainglories?
+No, I’ll nothing; for if I should be brib’d too, there would be none left to rail upon thee, and then thou wouldst sin the faster. Thou giv’st so long, Timon (I fear me), thou wilt give away thyself in paper shortly. What needs these feasts, pomps, and vainglories?
 
 TIM.
 Nay, and you begin to rail on society once, I am sworn not to give regard to you. Farewell, and come with better music.
@@ -1156,8 +1156,8 @@ Exit.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 Athens. A room in a Senator’s house.
@@ -1221,7 +1221,7 @@ CAPH.
 Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 Athens. A hall in Timon’s house.
@@ -1530,7 +1530,7 @@ To hold your hand more close. I did endure
 Not seldom, nor no slight checks, when I have
 Prompted you in the ebb of your estate
 And your great flow of debts. My lov’d lord,
-Though you hear now —too late—, yet now’s a time:
+Though you hear now (too late), yet now’s a time:
 The greatest of your having lacks a half
 To pay your present debts.
 
@@ -1626,7 +1626,7 @@ A thousand talents to me.
 
 FLAV.
 ^5 I have been bold
-—For that I knew it the most general way—
+(For that I knew it the most general way) 
 To them to use your signet and your name,
 But they do shake their heads, and I am here
 No richer in return.
@@ -1654,9 +1654,9 @@ Their blood is cak’d, ’tis cold, it seldom flows;
 ’Tis lack of kindly warmth they are not kind;
 And nature, as it grows again toward earth,
 Is fashion’d for the journey, dull and heavy.
-Go to Ventidius. —Prithee be not sad,
+Go to Ventidius. (Prithee be not sad,
 Thou art true and honest; ingeniously I speak,
-No blame belongs to thee.— Ventidius lately
+No blame belongs to thee.) Ventidius lately
 Buried his father, by whose death he’s stepp’d
 Into a great estate. When he was poor,
 Imprison’d, and in scarcity of friends,
@@ -1677,8 +1677,8 @@ Exeunt.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 Athens. A room in Lucullus’ house.
@@ -1730,7 +1730,7 @@ I have observ’d thee always for a towardly prompt spirit—give thee thy due�
 (To Servant.)
 Get you gone, sirrah.
 (Exit Lucullus’s Servant.)
-Draw nearer, honest Flaminius. Thy lord’s a bountiful gentleman, but thou art wise, and thou know’st well enough —although thou com’st to me— that this is no time to lend money, especially upon bare friendship without security. Here’s three solidares for thee; good boy, wink at me, and say thou saw’st me not. Fare thee well.
+Draw nearer, honest Flaminius. Thy lord’s a bountiful gentleman, but thou art wise, and thou know’st well enough (although thou com’st to me) that this is no time to lend money, especially upon bare friendship without security. Here’s three solidares for thee; good boy, wink at me, and say thou saw’st me not. Fare thee well.
 
 FLAM.
 Is’t possible the world should so much differ,
@@ -1762,7 +1762,7 @@ To expel sickness, but prolong his hour!
 Exit.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 Athens. A public place.
@@ -1823,7 +1823,7 @@ SER.
 Upon my soul, ’tis true, sir.
 
 LUC.
-What a wicked beast was I to disfurnish myself against such a good time, when I might ha’ shown myself honorable! How unluckily it happ’ned that I should purchase the day before for a little part, and undo a great deal of honor! Servilius, now before the gods, I am not able to do —the more beast, I say!——I was sending to use Lord Timon myself, these gentlemen can witness; but I would not, for the wealth of Athens, I had done’t now. Commend me bountifully to his good lordship, and I hope his honor will conceive the fairest of me, because I have no power to be kind. And tell him this from me, I count it one of my greatest afflictions, say, that I cannot pleasure such an honorable gentleman. Good Servilius, will you befriend me so far as to use mine own words to him?
+What a wicked beast was I to disfurnish myself against such a good time, when I might ha’ shown myself honorable! How unluckily it happ’ned that I should purchase the day before for a little part, and undo a great deal of honor! Servilius, now before the gods, I am not able to do (the more beast, I say!)—I was sending to use Lord Timon myself, these gentlemen can witness; but I would not, for the wealth of Athens, I had done’t now. Commend me bountifully to his good lordship, and I hope his honor will conceive the fairest of me, because I have no power to be kind. And tell him this from me, I count it one of my greatest afflictions, say, that I cannot pleasure such an honorable gentleman. Good Servilius, will you befriend me so far as to use mine own words to him?
 
 SER.
 Yes, sir, I shall.
@@ -1855,7 +1855,7 @@ Has paid his men their wages. He ne’er drinks
 But Timon’s silver treads upon his lip,
 And yet—O, see the monstrousness of man
 When he looks out in an ungrateful shape!—
-He does deny him —in respect of his—
+He does deny him (in respect of his) 
 What charitable men afford to beggars.
 
 3. STRAN.
@@ -1878,7 +1878,7 @@ For policy sits above conscience.
 Exeunt.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 Athens. A room in Sempronius’s house.
@@ -1934,7 +1934,7 @@ Who cannot keep his wealth must keep his house.
 Exit.
 
 
-### Scene 4
+### Act 3, Scene 4
 
 
 Athens. A hall in Timon’s house.
@@ -2129,7 +2129,7 @@ What, are my doors oppos’d against my passage?
 Have I been ever free, and must my house
 Be my retentive enemy? My jail?
 The place which I have feasted, does it now
-—Like all mankind— show me an iron heart?
+(Like all mankind) show me an iron heart?
 
 LUC. SERV.
 Put in now, Titus.
@@ -2226,7 +2226,7 @@ Of knaves once more; my cook and I’ll provide.
 Exeunt.
 
 
-### Scene 5
+### Act 3, Scene 5
 
 
 Athens. The Senate House.
@@ -2254,11 +2254,11 @@ And none but tyrants use it cruelly.
 It pleases time and fortune to lie heavy
 Upon a friend of mine, who in hot blood
 Hath stepp’d into the law, which is past depth
-To those that —without heed— do plunge into’t.
-He is a man —setting his fate aside—
+To those that (without heed) do plunge into’t.
+He is a man (setting his fate aside) 
 Of comely virtues;
 Nor did he soil the fact with cowardice
-—An honor in him which buys out his fault—,
+(An honor in him which buys out his fault),
 But with a noble fury and fair spirit,
 Seeing his reputation touch’d to death,
 He did oppose his foe;
@@ -2413,14 +2413,14 @@ Soldiers should brook as little wrongs as gods.
 Exit.
 
 
-### Scene 6
+### Act 3, Scene 6
 
 
 Athens. A banqueting-room in Timon’s house.
 
 Music. Tables set out: Servants attending.
 
-Enter divers friends of Timon, Senators and other Lords, at several doors.
+Enter diverse friends of Timon, Senators and other Lords, at several doors.
 
 1. LORD.
 The good time of day to you, sir.
@@ -2626,8 +2626,8 @@ Exeunt the Senators and other Lords.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 Outside the walls of Athens.
@@ -2665,13 +2665,13 @@ That ’gainst the stream of virtue they may strive,
 And drown themselves in riot! Itches, blains,
 Sow all th’ Athenian bosoms, and their crop
 Be general leprosy! Breath, infect breath,
-That their society —as their friendship— may
+That their society (as their friendship) may
 Be merely poison! Nothing I’ll bear from thee
 But nakedness, thou detestable town!
 Take thou that too, with multiplying bans!
 Timon will to the woods, where he shall find
 Th’ unkindest beast more kinder than mankind.
-The gods confound —hear me, you good gods all—
+The gods confound (hear me, you good gods all) 
 Th’ Athenians both within and out that wall!
 And grant, as Timon grows, his hate may grow
 To the whole race of mankind, high and low!
@@ -2680,7 +2680,7 @@ Amen.
 Exit.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 Athens. A room in Timon’s house.
@@ -2761,7 +2761,7 @@ Whilst I have gold, I’ll be his steward still.
 Exit.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 Woods and cave near the seashore.
@@ -2775,7 +2775,7 @@ Infect the air! Twinn’d brothers of one womb,
 Whose procreation, residence, and birth
 Scarce is dividant, touch them with several fortunes,
 The greater scorns the lesser. Not nature
-—To whom all sores lay siege— can bear great fortune
+(To whom all sores lay siege) can bear great fortune
 But by contempt of nature.
 Raise me this beggar, and deny’t that lord,
 The senator shall bear contempt hereditary,
@@ -3071,7 +3071,7 @@ Should yet be hungry! Common mother, thou
 (Digging.)
 Whose womb unmeasurable and infinite breast
 Teems and feeds all; whose self-same mettle,
-Whereof thy proud child —arrogant man— is puff’d,
+Whereof thy proud child (arrogant man) is puff’d,
 Engenders the black toad and adder blue,
 The gilded newt and eyeless venom’d worm,
 With all th’ abhorred births below crisp heaven
@@ -3113,7 +3113,7 @@ By that which has undone thee; hinge thy knee,
 And let his very breath whom thou’lt observe
 Blow off thy cap; praise his most vicious strain,
 And call it excellent. Thou wast told thus;
-Thou gav’st thine ears —like tapsters that bade welcome—
+Thou gav’st thine ears (like tapsters that bade welcome) 
 To knaves and all approachers. ’Tis most just
 That thou turn rascal; hadst thou wealth again,
 Rascals should have’t. Do not assume my likeness.
@@ -3205,7 +3205,7 @@ That never knew but better, is some burden:
 Thy nature did commence in sufferance, time
 Hath made thee hard in’t. Why shouldst thou hate men?
 They never flatter’d thee. What hast thou given?
-If thou wilt curse, thy father —that poor rag—
+If thou wilt curse, thy father (that poor rag) 
 Must be thy subject, who in spite put stuff
 To some she-beggar and compounded thee
 Poor rogue hereditary. Hence, be gone!
@@ -3591,7 +3591,7 @@ For, by oppressing and betraying me,
 Thou mightst have sooner got another service;
 For many so arrive at second masters,
 Upon their first lord’s neck. But tell me true
-—For I must ever doubt, though ne’er so sure—,
+(For I must ever doubt, though ne’er so sure),
 Is not thy kindness subtle, covetous,
 If not a usuring kindness, and, as rich men deal gifts,
 Expecting in return twenty for one?
@@ -3638,8 +3638,8 @@ Exeunt severally.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 The woods. Before Timon’s cave.
@@ -3758,7 +3758,7 @@ POET.
 Sir,
 Having often of your open bounty tasted,
 Hearing you were retir’d, your friends fall’n off,
-Whose thankless natures —O abhorred spirits!—
+Whose thankless natures (O abhorred spirits!) 
 Not all the whips of heaven are large enough—
 What, to you,
 Whose star-like nobleness gave life and influence
@@ -4078,7 +4078,7 @@ In our dear peril.
 Exeunt.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 Before the walls of Athens.
@@ -4121,7 +4121,7 @@ Ours is the fall, I fear, our foes the snare.
 Exeunt.
 
 
-### Scene 3
+### Act 5, Scene 3
 
 
 The woods. A rude tomb near Timon’s cave.
@@ -4134,7 +4134,6 @@ Who’s here? Speak ho! No answer? What is this?
 (Reads.)
 *“Timon is dead, who hath outstretch’d his span:* 
 *Some beast read this; there does not live a man.”* 
-
 Dead, sure, and this his grave. What’s on this tomb
 I cannot read; the character I’ll take with wax;
 Our captain hath in every figure skill,
@@ -4145,7 +4144,7 @@ Whose fall the mark of his ambition is.
 Exit.
 
 
-### Scene 4
+### Act 5, Scene 4
 
 
 Before the walls of Athens.
@@ -4164,7 +4163,7 @@ As slept within the shadow of your power
 Have wander’d with our travers’d arms, and breath’d
 Our sufferance vainly. Now the time is flush,
 When crouching marrow in the bearer strong
-Cries —of itself— “No more!” Now breathless wrong
+Cries (of itself) “No more!” Now breathless wrong
 Shall sit and pant in your great chairs of ease,
 And pursy insolence shall break his wind
 With fear and horrid flight.
@@ -4269,7 +4268,6 @@ ALCIB.
 *Seek not my name: a plague consume you, wicked caitiffs left!* 
 *Here lie I, Timon, who, alive, all living men did hate;* 
 *Pass by and curse thy fill, but pass and stay not here thy gait.”* 
-
 These well express in thee thy latter spirits:
 Though thou abhorr’dst in us our human griefs,
 Scorn’dst our brains’ flow, and those our droplets which

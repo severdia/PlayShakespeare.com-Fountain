@@ -2,8 +2,8 @@ Title: Othello
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,36 +14,36 @@ Notes:
 
 >_Cast of Characters_<
 
-|Duke of Venice (DUKE.): | 
-|Brabantio (BRA.): | 
-|Gratiano (GRA.): | 
-|Lodovico (LOD.): | 
 |Othello (OTH.): | 
-|Cassio (CAS.): | 
 |Iago (IAGO.): | 
+|Cassio (CAS.): | 
+|Brabantio (BRA.): | 
 |Roderigo (ROD.): | 
+|Lodovico (LOD.): | 
+|Duke of Venice (DUKE.): | 
 |Montano (MON.): | 
+|Gratiano (GRA.): | 
 |Desdemona (DES.): | 
 |Emilia (EMIL.): | 
 |Bianca (BIAN.): | 
-|Sailor (SAIL.): | 
-|Officer (OFF.): | 
 |Clown (CLO.): | 
-|First Messenger (1. MESS.): | 
-|Second Messenger (2. MESS.): | 
-|Herald (HER.): | 
+|First Musician (1. MUS.): | 
+|Officer (OFF.): | 
+|Sailor (SAIL.): | 
 |First Senator (1. SEN.): | 
 |Second Senator (2. SEN.): | 
-|First Musician (1. MUS.): | 
 |First Gentleman (1. GENT.): | 
 |Second Gentleman (2. GENT.): | 
 |Third Gentleman (3. GENT.): | 
+|First Messenger (1. MESS.): | 
+|Second Messenger (2. MESS.): | 
+|Herald (HER.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 Venice. A street.
@@ -69,7 +69,7 @@ If I do not. Three great ones of the city,
 In personal suit to make me his lieutenant,
 Off-capp’d to him; and, by the faith of man,
 I know my price, I am worth no worse a place.
-But he —as loving his own pride and purposes—
+But he (as loving his own pride and purposes) 
 Evades them with a bombast circumstance
 Horribly stuff’d with epithites of war,
 And in conclusion,
@@ -78,7 +78,7 @@ Nonsuits my mediators; for, “Certes,” says he,
 And what was he?
 Forsooth, a great arithmetician,
 One Michael Cassio, a Florentine
-—A fellow almost damn’d in a fair wife—,
+(A fellow almost damn’d in a fair wife),
 That never set a squadron in the field,
 Nor the division of a battle knows
 More than a spinster—unless the bookish theoric,
@@ -89,8 +89,8 @@ And I, of whom his eyes had seen the proof
 At Rhodes, at Cyprus, and on other grounds
 Christen’d and heathen, must be belee’d and calm’d
 By debitor and creditor—this counter—caster,
-He —in good time!— must his lieutenant be,
-And I —God bless the mark!— his Moorship’s ancient.
+He (in good time!) must his lieutenant be,
+And I (God bless the mark!) his Moorship’s ancient.
 
 ROD.
 By heaven, I rather would have been his hangman.
@@ -112,7 +112,7 @@ I follow him to serve my turn upon him.
 We cannot all be masters, nor all masters
 Cannot be truly follow’d. You shall mark
 Many a duteous and knee-crooking knave
-That —doting on his own obsequious bondage—
+That (doting on his own obsequious bondage) 
 Wears out his time, much like his master’s ass,
 For nought but provender, and when he’s old, cashier’d.
 Whip me such honest knaves. Others there are
@@ -203,7 +203,7 @@ BRA.
 I have charg’d thee not to haunt about my doors.
 In honest plainness thou hast heard me say
 My daughter is not for thee; and now, in madness
-—Being full of supper and distemp’ring draughts—,
+(Being full of supper and distemp’ring draughts),
 Upon malicious bravery dost thou come
 To start my quiet.
 
@@ -247,7 +247,7 @@ This thou shalt answer; I know thee, Roderigo.
 ROD.
 Sir, I will answer any thing. But I beseech you,
 If’t be your pleasure and most wise consent
-—As partly I find it is— that your fair daughter,
+(As partly I find it is) that your fair daughter,
 At this odd-even and dull watch o’ th’ night,
 Transported with no worse nor better guard
 But with a knave of common hire, a gundolier,
@@ -258,7 +258,7 @@ But if you know not this, my manners tell me
 We have your wrong rebuke. Do not believe
 That, from the sense of all civility,
 I thus would play and trifle with your reverence.
-Your daughter —if you have not given her leave—,
+Your daughter (if you have not given her leave),
 I say again, hath made a gross revolt,
 Tying her duty, beauty, wit, and fortunes
 In an extravagant and wheeling stranger
@@ -279,12 +279,12 @@ Exit above.
 IAGO.
 ^4 Farewell; for I must leave you.
 It seems not meet, nor wholesome to my place,
-To be producted —as, if I stay, I shall—
+To be producted (as, if I stay, I shall) 
 Against the Moor; for I do know the state
-—How ever this may gall him with some check—
+(How ever this may gall him with some check) 
 Cannot with safety cast him, for he’s embark’d
 With such loud reason to the Cyprus wars
-—Which even now stands in act— that, for their souls,
+(Which even now stands in act) that, for their souls,
 Another of his fathom they have none
 To lead their business; in which regard,
 Though I do hate him as I do hell-pains,
@@ -333,14 +333,14 @@ To get good guard and go along with me.
 
 BRA.
 Pray you lead on. At every house I’ll call
-—I may command at most—.—Get weapons, ho!
+(I may command at most).—Get weapons, ho!
 And raise some special officers of night.—
 On, good Roderigo, I will deserve your pains.
 
 Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 Venice. Another street.
@@ -368,7 +368,7 @@ That the magnifico is much belov’d,
 And hath in his effect a voice potential
 As double as the Duke’s. He will divorce you,
 Or put upon you what restraint or grievance
-The law —with all his might to enforce it on—
+The law (with all his might to enforce it on) 
 Will give him cable.
 
 OTH.
@@ -540,7 +540,7 @@ Bond-slaves and pagans shall our statesmen be.
 Exeunt.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 Venice. A council chamber.
@@ -561,8 +561,8 @@ And mine, a hundred forty.
 2. SEN.
 ^5 And mine, two hundred!
 But though they jump not on a just accompt
-—As in these cases where the aim reports,
-’Tis oft with difference—, yet do they all confirm
+(As in these cases where the aim reports,
+’Tis oft with difference), yet do they all confirm
 A Turkish fleet, and bearing up to Cyprus.
 
 DUKE.
@@ -680,7 +680,7 @@ BRA.
 She is abus’d, stol’n from me, and corrupted
 By spells and medicines bought of mountebanks;
 For nature so prepost’rously to err
-—Being not deficient, blind, or lame of sense—
+(Being not deficient, blind, or lame of sense) 
 Sans witchcraft could not.
 
 DUKE.
@@ -721,11 +721,11 @@ Their dearest action in the tented field;
 And little of this great world can I speak
 More than pertains to feats of broils and battle,
 And therefore little shall I grace my cause
-In speaking for myself. Yet —by your gracious patience—
+In speaking for myself. Yet (by your gracious patience) 
 I will a round unvarnish’d tale deliver
 Of my whole course of love—what drugs, what charms,
 What conjuration, and what mighty magic
-—For such proceeding I am charg’d withal—
+(For such proceeding I am charg’d withal) 
 I won his daughter.
 
 BRA.
@@ -740,7 +740,7 @@ Against all rules of nature, and must be driven
 To find out practices of cunning hell
 Why this should be. I therefore vouch again
 That with some mixtures pow’rful o’er the blood,
-Or with some dram —conjur’d to this effect—
+Or with some dram (conjur’d to this effect) 
 He wrought upon her.
 
 DUKE.
@@ -949,8 +949,8 @@ OTH.
 Let her have your voice.
 Vouch with me, heaven, I therefore beg it not
 To please the palate of my appetite,
-Nor to comply with heat —the young affects
-In me defunct— and proper satisfaction;
+Nor to comply with heat (the young affects
+In me defunct) and proper satisfaction;
 But to be free and bounteous to her mind.
 And heaven defend your good souls, that you think
 I will your serious and great business scant
@@ -1122,8 +1122,8 @@ Exit.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 A sea port in Cyprus.
@@ -1216,7 +1216,7 @@ Is he well shipp’d?
 CAS.
 His bark is stoutly timber’d, and his pilot
 Of very expert and approv’d allowance;
-Therefore my hopes —not surfeited to death—
+Therefore my hopes (not surfeited to death) 
 Stand in bold cure.
 (Within,)
 ^4 “A sail, a sail, a sail!”
@@ -1429,7 +1429,7 @@ She that in wisdom never was so frail
 To change the cod’s head for the salmon’s tail;
 She that could think, and nev’r disclose her mind,
 See suitors following, and not look behind:
-She was a wight —if ever such wight were——
+She was a wight (if ever such wight were)—
 
 DES.
 To do what?
@@ -1516,13 +1516,13 @@ Exeunt Othello and Desdemona with all but Iago and Roderigo.
 
 IAGO.
 (To an Attendant, as he is going out.)
-Do thou meet me presently at the harbor.—Come hither. If thou be’st valiant —as they say base men being in love have then a nobility in their natures more than is native to them—, list me. The lieutenant tonight watches on the court of guard. First, I must tell thee this: Desdemona is directly in love with him.
+Do thou meet me presently at the harbor.—Come hither. If thou be’st valiant (as they say base men being in love have then a nobility in their natures more than is native to them), list me. The lieutenant tonight watches on the court of guard. First, I must tell thee this: Desdemona is directly in love with him.
 
 ROD.
 With him? Why, ’tis not possible.
 
 IAGO.
-Lay thy finger thus; and let thy soul be instructed. Mark me with what violence she first lov’d the Moor, but for bragging and telling her fantastical lies. To love him still for prating—let not thy discreet heart think it. Her eye must be fed; and what delight shall she have to look on the devil? When the blood is made dull with the act of sport, there should be, again to inflame it and to give satiety a fresh appetite, loveliness in favor, sympathy in years, manners, and beauties—all which the Moor is defective in. Now for want of these requir’d conveniences, her delicate tenderness will find itself abus’d, begin to heave the gorge, disrelish and abhor the Moor; very nature will instruct her in it and compel her to some second choice. Now, sir, this granted —as it is a most pregnant and unforc’d position—, who stands so eminent in the degree of this fortune as Cassio does? A knave very voluble; no further conscionable than in putting on the mere form of civil and humane seeming, for the better compass of his salt and most hidden loose affection? Why, none, why, none—a slipper and subtle knave, a finder-out of occasion; that has an eye can stamp and counterfeit advantages, though true advantage never present itself; a devilish knave. Besides, the knave is handsome, young, and hath all those requisites in him that folly and green minds look after; a pestilent complete knave, and the woman hath found him already.
+Lay thy finger thus; and let thy soul be instructed. Mark me with what violence she first lov’d the Moor, but for bragging and telling her fantastical lies. To love him still for prating—let not thy discreet heart think it. Her eye must be fed; and what delight shall she have to look on the devil? When the blood is made dull with the act of sport, there should be, again to inflame it and to give satiety a fresh appetite, loveliness in favor, sympathy in years, manners, and beauties—all which the Moor is defective in. Now for want of these requir’d conveniences, her delicate tenderness will find itself abus’d, begin to heave the gorge, disrelish and abhor the Moor; very nature will instruct her in it and compel her to some second choice. Now, sir, this granted (as it is a most pregnant and unforc’d position), who stands so eminent in the degree of this fortune as Cassio does? A knave very voluble; no further conscionable than in putting on the mere form of civil and humane seeming, for the better compass of his salt and most hidden loose affection? Why, none, why, none—a slipper and subtle knave, a finder-out of occasion; that has an eye can stamp and counterfeit advantages, though true advantage never present itself; a devilish knave. Besides, the knave is handsome, young, and hath all those requisites in him that folly and green minds look after; a pestilent complete knave, and the woman hath found him already.
 
 ROD.
 I cannot believe that in her, she’s full of most bless’d condition.
@@ -1556,16 +1556,16 @@ Exit.
 IAGO.
 That Cassio loves her, I do well believe’t;
 That she loves him, ’tis apt and of great credit.
-The Moor —howbeit that I endure him not—
+The Moor (howbeit that I endure him not) 
 Is of a constant, loving, noble nature,
 And I dare think he’ll prove to Desdemona
 A most dear husband. Now I do love her too,
-Not out of absolute lust —though peradventure
-I stand accomptant for as great a sin—,
+Not out of absolute lust (though peradventure
+I stand accomptant for as great a sin),
 But partly led to diet my revenge,
 For that I do suspect the lusty Moor
 Hath leap’d into my seat; the thought whereof
-Doth —like a poisonous mineral— gnaw my inwards;
+Doth (like a poisonous mineral) gnaw my inwards;
 And nothing can or shall content my soul
 Till I am even’d with him, wife for wife;
 Or failing so, yet that I put the Moor
@@ -1575,7 +1575,7 @@ If this poor trash of Venice, whom I trace
 For his quick hunting, stand the putting on,
 I’ll have our Michael Cassio on the hip,
 Abuse him to the Moor in the rank garb
-—For I fear Cassio with my night-cap too—,
+(For I fear Cassio with my night-cap too),
 Make the Moor thank me, love me, and reward me,
 For making him egregiously an ass,
 And practicing upon his peace and quiet
@@ -1585,7 +1585,7 @@ Knavery’s plain face is never seen till us’d.
 Exit.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 Cyprus. A street.
@@ -1598,7 +1598,7 @@ It is Othello’s pleasure, our noble and valiant general, that upon certain tid
 Exeunt.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 Cyprus. A castle hall.
@@ -1913,7 +1913,7 @@ IAGO.
 I do not know. Friends all, but now, even now;
 In quarter, and in terms like bride and groom
 Devesting them for bed; and then, but now
-—As if some planet had unwitted men—,
+(As if some planet had unwitted men),
 Swords out, and tilting one at other’s breast,
 In opposition bloody. I cannot speak
 Any beginning to this peevish odds;
@@ -1978,13 +1978,13 @@ And Cassio following him with determin’d sword
 To execute upon him. Sir, this gentleman
 Steps in to Cassio and entreats his pause;
 Myself the crying fellow did pursue,
-Lest by his clamor —as it so fell out—
+Lest by his clamor (as it so fell out) 
 The town might fall in fright. He, swift of foot,
 Outran my purpose; and I return’d the rather
 For that I heard the clink and fall of swords,
 And Cassio high in oath; which till tonight
 I ne’er might say before. When I came back
-—For this was brief—, I found them close together
+(For this was brief), I found them close together
 At blow and thrust, even as again they were
 When you yourself did part them.
 More of this matter cannot I report.
@@ -2152,8 +2152,8 @@ Exit.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 Cyprus. Before the castle.
@@ -2161,7 +2161,8 @@ Cyprus. Before the castle.
 Enter Cassio with Musicians.
 
 CAS.
-Masters, play here, I will content your pains; Something that’s brief; and bid “Good morrow, general.”
+Masters, play here, I will content your pains;
+Something that’s brief; and bid “Good morrow, general.”
 
 They play, and enter the Clown.
 
@@ -2190,7 +2191,7 @@ Marry, sir, by many a wind instrument that I know. But, masters, here’s money 
 Well, sir, we will not.
 
 CLO.
-If you have any music that may not be heard, to’t again; but —as they say— to hear music the general does not greatly care.
+If you have any music that may not be heard, to’t again; but (as they say) to hear music the general does not greatly care.
 
 1. MUS.
 We have none such, sir.
@@ -2270,7 +2271,7 @@ CAS.
 Exeunt.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 Cyprus. A room in the castle.
@@ -2295,7 +2296,7 @@ We’ll wait upon your lordship.
 Exeunt.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 Cyprus. The garden of the castle.
@@ -2439,8 +2440,8 @@ On Tuesday noon, or night; on We’n’sday morn.
 I prithee name the time, but let it not
 Exceed three days. In faith, he’s penitent;
 And yet his trespass, in our common reason
-—Save that they say the wars must make example
-Out of her best—, is not almost a fault
+(Save that they say the wars must make example
+Out of her best), is not almost a fault
 T’ incur a private check. When shall he come?
 Tell me, Othello. I wonder in my soul
 What you would ask me that I should deny,
@@ -2602,9 +2603,9 @@ A stranger to thy thoughts.
 IAGO.
 ^5 I do beseech you,
 Though I perchance am vicious in my guess
-—As I confess it is my nature’s plague
+(As I confess it is my nature’s plague
 To spy into abuses, and oft my jealousy
-Shapes faults that are not—, that your wisdom then,
+Shapes faults that are not), that your wisdom then,
 From one that so imperfectly conjects,
 Would take no notice, nor build yourself a trouble
 Out of his scattering and unsure observance.
@@ -2674,7 +2675,7 @@ Away at once with love or jealousy!
 IAGO.
 I am glad of this, for now I shall have reason
 To show the love and duty that I bear you
-With franker spirit; therefore —as I am bound—
+With franker spirit; therefore (as I am bound) 
 Receive it from me. I speak not yet of proof.
 Look to your wife, observe her well with Cassio,
 Wear your eyes thus, not jealous nor secure.
@@ -2741,13 +2742,13 @@ OTH.
 And yet how nature erring from itself—
 
 IAGO.
-Ay, there’s the point; as —to be bold with you—
+Ay, there’s the point; as (to be bold with you) 
 Not to affect many proposed matches
 Of her own clime, complexion, and degree,
 Whereto we see in all things nature tends—
 Foh, one may smell in such, a will most rank,
 Foul disproportions, thoughts unnatural.
-But —pardon me— I do not in position
+But (pardon me) I do not in position
 Distinctly speak of her, though I may fear
 Her will, recoiling to her better judgment,
 May fall to match you with her country forms,
@@ -2765,6 +2766,7 @@ My lord, I take my leave.
 OTH.
 Why did I marry? This honest creature, doubtless,
 Sees and knows more, much more, than he unfolds.
+
 IAGO.
 (Returning.)
 My lord, I would I might entreat your honor
@@ -2777,7 +2779,7 @@ Note if your lady strain his entertainment
 With any strong or vehement importunity;
 Much will be seen in that. In the mean time,
 Let me be thought too busy in my fears
-—As worthy cause I have to fear I am—
+(As worthy cause I have to fear I am) 
 And hold her free, I do beseech your honor.
 
 OTH.
@@ -2797,7 +2799,7 @@ I’ld whistle her off, and let her down the wind
 To prey at fortune. Haply, for I am black,
 And have not those soft parts of conversation
 That chamberers have, or for I am declin’d
-Into the vale of years —yet that’s not much—,
+Into the vale of years (yet that’s not much),
 She’s gone. I am abus’d, and my relief
 Must be to loathe her. O curse of marriage!
 That we can call these delicate creatures ours,
@@ -2848,7 +2850,7 @@ I am glad I have found this napkin;
 This was her first remembrance from the Moor.
 My wayward husband hath a hundred times
 Woo’d me to steal it; but she so loves the token
-—For he conjur’d her she should ever keep it—
+(For he conjur’d her she should ever keep it) 
 That she reserves it evermore about her
 To kiss and talk to. I’ll have the work ta’en out,
 And give’t Iago. What he will do with it
@@ -2983,7 +2985,7 @@ IAGO.
 ^6 Is’t come to this?
 
 OTH.
-Make me to see’t; or —at the least— so prove it
+Make me to see’t; or (at the least) so prove it
 That the probation bear no hinge nor loop
 To hang a doubt on; or woe upon thy life!
 
@@ -3061,7 +3063,7 @@ Give me a living reason she’s disloyal.
 IAGO.
 I do not like the office;
 But sith I am ent’red in this cause so far
-—Prick’d to’t by foolish honesty and love—,
+(Prick’d to’t by foolish honesty and love),
 I will go on. I lay with Cassio lately,
 And being troubled with a raging tooth,
 I could not sleep.
@@ -3105,7 +3107,7 @@ I gave her such a one; ’twas my first gift.
 
 IAGO.
 I know not that; but such a handkerchief
-—I am sure it was your wive’s— did I today
+(I am sure it was your wive’s) did I today
 See Cassio wipe his beard with.
 
 OTH.
@@ -3185,7 +3187,7 @@ I am your own forever.
 Exeunt.
 
 
-### Scene 4
+### Act 3, Scene 4
 
 
 Cyprus. Before the castle.
@@ -3499,7 +3501,7 @@ Our other healthful members even to a sense
 Of pain. Nay, we must think men are not gods,
 Nor of them look for such observancy
 As fits the bridal. Beshrew me much, Emilia,
-I was —unhandsome warrior as I am—
+I was (unhandsome warrior as I am) 
 Arraigning his unkindness with my soul;
 But now I find I had suborn’d the witness,
 And he’s indicted falsely.
@@ -3578,7 +3580,7 @@ BIAN.
 CAS.
 I know not, neither; I found it in my chamber.
 I like the work well; ere it be demanded
-—As like enough it will— I would have it copied.
+(As like enough it will) I would have it copied.
 Take it, and do’t, and leave me for this time.
 
 BIAN.
@@ -3613,8 +3615,8 @@ Exeunt omnes.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 Cyprus. Before the castle.
@@ -3666,9 +3668,9 @@ But for the handkerchief—
 
 OTH.
 By heaven, I would most gladly have forgot it.
-Thou saidst —O, it comes o’er my memory,
+Thou saidst (O, it comes o’er my memory,
 As doth the raven o’er the infectious house,
-Boding to all— he had my handkerchief.
+Boding to all) he had my handkerchief.
 
 IAGO.
 Ay; what of that?
@@ -3719,7 +3721,7 @@ IAGO.
 Work on,
 My medicine, work! Thus credulous fools are caught,
 And many worthy and chaste dames even thus
-—All guiltless— meet reproach.—What ho! My lord!
+(All guiltless) meet reproach.—What ho! My lord!
 My lord, I say! Othello!
 (Enter Cassio.)
 ^5 How now, Cassio?
@@ -3780,7 +3782,7 @@ IAGO.
 ^5 Stand you a while apart,
 Confine yourself but in a patient list.
 Whilst you were here o’erwhelmed with your grief
-—A passion most unsuiting such a man—,
+(A passion most unsuiting such a man),
 Cassio came hither. I shifted him away,
 And laid good ’scuses upon your ecstasy;
 Bade him anon return and here speak with me,
@@ -3797,7 +3799,7 @@ And nothing of a man.
 OTH.
 ^5 Dost thou hear, Iago,
 I will be found most cunning in my patience;
-But —dost thou hear— most bloody.
+But (dost thou hear) most bloody.
 
 IAGO.
 ^7 That’s not amiss,
@@ -3806,8 +3808,8 @@ But yet keep time in all. Will you withdraw?
 Now will I question Cassio of Bianca,
 A huswife that by selling her desires
 Buys herself bread and clothes. It is a creature
-That dotes on Cassio —as ’tis the strumpet’s plague
-To beguile many and be beguil’d by one—;
+That dotes on Cassio (as ’tis the strumpet’s plague
+To beguile many and be beguil’d by one);
 He, when he hears of her, cannot restrain
 From the excess of laughter. Here he comes.
 (Enter Cassio.)
@@ -4210,7 +4212,7 @@ I am sorry that I am deceiv’d in him.
 Exeunt.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 Cyprus. A room in the castle.
@@ -4268,7 +4270,9 @@ She says enough; yet she’s a simple bawd
 That cannot say as much. This is a subtile whore,
 A closet lock and key of villainous secrets;
 And yet she’ll kneel and pray; I have seen her do’t.
-(Enter Desdemona and Emilia.)
+
+Enter Desdemona and Emilia.
+
 DES.
 My lord, what is your will?
 
@@ -4554,8 +4558,8 @@ Either in discourse of thought or actual deed,
 Or that mine eyes, mine ears, or any sense
 Delighted them in any other form;
 Or that I do not yet, and ever did,
-And ever will —though he do shake me off
-To beggarly divorcement— love him dearly,
+And ever will (though he do shake me off
+To beggarly divorcement) love him dearly,
 Comfort forswear me! Unkindness may do much,
 And his unkindness may defeat my life,
 But never taint my love. I cannot say “whore.”
@@ -4627,7 +4631,7 @@ ROD.
 It hath not appear’d.
 
 IAGO.
-I grant indeed it hath not appear’d; and your suspicion is not without wit and judgment. But, Roderigo, if thou hast that in thee indeed, which I have greater reason to believe now than ever —I mean purpose, courage, and valor—, this night show it. If thou the next night following enjoy not Desdemona, take me from this world with treachery and devise engines for my life.
+I grant indeed it hath not appear’d; and your suspicion is not without wit and judgment. But, Roderigo, if thou hast that in thee indeed, which I have greater reason to believe now than ever (I mean purpose, courage, and valor), this night show it. If thou the next night following enjoy not Desdemona, take me from this world with treachery and devise engines for my life.
 
 ROD.
 Well; what is it? Is it within reason and compass?
@@ -4651,7 +4655,7 @@ ROD.
 And that you would have me to do?
 
 IAGO.
-Ay; if you dare do yourself a profit and a right. He sups tonight with a harlotry, and thither will I go to him—he knows not yet of his honorable fortune. If you will watch his going thence —which I will fashion to fall out between twelve and one—, you may take him at your pleasure. I will be near to second your attempt, and he shall fall between us. Come, stand not amaz’d at it, but go along with me; I will show you such a necessity in his death that you shall think yourself bound to put it on him. It is now high supper-time, and the night grows to waste. About it.
+Ay; if you dare do yourself a profit and a right. He sups tonight with a harlotry, and thither will I go to him—he knows not yet of his honorable fortune. If you will watch his going thence (which I will fashion to fall out between twelve and one), you may take him at your pleasure. I will be near to second your attempt, and he shall fall between us. Come, stand not amaz’d at it, but go along with me; I will show you such a necessity in his death that you shall think yourself bound to put it on him. It is now high supper-time, and the night grows to waste. About it.
 
 ROD.
 I will hear further reason for this.
@@ -4662,7 +4666,7 @@ And you shall be satisfied.
 Exeunt.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 Cyprus. Another room in the castle.
@@ -4694,6 +4698,7 @@ Get you to bed on th’ instant, I will be return’d forthwith. Dismiss your at
 DES.
 I will, my lord.
 (Exeunt Othello, Lodovico, and Attendants.)
+
 EMIL.
 How goes it now? He looks gentler than he did.
 
@@ -4864,8 +4869,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 Cyprus. A street.
@@ -5205,7 +5210,7 @@ That either makes me, or foredoes me quite.
 Exeunt.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 A bedchamber in the castle.
@@ -5757,7 +5762,7 @@ EMIL.
 O thou dull Moor, that handkerchief thou speak’st of
 I found by fortune, and did give my husband;
 For often, with a solemn earnestness
-—More than indeed belong’d to such a trifle—,
+(More than indeed belong’d to such a trifle),
 He begg’d of me to steal’t.
 
 IAGO.
@@ -5846,7 +5851,7 @@ A better never did itself sustain
 Upon a soldier’s thigh. I have seen the day
 That with this little arm, and this good sword,
 I have made my way through more impediments
-Than twenty times your stop. But —O vain boast!—
+Than twenty times your stop. But (O vain boast!) 
 Who can control his fate? ’Tis not so now.
 Be not afraid though you do see me weapon’d;
 Here is my journey’s end, here is my butt
@@ -5971,7 +5976,7 @@ There is besides, in Roderigo’s letter,
 How he upbraids Iago, that he made him
 Brave me upon the watch, whereon it came
 That I was cast; and even but now he spake
-—After long seeming dead— Iago hurt him,
+(After long seeming dead) Iago hurt him,
 Iago set him on.
 
 LOD.
@@ -5994,7 +5999,7 @@ Nor set down aught in malice. Then must you speak
 Of one that lov’d not wisely but too well;
 Of one not easily jealous, but being wrought,
 Perplexed in the extreme; of one whose hand
-—Like the base Indian— threw a pearl away
+(Like the base Indian) threw a pearl away
 Richer than all his tribe; of one whose subdu’d eyes,
 Albeit unused to the melting mood,
 Drops tears as fast as the Arabian trees

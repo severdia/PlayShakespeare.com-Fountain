@@ -2,8 +2,8 @@ Title: Antony and Cleopatra
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,78 +14,78 @@ Notes:
 
 >_Cast of Characters_<
 
-|Cleopatra, Queen of Egypt (CLEO.): | 
-|Clown (CLOWN.): | 
-|Rannius (RANN.): | 
-|Lamprius, the Soothsayer (SOOTH.): | 
-|Diomedes (DIO.): | 
-|Seleucus (SEL.): | 
-|Mardian (MAR.): | 
-|Alexas (ALEX.): | 
-|Schoolmaster (Ambassador) (AMB.): | 
-|Silius (SIL.): | 
-|Varrius (VAR.): | 
-|Menecrates (MENE.): | 
-|Menas (MENAS.): | 
-|Taurus (TAUR.): | 
-|Gallus (GALL.): | 
-|Thidias (THID.): | 
-|Proculeius (PRO.): | 
-|Dolabella (DOL.): | 
-|Agrippa (AGR.): | 
-|Maecenas (MAEC.): | 
-|Canidius (CAN.): | 
-|Philo (PHI.): | 
-|Demetrius (DEM.): | 
-|Decretas (DEC.): | 
-|Scarus (SCAR.): | 
-|Eros (EROS.): | 
-|Ventidius (VEN.): | 
+|Mark Antony (ANT.): | 
+|Octavius Caesar (CAES.): | 
 |Domitius Enobarbus (ENO.): | 
 |Sextus Pompeius (POM.): | 
+|Scarus (SCAR.): | 
 |M. Aemilius Lepidus (LEP.): | 
-|Octavius Caesar (CAES.): | 
-|Mark Antony (ANT.): | 
-|Iras (IRAS.): | 
+|Agrippa (AGR.): | 
+|Menas (MENAS.): | 
+|Dolabella (DOL.): | 
+|Eros (EROS.): | 
+|Maecenas (MAEC.): | 
+|Proculeius (PROC.): | 
+|Thidias (THID.): | 
+|Lamprius, the Soothsayer (SOOTH.): | 
+|Ventidius (VEN.): | 
+|Alexas (ALEX.): | 
+|Canidius (CAN.): | 
+|Decretas (DEC.): | 
+|Diomedes (DIO.): | 
+|Mardian (MAR.): | 
+|Philo (PHI.): | 
+|Silius (SIL.): | 
+|Clown (CLOWN.): | 
+|Seleucus (SEL.): | 
+|Demetrius (DEM.): | 
+|Menecrates (MENE.): | 
+|Varrius (VAR.): | 
+|Gallus (GALL.): | 
+|Taurus (TAUR.): | 
+|Cleopatra, Queen of Egypt (CLEO.): | 
 |Charmian (CHAR.): | 
 |Octavia (OCT.): | 
-|Lucillius (LUCILL.): | 
+|Iras (IRAS.): | 
+|Schoolmaster (Ambassador) (AMB.): | 
+|Caesar’s Sentry (CAES. SENT.): | 
 |Antony’s First Attendant (ANT. 1. ATT.): | 
 |Antony’s Second Attendant (ANT. 2. ATT.): | 
-|Caesar’s First Messenger (1. CAES. MESS.): | 
-|Caesar’s Second Messenger (2. CAES. MESS.): | 
-|Caesar’s Third Messenger (3. CAES. MESS.): | 
-|First Roman Messenger (1. ROM. MESS.): | 
-|Second Roman Messenger (2. ROM. MESS.): | 
-|First Messenger (1. MESS.): | 
-|Second Messenger (2. MESS.): | 
-|Egyptian Messenger (EGYPT. MESS.): | 
 |First Egyptian Servant (1. EGYPT. SERV.): | 
 |Second Egyptian Servant (2. EGYPT. SERV.): | 
+|Pompey’s First Servant (POM. 1. SERV.): | 
+|Pompey’s Second Servant (POM. 2. SERV.): | 
+|Captain of Antony’s Army (CAPT. ANT. ARMY.): | 
 |Antony’s First Soldier (ANT. 1. SOLD.): | 
 |Antony’s Second Soldier (ANT. 2. SOLD.): | 
 |Antony’s Third Soldier (ANT. 3. SOLD.): | 
 |Antony’s Fourth Soldier (ANT. 4. SOLD.): | 
-|Captain of Antony’s Army (CAPT. ANT. ARMY.): | 
 |Caesar’s First Soldier (CAES. 1. SOLD.): | 
-|Caesar’s Sentry (CAES. SENT.): | 
-|Caesar’s First Watchman (CAES. 1. WATCH.): | 
-|Caesar’s Second Watchman (CAES. 2. WATCH.): | 
+|First Roman Soldier (1. ROM. SOLD.): | 
+|Second Roman Soldier (2. ROM. SOLD.): | 
 |Antony’s First Guardsman (ANT. 1. GUARD.): | 
 |Antony’s Second Guardsman (ANT. 2. GUARD.): | 
 |Antony’s Third Guardsman (ANT. 3. GUARD.): | 
 |First Roman Guard (1. ROM. GUARD.): | 
 |Second Roman Guard (2. ROM. GUARD.): | 
-|First Roman Soldier (1. ROM. SOLD.): | 
-|Second Roman Soldier (2. ROM. SOLD.): | 
-|Pompey’s First Servant (POM. 1. SERV.): | 
-|Pompey’s Second Servant (POM. 2. SERV.): | 
+|Caesar’s First Watchman (CAES. 1. WATCH.): | 
+|Caesar’s Second Watchman (CAES. 2. WATCH.): | 
+|Caesar’s First Messenger (1. CAES. MESS.): | 
+|Caesar’s Second Messenger (2. CAES. MESS.): | 
+|Caesar’s Third Messenger (3. CAES. MESS.): | 
+|Egyptian Messenger (EGYPT. MESS.): | 
+|First Roman Messenger (1. ROM. MESS.): | 
+|Second Roman Messenger (2. ROM. MESS.): | 
+|First Messenger (1. MESS.): | 
+|Second Messenger (2. MESS.): | 
+|Rannius (RANN.): | 
+|Lucillius (LUCILL.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 Alexandria. A room in Cleopatra’s palace.
@@ -182,7 +182,7 @@ ANT.
 ^4 Fie, wrangling queen!
 Whom every thing becomes—to chide, to laugh,
 To weep; whose every passion fully strives
-To make itself —in thee— fair and admir’d!
+To make itself (in thee) fair and admir’d!
 No messenger but thine, and all alone,
 Tonight we’ll wander through the streets and note
 The qualities of people. Come, my queen,
@@ -209,7 +209,7 @@ Of better deeds tomorrow. Rest you happy!
 Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 Alexandria. Another room in Cleopatra’s palace.
@@ -420,7 +420,7 @@ I hear him as he flatter’d.
 
 1. MESS.
 ^5 Labienus
-—This is stiff news— hath with his Parthian force
+(This is stiff news) hath with his Parthian force
 Extended Asia; from Euphrates
 His conquering banner shook, from Syria
 To Lydia and to Ionia,
@@ -571,7 +571,7 @@ I shall do’t.
 Exeunt.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 Alexandria. Another room in Cleopatra’s palace.
@@ -652,7 +652,7 @@ ANT.
 
 CLEO.
 Why should I think you can be mine, and true
-—Though you in swearing shake the throned gods—,
+(Though you in swearing shake the throned gods),
 Who have been false to Fulvia? Riotous madness,
 To be entangled with those mouth-made vows,
 Which break themselves in swearing!
@@ -789,7 +789,7 @@ Away!
 Exeunt.
 
 
-### Scene 4
+### Act 1, Scene 4
 
 
 Rome. Octavius Caesar’s house.
@@ -823,8 +823,8 @@ To give a kingdom for a mirth, to sit
 And keep the turn of tippling with a slave,
 To reel the streets at noon, and stand the buffet
 With knaves that smells of sweat: say this becomes him
-—As his composure must be rare indeed
-Whom these things cannot blemish—, yet must Antony
+(As his composure must be rare indeed
+Whom these things cannot blemish), yet must Antony
 No way excuse his foils, when we do bear
 So great weight in his lightness. If he fill’d
 His vacancy with his voluptuousness,
@@ -879,7 +879,7 @@ Leave thy lascivious wassails. When thou once
 Was beaten from Modena, where thou slew’st
 Hirtius and Pansa, consuls, at thy heel
 Did famine follow, whom thou fought’st against
-—Though daintily brought up— with patience more
+(Though daintily brought up) with patience more
 Than savages could suffer. Thou didst drink
 The stale of horses and the gilded puddle
 Which beasts would cough at; thy palate then did deign
@@ -888,7 +888,7 @@ Yea, like the stag, when snow the pasture sheets,
 The barks of trees thou brows’d. On the Alps
 It is reported thou didst eat strange flesh,
 Which some did die to look on; and all this
-—It wounds thine honor that I speak it now—
+(It wounds thine honor that I speak it now) 
 Was borne so like a soldier, that thy cheek
 So much as lank’d not.
 
@@ -924,7 +924,7 @@ I knew it for my bond.
 Exeunt.
 
 
-### Scene 5
+### Act 1, Scene 5
 
 
 Alexandria. Cleopatra’s palace.
@@ -990,7 +990,7 @@ Do bravely, horse, for wot’st thou whom thou mov’st?
 The demi-Atlas of this earth, the arm
 And burgonet of men. He’s speaking now,
 Or murmuring, “Where’s my serpent of old Nile?”
-—For so he calls me—. Now I feed myself
+(For so he calls me). Now I feed myself
 With most delicious poison. Think on me,
 That am with Phoebus’ amorous pinches black,
 And wrinkled deep in time? Broad-fronted Caesar,
@@ -1064,7 +1064,7 @@ CHAR.
 
 CLEO.
 Be chok’d with such another emphasis!
-Say “ the brave Antony.”
+Say “the brave Antony.”
 
 CHAR.
 ^5 The valiant Caesar!
@@ -1092,8 +1092,8 @@ Exeunt.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 Messina. Pompey’s house.
@@ -1191,7 +1191,7 @@ Come, Menas.
 Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 Rome. The house of Lepidus.
@@ -1483,7 +1483,7 @@ His power unto Octavia.
 
 ANT.
 ^5 May I never
-—To this good purpose, that so fairly shows—
+(To this good purpose, that so fairly shows) 
 Dream of impediment! Let me have thy hand
 Further this act of grace; and from this hour
 The heart of brothers govern in our loves,
@@ -1589,7 +1589,7 @@ In her pavilion—cloth of gold, of tissue—
 O’er-picturing that Venus where we see
 The fancy outwork nature. On each side her
 Stood pretty dimpled boys, like smiling Cupids,
-With divers-color’d fans, whose wind did seem
+With diverse-color’d fans, whose wind did seem
 To glow the delicate cheeks which they did cool,
 And what they undid did.
 
@@ -1665,7 +1665,7 @@ ENO.
 Exeunt.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 Rome. Octavius Caesar’s house.
@@ -1756,7 +1756,7 @@ Follow me, and receive’t.
 Exeunt.
 
 
-### Scene 4
+### Act 2, Scene 4
 
 
 Rome. A street.
@@ -1785,7 +1785,7 @@ LEP.
 My purposes do draw me much about.
 You’ll win two days upon me.
 
-BOTH. MAEC. AND AGR.
+BOTH MAEC. AND AGR.
 ^6 Sir, good success!
 
 LEP.
@@ -1794,7 +1794,7 @@ Farewell.
 Exeunt.
 
 
-### Scene 5
+### Act 2, Scene 5
 
 
 Alexandria. Cleopatra’s palace.
@@ -2078,7 +2078,7 @@ But do not speak to me. Lead me to my chamber.
 Exeunt.
 
 
-### Scene 6
+### Act 2, Scene 6
 
 
 Near Misenum.
@@ -2132,7 +2132,7 @@ Remain in’t as thou mayst.
 
 LEP.
 ^5 Be pleas’d to tell us
-—For this is from the present— how you take
+(For this is from the present) how you take
 The offers we have sent you.
 
 CAES.
@@ -2353,7 +2353,7 @@ MENAS.
 Who would not have his wife so?
 
 ENO.
-Not he that himself is not so; which is Mark Antony. He will to his Egyptian dish again. Then shall the sighs of Octavia blow the fire up in Caesar, and —as I said before— that which is the strength of their amity shall prove the immediate author of their variance. Antony will use his affection where it is; he married but his occasion here.
+Not he that himself is not so; which is Mark Antony. He will to his Egyptian dish again. Then shall the sighs of Octavia blow the fire up in Caesar, and (as I said before) that which is the strength of their amity shall prove the immediate author of their variance. Antony will use his affection where it is; he married but his occasion here.
 
 MENAS.
 And thus it may be. Come, sir, will you aboard? I have a health for you.
@@ -2367,7 +2367,7 @@ Come, let’s away.
 Exeunt.
 
 
-### Scene 7
+### Act 2, Scene 7
 
 
 On board Pompey’s galley, off Misenum.
@@ -2688,8 +2688,8 @@ Exeunt.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 A plain in Syria.
@@ -2725,7 +2725,7 @@ For quick accumulation of renown,
 Which he achiev’d by th’ minute, lost his favor.
 Who does i’ th’ wars more than his captain can
 Becomes his captain’s captain; and ambition
-—The soldier’s virtue— rather makes choice of loss
+(The soldier’s virtue) rather makes choice of loss
 Than gain which darkens him.
 I could do more to do Antonius good,
 But ’twould offend him; and in his offense
@@ -2754,7 +2754,7 @@ We shall appear before him. On, there, pass along!
 Exeunt.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 Rome. An ante-chamber in Octavius Caesar’s house.
@@ -2929,7 +2929,7 @@ ANT.
 Trumpets sound. Exeunt.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 Alexandria. Cleopatra’s palace.
@@ -3086,7 +3086,7 @@ I warrant you, madam.
 Exeunt.
 
 
-### Scene 4
+### Act 3, Scene 4
 
 
 Athens. A room in Antony’s house.
@@ -3147,7 +3147,7 @@ Your heart has mind to.
 Exeunt.
 
 
-### Scene 5
+### Act 3, Scene 5
 
 
 Athens. Another room in Antony’s house.
@@ -3201,7 +3201,7 @@ Come, sir.
 Exeunt.
 
 
-### Scene 6
+### Act 3, Scene 6
 
 
 Rome. Octavius Caesar’s house.
@@ -3381,7 +3381,7 @@ Be ever known to patience. My dear’st sister!
 Exeunt.
 
 
-### Scene 7
+### Act 3, Scene 7
 
 
 Near Actium. Mark Antony’s camp.
@@ -3516,6 +3516,7 @@ Strange that his power should be. Canidius,
 Our nineteen legions thou shalt hold by land,
 And our twelve thousand horse. We’ll to our ship,
 Away, my Thetis!
+(Exit Second Roman Messenger.)
 (Enter Scarus.)
 ^4 How now, worthy soldier?
 
@@ -3576,7 +3577,7 @@ Each minute some.
 Exeunt.
 
 
-### Scene 8
+### Act 3, Scene 8
 
 
 A plain near Actium.
@@ -3598,7 +3599,7 @@ Upon this jump.
 Exeunt.
 
 
-### Scene 9
+### Act 3, Scene 9
 
 
 Another part of the plain near Actium.
@@ -3614,7 +3615,7 @@ And so proceed accordingly.
 Exeunt.
 
 
-### Scene 10
+### Act 3, Scene 10
 
 
 Another part of the plain near Actium.
@@ -3649,7 +3650,7 @@ ENO.
 SCAR.
 On our side like the token’d pestilence,
 Where death is sure. Yon ribaudred nag of Egypt
-—Whom leprosy o’ertake!— i’ th’ midst o’ th’ fight,
+(Whom leprosy o’ertake!) i’ th’ midst o’ th’ fight,
 When vantage like a pair of twins appear’d,
 Both as the same, or rather ours the elder—
 The breeze upon her, like a cow in June—
@@ -3663,7 +3664,7 @@ Endure a further view.
 SCAR.
 ^5 She once being loof’d,
 The noble ruin of her magic, Antony,
-Claps on his sea-wing, and —like a doting mallard—,
+Claps on his sea-wing, and (like a doting mallard),
 Leaving the fight in height, flies after her.
 I never saw an action of such shame;
 Experience, manhood, honor, ne’er before
@@ -3705,7 +3706,7 @@ Sits in the wind against me.
 Exeunt severally.
 
 
-### Scene 11
+### Act 3, Scene 11
 
 
 Alexandria. Cleopatra’s palace.
@@ -3720,7 +3721,7 @@ Have lost my way forever. I have a ship
 Laden with gold, take that, divide it; fly,
 And make your peace with Caesar.
 
-ALL. ANT. ATT.
+ALL ANT. ATT.
 ^7 Fly? Not we.
 
 ANT.
@@ -3856,7 +3857,7 @@ We scorn her most when most she offers blows.
 Exeunt.
 
 
-### Scene 12
+### Act 3, Scene 12
 
 
 Egypt. Octavius Caesar’s camp.
@@ -3937,7 +3938,7 @@ THID.
 Exeunt.
 
 
-### Scene 13
+### Act 3, Scene 13
 
 
 Alexandria. Cleopatra’s palace.
@@ -4126,7 +4127,7 @@ My duty on your hand.
 
 CLEO.
 ^5 Your Caesar’s father oft
-—When he hath mus’d of taking kingdoms in—
+(When he hath mus’d of taking kingdoms in) 
 Bestow’d his lips on that unworthy place,
 As it rain’d kisses.
 
@@ -4189,7 +4190,7 @@ CLEO.
 ANT.
 You have been a boggler ever,
 But when we in our viciousness grow hard
-—O misery on’t!—, the wise gods seel our eyes,
+(O misery on’t!), the wise gods seel our eyes,
 In our own filth drop our clear judgments, make us
 Adore our errors, laugh at ’s while we strut
 To our confusion.
@@ -4347,8 +4348,8 @@ Exit.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 Before Alexandria. Octavius Caesar’s camp.
@@ -4382,7 +4383,7 @@ And they have earn’d the waste. Poor Antony!
 Exeunt.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 Alexandria. Cleopatra’s palace.
@@ -4437,7 +4438,7 @@ And all of you clapp’d up together in
 An Antony, that I might do you service
 So good as you have done.
 
-ALL. ANT. ATT.
+ALL ANT. ATT.
 ^5 The gods forbid!
 
 ANT.
@@ -4487,7 +4488,7 @@ And drown consideration.
 Exeunt.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 Alexandria. Before Cleopatra’s palace.
@@ -4567,7 +4568,7 @@ Do hear what we do.
 ANT. 2. SOLD.
 ^4 How now, masters?
 
-ALL. ANT. SOLD.
+ALL ANT. SOLD.
 (Speak together.)
 ^9 How now?
 How now? Do you hear this?
@@ -4582,13 +4583,13 @@ ANT. 1. SOLD.
 Follow the noise so far as we have quarter;
 Let’s see how it will give off.
 
-ALL. ANT. SOLD.
+ALL ANT. SOLD.
 ^6 Content. ’Tis strange.
 
 Exeunt.
 
 
-### Scene 4
+### Act 4, Scene 4
 
 
 Alexandria. Before Cleopatra’s palace.
@@ -4657,7 +4658,7 @@ Enter Captain of Antony’s Army, Captains and Soldiers.
 CAPT. ANT. ARMY.
 The morn is fair. Good morrow, general.
 
-ALL. ANT. SOLD.
+ALL ANT. SOLD.
 Good morrow, general.
 
 ANT.
@@ -4686,7 +4687,7 @@ Then, Antony—but now—Well, on.
 Exeunt.
 
 
-### Scene 5
+### Act 4, Scene 5
 
 
 Alexandria. Mark Antony’s camp.
@@ -4735,7 +4736,7 @@ SCAR.
 ANT.
 Go, Eros, send his treasure after; do it,
 Detain no jot, I charge thee. Write to him
-—I will subscribe— gentle adieus and greetings;
+(I will subscribe) gentle adieus and greetings;
 Say that I wish he never find more cause
 To change a master. O, my fortunes have
 Corrupted honest men! Dispatch. Enobarbus!
@@ -4743,7 +4744,7 @@ Corrupted honest men! Dispatch. Enobarbus!
 Exeunt.
 
 
-### Scene 6
+### Act 4, Scene 6
 
 
 Alexandria. Octavius Caesar’s camp.
@@ -4826,7 +4827,7 @@ My latter part of life.
 Exit.
 
 
-### Scene 7
+### Act 4, Scene 7
 
 
 Field of battle between the camps.
@@ -4885,7 +4886,7 @@ SCAR.
 Exeunt.
 
 
-### Scene 8
+### Act 4, Scene 8
 
 
 Under the walls of Alexandria.
@@ -4952,7 +4953,7 @@ Applauding our approach.
 Exeunt.
 
 
-### Scene 9
+### Act 4, Scene 9
 
 
 Alexandria. Octavius Caesar’s camp.
@@ -5044,7 +5045,7 @@ Come on then, he may recover yet.
 Exeunt with the body.
 
 
-### Scene 10
+### Act 4, Scene 10
 
 
 The field of battle between the camps.
@@ -5070,7 +5071,7 @@ And look on their endeavor.
 Exeunt.
 
 
-### Scene 11
+### Act 4, Scene 11
 
 
 Another part of the field of battle between the camps.
@@ -5086,7 +5087,7 @@ And hold our best advantage.
 Exeunt.
 
 
-### Scene 12
+### Act 4, Scene 12
 
 
 Another part of the field of battle between the camps.
@@ -5168,7 +5169,7 @@ Under this plot. She dies for’t. Eros, ho!
 Exit.
 
 
-### Scene 13
+### Act 4, Scene 13
 
 
 Alexandria. Cleopatra’s palace.
@@ -5196,7 +5197,7 @@ And bring me how he takes my death. To th’ monument!
 Exeunt.
 
 
-### Scene 14
+### Act 4, Scene 14
 
 
 Alexandria. Another room in Cleopatra’s palace.
@@ -5236,7 +5237,7 @@ Yet cannot hold this visible shape, my knave.
 I made these wars for Egypt, and the Queen,
 Whose heart I thought I had, for she had mine—
 Which whilst it was mine had annex’d unto’t
-A million more —now lost——she, Eros, has
+A million more (now lost)—she, Eros, has
 Pack’d cards with Caesar’s, and false-play’d my glory
 Unto an enemy’s triumph.
 Nay, weep not, gentle Eros, there is left us
@@ -5414,7 +5415,7 @@ ANT. 2. GUARD.
 ANT. 1. GUARD.
 And time is at his period.
 
-ALL. GUARDS.
+ALL GUARDS.
 ^5 Alas, and woe!
 
 ANT.
@@ -5470,7 +5471,7 @@ ANT.
 DIO.
 Lock’d in her monument. She had a prophesying fear
 Of what hath come to pass; for when she saw
-—Which never shall be found— you did suspect
+(Which never shall be found) you did suspect
 She had dispos’d with Caesar, and that your rage
 Would not be purg’d, she sent you word she was dead;
 But fearing since how it might work, hath sent
@@ -5494,7 +5495,7 @@ ANT. 1. GUARD.
 Woe, woe are we, sir, you may not live to wear
 All your true followers out.
 
-ALL. GUARDS.
+ALL GUARDS.
 ^6 Most heavy day!
 
 ANT.
@@ -5508,7 +5509,7 @@ And have my thanks for all.
 Exeunt bearing Antony.
 
 
-### Scene 15
+### Act 4, Scene 15
 
 
 Alexandria. Another room in a monument in Cleopatra’s palace.
@@ -5587,7 +5588,7 @@ And welcome, welcome! Die when thou hast liv’d,
 Quicken with kissing. Had my lips that power,
 Thus would I wear them out.
 
-ALL. GUARDS.
+ALL GUARDS.
 ^6 A heavy sight!
 
 ANT.
@@ -5689,8 +5690,8 @@ Exeunt, those above bearing off Antony’s body.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 Alexandria. Octavius Caesar’s camp.
@@ -5819,7 +5820,7 @@ Would be eternal in our triumph. Go,
 And with your speediest bring us what she says,
 And how you find of her.
 
-PRO.
+PROC.
 ^5 Caesar, I shall.
 
 Exit Proculeius.
@@ -5845,7 +5846,7 @@ What I can show in this.
 Exeunt.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 Alexandria. Another room in a monument in Cleopatra’s palace.
@@ -5864,7 +5865,7 @@ The beggar’s nurse and Caesar’s.
 
 Enter Proculeius.
 
-PRO.
+PROC.
 Caesar sends greeting to the Queen of Egypt,
 And bids thee study on what fair demands
 Thou mean’st to have him grant thee.
@@ -5872,7 +5873,7 @@ Thou mean’st to have him grant thee.
 CLEO.
 ^7 What’s thy name?
 
-PRO.
+PROC.
 My name is Proculeius.
 
 CLEO.
@@ -5887,7 +5888,7 @@ To give me conquer’d Egypt for my son,
 He gives me so much of mine own as I
 Will kneel to him with thanks.
 
-PRO.
+PROC.
 ^6 Be of good cheer;
 Y’ are fall’n into a princely hand, fear nothing.
 Make your full reference freely to my lord,
@@ -5904,7 +5905,7 @@ The greatness he has got. I hourly learn
 A doctrine of obedience, and would gladly
 Look him i’ th’ face.
 
-PRO.
+PROC.
 ^4 This I’ll report, dear lady.
 Have comfort, for I know your plight is pitied
 Of him that caus’d it.
@@ -5923,7 +5924,7 @@ Quick, quick, good hands.
 
 Drawing a dagger.
 
-PRO.
+PROC.
 ^5 Hold, worthy lady, hold!
 (Seizes and disarms her.)
 Do not yourself such wrong, who are in this
@@ -5933,7 +5934,7 @@ CLEO.
 ^5 What, of death too,
 That rids our dogs of languish?
 
-PRO.
+PROC.
 ^7 Cleopatra,
 Do not abuse my master’s bounty by
 Th’ undoing of yourself. Let the world see
@@ -5945,7 +5946,7 @@ CLEO.
 Come hither, come! Come, come, and take a queen
 Worth many babes and beggars!
 
-PRO.
+PROC.
 ^7 O, temperance, lady!
 
 CLEO.
@@ -5964,7 +5965,7 @@ Blow me into abhorring! Rather make
 My country’s high pyramides my gibbet,
 And hang me up in chains!
 
-PRO.
+PROC.
 ^5 You do extend
 These thoughts of horror further than you shall
 Find cause in Caesar.
@@ -5977,7 +5978,7 @@ What thou hast done thy master Caesar knows,
 And he hath sent for thee. For the Queen,
 I’ll take her to my guard.
 
-PRO.
+PROC.
 ^5 So, Dolabella,
 It shall content me best. Be gentle to her.
 (To Cleopatra.)
@@ -6084,7 +6085,7 @@ Flourish.
 
 Enter Proculeius, Caesar, Gallus, Maecenas, and others of his Train, Seleucus following.
 
-ALL. CAES. TRAIN.
+ALL CAES. TRAIN.
 Make way there! Caesar!
 
 CAES.
@@ -6266,7 +6267,7 @@ CLEO.
 
 DOL.
 Madam, as thereto sworn by your command
-—Which my love makes religion to obey—,
+(Which my love makes religion to obey),
 I tell you this: Caesar through Syria
 Intends his journey, and within three days
 You with your children will he send before.
@@ -6525,7 +6526,7 @@ So sought’st to hinder.
 
 Enter Caesar and all his Train, marching.
 
-ALL. CAES. TRAIN.
+ALL CAES. TRAIN.
 A way there, a way for Caesar!
 
 DOL.

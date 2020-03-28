@@ -2,8 +2,8 @@ Title: Two Gentlemen of Verona
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,30 +14,30 @@ Notes:
 
 >_Cast of Characters_<
 
-|Duke of Milan (DUKE.): | 
-|Valentine (VAL.): | 
 |Proteus (PRO.): | 
-|Antonio (ANT.): | 
-|Thurio (THU.): | 
-|Eglamour (EGL.): | 
-|Host (HOST.): | 
+|Valentine (VAL.): | 
+|Duke of Milan (DUKE.): | 
 |Speed (SPEED.): | 
 |Launce (LAUNCE.): | 
-|Panthino (PAN.): | 
+|Thurio (THU.): | 
+|Panthino (PANT.): | 
+|Antonio (ANT.): | 
 |Julia (JUL.): | 
-|Silvia (SIL.): | 
+|Silvia (SILV.): | 
 |Lucetta (LUC.): | 
-|Musicians (MUSIC.): | 
+|Host (HOST.): | 
+|Eglamour (EGL.): | 
 |First Outlaw (1. OUT.): | 
 |Second Outlaw (2. OUT.): | 
 |Third Outlaw (3. OUT.): | 
+|Musicians (MUSIC.): | 
 |Crab (CRAB): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 Verona. An open place.
@@ -51,7 +51,7 @@ Were’t not affection chains thy tender days
 To the sweet glances of thy honor’d love,
 I rather would entreat thy company,
 To see the wonders of the world abroad,
-Than —living dully sluggardiz’d at home—
+Than (living dully sluggardiz’d at home) 
 Wear out thy youth with shapeless idleness.
 But since thou lov’st, love still, and thrive therein,
 Even as I would, when I to love begin.
@@ -62,7 +62,7 @@ Think on thy Proteus, when thou, happ’ly, seest
 Some rare noteworthy object in thy travel.
 Wish me partaker in thy happiness
 When thou dost meet good hap; and in thy danger
-—If ever danger do environ thee—
+(If ever danger do environ thee) 
 Commend thy grievance to my holy prayers,
 For I will be thy beadsman, Valentine.
 
@@ -213,7 +213,7 @@ PRO.
 But dost thou hear? Gav’st thou my letter to Julia?
 
 SPEED.
-Ay, sir; I —a lost mutton— gave your letter to her —a lac’d mutton—, and she —a lac’d mutton— gave me —a lost mutton— nothing for my labor.
+Ay, sir; I (a lost mutton) gave your letter to her (a lac’d mutton), and she (a lac’d mutton) gave me (a lost mutton) nothing for my labor.
 
 PRO.
 Here’s too small a pasture for such store of muttons.
@@ -308,7 +308,7 @@ Receiving them from such a worthless post.
 Exit.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 Verona. The garden of Julia’s house.
@@ -355,7 +355,7 @@ How now? What means this passion at his name?
 
 LUC.
 Pardon, dear madam, ’tis a passing shame
-That I —unworthy body as I am—
+That I (unworthy body as I am) 
 Should censure thus on lovely gentlemen.
 
 JUL.
@@ -444,7 +444,7 @@ And would not force the letter to my view!
 Since maids, in modesty, say “no” to that
 Which they would have the profferer construe “ay.”
 Fie, fie, how wayward is this foolish love,
-That —like a testy babe— will scratch the nurse
+That (like a testy babe) will scratch the nurse
 And presently, all humbled, kiss the rod!
 How churlishly I chid Lucetta hence,
 When willingly I would have had her here!
@@ -621,7 +621,7 @@ Come, come, will’t please you go?
 Exeunt.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 Verona. A room in Antonio’s house.
@@ -632,13 +632,13 @@ ANT.
 Tell me, Panthino, what sad talk was that
 Wherewith my brother held you in the cloister?
 
-PAN.
+PANT.
 ’Twas of his nephew Proteus, your son.
 
 ANT.
 Why, what of him?
 
-PAN.
+PANT.
 ^4 He wond’red that your lordship
 Would suffer him to spend his youth at home,
 While other men, of slender reputation,
@@ -663,7 +663,7 @@ Experience is by industry achiev’d,
 And perfected by the swift course of time.
 Then tell me, whither were I best to send him?
 
-PAN.
+PANT.
 I think your lordship is not ignorant
 How his companion, youthful Valentine,
 Attends the Emperor in his royal court.
@@ -671,7 +671,7 @@ Attends the Emperor in his royal court.
 ANT.
 I know it well.
 
-PAN.
+PANT.
 ’Twere good, I think, your lordship sent him thither:
 There shall he practice tilts and tournaments,
 Hear sweet discourse, converse with noblemen,
@@ -685,7 +685,7 @@ The execution of it shall make known:
 Even with the speediest expedition
 I will dispatch him to the Emperor’s court.
 
-PAN.
+PANT.
 Tomorrow, may it please you, Don Alphonso
 With other gentlemen of good esteem
 Are journeying to salute the Emperor,
@@ -765,7 +765,7 @@ And by and by a cloud takes all away.
 
 Enter Panthino.
 
-PAN.
+PANT.
 Sir Proteus, your father calls for you:
 He is in haste; therefore I pray you go.
 
@@ -779,8 +779,8 @@ Exeunt.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 Milan. A room in the Duke’s palace.
@@ -875,7 +875,7 @@ VAL.
 What dost thou know?
 
 SPEED.
-That she is not so fair as —of you— well favor’d.
+That she is not so fair as (of you) well favor’d.
 
 VAL.
 I mean that her beauty is exquisite, but her favor infinite.
@@ -959,7 +959,7 @@ SPEED.
 (Aside.)
 O, give ye good ev’n! Here’s a million of manners.
 
-SIL.
+SILV.
 Sir Valentine and servant, to you two thousand.
 
 SPEED.
@@ -972,7 +972,7 @@ Unto the secret, nameless friend of yours;
 Which I was much unwilling to proceed in,
 But for my duty to your ladyship.
 
-SIL.
+SILV.
 I thank you, gentle servant—’tis very clerkly done.
 
 VAL.
@@ -980,15 +980,15 @@ Now trust me, madam, it came hardly off;
 For being ignorant to whom it goes,
 I writ at random, very doubtfully.
 
-SIL.
+SILV.
 Perchance you think too much of so much pains?
 
 VAL.
 No, madam; so it stead you, I will write
-—Please you command— a thousand times as much;
+(Please you command) a thousand times as much;
 And yet—
 
-SIL.
+SILV.
 A pretty period! Well—I guess the sequel;
 And yet I will not name it—and yet I care not—
 And yet take this again—and yet I thank you—
@@ -1001,15 +1001,15 @@ And yet you will; and yet another “yet.”
 VAL.
 What means your ladyship? Do you not like it?
 
-SIL.
+SILV.
 Yes, yes; the lines are very quaintly writ,
-But —since unwillingly— take them again.
+But (since unwillingly) take them again.
 Nay, take them.
 
 VAL.
 Madam, they are for you.
 
-SIL.
+SILV.
 Ay, ay; you writ them, sir, at my request,
 But I will none of them; they are for you.
 I would have had them writ more movingly.
@@ -1017,14 +1017,14 @@ I would have had them writ more movingly.
 VAL.
 Please you, I’ll write your ladyship another.
 
-SIL.
+SILV.
 And when it’s writ, for my sake read it over,
 And if it please you, so; if not, why, so.
 
 VAL.
 If it please me, madam, what then?
 
-SIL.
+SILV.
 Why, if it please you, take it for your labor;
 And so good morrow, servant.
 
@@ -1091,12 +1091,10 @@ I would it were no worse.
 
 SPEED.
 I’ll warrant you, ’tis as well:
-
 *“For often have you writ to her; and she in modesty,* 
 *Or else for want of idle time, could not again reply;* 
 *Or fearing else some messenger, that might her mind discover,* 
 *Herself hath taught her love himself to write unto her lover.”* 
-
 All this I speak in print, for in print I found it. Why muse you, sir? ’Tis dinner-time.
 
 VAL.
@@ -1108,7 +1106,7 @@ Ay, but hearken, sir; though the chameleon Love can feed on the air, I am one th
 Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 Verona. A room in Julia’s house.
@@ -1153,7 +1151,7 @@ For truth hath better deeds than words to grace it.
 
 Enter Panthino.
 
-PAN.
+PANT.
 Sir Proteus, you are stay’d for.
 
 PRO.
@@ -1163,7 +1161,7 @@ Alas, this parting strikes poor lovers dumb.
 Exeunt.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 Verona. A street.
@@ -1175,43 +1173,43 @@ Nay, ’twill be this hour ere I have done weeping; all the kind of the Launces 
 
 Enter Panthino.
 
-PAN.
+PANT.
 Launce, away, away! Aboard! Thy master is shipp’d, and thou art to post after with oars. What’s the matter? Why weep’st thou, man? Away, ass, you’ll lose the tide, if you tarry any longer.
 
 LAUNCE.
 It is no matter if the tied were lost; for it is the unkindest tied that ever any man tied.
 
-PAN.
+PANT.
 What’s the unkindest tide?
 
 LAUNCE.
 Why, he that’s tied here, Crab, my dog.
 
-PAN.
+PANT.
 Tut, man, I mean thou’lt lose the flood, and in losing the flood, lose thy voyage, and in losing thy voyage, lose thy master, and in losing thy master, lose thy service, and in losing thy service—Why dost thou stop my mouth?
 
 LAUNCE.
 For fear thou shouldst lose thy tongue.
 
-PAN.
+PANT.
 Where should I lose my tongue?
 
 LAUNCE.
 In thy tale.
 
-PAN.
+PANT.
 In thy tail!
 
 LAUNCE.
 Lose the tide, and the voyage, and the master, and the service, and the tied! Why, man, if the river were dry, I am able to fill it with my tears; if the wind were down, I could drive the boat with my sighs.
 
-PAN.
+PANT.
 Come; come away, man—I was sent to call thee.
 
 LAUNCE.
 Sir—call me what thou dar’st.
 
-PAN.
+PANT.
 Wilt thou go?
 
 LAUNCE.
@@ -1220,14 +1218,14 @@ Well, I will go.
 Exeunt.
 
 
-### Scene 4
+### Act 2, Scene 4
 
 
 Milan. A room in the Duke’s palace.
 
 Enter Valentine, Silvia, Thurio, Speed.
 
-SIL.
+SILV.
 Servant!
 
 VAL.
@@ -1250,7 +1248,7 @@ SPEED.
 
 Exit.
 
-SIL.
+SILV.
 Servant, you are sad.
 
 VAL.
@@ -1295,7 +1293,7 @@ Well then I’ll double your folly.
 THU.
 How?
 
-SIL.
+SILV.
 What, angry, Sir Thurio? Do you change color?
 
 VAL.
@@ -1313,13 +1311,13 @@ Ay, sir, and done too—for this time.
 VAL.
 I know it well, sir; you always end ere you begin.
 
-SIL.
+SILV.
 A fine volley of words, gentlemen, and quickly shot off.
 
 VAL.
 ’Tis indeed, madam, we thank the giver.
 
-SIL.
+SILV.
 Who is that, servant?
 
 VAL.
@@ -1331,7 +1329,7 @@ Sir, if you spend word for word with me, I shall make your wit bankrupt.
 VAL.
 I know it well, sir; you have an exchequer of words and, I think, no other treasure to give your followers; for it appears by their bare liveries that they live by your bare words.
 
-SIL.
+SILV.
 No more, gentlemen, no more; here comes my father.
 
 Enter Duke.
@@ -1370,12 +1368,12 @@ We have convers’d and spent our hours together,
 And though myself have been an idle truant,
 Omitting the sweet benefit of time
 To clothe mine age with angel-like perfection,
-Yet hath Sir Proteus —for that’s his name—
+Yet hath Sir Proteus (for that’s his name) 
 Made use and fair advantage of his days;
 His years but young, but his experience old;
 His head unmellowed, but his judgment ripe;
-And in a word —for far behind his worth
-Comes all the praises that I now bestow—,
+And in a word (for far behind his worth
+Comes all the praises that I now bestow),
 He is complete in feature and in mind
 With all good grace to grace a gentleman.
 
@@ -1404,14 +1402,14 @@ This is the gentleman I told your ladyship
 Had come along with me, but that his mistress
 Did hold his eyes lock’d in her crystal looks.
 
-SIL.
+SILV.
 Belike that now she hath enfranchis’d them
 Upon some other pawn for fealty.
 
 VAL.
 Nay sure, I think she holds them prisoners still.
 
-SIL.
+SILV.
 Nay then he should be blind, and being blind,
 How could he see his way to seek out you?
 
@@ -1425,7 +1423,7 @@ VAL.
 To see such lovers, Thurio, as yourself:
 Upon a homely object Love can wink.
 
-SIL.
+SILV.
 Have done, have done; here comes the gentleman.
 
 Exit Thurio.
@@ -1436,7 +1434,7 @@ VAL.
 Welcome, dear Proteus! Mistress, I beseech you
 Confirm his welcome with some special favor.
 
-SIL.
+SILV.
 His worth is warrant for his welcome hither,
 If this be he you oft have wish’d to hear from.
 
@@ -1444,7 +1442,7 @@ VAL.
 Mistress, it is: sweet lady, entertain him
 To be my fellow-servant to your ladyship.
 
-SIL.
+SILV.
 Too low a mistress for so high a servant.
 
 PRO.
@@ -1458,14 +1456,14 @@ Sweet lady, entertain him for your servant.
 PRO.
 My duty will I boast of, nothing else.
 
-SIL.
+SILV.
 And duty never yet did want his meed.
 Servant, you are welcome to a worthless mistress.
 
 PRO.
 I’ll die on him that says so but yourself.
 
-SIL.
+SILV.
 That you are welcome?
 
 PRO.
@@ -1476,7 +1474,7 @@ Enter Thurio.
 THU.
 Madam, my lord your father would speak with you.
 
-SIL.
+SILV.
 I wait upon his pleasure. Come, Sir Thurio,
 Go with me. Once more, new servant, welcome;
 I’ll leave you to confer of home affairs;
@@ -1589,7 +1587,7 @@ The water nectar, and the rocks pure gold.
 Forgive me, that I do not dream on thee,
 Because thou seest me dote upon my love.
 My foolish rival, that her father likes
-—Only for his possessions are so huge—,
+(Only for his possessions are so huge),
 Is gone with her along, and I must after,
 For love, thou know’st, is full of jealousy.
 
@@ -1625,9 +1623,9 @@ Is it mine eye, or Valentinus’ praise,
 Her true perfection, or my false transgression,
 That makes me reasonless, to reason thus?
 She is fair; and so is Julia that I love
-—That I did love, for now my love is thaw’d,
+(That I did love, for now my love is thaw’d,
 Which like a waxen image ’gainst a fire
-Bears no impression of the thing it was—.
+Bears no impression of the thing it was).
 Methinks my zeal to Valentine is cold,
 And that I love him not as I was wont:
 O, but I love his lady too too much,
@@ -1644,7 +1642,7 @@ If not, to compass her I’ll use my skill.
 Exit.
 
 
-### Scene 5
+### Act 2, Scene 5
 
 
 Milan. A street.
@@ -1753,7 +1751,7 @@ At thy service.
 Exeunt.
 
 
-### Scene 6
+### Act 2, Scene 6
 
 
 Milan. A room in the Duke’s palace.
@@ -1785,7 +1783,7 @@ If I lose them, thus find I by their loss—
 For Valentine, myself; for Julia, Silvia.
 I to myself am dearer than a friend,
 For love is still most precious in itself,
-And Silvia —witness heaven, that made her fair—
+And Silvia (witness heaven, that made her fair) 
 Shows Julia but a swarthy Ethiope.
 I will forget that Julia is alive,
 Rememb’ring that my love to her is dead;
@@ -1808,7 +1806,7 @@ As thou hast lent me wit to plot this drift.
 Exit.
 
 
-### Scene 7
+### Act 2, Scene 7
 
 
 Verona. A room in Julia’s house.
@@ -1961,8 +1959,8 @@ Exeunt.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 Milan. An anteroom in the Duke’s palace.
@@ -1979,7 +1977,7 @@ PRO.
 My gracious lord, that which I would discover
 The law of friendship bids me to conceal,
 But when I call to mind your gracious favors
-Done to me —undeserving as I am—,
+Done to me (undeserving as I am),
 My duty pricks me on to utter that
 Which else no worldly good should draw from me.
 Know, worthy prince, Sir Valentine, my friend,
@@ -2004,7 +2002,7 @@ And oftentimes have purpos’d to forbid
 Sir Valentine her company and my court;
 But fearing lest my jealous aim might err,
 And so, unworthily, disgrace the man
-—A rashness that I ever yet have shunn’d—,
+(A rashness that I ever yet have shunn’d),
 I gave him gentle looks, thereby to find
 That which thyself hast now disclos’d to me.
 And that thou mayst perceive my fear of this,
@@ -2019,7 +2017,7 @@ How he her chamber-window will ascend,
 And with a corded ladder fetch her down;
 For which the youthful lover now is gone,
 And this way comes he with it presently,
-Where —if it please you— you may intercept him.
+Where (if it please you) you may intercept him.
 But, good my lord, do it so cunningly
 That my discovery be not aimed at:
 For love of you, not hate unto my friend,
@@ -2071,7 +2069,7 @@ Proud, disobedient, stubborn, lacking duty,
 Neither regarding that she is my child,
 Nor fearing me as if I were her father;
 And may I say to thee, this pride of hers
-—Upon advice— hath drawn my love from her,
+(Upon advice) hath drawn my love from her,
 And where I thought the remnant of mine age
 Should have been cherish’d by her child-like duty,
 I now am full resolv’d to take a wife,
@@ -2087,8 +2085,8 @@ There is a lady in Milano here
 Whom I affect; but she is nice and coy,
 And nought esteems my aged eloquence.
 Now therefore would I have thee to my tutor
-—For long agone I have forgot to court;
-Besides, the fashion of the time is chang’d—
+(For long agone I have forgot to court;
+Besides, the fashion of the time is chang’d) 
 How and which way I may bestow myself
 To be regarded in her sun-bright eye.
 
@@ -2194,22 +2192,19 @@ I’ll be so bold to break the seal for once.
 *Because myself do want my servants’ fortune.* 
 *I curse myself, for they are sent by me,* 
 *That they should harbor where their lord should be.”* 
-
 What’s here?
-
 *“Silvia, this night I will enfranchise thee.”* 
-
 ’Tis so; and here’s the ladder for the purpose.
-Why, Phaëton —for thou art Merops’ son—,
+Why, Phaëton (for thou art Merops’ son),
 Wilt thou aspire to guide the heavenly car,
 And with thy daring folly burn the world?
 Wilt thou reach stars, because they shine on thee?
 Go, base intruder, overweening slave,
 Bestow thy fawning smiles on equal mates,
-And think my patience —more than thy desert—
+And think my patience (more than thy desert) 
 Is privilege for thy departure hence.
 Thank me for this more than for all the favors
-Which —all too much— I have bestowed on thee.
+Which (all too much) I have bestowed on thee.
 But if thou linger in my territories
 Longer than swiftest expedition
 Will give thee time to leave our royal court,
@@ -2328,7 +2323,7 @@ Doth Silvia know that I am banished?
 
 PRO.
 Ay, ay; and she hath offered to the doom
-—Which unrevers’d stands in effectual force—
+(Which unrevers’d stands in effectual force) 
 A sea of melting pearl, which some call tears;
 Those at her father’s churlish feet she tender’d,
 With them, upon her knees, her humble self,
@@ -2364,7 +2359,7 @@ The time now serves not to expostulate:
 Come, I’ll convey thee through the city-gate;
 And ere I part with thee, confer at large
 Of all that may concern thy love-affairs.
-As thou lov’st Silvia —though not for thyself—
+As thou lov’st Silvia (though not for thyself) 
 Regard thy danger, and along with me.
 
 VAL.
@@ -2585,7 +2580,7 @@ Now will he be swing’d for reading my letter—an unmannerly slave, that will 
 Exit.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 Milan. A room in the Duke’s palace.
@@ -2623,7 +2618,7 @@ A little time, my lord, will kill that grief.
 DUKE.
 So I believe; but Thurio thinks not so.
 Proteus, the good conceit I hold of thee
-—For thou hast shown some sign of good desert—
+(For thou hast shown some sign of good desert) 
 Makes me the better to confer with thee.
 
 PRO.
@@ -2692,13 +2687,13 @@ As you in worth dispraise Sir Valentine.
 
 DUKE.
 And, Proteus, we dare trust you in this kind,
-Because we know —on Valentine’s report—
+Because we know (on Valentine’s report) 
 You are already Love’s firm votary,
 And cannot soon revolt and change your mind.
 Upon this warrant shall you have access
 Where you with Silvia may confer at large—
 For she is lumpish, heavy, melancholy,
-And —for your friend’s sake— will be glad of you—
+And (for your friend’s sake) will be glad of you—
 Where you may temper her by your persuasion
 To hate young Valentine and love my friend.
 
@@ -2756,8 +2751,8 @@ Exeunt.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 The frontiers of Mantua. A forest between Milan and Verona.
@@ -2919,7 +2914,7 @@ Which, with ourselves, all rest at thy dispose.
 Exeunt.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 Milan. Outside the Duke’s palace.
@@ -3092,7 +3087,7 @@ Enter Silvia above at her window.
 PRO.
 Madam, good ev’n to your ladyship.
 
-SIL.
+SILV.
 I thank you for your music, gentlemen.
 Who is that that spake?
 
@@ -3100,19 +3095,19 @@ PRO.
 One, lady, if you knew his pure heart’s truth,
 You would quickly learn to know him by his voice.
 
-SIL.
+SILV.
 Sir Proteus, as I take it.
 
 PRO.
 Sir Proteus, gentle lady, and your servant.
 
-SIL.
+SILV.
 What’s your will?
 
 PRO.
 ^4 That I may compass yours.
 
-SIL.
+SILV.
 You have your wish: my will is even this,
 That presently you hie you home to bed.
 Thou subtile, perjur’d, false, disloyal man,
@@ -3120,7 +3115,7 @@ Think’st thou I am so shallow, so conceitless,
 To be seduced by thy flattery,
 That hast deceiv’d so many with thy vows?
 Return, return, and make thy love amends.
-For me —by this pale queen of night I swear—,
+For me (by this pale queen of night I swear),
 I am so far from granting thy request,
 That I despise thee for thy wrongful suit,
 And by and by intend to chide myself
@@ -3135,23 +3130,23 @@ JUL.
 ^3 ’Twere false, if I should speak it;
 For I am sure she is not buried.
 
-SIL.
+SILV.
 Say that she be; yet Valentine thy friend
-Survives; to whom —thyself art witness—
+Survives; to whom (thyself art witness) 
 I am betroth’d; and art thou not asham’d
 To wrong him with thy importunacy?
 
 PRO.
 I likewise hear that Valentine is dead.
 
-SIL.
+SILV.
 And so suppose am I; for in his grave
 Assure thyself my love is buried.
 
 PRO.
 Sweet lady, let me rake it from the earth.
 
-SIL.
+SILV.
 Go to thy lady’s grave and call hers thence,
 Or at the least, in hers sepulchre thine.
 
@@ -3173,7 +3168,7 @@ JUL.
 If ’twere a substance, you would sure deceive it,
 And make it but a shadow, as I am.
 
-SIL.
+SILV.
 I am very loath to be your idol, sir;
 But since your falsehood shall become you well
 To worship shadows and adore false shapes,
@@ -3205,7 +3200,7 @@ That e’er I watch’d, and the most heaviest.
 Exeunt.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 Milan. Outside the Duke’s palace.
@@ -3220,14 +3215,14 @@ Madam, madam!
 
 Enter Silvia above at her window.
 
-SIL.
+SILV.
 ^3 Who calls?
 
 EGL.
 ^6 Your servant and your friend;
 One that attends your ladyship’s command.
 
-SIL.
+SILV.
 Sir Eglamour, a thousand times good morrow.
 
 EGL.
@@ -3236,7 +3231,7 @@ According to your ladyship’s impose,
 I am thus early come to know what service
 It is your pleasure to command me in.
 
-SIL.
+SILV.
 O Eglamour, thou art a gentleman—
 Think not I flatter, for I swear I do not—
 Valiant, wise, remorseful, well accomplish’d:
@@ -3272,13 +3267,13 @@ Reaking as little what betideth me,
 As much I wish all good befortune you.
 When will you go?
 
-SIL.
+SILV.
 ^4 This evening coming.
 
 EGL.
 Where shall I meet you?
 
-SIL.
+SILV.
 ^5 At Friar Patrick’s cell,
 Where I intend holy confession.
 
@@ -3286,13 +3281,13 @@ EGL.
 I will not fail your ladyship. Good morrow,
 Gentle lady.
 
-SIL.
+SILV.
 ^3 Good morrow, kind Sir Eglamour.
 
 Exeunt.
 
 
-### Scene 4
+### Act 4, Scene 4
 
 
 Milan. Outside the Duke’s palace.
@@ -3300,7 +3295,7 @@ Milan. Outside the Duke’s palace.
 Enter Launce with his dog.
 
 LAUNCE.
-When a man’s servant shall play the cur with him, look you, it goes hard: one that I brought up of a puppy; one that I sav’d from drowning, when three or four of his blind brothers and sisters went to it. I have taught him, even as one would say precisely, “Thus I would teach a dog.” I was sent to deliver him as a present to Mistress Silvia from my master; and I came no sooner into the dining-chamber but he steps me to her trencher and steals her capon’s leg. O, ’tis a foul thing when a cur cannot keep himself in all companies! I would have —as one should say— one that takes upon him to be a dog indeed, to be, as it were, a dog at all things. If I had not had more wit than he, to take a fault upon me that he did, I think verily he had been hang’d for’t; sure as I live he had suffer’d for’t. You shall judge: he thrusts me himself into the company of three or four gentleman-like dogs, under the Duke’s table. He had not been there —bless the mark!— a pissing-while, but all the chamber smelt him. “Out with the dog,” says one. “What cur is that?” says another. “Whip him out,” says the third. “Hang him up,” says the Duke. I, having been acquainted with the smell before, knew it was Crab, and goes me to the fellow that whips the dogs: “Friend,” quoth I, “you mean to whip the dog?” “Ay, marry, do I,” quoth he. “You do him the more wrong,” quoth I, “’twas I did the thing you wot of.” He makes me no more ado, but whips me out of the chamber. How many masters would do this for his servant? Nay, I’ll be sworn, I have sat in the stocks for puddings he hath stol’n, otherwise he had been executed; I have stood on the pillory for geese he hath kill’d, otherwise he had suffer’d for’t. Thou think’st not of this now. Nay, I remember the trick you serv’d me, when I took my leave of Madam Silvia. Did not I bid thee still mark me, and do as I do? When didst thou see me heave up my leg and make water against a gentlewoman’s farthingale? Didst thou ever see me do such a trick?
+When a man’s servant shall play the cur with him, look you, it goes hard: one that I brought up of a puppy; one that I sav’d from drowning, when three or four of his blind brothers and sisters went to it. I have taught him, even as one would say precisely, “Thus I would teach a dog.” I was sent to deliver him as a present to Mistress Silvia from my master; and I came no sooner into the dining-chamber but he steps me to her trencher and steals her capon’s leg. O, ’tis a foul thing when a cur cannot keep himself in all companies! I would have (as one should say) one that takes upon him to be a dog indeed, to be, as it were, a dog at all things. If I had not had more wit than he, to take a fault upon me that he did, I think verily he had been hang’d for’t; sure as I live he had suffer’d for’t. You shall judge: he thrusts me himself into the company of three or four gentleman-like dogs, under the Duke’s table. He had not been there (bless the mark!) a pissing-while, but all the chamber smelt him. “Out with the dog,” says one. “What cur is that?” says another. “Whip him out,” says the third. “Hang him up,” says the Duke. I, having been acquainted with the smell before, knew it was Crab, and goes me to the fellow that whips the dogs: “Friend,” quoth I, “you mean to whip the dog?” “Ay, marry, do I,” quoth he. “You do him the more wrong,” quoth I, “’twas I did the thing you wot of.” He makes me no more ado, but whips me out of the chamber. How many masters would do this for his servant? Nay, I’ll be sworn, I have sat in the stocks for puddings he hath stol’n, otherwise he had been executed; I have stood on the pillory for geese he hath kill’d, otherwise he had suffer’d for’t. Thou think’st not of this now. Nay, I remember the trick you serv’d me, when I took my leave of Madam Silvia. Did not I bid thee still mark me, and do as I do? When didst thou see me heave up my leg and make water against a gentlewoman’s farthingale? Didst thou ever see me do such a trick?
 
 Enter Proteus, Julia disguised as Sebastian.
 
@@ -3349,7 +3344,7 @@ Partly that I have need of such a youth
 That can with some discretion do my business—
 For ’tis no trusting to yond foolish lout—
 But chiefly for thy face and thy behavior,
-Which —if my augury deceive me not—
+Which (if my augury deceive me not) 
 Witness good bringing up, fortune, and truth:
 Therefore know thou, for this I entertain thee.
 Go presently, and take this ring with thee,
@@ -3403,7 +3398,7 @@ Because he loves her, he despiseth me;
 Because I love him, I must pity him.
 This ring I gave him when he parted from me,
 To bind him to remember my good will;
-And now am I —unhappy messenger—
+And now am I (unhappy messenger) 
 To plead for that which I would not obtain,
 To carry that which I would have refus’d,
 To praise his faith which I would have disprais’d.
@@ -3416,26 +3411,26 @@ As, heaven it knows, I would not have him speed.
 Gentlewoman, good day; I pray you be my mean
 To bring me where to speak with Madam Silvia.
 
-SIL.
+SILV.
 What would you with her, if that I be she?
 
 JUL.
 If you be she, I do entreat your patience
 To hear me speak the message I am sent on.
 
-SIL.
+SILV.
 From whom?
 
 JUL.
 From my master, Sir Proteus, madam.
 
-SIL.
+SILV.
 O, he sends you for a picture?
 
 JUL.
 Ay, madam.
 
-SIL.
+SILV.
 Ursula, bring my picture there.
 Go give your master this. Tell him from me,
 One Julia, that his changing thoughts forget,
@@ -3447,13 +3442,13 @@ Pardon me, madam, I have unadvis’d
 Deliver’d you a paper that I should not:
 This is the letter to your ladyship.
 
-SIL.
+SILV.
 I pray thee let me look on that again.
 
 JUL.
 It may not be; good madam, pardon me.
 
-SIL.
+SILV.
 There, hold!
 I will not look upon your master’s lines;
 I know they are stuff’d with protestations,
@@ -3463,7 +3458,7 @@ As easily as I do tear his paper.
 JUL.
 Madam, he sends your ladyship this ring.
 
-SIL.
+SILV.
 The more shame for him that he sends it me;
 For I have heard him say a thousand times
 His Julia gave it him at his departure:
@@ -3473,14 +3468,14 @@ Mine shall not do his Julia so much wrong.
 JUL.
 She thanks you.
 
-SIL.
+SILV.
 What say’st thou?
 
 JUL.
 I thank you, madam, that you tender her.
 Poor gentlewoman, my master wrongs her much.
 
-SIL.
+SILV.
 Dost thou know her?
 
 JUL.
@@ -3488,13 +3483,13 @@ Almost as well as I do know myself.
 To think upon her woes I do protest
 That I have wept a hundred several times.
 
-SIL.
+SILV.
 Belike she thinks that Proteus hath forsook her?
 
 JUL.
 I think she doth; and that’s her cause of sorrow.
 
-SIL.
+SILV.
 Is she not passing fair?
 
 JUL.
@@ -3507,7 +3502,7 @@ The air hath starv’d the roses in her cheeks,
 And pinch’d the lily-tincture of her face,
 That now she is become as black as I.
 
-SIL.
+SILV.
 How tall was she?
 
 JUL.
@@ -3527,7 +3522,7 @@ That my poor mistress, moved therewithal,
 Wept bitterly; and would I might be dead
 If I in thought felt not her very sorrow.
 
-SIL.
+SILV.
 She is beholding to thee, gentle youth.
 Alas, poor lady, desolate and left!
 I weep myself to think upon thy words.
@@ -3571,8 +3566,8 @@ Exit.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 Milan. An abbey.
@@ -3590,7 +3585,7 @@ See where she comes.
 (Enter Silvia.)
 ^4 Lady, a happy evening!
 
-SIL.
+SILV.
 Amen, amen! Go on, good Eglamour,
 Out at the postern by the abbey wall;
 I fear I am attended by some spies.
@@ -3602,7 +3597,7 @@ If we recover that, we are sure enough.
 Exeunt.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 Milan. A room in the Duke’s palace.
@@ -3757,7 +3752,7 @@ Than hate for Silvia, that is gone for love.
 Exit.
 
 
-### Scene 3
+### Act 5, Scene 3
 
 
 The frontiers of Mantua. A forest between Milan and Verona.
@@ -3768,7 +3763,7 @@ Enter Silvia, Outlaws.
 Come, come,
 Be patient; we must bring you to our captain.
 
-SIL.
+SILV.
 A thousand more mischances than this one
 Have learn’d me how to brook this patiently.
 
@@ -3790,13 +3785,13 @@ Come, I must bring you to our captain’s cave.
 Fear not; he bears an honorable mind,
 And will not use a woman lawlessly.
 
-SIL.
+SILV.
 O Valentine, this I endure for thee!
 
 Exeunt.
 
 
-### Scene 4
+### Act 5, Scene 4
 
 
 The frontiers of Mantua. Another part of the forest between Milan and Verona.
@@ -3830,7 +3825,7 @@ Enter Proteus, Silvia, Julia disguised as Sebastian.
 
 PRO.
 Madam, this service I have done for you
-—Though you respect not aught your servant doth—
+(Though you respect not aught your servant doth) 
 To hazard life, and rescue you from him
 That would have forc’d your honor and your love.
 Vouchsafe me, for my meed, but one fair look:
@@ -3842,27 +3837,27 @@ VAL.
 How like a dream is this! I see, and hear:
 Love, lend me patience to forbear a while.
 
-SIL.
+SILV.
 O miserable, unhappy that I am!
 
 PRO.
 Unhappy were you, madam, ere I came;
 But by my coming I have made you happy.
 
-SIL.
+SILV.
 By thy approach thou mak’st me most unhappy.
 
 JUL.
 (Aside.)
 And me, when he approacheth to your presence.
 
-SIL.
+SILV.
 Had I been seized by a hungry lion,
 I would have been a breakfast to the beast
 Rather than have false Proteus rescue me.
 O heaven be judge how I love Valentine,
 Whose life’s as tender to me as my soul!
-And full as much —for more there cannot be—
+And full as much (for more there cannot be) 
 I do detest false perjur’d Proteus.
 Therefore be gone, solicit me no more.
 
@@ -3872,9 +3867,9 @@ Would I not undergo for one calm look?
 O, ’tis the curse in love, and still approv’d,
 When women cannot love where they’re belov’d!
 
-SIL.
+SILV.
 When Proteus cannot love where he’s belov’d!
-Read over Julia’s heart —thy first best love—,
+Read over Julia’s heart (thy first best love),
 For whose dear sake thou didst then rend thy faith
 Into a thousand oaths; and all those oaths
 Descended into perjury, to love me.
@@ -3887,7 +3882,7 @@ PRO.
 ^7 In love
 Who respects friend?
 
-SIL.
+SILV.
 ^4 All men but Proteus.
 
 PRO.
@@ -3896,7 +3891,7 @@ Can no way change you to a milder form,
 I’ll woo you like a soldier, at arm’s end,
 And love you ’gainst the nature of love—force ye.
 
-SIL.
+SILV.
 O heaven!
 
 PRO.
@@ -3951,7 +3946,7 @@ VAL.
 Why, boy! Why, wag! How now? What’s the matter? Look up; speak.
 
 JUL.
-O good sir, my master charg’d me to deliver a ring to Madam Silvia, which —out of my neglect— was never done.
+O good sir, my master charg’d me to deliver a ring to Madam Silvia, which (out of my neglect) was never done.
 
 PRO.
 Where is that ring, boy?
@@ -4058,11 +4053,11 @@ Take thou thy Silvia, for thou hast deserv’d her.
 
 VAL.
 I thank your Grace; the gift hath made me happy.
-I now beseech you —for your daughter’s sake—
+I now beseech you (for your daughter’s sake) 
 To grant one boon that I shall ask of you.
 
 DUKE.
-I grant it —for thine own— what e’er it be.
+I grant it (for thine own) what e’er it be.
 
 VAL.
 These banish’d men, that I have kept withal,

@@ -2,8 +2,8 @@ Title: Henry VI, Pt. 1
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,77 +14,77 @@ Notes:
 
 >_Cast of Characters_<
 
-|Joan de Pucelle (PUC.): | 
-|Countess of Auvergne (COUNT.): | 
-|Margaret (MAR.): | 
-|Shepherd (SHEP.): | 
-|Porter (PORT.): | 
-|French Sergeant (FR. SERG.): | 
-|General of the French Force at Bordeaux (GEN.): | 
-|Master Gunner of Orléans (M. GUN.): | 
-|Governor of Paris (GOV. PARIS.): | 
-|Bastard of Orléans (BAST.): | 
-|Duke of Alanson (ALAN.): | 
-|Duke of Burgundy (BUR.): | 
-|Reignier, Duke of Anjou (REIG.): | 
-|Charles, Dauphin of France (CHAR.): | 
-|Lawyer (LAW.): | 
-|Basset (BAS.): | 
-|Vernon (VER.): | 
-|Woodvile (WOODV.): | 
-|Mayor of London (MAY.): | 
-|Sir Thomas Gargrave (GAR.): | 
-|Sir William Glansdale (GLAN.): | 
-|Sir William Lucy (LUCY.): | 
-|Sir John Falstaff (FAL.): | 
-|Edmund Mortimer, Earl of March (MOR.): | 
-|John Talbot (JOHN.): | 
+|King Henry the Sixth (KING.): | 
+|Richard Plantagenet (PLAN.): | 
+|Duke of Gloucester (GLOU.): | 
 |Lord Talbot (TAL.): | 
 |Earl of Suffolk (SUF.): | 
-|Earl of Salisbury (SAL.): | 
-|Earl of Warwick (WAR.): | 
-|Richard Plantagenet (PLAN.): | 
-|John Beauford, Duke of Somerset (SOM.): | 
+|Charles, Dauphin of France (CHAR.): | 
 |Henry Beauford, Bishop of Winchester (WIN.): | 
-|Thomas Beauford, Duke of Exeter (EXE.): | 
+|Edmund Mortimer, Earl of March (MORT.): | 
+|Sir William Lucy (LUCY.): | 
 |Duke of Bedford (BED.): | 
-|Duke of Gloucester (GLOU.): | 
-|King Henry the Sixth (KING.): | 
-|Papal Legate (PAP.): | 
-|Fiends (FIENDS.): | 
+|Earl of Warwick (WAR.): | 
+|John Beauford, Duke of Somerset (SOM.): | 
+|Thomas Beauford, Duke of Exeter (EXE.): | 
+|Reignier, Duke of Anjou (REIG.): | 
+|Duke of Alanson (ALAN.): | 
+|John Talbot (JOHN.): | 
+|Duke of Burgundy (BUR.): | 
+|Vernon (VER.): | 
+|Bastard of Orléans (BAST.): | 
+|Basset (BAS.): | 
+|Shepherd (SHEP.): | 
+|Mayor of London (MAY.): | 
+|Master Gunner of Orléans (M. GUN.): | 
+|Earl of Salisbury (SAL.): | 
+|Sir John Falstaff (FAL.): | 
+|Woodvile (WOODV.): | 
+|Sir Thomas Gargrave (GAR.): | 
+|Sir William Glansdale (GLAN.): | 
+|Joan de Pucelle (PUC.): | 
+|Countess of Auvergne (COUNT.): | 
+|Margaret (MARG.): | 
+|General of the French Force at Bordeaux (GEN.): | 
+|French Sergeant (FR. SERG.): | 
 |Officer (OFF.): | 
-|Winchester’s Serving Attendant (WIN. SERV. ATT.): | 
+|Captain (CAPT.): | 
 |Master Gunner’s Boy (M. GUN. BOY.): | 
+|English Soldier (ENG. SOLD.): | 
+|First Soldier (1. SOLD.): | 
+|Soldier of the Watch (SOLD. WATCH.): | 
+|First Sentinel (1. SENT.): | 
+|Second Sentinel (2. SENT.): | 
+|First Keeper (1. KEEPER.): | 
+|Second Keeper (2. KEEPER.): | 
+|First Warder of the Tower (1. WARDER): | 
+|Second Warder of the Tower (2. WARDER): | 
 |First Messenger (1. MESS.): | 
 |Second Messenger (2. MESS.): | 
 |Third Messenger (3. MESS.): | 
 |Fourth Messenger (4. MESS.): | 
 |Fifth Messenger (5. MESS.): | 
-|First Warder of the Tower (1. WARDER): | 
-|Second Warder of the Tower (2. WARDER): | 
+|Messenger of the Countess (MESS. COUNT.): | 
+|Talbot’s Servant (TAL. SERV.): | 
 |Gloucester’s First Serving Attendant (1. GLOU. SERV. ATT.): | 
 |Gloucester’s Second Serving Attendant (2. GLOU. SERV. ATT.): | 
-|First Sentinel (1. SENT.): | 
-|Second Sentinel (2. SENT.): | 
-|English Soldier (ENG. SOLD.): | 
-|Messenger of the Countess (MESS. COUNT.): | 
-|First Keeper (1. KEEPER.): | 
-|Second Keeper (2. KEEPER.): | 
-|First Soldier (1. SOLD.): | 
-|Captain (CAPT.): | 
+|Winchester’s Serving Attendant (WIN. SERV. ATT.): | 
 |Scout (SCOUT.): | 
+|Lawyer (LAW.): | 
+|Papal Legate (PAP.): | 
+|Porter (PORT.): | 
+|Governor of Paris (GOV. PARIS.): | 
 |Ambassador from the Emperor (AMB. EMP.): | 
 |Ambassador from the Earl of Armagnac (AMB. ARM.): | 
 |Talbot’s Trumpeter (TAL. TRUMP.): | 
 |French Herald (FR. HER.): | 
-|Soldier of the Watch (SOLD. WATCH.): | 
-|Talbot’s Servant (TAL. SERV.): | 
+|Fiends (FIENDS.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 Westminster Abbey.
@@ -351,7 +351,7 @@ And sit at chiefest stern of public weal.
 Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 France. Before Orléans.
@@ -601,7 +601,7 @@ No prophet will I trust, if she prove false.
 Exeunt.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 London. Before the Tower.
@@ -747,7 +747,7 @@ Come, officer, as loud as e’er thou canst,
 Cry.
 
 OFF.
-All manner of men assembled here in arms this day against God’s peace and the King’s, we charge and command you, in his Highness’ name, to repair to your several dwelling-places, and not to wear, handle, or use any sword, weapon, or dagger, henceforward, upon pain of death.
+*All manner of men assembled here in arms this day against God’s peace and the King’s, we charge and command you, in his Highness’ name, to repair to your several dwelling-places, and not to wear, handle, or use any sword, weapon, or dagger, henceforward, upon pain of death.* 
 
 GLOU.
 Cardinal, I’ll be no breaker of the law;
@@ -778,7 +778,7 @@ I myself fight not once in forty year.
 Exeunt.
 
 
-### Scene 4
+### Act 1, Scene 4
 
 
 France. Before Orléans.
@@ -948,7 +948,7 @@ And then we’ll try what these dastard Frenchmen dare.
 Alarum. Exeunt bearing out the bodies.
 
 
-### Scene 5
+### Act 1, Scene 5
 
 
 France. Before Orléans.
@@ -1019,7 +1019,7 @@ The shame hereof will make me hide my head.
 Exit Talbot. Alarum; retreat.
 
 
-### Scene 6
+### Act 1, Scene 6
 
 
 France. Before Orléans.
@@ -1073,8 +1073,8 @@ Flourish. Exeunt.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 France. Before Orléans.
@@ -1248,7 +1248,7 @@ Using no other weapon but his name.
 Exit.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 Orléans. Within the town.
@@ -1336,7 +1336,7 @@ And I have heard it said, unbidden guests
 Are often welcomest when they are gone.
 
 TAL.
-Well then, alone —since there’s no remedy—
+Well then, alone (since there’s no remedy) 
 I mean to prove this lady’s courtesy.
 Come hither, captain.
 (Whispers.)
@@ -1348,7 +1348,7 @@ I do, my lord, and mean accordingly.
 Exeunt.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 Auvergne. Court of the Countess’s castle.
@@ -1505,7 +1505,7 @@ To feast so great a warrior in my house.
 Exeunt.
 
 
-### Scene 4
+### Act 2, Scene 4
 
 
 London. The temple garden.
@@ -1749,14 +1749,14 @@ This quarrel will drink blood another day.
 Exeunt.
 
 
-### Scene 5
+### Act 2, Scene 5
 
 
 London. A room in the Tower of London.
 
 Enter Mortimer, brought in a chair, and Keepers.
 
-MOR.
+MORT.
 Kind keepers of my weak decaying age,
 Let dying Mortimer here rest himself.
 Even like a man new haled from the rack,
@@ -1770,7 +1770,7 @@ Weak shoulders, overborne with burdening grief,
 And pithless arms, like to a withered vine
 That droops his sapless branches to the ground.
 Yet are these feet, whose strengthless stay is numb
-—Unable to support this lump of clay—,
+(Unable to support this lump of clay),
 Swift-winged with desire to get a grave,
 As witting I no other comfort have.
 But tell me, keeper, will my nephew come?
@@ -1780,7 +1780,7 @@ Richard Plantagenet, my lord, will come.
 We sent unto the Temple, unto his chamber,
 And answer was return’d that he will come.
 
-MOR.
+MORT.
 Enough; my soul shall then be satisfied.
 Poor gentleman, his wrong doth equal mine.
 Since Henry Monmouth first began to reign,
@@ -1799,14 +1799,14 @@ Enter Richard Plantagenet.
 1. KEEPER.
 My lord, your loving nephew now is come.
 
-MOR.
+MORT.
 Richard Plantagenet, my friend, is he come?
 
 PLAN.
 Ay, noble uncle, thus ignobly us’d,
 Your nephew, late-despised Richard, comes.
 
-MOR.
+MORT.
 Direct mine arms I may embrace his neck,
 And in his bosom spend my latter gasp.
 O, tell me when my lips do touch his cheeks,
@@ -1828,7 +1828,7 @@ In honor of a true Plantagenet,
 And for alliance sake, declare the cause
 My father, Earl of Cambridge, lost his head.
 
-MOR.
+MORT.
 That cause, fair nephew, that imprison’d me
 And hath detain’d me all my flow’ring youth
 Within a loathsome dungeon, there to pine,
@@ -1838,7 +1838,7 @@ PLAN.
 Discover more at large what cause that was,
 For I am ignorant and cannot guess.
 
-MOR.
+MORT.
 I will, if that my fading breath permit
 And death approach not ere my tale be done.
 Henry the Fourth, grandfather to this king,
@@ -1849,8 +1849,8 @@ During whose reign the Percies of the north,
 Finding his usurpation most unjust,
 Endeavor’d my advancement to the throne.
 The reason mov’d these warlike lords to this
-Was, for that —young Richard thus remov’d,
-Leaving no heir begotten of his body—
+Was, for that (young Richard thus remov’d,
+Leaving no heir begotten of his body) 
 I was the next by birth and parentage;
 For by my mother I derived am
 From Lionel Duke of Clarence, third son
@@ -1861,7 +1861,7 @@ But mark: as in this haughty great attempt
 They labored to plant the rightful heir,
 I lost my liberty, and they their lives.
 Long after this, when Henry the Fifth
-—Succeeding his father Bullingbrook— did reign,
+(Succeeding his father Bullingbrook) did reign,
 Thy father, Earl of Cambridge then, deriv’d
 From famous Edmund Langley, Duke of York,
 Marrying my sister that thy mother was,
@@ -1875,7 +1875,7 @@ In whom the title rested, were suppress’d.
 PLAN.
 Of which, my lord, your honor is the last.
 
-MOR.
+MORT.
 True; and thou seest that I no issue have,
 And that my fainting words do warrant death.
 Thou art my heir; the rest I wish thee gather;
@@ -1886,7 +1886,7 @@ Thy grave admonishments prevail with me.
 But yet methinks, my father’s execution
 Was nothing less than bloody tyranny.
 
-MOR.
+MORT.
 With silence, nephew, be thou politic.
 Strong fixed is the house of Lancaster,
 And like a mountain, not to be remov’d.
@@ -1898,7 +1898,7 @@ PLAN.
 O uncle, would some part of my young years
 Might but redeem the passage of your age!
 
-MOR.
+MORT.
 Thou dost then wrong me, as that slaughterer doth
 Which giveth many wounds when one will kill.
 Mourn not, except thou sorrow for my good,
@@ -1932,8 +1932,8 @@ Exit.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 London. The Parliament House.
@@ -2289,7 +2289,7 @@ His days may finish ere that hapless time.
 Exit.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 France. Before Rouen.
@@ -2561,7 +2561,7 @@ For that’s the end of human misery.
 Exeunt.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 France. The plains near Rouen.
@@ -2719,7 +2719,7 @@ And seek how we may prejudice the foe.
 Exeunt.
 
 
-### Scene 4
+### Act 3, Scene 4
 
 
 Paris. A room in the palace.
@@ -2751,7 +2751,7 @@ Yes, if it please your Majesty, my liege.
 
 KING.
 Welcome, brave captain and victorious lord!
-When I was young —as yet I am not old—,
+When I was young (as yet I am not old),
 I do remember how my father said
 A stouter champion never handled sword.
 Long since we were resolved of your truth,
@@ -2807,8 +2807,8 @@ Exeunt.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 Paris. A hall of state.
@@ -2847,16 +2847,16 @@ Shame to the Duke of Burgundy and thee!
 I vow’d, base knight, when I did meet thee next,
 To tear the Garter from thy craven’s leg,
 (Plucking it off.)
-Which I have done, because —unworthily—
+Which I have done, because (unworthily) 
 Thou wast installed in that high degree.
 Pardon me, princely Henry, and the rest.
 This dastard, at the battle of Poictiers,
-When —but in all— I was six thousand strong
+When (but in all) I was six thousand strong
 And that the French were almost ten to one,
 Before we met, or that a stroke was given,
 Like to a trusty squire did run away;
 In which assault we lost twelve hundred men;
-Myself and divers gentlemen beside
+Myself and diverse gentlemen beside
 Were there surpris’d and taken prisoners.
 Then judge, great lords, if I have done amiss;
 Or whether that such cowards ought to wear
@@ -2877,7 +2877,7 @@ But always resolute in most extremes.
 He then, that is not furnish’d in this sort,
 Doth but usurp the sacred name of knight,
 Profaning this most honorable order,
-And should —if I were worthy to be judge—
+And should (if I were worthy to be judge) 
 Be quite degraded, like a hedge-born swain
 That doth presume to boast of gentle blood.
 
@@ -2903,7 +2903,6 @@ What’s here?
 *Of such as your oppression feeds upon,* 
 *Forsaken your pernicious faction* 
 *And join’d with Charles, the rightful King of France.”* 
-
 O monstrous treachery! Can this be so?
 That in alliance, amity, and oaths,
 There should be found such false dissembling guile?
@@ -3121,7 +3120,7 @@ There comes the ruin, there begins confusion.
 Exit.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 France. Before Bourdeaux.
@@ -3197,7 +3196,7 @@ Prosper our colors in this dangerous fight!
 Exeunt.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 France. Plains in Gascony.
@@ -3283,8 +3282,10 @@ That ever-living man of memory,
 Henry the Fifth. Whiles they each other cross,
 Lives, honors, lands, and all, hurry to loss.
 
+Exit Sir William Lucy
 
-### Scene 4
+
+### Act 4, Scene 4
 
 
 France. Other plains in Gascony.
@@ -3364,7 +3365,7 @@ His fame lives in the world, his shame in you.
 Exeunt.
 
 
-### Scene 5
+### Act 4, Scene 5
 
 
 English camp near Bourdeaux.
@@ -3467,7 +3468,7 @@ And soul with soul from France to heaven fly.
 Exeunt.
 
 
-### Scene 6
+### Act 4, Scene 6
 
 
 A field of battle.
@@ -3544,7 +3545,7 @@ And commendable prov’d, let’s die in pride.
 Exeunt.
 
 
-### Scene 7
+### Act 4, Scene 7
 
 
 Another part of the battlefield.
@@ -3701,8 +3702,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 London. A room in the palace.
@@ -3809,7 +3810,7 @@ Or sack this country with a mutiny.
 Exit.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 France. Plains in Anjou.
@@ -3862,7 +3863,7 @@ Then on, my lords, and France be fortunate!
 Exeunt.
 
 
-### Scene 3
+### Act 5, Scene 3
 
 
 France. Before Angiers.
@@ -3954,7 +3955,7 @@ I kiss these fingers for eternal peace,
 And lay them gently on thy tender side.
 Who art thou? Say, that I may honor thee.
 
-MAR.
+MARG.
 Margaret my name, and daughter to a king,
 The King of Naples, whosoe’er thou art.
 
@@ -3982,7 +3983,7 @@ Wilt thou be daunted at a woman’s sight?
 Ay; beauty’s princely majesty is such,
 ’Confounds the tongue and makes the senses rough.
 
-MAR.
+MARG.
 Say, Earl of Suffolk—if thy name be so—
 What ransom must I pay before I pass?
 For I perceive I am thy prisoner.
@@ -3992,7 +3993,7 @@ SUF.
 How canst thou tell she will deny thy suit,
 Before thou make a trial of her love?
 
-MAR.
+MARG.
 Why speak’st thou not? What ransom must I pay?
 
 SUF.
@@ -4000,7 +4001,7 @@ SUF.
 She’s beautiful; and therefore to be wooed:
 She is a woman; therefore to be won.
 
-MAR.
+MARG.
 Wilt thou accept of ransom, yea or no?
 
 SUF.
@@ -4008,21 +4009,21 @@ SUF.
 Fond man, remember that thou hast a wife,
 Then how can Margaret be thy paramour?
 
-MAR.
+MARG.
 I were best to leave him, for he will not hear.
 
 SUF.
 (Aside.)
 There all is marr’d; there lies a cooling card.
 
-MAR.
+MARG.
 He talks at random; sure the man is mad.
 
 SUF.
 (Aside.)
 And yet a dispensation may be had.
 
-MAR.
+MARG.
 And yet I would that you would answer me.
 
 SUF.
@@ -4030,7 +4031,7 @@ SUF.
 I’ll win this Lady Margaret. For whom?
 Why, for my king. Tush, that’s a wooden thing!
 
-MAR.
+MARG.
 He talks of wood; it is some carpenter.
 
 SUF.
@@ -4042,7 +4043,7 @@ For though her father be the King of Naples,
 Duke of Anjou and Maine, yet is he poor,
 And our nobility will scorn the match.
 
-MAR.
+MARG.
 Hear ye, captain? Are you not at leisure?
 
 SUF.
@@ -4051,7 +4052,7 @@ It shall be so, disdain they ne’er so much.
 Henry is youthful and will quickly yield.—
 Madam, I have a secret to reveal.
 
-MAR.
+MARG.
 (Aside.)
 What though I be enthrall’d, he seems a knight,
 And will not any way dishonor me.
@@ -4059,7 +4060,7 @@ And will not any way dishonor me.
 SUF.
 Lady, vouchsafe to listen what I say.
 
-MAR.
+MARG.
 (Aside.)
 Perhaps I shall be rescu’d by the French,
 And then I need not crave his courtesy.
@@ -4067,21 +4068,21 @@ And then I need not crave his courtesy.
 SUF.
 Sweet madam, give me hearing in a cause.
 
-MAR.
+MARG.
 (Aside.)
 Tush, women have been captivate ere now.
 
 SUF.
 Lady, wherefore talk you so?
 
-MAR.
+MARG.
 I cry you mercy, ’tis but quid for quo.
 
 SUF.
 Say, gentle Princess, would you not suppose
 Your bondage happy, to be made a queen?
 
-MAR.
+MARG.
 To be a queen in bondage is more vile
 Than is a slave in base servility;
 For princes should be free.
@@ -4090,7 +4091,7 @@ SUF.
 ^5 And so shall you,
 If happy England’s royal king be free.
 
-MAR.
+MARG.
 Why, what concerns his freedom unto me?
 
 SUF.
@@ -4099,13 +4100,13 @@ To put a golden sceptre in thy hand,
 And set a precious crown upon thy head,
 If thou wilt condescend to be my—
 
-MAR.
+MARG.
 ^7 What?
 
 SUF.
 His love.
 
-MAR.
+MARG.
 I am unworthy to be Henry’s wife.
 
 SUF.
@@ -4114,7 +4115,7 @@ To woo so fair a dame to be his wife
 And have no portion in the choice myself.
 How say you, madam, are ye so content?
 
-MAR.
+MARG.
 And if my father please, I am content.
 
 SUF.
@@ -4203,7 +4204,7 @@ REIG.
 I do embrace thee, as I would embrace
 The Christian prince, King Henry, were he here.
 
-MAR.
+MARG.
 Farewell, my lord! Good wishes, praise, and prayers
 Shall Suffolk ever have of Margaret.
 
@@ -4213,7 +4214,7 @@ SUF.
 Farewell, sweet madam! But hark you, Margaret,
 No princely commendations to my king?
 
-MAR.
+MARG.
 Such commendations as becomes a maid,
 A virgin, and his servant, say to him.
 
@@ -4222,7 +4223,7 @@ Words sweetly plac’d and modestly directed.
 But, madam, I must trouble you again,
 No loving token to his Majesty?
 
-MAR.
+MARG.
 Yes, my good lord, a pure unspotted heart,
 Never yet taint with love, I send the King.
 
@@ -4231,7 +4232,7 @@ And this withal.
 
 Kiss her.
 
-MAR.
+MARG.
 That for thyself; I will not so presume
 To send such peevish tokens to a king.
 
@@ -4251,7 +4252,7 @@ Thou mayest bereave him of his wits with wonder.
 Exit.
 
 
-### Scene 4
+### Act 5, Scene 4
 
 
 Anjou. Camp of the Duke of York.
@@ -4385,7 +4386,7 @@ A married man! That’s most intolerable.
 
 YORK.
 Why, here’s a girl! I think she knows not well
-—There were so many— whom she may accuse.
+(There were so many) whom she may accuse.
 
 WAR.
 It’s sign she hath been liberal and free.
@@ -4529,7 +4530,7 @@ For here we entertain a solemn peace.
 Exeunt.
 
 
-### Scene 5
+### Act 5, Scene 5
 
 
 London. A room in the palace.
@@ -4551,7 +4552,7 @@ SUF.
 Tush, my good lord, this superficial tale
 Is but a preface of her worthy praise.
 The chief perfections of that lovely dame
-—Had I sufficient skill to utter them—
+(Had I sufficient skill to utter them) 
 Would make a volume of enticing lines,
 Able to ravish any dull conceit;
 And, which is more, she is not so divine,
@@ -4625,12 +4626,12 @@ But Margaret, that is daughter to a king?
 Her peerless feature, joined with her birth,
 Approves her fit for none but for a king.
 Her valiant courage and undaunted spirit
-—More than in women commonly is seen—
+(More than in women commonly is seen) 
 Will answer our hope in issue of a king;
 For Henry, son unto a conqueror,
 Is likely to beget more conquerors,
 If with a lady of so high resolve
-—As is fair Margaret— he be link’d in love.
+(As is fair Margaret) he be link’d in love.
 Then yield, my lords, and here conclude with me
 That Margaret shall be Queen, and none but she.
 

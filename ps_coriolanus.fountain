@@ -2,8 +2,8 @@ Title: Coriolanus
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,41 +14,45 @@ Notes:
 
 >_Cast of Characters_<
 
-|Volumnia (VOL.): | 
+|Caius Martius (MAR.): | 
+|Menenius Agrippa (MEN.): | 
+|Sicinius Velutus (SIC.): | 
+|Cominius (COM.): | 
 |Tullus Aufidius (AUF.): | 
+|Junius Brutus (BRU.): | 
+|Titus Lartius (LART.): | 
 |Lieutenant to Aufidius (LIEU. AUF.): | 
 |Nicanor (NIC.): | 
-|Roman Herald (ROM. HER.): | 
-|Young Martius (BOY.): | 
-|Junius Brutus (BRU.): | 
-|Sicinius Velutus (SIC.): | 
-|Menenius Agrippa (MEN.): | 
-|Cominius (COM.): | 
-|Titus Lartius (LART.): | 
-|Lieutenant to Lartius (LIEU. LART.): | 
-|Caius Martius (MAR.): | 
-|Virgilia (VIR.): | 
-|Gentlewoman (GENT.): | 
-|Valeria (VAL.): | 
-|Citizen of Antium (CIT. ANT.): | 
 |Adrian (ADR.): | 
-|First Messenger (1. MESS.): | 
-|Second Messenger (2. MESS.): | 
-|Third Messenger (3. MESS.): | 
+|Volumnia (VOL.): | 
+|Virgilia (VIR.): | 
+|Valeria (VAL.): | 
+|Young Martius (BOY.): | 
+|Gentlewoman (GENTLEW.): | 
+|Lieutenant to Lartius (LIEU. LART.): | 
+|First Servingman (1. SERV.): | 
+|Second Servingman (2. SERV.): | 
+|Third Servingman (3. SERV.): | 
 |First Roman Senator (1. ROM. SEN.): | 
 |Second Roman Senator (2. ROM. SEN.): | 
 |First Volscian Senator (1. VOL. SEN.): | 
 |Second Volscian Senator (2. VOL. SEN.): | 
+|First Volscian Lord (1. VOL. LORD.): | 
+|Second Volscian Lord (2. VOL. LORD.): | 
+|Third Volscian Lord (3. VOL. LORD.): | 
 |First Roman Soldier (1. ROM. SOLD.): | 
 |Second Roman Soldier (2. ROM. SOLD.): | 
-|First Roman (1. ROM.): | 
-|Second Roman (2. ROM.): | 
-|Third Roman (3. ROM.): | 
-|Usher (USH.): | 
-|Scout (SCOUT.): | 
+|Roman Soldiers (ALL ROM. SOLD.): | 
 |Volscian Soldier (VOL. SOLD.): | 
+|Volscian Soldiers (VOL. SOLDS.): | 
 |First Officer (1. OFF.): | 
-|Second Officer (2. OFF.): | 
+|First Aedile (1. AED.): | 
+|Second Aedile (2. AED.): | 
+|First Watchman (1. WATCH.): | 
+|Second Watchman (2. WATCH.): | 
+|First Messenger (1. MESS.): | 
+|Second Messenger (2. MESS.): | 
+|Third Messenger (3. MESS.): | 
 |First Roman Citizen (1. ROM. CIT.): | 
 |Second Roman Citizen (2. ROM. CIT.): | 
 |Third Roman Citizen (3. ROM. CIT.): | 
@@ -56,31 +60,26 @@ Notes:
 |Fifth Roman Citizen (5. ROM. CIT.): | 
 |Sixth Roman Citizen (6. ROM. CIT.): | 
 |Seventh Roman Citizen (7. ROM. CIT.): | 
-|First Aedile (1. AED.): | 
-|Second Aedile (2. AED.): | 
-|First Servingman (1. SERV.): | 
-|Second Servingman (2. SERV.): | 
-|Third Servingman (3. SERV.): | 
-|First Watchman (1. WATCH.): | 
-|Second Watchman (2. WATCH.): | 
+|Plebeians (ALL PLEBEIANS.): | 
+|First Roman (1. ROM.): | 
+|Second Roman (2. ROM.): | 
+|Third Roman (3. ROM.): | 
+|Citizen of Antium (CIT. ANT.): | 
 |First Conspirator (1. CONSP.): | 
 |Second Conspirator (2. CONSP.): | 
 |Third Conspirator (3. CONSP.): | 
-|First Volscian Lord (1. VOL. LORD.): | 
-|Second Volscian Lord (2. VOL. LORD.): | 
-|Third Volscian Lord (3. VOL. LORD.): | 
-|Volscians (ALL VOL.): | 
-|Volscian Soldiers (VOL. SOLDS.): | 
-|Roman Soldiers (ALL. ROM. SOLD.): | 
+|Roman Herald (ROM. HER.): | 
 |Patrician (PATRICIAN.): | 
+|Second Officer (2. OFF.): | 
 |Patricians (PATRICIANS): | 
-|Plebeians (ALL PLEBEIANS.): | 
+|Scout (SCOUT.): | 
+|Usher (USH.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 Rome. A street.
@@ -90,25 +89,25 @@ Enter a company of mutinous Roman Citizens with staves, clubs, and other weapons
 1. ROM. CIT.
 Before we proceed any further, hear me speak.
 
-ALL. ROM. CIT.
+ALL ROM. CIT.
 Speak, speak.
 
 1. ROM. CIT.
 You are all resolv’d rather to die than to famish?
 
-ALL. ROM. CIT.
+ALL ROM. CIT.
 Resolv’d, resolv’d.
 
 1. ROM. CIT.
 First, you know Caius Martius is chief enemy to the people.
 
-ALL. ROM. CIT.
+ALL ROM. CIT.
 We know’t, we know’t.
 
 1. ROM. CIT.
 Let us kill him, and we’ll have corn at our own price. Is’t a verdict?
 
-ALL. ROM. CIT.
+ALL ROM. CIT.
 No more talking on’t; let it be done. Away, away!
 
 2. ROM. CIT.
@@ -139,11 +138,11 @@ I say unto you, what he hath done famously, he did it to that end. Though soft-c
 What he cannot help in his nature, you account a vice in him. You must in no way say he is covetous.
 
 1. ROM. CIT.
-If I must not, I need not be barren of accusations; he hath faults —with surplus— to tire in repetition.
+If I must not, I need not be barren of accusations; he hath faults (with surplus) to tire in repetition.
 (Shouts within.)
 What shouts are these? The other side a’ th’ city is risen; why stay we prating here? To th’ Capitol!
 
-ALL. ROM. CIT.
+ALL ROM. CIT.
 Come, come.
 
 1. ROM. CIT.
@@ -181,7 +180,7 @@ The way it takes, cracking ten thousand curbs
 Of more strong link asunder than can ever
 Appear in your impediment. For the dearth,
 The gods, not the patricians, make it, and
-Your knees to them —not arms— must help. Alack,
+Your knees to them (not arms) must help. Alack,
 You are transported by calamity
 Thither where more attends you, and you slander
 The helms o’ th’ state, who care for you like fathers,
@@ -251,7 +250,7 @@ What could the belly answer?
 
 MEN.
 ^6 I will tell you;
-If you’ll bestow a small —of what you have little—
+If you’ll bestow a small (of what you have little) 
 Patience awhile, you’st hear the belly’s answer.
 
 1. ROM. CIT.
@@ -340,7 +339,7 @@ And call him noble, that was now your hate;
 Him vile, that was your garland. What’s the matter,
 That in these several places of the city
 You cry against the noble Senate, who
-—Under the gods— keep you in awe, which else
+(Under the gods) keep you in awe, which else
 Would feed on one another? What’s their seeking?
 
 MEN.
@@ -547,7 +546,7 @@ BRU.
 Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 Corioli. The Senate-house.
@@ -571,7 +570,7 @@ I have the letter here; yes, here it is:
 *Whether for east or west. The dearth is great,* 
 *The people mutinous; and it is rumor’d,* 
 *Cominius, Martius your old enemy* 
-*—Who is of Rome worse hated than of you—,* 
+*(Who is of Rome worse hated than of you),* 
 *And Titus Lartius, a most valiant Roman,* 
 *These three lead on this preparation* 
 *Whither ’tis bent. Most likely ’tis for you;* 
@@ -588,7 +587,7 @@ To keep your great pretenses veil’d till when
 They needs must show themselves, which in the hatching,
 It seem’d, appear’d to Rome. By the discovery
 We shall be shorten’d in our aim, which was
-To take in many towns ere —almost— Rome
+To take in many towns ere (almost) Rome
 Should know we were afoot.
 
 2. VOL. SEN.
@@ -608,7 +607,7 @@ If we and Caius Martius chance to meet,
 ’Tis sworn between us we shall ever strike
 Till one can do no more.
 
-ALL. VOL. SEN.
+ALL VOL. SEN.
 ^5 The gods assist you!
 
 AUF.
@@ -620,13 +619,13 @@ And keep your honors safe!
 2. VOL. SEN.
 ^8 Farewell.
 
-ALL. VOL. SEN.
+ALL VOL. SEN.
 Farewell.
 
 Exeunt omnes.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 Rome. A room in Martius Coriolanus’ house.
@@ -644,7 +643,7 @@ Then his good report should have been my son; I therein would have found issue. 
 
 Enter a Gentlewoman.
 
-GENT.
+GENTLEW.
 Madam, the Lady Valeria is come to visit you.
 
 VIR.
@@ -781,7 +780,7 @@ Well, then farewell.
 Exeunt Ladies with Usher.
 
 
-### Scene 4
+### Act 1, Scene 4
 
 
 Before Corioli.
@@ -899,7 +898,7 @@ See, they have shut him in.
 
 Alarum continues.
 
-ALL. ROM. SOLD.
+ALL ROM. SOLD.
 ^6 To th’ pot, I warrant him.
 
 Enter Titus Lartius.
@@ -907,7 +906,7 @@ Enter Titus Lartius.
 LART.
 What is become of Martius?
 
-ALL. ROM. SOLD.
+ALL ROM. SOLD.
 ^6 Slain, sir, doubtless.
 
 1. ROM. SOLD.
@@ -940,7 +939,7 @@ Let’s fetch him off, or make remain alike.
 They fight, and all enter the city.
 
 
-### Scene 5
+### Act 1, Scene 5
 
 
 Corioli. A street.
@@ -1007,7 +1006,7 @@ Where they shall know our mind. Away!
 Exeunt.
 
 
-### Scene 6
+### Act 1, Scene 6
 
 
 Near Cominius’ camp.
@@ -1100,7 +1099,7 @@ Where is he? Call him hither.
 MAR.
 ^6 Let him alone,
 He did inform the truth. But for our gentlemen,
-The common file —a plague—tribunes for them!—,
+The common file (a plague—tribunes for them!),
 The mouse ne’er shunn’d the cat as they did budge
 From rascals worse than they.
 
@@ -1147,7 +1146,7 @@ That best can aid your action.
 MAR.
 ^6 Those are they
 That most are willing. If any such be here
-—As it were sin to doubt— that love this painting
+(As it were sin to doubt) that love this painting
 Wherein you see me smear’d; if any fear
 Lesser his person than an ill report;
 If any think brave death outweighs bad life,
@@ -1161,9 +1160,9 @@ If these shows be not outward, which of you
 But is four Volsces? None of you but is
 Able to bear against the great Aufidius
 A shield as hard as his. A certain number
-—Though thanks to all— must I select from all; the rest
+(Though thanks to all) must I select from all; the rest
 Shall bear the business in some other fight
-—As cause will be obey’d—. Please you to march,
+(As cause will be obey’d). Please you to march,
 And four shall quickly draw out my command,
 Which men are best inclin’d.
 
@@ -1175,7 +1174,7 @@ Divide in all with us.
 Exeunt.
 
 
-### Scene 7
+### Act 1, Scene 7
 
 
 The gates of Corioli.
@@ -1199,7 +1198,7 @@ Our guider, come, to th’ Roman camp conduct us.
 Exeunt.
 
 
-### Scene 8
+### Act 1, Scene 8
 
 
 A field of battle.
@@ -1241,7 +1240,7 @@ In your condemned seconds.
 Exeunt.
 
 
-### Scene 9
+### Act 1, Scene 9
 
 
 The Roman camp.
@@ -1328,7 +1327,7 @@ COM.
 More cruel to your good report than grateful
 To us that give you truly. By your patience,
 If ’gainst yourself you be incens’d, we’ll put you
-—Like one that means his proper harm— in manacles,
+(Like one that means his proper harm) in manacles,
 Then reason safely with you. Therefore be it known,
 As to us, to all the world, that Caius Martius
 Wears this war’s garland; in token of the which,
@@ -1400,7 +1399,7 @@ It should be look’d to. Come.
 Exeunt.
 
 
-### Scene 10
+### Act 1, Scene 10
 
 
 The Volscian camp.
@@ -1452,7 +1451,7 @@ VOL. SOLD.
 
 AUF.
 I am attended at the cypress grove. I pray you
-—’Tis south the city mills— bring me word thither
+(’Tis south the city mills) bring me word thither
 How the world goes, that to the pace of it
 I may spur on my journey.
 
@@ -1465,8 +1464,8 @@ Exeunt.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 Rome. A public place.
@@ -1500,7 +1499,7 @@ He’s a lamb indeed, that baes like a bear.
 MEN.
 He’s a bear indeed, that lives like a lamb. You two are old men: tell me one thing that I shall ask you.
 
-BOTH. MEN. AND BRU.
+BOTH MEN. AND BRU.
 Well, sir.
 
 MEN.
@@ -1518,13 +1517,13 @@ And topping all others in boasting.
 MEN.
 This is strange now. Do you two know how you are censur’d here in the city, I mean of us a’ th’ right-hand file? Do you?
 
-BOTH. MEN. AND BRU.
+BOTH MEN. AND BRU.
 Why? How are we censur’d?
 
 MEN.
 Because you talk of pride now—will you not be angry?
 
-BOTH. MEN. AND BRU.
+BOTH MEN. AND BRU.
 Well, well, sir, well.
 
 MEN.
@@ -1536,17 +1535,17 @@ We do it not alone, sir.
 MEN.
 I know you can do very little alone, for your helps are many, or else your actions would grow wondrous single; your abilities are too infant-like for doing much alone. You talk of pride: O that you could turn your eyes toward the napes of your necks and make but an interior survey of your good selves! O that you could!
 
-BOTH. MEN. AND BRU.
+BOTH MEN. AND BRU.
 What then, sir?
 
 MEN.
-Why then you should discover a brace of unmeriting, proud, violent, testy magistrates —alias fools— as any in Rome.
+Why then you should discover a brace of unmeriting, proud, violent, testy magistrates (alias fools) as any in Rome.
 
 SIC.
 Menenius, you are known well enough too.
 
 MEN.
-I am known to be a humorous patrician, and one that loves a cup of hot wine with not a drop of allaying Tiber in’t; said to be something imperfect in favoring the first complaint, hasty and tinder-like upon too trivial motion; one that converses more with the buttock of the night than with the forehead of the morning. What I think, I utter, and spend my malice in my breath. Meeting two such wealsmen as you are —I cannot call you Lycurguses—, if the drink you give me touch my palate adversely, I make a crooked face at it. I cannot say your worships have deliver’d the matter well, when I find the ass in compound with the major part of your syllables; and though I must be content to bear with those that say you are reverend grave men, yet they lie deadly that tell you have good faces. If you see this in the map of my microcosm, follows it that I am known well enough too? What harm can your beesom conspectuities glean out of this character, if I be known well enough too?
+I am known to be a humorous patrician, and one that loves a cup of hot wine with not a drop of allaying Tiber in’t; said to be something imperfect in favoring the first complaint, hasty and tinder-like upon too trivial motion; one that converses more with the buttock of the night than with the forehead of the morning. What I think, I utter, and spend my malice in my breath. Meeting two such wealsmen as you are (I cannot call you Lycurguses), if the drink you give me touch my palate adversely, I make a crooked face at it. I cannot say your worships have deliver’d the matter well, when I find the ass in compound with the major part of your syllables; and though I must be content to bear with those that say you are reverend grave men, yet they lie deadly that tell you have good faces. If you see this in the map of my microcosm, follows it that I am known well enough too? What harm can your beesom conspectuities glean out of this character, if I be known well enough too?
 
 BRU.
 Come, sir, come, we know you well enough.
@@ -1801,7 +1800,7 @@ BRU.
 Were he to stand for consul, never would he
 Appear i’ th’ market-place, nor on him put
 The napless vesture of humility,
-Nor, showing —as the manner is— his wounds
+Nor, showing (as the manner is) his wounds
 To th’ people, beg their stinking breaths.
 
 SIC.
@@ -1873,7 +1872,7 @@ SIC.
 Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 Rome. The capitol.
@@ -2138,7 +2137,7 @@ I know they do attend us.
 Exeunt.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 Rome. The forum.
@@ -2180,7 +2179,7 @@ Are you all resolv’d to give your voices? But that’s no matter, the greater 
 (Enter Coriolanus in a gown of humility, with Menenius.)
 Here he comes, and in the gown of humility, mark his behavior. We are not to stay all together, but to come by him where he stands, by ones, by twos, and by threes. He’s to make his requests by particulars, wherein every one of us has a single honor, in giving him our own voices with our own tongues; therefore follow me, and I’ll direct you how you shall go by him.
 
-ALL. ROM. CIT.
+ALL ROM. CIT.
 Content, content.
 
 Exeunt Roman Citizens.
@@ -2325,7 +2324,7 @@ He has done nobly, and cannot go without any honest man’s voice.
 7. ROM. CIT.
 Therefore let him be consul. The gods give him joy, and make him good friend to the people!
 
-ALL. ROM. CIT.
+ALL ROM. CIT.
 Amen, amen. God save thee, noble consul!
 
 Exeunt Citizens.
@@ -2411,7 +2410,7 @@ His marks of merit, wounds receiv’d for ’s country.
 SIC.
 Why, so he did, I am sure.
 
-ALL. ROM. CIT.
+ALL ROM. CIT.
 ^5 No, no; no man saw ’em.
 
 3. ROM. CIT.
@@ -2505,7 +2504,7 @@ After the inveterate hate he bears you.
 BRU.
 ^8 Lay
 A fault on us, your tribunes, that we labor’d
-—No impediment between— but that you must
+(No impediment between) but that you must
 Cast your election on him.
 
 SIC.
@@ -2540,7 +2539,7 @@ Your sudden approbation.
 
 BRU.
 ^5 Say you ne’er had done’t
-—Harp on that still— but by our putting on;
+(Harp on that still) but by our putting on;
 And presently, when you have drawn your number,
 Repair to th’ Capitol.
 
@@ -2570,8 +2569,8 @@ Exeunt.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 Rome. A street.
@@ -3045,7 +3044,7 @@ MEN.
 ^5 Hear me one word,
 Beseech you, tribunes, hear me but a word.
 
-BOTH. AEDILES.
+BOTH AEDILES.
 Peace, peace!
 
 MEN.
@@ -3251,8 +3250,8 @@ O, he’s a limb that has but a disease:
 Mortal, to cut it off; to cure it, easy.
 What has he done to Rome that’s worthy death?
 Killing our enemies, the blood he hath lost
-—Which, I dare vouch, is more than that he hath
-By many an ounce— he dropp’d it for his country;
+(Which, I dare vouch, is more than that he hath
+By many an ounce) he dropp’d it for his country;
 And what is left, to lose it by his country
 Were to us all that do’t and suffer it
 A brand to th’ end a’ th’ world.
@@ -3278,9 +3277,9 @@ Spread further.
 MEN.
 ^3 One word more, one word:
 This tiger-footed rage, when it shall find
-The harm of unscann’d swiftness, will —too late—
+The harm of unscann’d swiftness, will (too late) 
 Tie leaden pounds to ’s heels. Proceed by process,
-Lest parties —as he is belov’d— break out,
+Lest parties (as he is belov’d) break out,
 And sack great Rome with Romans.
 
 BRU.
@@ -3298,7 +3297,7 @@ In bolted language; meal and bran together
 He throws without distinction. Give me leave,
 I’ll go to him, and undertake to bring him
 Where he shall answer, by a lawful form
-—In peace—, to his utmost peril.
+(In peace), to his utmost peril.
 
 1. ROM. SEN.
 ^6 Noble tribunes,
@@ -3331,7 +3330,7 @@ Or what is worst will follow.
 Exeunt omnes.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 Rome. A room in Martius Coriolanus’ house.
@@ -3479,10 +3478,10 @@ Of what is past.
 VOL.
 ^4 I prithee now, my son,
 Go to them, with this bonnet in thy hand,
-And thus far having stretch’d it —here be with them—,
-Thy knee bussing the stones —for in such business
+And thus far having stretch’d it (here be with them),
+Thy knee bussing the stones (for in such business
 Action is eloquence, and the eyes of th’ ignorant
-More learned than the ears—, waving thy head,
+More learned than the ears), waving thy head,
 Which often thus correcting thy stout heart,
 Now humble as the ripest mulberry
 That will not hold the handling: or say to them,
@@ -3603,7 +3602,7 @@ Well, mildly be it then. Mildly!
 Exeunt.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 Rome. The forum.
@@ -3828,7 +3827,7 @@ To have’t with saying “Good morrow.”
 
 SIC.
 ^8 For that he has
-—As much as in him lies— from time to time
+(As much as in him lies) from time to time
 Envied against the people, seeking means
 To pluck away their power, as now at last
 Given hostile strokes, and that not in the presence
@@ -3882,9 +3881,9 @@ Let every feeble rumor shake your hearts!
 Your enemies, with nodding of their plumes,
 Fan you into despair! Have the power still
 To banish your defenders, till at length
-Your ignorance —which finds not till it feels,
+Your ignorance (which finds not till it feels,
 Making but reservation of yourselves,
-Still your own foes— deliver you as most
+Still your own foes) deliver you as most
 Abated captives to some nation
 That won you without blows! Despising,
 For you, the city, thus I turn my back;
@@ -3916,8 +3915,8 @@ Exeunt.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 Rome. Before a gate of the city.
@@ -4014,7 +4013,7 @@ Come.
 Exeunt.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 Rome. A street near the gate of the city.
@@ -4128,7 +4127,7 @@ Now pray, sir, get you gone;
 You have done a brave deed. Ere you go, hear this:
 As far as doth the Capitol exceed
 The meanest house in Rome, so far my son,
-This lady’s husband here—this —do you see?—
+This lady’s husband here—this (do you see?) 
 Whom you have banish’d—does exceed you all.
 
 BRU.
@@ -4166,7 +4165,7 @@ Fie, fie, fie!
 Exit.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 A highway between Rome and Antium.
@@ -4233,7 +4232,7 @@ Well, let us go together.
 Exeunt.
 
 
-### Scene 4
+### Act 4, Scene 4
 
 
 Antium. Before Aufidius’ house.
@@ -4289,7 +4288,7 @@ I’ll do his country service.
 Exit.
 
 
-### Scene 5
+### Act 4, Scene 5
 
 
 Antium. A hall in Aufidius’ house.
@@ -4478,7 +4477,7 @@ Have all forsook me, hath devour’d the rest,
 And suffer’d me by th’ voice of slaves to be
 Hoop’d out of Rome. Now this extremity
 Hath brought me to thy hearth; not out of hope
-—Mistake me not— to save my life, for if
+(Mistake me not) to save my life, for if
 I had fear’d death, of all the men i’ th’ world
 I would have ’voided thee; but in mere spite,
 To be full quit of those my banishers,
@@ -4623,7 +4622,7 @@ I do not say “thwack our general,” but he was always good enough for him.
 Come, we are fellows and friends: he was ever too hard for him; I have heard him say so himself.
 
 1. SERV.
-He was too hard for him, directly to say the troth on’t, before Corioles; he scotch’d him and notch’d him like a carbonado.
+He was too hard for him, directly to say the troth on’t,before Corioles; he scotch’d him and notch’d him like a carbonado.
 
 2. SERV.
 And he had been cannibally given, he might have boil’d and eaten him too.
@@ -4638,7 +4637,7 @@ Why, he is so made on here within as if he were son and heir to Mars; set at upp
 And he’s as like to do’t as any man I can imagine.
 
 3. SERV.
-Do’t? He will do’t; for look you, sir, he has as many friends as enemies; which friends, sir, as it were, durst not —look you, sir— show themselves —as we term it— his friends whilest he’s in directitude.
+Do’t? He will do’t; for look you, sir, he has as many friends as enemies; which friends, sir, as it were, durst not (look you, sir) show themselves (as we term it) his friends whilest he’s in directitude.
 
 1. SERV.
 Directitude? What’s that?
@@ -4673,7 +4672,7 @@ In, in, in, in!
 Exeunt.
 
 
-### Scene 6
+### Act 4, Scene 6
 
 
 Rome. A public place.
@@ -4722,7 +4721,7 @@ Hear nothing from him.
 
 Enter three or four Roman Citizens.
 
-ALL. ROM. CIT.
+ALL ROM. CIT.
 The gods preserve you both!
 
 SIC.
@@ -4742,7 +4741,7 @@ BRU.
 Farewell, kind neighbors! We wish’d Coriolanus
 Had lov’d you as we did.
 
-ALL. ROM. CIT.
+ALL ROM. CIT.
 ^5 Now the gods keep you!
 
 BOTH BRU. AND SIC.
@@ -4985,7 +4984,7 @@ And pay you for your voices. ’Tis no matter;
 If he could burn us all into one coal,
 We have deserv’d it.
 
-ALL. ROM. CIT.
+ALL ROM. CIT.
 Faith, we hear fearful news.
 
 1. ROM. CIT.
@@ -5040,7 +5039,7 @@ SIC.
 Exeunt.
 
 
-### Scene 7
+### Act 4, Scene 7
 
 
 A camp near Rome.
@@ -5068,7 +5067,7 @@ What cannot be amended.
 
 LIEU. AUF.
 ^5 Yet I wish, sir
-—I mean for your particular—, you had not
+(I mean for your particular), you had not
 Join’d in commission with him; but either
 Have borne the action of yourself, or else
 To him had left it solely.
@@ -5107,8 +5106,8 @@ Not to be other than one thing, not moving
 From th’ casque to th’ cushion, but commanding peace
 Even with the same austerity and garb
 As he controll’d the war; but one of these
-—As he hath spices of them all, not all,
-For I dare so far free him— made him fear’d,
+(As he hath spices of them all, not all,
+For I dare so far free him) made him fear’d,
 So hated, and so banish’d; but he has a merit
 To choke it in the utt’rance. So our virtues
 Lie in th’ interpretation of the time,
@@ -5126,8 +5125,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 Rome. A public place.
@@ -5269,7 +5268,7 @@ And with our fair entreaties haste them on.
 Exeunt.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 Entrance of the Volscian camp before Rome.
@@ -5317,11 +5316,11 @@ Thy general is my lover. I have been
 The book of his good acts, whence men have read
 His fame unparallel’d, happily amplified;
 For I have ever verified my friends
-—Of whom he’s chief— with all the size that verity
+(Of whom he’s chief) with all the size that verity
 Would without lapsing suffer. Nay, sometimes,
 Like to a bowl upon a subtle ground,
 I have tumbled past the throw; and in his praise
-Have —almost— stamp’d the leasing. Therefore, fellow,
+Have (almost) stamp’d the leasing. Therefore, fellow,
 I must have leave to pass.
 
 1. WATCH.
@@ -5422,7 +5421,7 @@ The worthy fellow is our general. He’s the rock, the oak not to be wind-shaken
 Exit Watch.
 
 
-### Scene 3
+### Act 5, Scene 3
 
 
 The tent of Coriolanus.
@@ -5448,7 +5447,7 @@ Whom with a crack’d heart I have sent to Rome,
 Lov’d me above the measure of a father,
 Nay, godded me indeed. Their latest refuge
 Was to send him; for whose old love I have
-—Though I show’d sourly to him— once more offer’d
+(Though I show’d sourly to him) once more offer’d
 The first conditions, which they did refuse
 And cannot now accept, to grace him only
 That thought he could do more: a very little
@@ -5611,7 +5610,7 @@ These wars determine. If I cannot persuade thee
 Rather to show a noble grace to both parts
 Than seek the end of one, thou shalt no sooner
 March to assault thy country than to tread
-—Trust to’t, thou shalt not— on thy mother’s womb
+(Trust to’t, thou shalt not) on thy mother’s womb
 That brought thee to this world.
 
 VIR.
@@ -5731,7 +5730,7 @@ Could not have made this peace.
 Exeunt.
 
 
-### Scene 4
+### Act 5, Scene 4
 
 
 Rome. A public place.
@@ -5839,7 +5838,7 @@ And help the joy.
 Exeunt.
 
 
-### Scene 5
+### Act 5, Scene 5
 
 
 Rome. A street near the city gate.
@@ -5861,7 +5860,7 @@ Welcome!
 A flourish with drums and trumpets. Exeunt.
 
 
-### Scene 6
+### Act 5, Scene 6
 
 
 Antium. A public place.
@@ -6126,8 +6125,8 @@ Tread not upon him. Masters all, be quiet,
 Put up your swords.
 
 AUF.
-My lords, when you shall know —as in this rage,
-Provok’d by him, you cannot— the great danger
+My lords, when you shall know (as in this rage,
+Provok’d by him, you cannot) the great danger
 Which this man’s life did owe you, you’ll rejoice
 That he is thus cut off. Please it your honors
 To call me to your Senate, I’ll deliver

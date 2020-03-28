@@ -2,8 +2,8 @@ Title: As You Like It
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,39 +14,39 @@ Notes:
 
 >_Cast of Characters_<
 
-|Audrey (AUD.): | 
-|Phebe (PHE.): | 
-|Celia (CEL.): | 
-|Rosalind (ROS.): | 
-|Silvius (SIL.): | 
-|Corin (COR.): | 
-|Sir Oliver Martext (SIR OLI.): | 
-|Touchstone (TOUCH.): | 
-|Adam (ADAM.): | 
 |Orlando (ORL.): | 
-|Oliver (OLI.): | 
-|Charles (CHA.): | 
-|Le Beau (LE BEAU.): | 
 |Jaques (JAQ.): | 
-|Amiens (AMI.): | 
-|Duke Frederick (DUKE F.): | 
 |Duke Senior (DUKE S.): | 
-|Jaques De Boys (JAQ. DE B.): | 
-|Dennis (DEN.): | 
+|Oliver (OLIV.): | 
+|Touchstone (TOUCH.): | 
+|Silvius (SIL.): | 
+|Duke Frederick (DUKE F.): | 
+|Adam (ADAM.): | 
+|Corin (COR.): | 
+|Amiens (AMI.): | 
+|Le Beau (LE BEAU.): | 
 |Hymen (HYM.): | 
+|Jaques De Boys (JAQ. DE B.): | 
 |William (WILL.): | 
-|First Lord at Court (1. LORD. COURT.): | 
-|Second Lord at Court (2. LORD. COURT.): | 
+|Charles (CHA.): | 
+|Sir Oliver Martext (SIR OLIV.): | 
+|Dennis (DEN.): | 
+|Rosalind (ROS.): | 
+|Celia (CEL.): | 
+|Phebe (PHE.): | 
+|Audrey (AUD.): | 
 |First Lord in Arden (1. LORD. ARD.): | 
 |Second Lord in Arden (2. LORD. ARD.): | 
+|First Lord at Court (1. LORD. COURT.): | 
+|Second Lord at Court (2. LORD. COURT.): | 
 |First Page (1. PAGE.): | 
 |Second Page (2. PAGE.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 An orchard of Oliver’s house.
@@ -54,7 +54,7 @@ An orchard of Oliver’s house.
 Enter Orlando and Adam.
 
 ORL.
-As I remember, Adam, it was upon this fashion bequeath’d me by will but poor a thousand crowns, and, as thou say’st, charg’d my brother, on his blessing, to breed me well; and there begins my sadness. My brother Jaques he keeps at school, and report speaks goldenly of his profit. For my part, he keeps me rustically at home, or —to speak more properly— stays me here at home unkept; for call you that keeping for a gentleman of my birth, that differs not from the stalling of an ox? His horses are bred better, for besides that they are fair with their feeding, they are taught their manage, and to that end riders dearly hir’d; but I —his brother— gain nothing under him but growth, for the which his animals on his dunghills are as much bound to him as I. Besides this nothing that he so plentifully gives me, the something that nature gave me his countenance seems to take from me. He lets me feed with his hinds, bars me the place of a brother, and as much as in him lies, mines my gentility with my education. This is it, Adam, that grieves me, and the spirit of my father, which I think is within me, begins to mutiny against this servitude. I will no longer endure it, though yet I know no wise remedy how to avoid it.
+As I remember, Adam, it was upon this fashion bequeath’d me by will but poor a thousand crowns, and, as thou say’st, charg’d my brother, on his blessing, to breed me well; and there begins my sadness. My brother Jaques he keeps at school, and report speaks goldenly of his profit. For my part, he keeps me rustically at home, or (to speak more properly) stays me here at home unkept; for call you that keeping for a gentleman of my birth, that differs not from the stalling of an ox? His horses are bred better, for besides that they are fair with their feeding, they are taught their manage, and to that end riders dearly hir’d; but I (his brother) gain nothing under him but growth, for the which his animals on his dunghills are as much bound to him as I. Besides this nothing that he so plentifully gives me, the something that nature gave me his countenance seems to take from me. He lets me feed with his hinds, bars me the place of a brother, and as much as in him lies, mines my gentility with my education. This is it, Adam, that grieves me, and the spirit of my father, which I think is within me, begins to mutiny against this servitude. I will no longer endure it, though yet I know no wise remedy how to avoid it.
 
 Enter Oliver.
 
@@ -64,37 +64,37 @@ Yonder comes my master, your brother.
 ORL.
 Go apart, Adam, and thou shalt hear how he will shake me up.
 
-OLI.
+OLIV.
 Now, sir, what make you here?
 
 ORL.
 Nothing. I am not taught to make any thing.
 
-OLI.
+OLIV.
 What mar you then, sir?
 
 ORL.
 Marry, sir, I am helping you to mar that which God made, a poor unworthy brother of yours, with idleness.
 
-OLI.
+OLIV.
 Marry, sir, be better employ’d, and be naught a while.
 
 ORL.
 Shall I keep your hogs and eat husks with them? What prodigal portion have I spent, that I should come to such penury?
 
-OLI.
+OLIV.
 Know you where you are, sir?
 
 ORL.
 O, sir, very well; here in your orchard.
 
-OLI.
+OLIV.
 Know you before whom, sir?
 
 ORL.
 Ay, better than him I am before knows me. I know you are my eldest brother, and in the gentle condition of blood you should so know me. The courtesy of nations allows you my better, in that you are the first born, but the same tradition takes not away my blood, were there twenty brothers betwixt us. I have as much of my father in me as you, albeit I confess your coming before me is nearer to his reverence.
 
-OLI.
+OLIV.
 What, boy!
 
 Strikes him.
@@ -104,7 +104,7 @@ Come, come, elder brother, you are too young in this.
 
 Collaring him.
 
-OLI.
+OLIV.
 Wilt thou lay hands on me, villain?
 
 ORL.
@@ -113,19 +113,19 @@ I am no villain; I am the youngest son of Sir Rowland de Boys. He was my father,
 ADAM.
 Sweet masters, be patient, for your father’s remembrance, be at accord.
 
-OLI.
+OLIV.
 Let me go, I say.
 
 ORL.
 I will not till I please. You shall hear me. My father charg’d you in his will to give me good education. You have train’d me like a peasant, obscuring and hiding from me all gentleman-like qualities. The spirit of my father grows strong in me, and I will no longer endure it; therefore allow me such exercises as may become a gentleman, or give me the poor allottery my father left me by testament, with that I will go buy my fortunes.
 
-OLI.
+OLIV.
 And what wilt thou do? Beg, when that is spent? Well, sir, get you in. I will not long be troubled with you; you shall have some part of your will. I pray you leave me.
 
 ORL.
 I will no further offend you than becomes me for my good.
 
-OLI.
+OLIV.
 Get you with him, you old dog.
 
 ADAM.
@@ -133,7 +133,7 @@ Is “old dog” my reward? Most true, I have lost my teeth in your service. God
 
 Exeunt Orlando, Adam.
 
-OLI.
+OLIV.
 Is it even so? Begin you to grow upon me? I will physic your rankness, and yet give no thousand crowns neither. Holla, Dennis!
 
 Enter Dennis.
@@ -141,13 +141,13 @@ Enter Dennis.
 DEN.
 Calls your worship?
 
-OLI.
+OLIV.
 Was not Charles, the Duke’s wrestler, here to speak with me?
 
 DEN.
 So please you, he is here at the door, and importunes access to you.
 
-OLI.
+OLIV.
 Call him in.
 (Exit Dennis.)
 ’Twill be a good way; and tomorrow the wrestling is.
@@ -157,45 +157,45 @@ Enter Charles.
 CHA.
 Good morrow to your worship.
 
-OLI.
+OLIV.
 Good Monsieur Charles, what’s the new news at the new court?
 
 CHA.
 There’s no news at the court, sir, but the old news: that is, the old Duke is banish’d by his younger brother the new Duke, and three or four loving lords have put themselves into voluntary exile with him, whose lands and revenues enrich the new Duke; therefore he gives them good leave to wander.
 
-OLI.
+OLIV.
 Can you tell if Rosalind, the Duke’s daughter, be banish’d with her father?
 
 CHA.
 O no; for the Duke’s daughter, her cousin, so loves her, being ever from their cradles bred together, that she would have follow’d her exile, or have died to stay behind her. She is at the court, and no less belov’d of her uncle than his own daughter, and never two ladies lov’d as they do.
 
-OLI.
+OLIV.
 Where will the old Duke live?
 
 CHA.
 They say he is already in the forest of Arden, and a many merry men with him; and there they live like the old Robin Hood of England. They say many young gentlemen flock to him every day, and fleet the time carelessly, as they did in the golden world.
 
-OLI.
+OLIV.
 What, you wrestle tomorrow before the new Duke?
 
 CHA.
 Marry, do I, sir; and I came to acquaint you with a matter. I am given, sir, secretly to understand that your younger brother, Orlando, hath a disposition to come in disguis’d against me to try a fall. Tomorrow, sir, I wrestle for my credit, and he that escapes me without some broken limb shall acquit him well. Your brother is but young and tender, and for your love I would be loath to foil him, as I must for my own honor if he come in; therefore out of my love to you, I came hither to acquaint you withal, that either you might stay him from his intendment, or brook such disgrace well as he shall run into, in that it is a thing of his own search, and altogether against my will.
 
-OLI.
-Charles, I thank thee for thy love to me, which thou shalt find I will most kindly requite. I had myself notice of my brother’s purpose herein, and have by underhand means labor’d to dissuade him from it; but he is resolute. I’ll tell thee, Charles, it is the stubbornest young fellow of France, full of ambition, an envious emulator of every man’s good parts, a secret and villainous contriver against me his natural brother; therefore use thy discretion— I had as lief thou didst break his neck as his finger. And thou wert best look to’t; for if thou dost him any slight disgrace, or if he do not mightily grace himself on thee, he will practice against thee by poison, entrap thee by some treacherous device, and never leave thee till he hath ta’en thy life by some indirect means or other; for I assure thee —and almost with tears I speak it— there is not one so young and so villainous this day living. I speak but brotherly of him, but should I anatomize him to thee as he is, I must blush and weep, and thou must look pale and wonder.
+OLIV.
+Charles, I thank thee for thy love to me, which thou shalt find I will most kindly requite. I had myself notice of my brother’s purpose herein, and have by underhand means labor’d to dissuade him from it; but he is resolute. I’ll tell thee, Charles, it is the stubbornest young fellow of France, full of ambition, an envious emulator of every man’s good parts, a secret and villainous contriver against me his natural brother; therefore use thy discretion— I had as lief thou didst break his neck as his finger. And thou wert best look to’t; for if thou dost him any slight disgrace, or if he do not mightily grace himself on thee, he will practice against thee by poison, entrap thee by some treacherous device, and never leave thee till he hath ta’en thy life by some indirect means or other; for I assure thee (and almost with tears I speak it) there is not one so young and so villainous this day living. I speak but brotherly of him, but should I anatomize him to thee as he is, I must blush and weep, and thou must look pale and wonder.
 
 CHA.
 I am heartily glad I came hither to you. If he come tomorrow, I’ll give him his payment. If ever he go alone again, I’ll never wrestle for prize more. And so God keep your worship!
 
 Exit.
 
-OLI.
-Farewell, good Charles. Now will I stir this gamester. I hope I shall see an end of him; for my soul —yet I know not why— hates nothing more than he. Yet he’s gentle, never school’d and yet learned, full of noble device, of all sorts enchantingly belov’d, and indeed so much in the heart of the world, and especially of my own people, who best know him, that I am altogether mispris’d. But it shall not be so long, this wrestler shall clear all. Nothing remains but that I kindle the boy thither, which now I’ll go about.
+OLIV.
+Farewell, good Charles. Now will I stir this gamester. I hope I shall see an end of him; for my soul (yet I know not why) hates nothing more than he. Yet he’s gentle, never school’d and yet learned, full of noble device, of all sorts enchantingly belov’d, and indeed so much in the heart of the world, and especially of my own people, who best know him, that I am altogether mispris’d. But it shall not be so long, this wrestler shall clear all. Nothing remains but that I kindle the boy thither, which now I’ll go about.
 
 Exit.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 A lawn before the Duke’s palace.
@@ -274,10 +274,10 @@ TOUCH.
 Stand you both forth now. Stroke your chins, and swear by your beards that I am a knave.
 
 CEL.
-By our beards —if we had them— thou art.
+By our beards (if we had them) thou art.
 
 TOUCH.
-By my knavery —if I had it— then I were. But if you swear by that that is not, you are not forsworn. No more was this knight, swearing by his honor, for he never had any; or if he had, he had sworn it away before ever he saw those pancakes or that mustard.
+By my knavery (if I had it) then I were. But if you swear by that that is not, you are not forsworn. No more was this knight, swearing by his honor, for he never had any; or if he had, he had sworn it away before ever he saw those pancakes or that mustard.
 
 CEL.
 Prithee, who is’t that thou mean’st?
@@ -606,7 +606,7 @@ But heavenly Rosalind!
 Exit.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 A room in the Duke’s palace.
@@ -691,7 +691,7 @@ Let me the knowledge of my fault bear with me:
 If with myself I hold intelligence,
 Or have acquaintance with mine own desires;
 If that I do not dream, or be not frantic
-—As I do trust I am not—, then, dear uncle,
+(As I do trust I am not), then, dear uncle,
 Never so much as in a thought unborn
 Did I offend your Highness.
 
@@ -843,8 +843,8 @@ Exeunt.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 The Forest of Arden.
@@ -946,7 +946,7 @@ I’ll bring you to him straight.
 Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 The Duke’s palace.
@@ -985,7 +985,7 @@ To bring again these foolish runaways.
 Exeunt.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 Before Oliver’s house.
@@ -1019,7 +1019,7 @@ ADAM.
 Come not within these doors! Within this roof
 The enemy of all your graces lives.
 Your brother—no, no brother, yet the son
-—Yet not the son, I will not call him son—
+(Yet not the son, I will not call him son) 
 Of him I was about to call his father—
 Hath heard your praises, and this night he means
 To burn the lodging where you use to lie,
@@ -1092,7 +1092,7 @@ Than to die well, and not my master’s debtor.
 Exeunt.
 
 
-### Scene 4
+### Act 2, Scene 4
 
 
 The Forest of Arden.
@@ -1255,7 +1255,7 @@ And buy it with your gold right suddenly.
 Exeunt.
 
 
-### Scene 5
+### Act 2, Scene 5
 
 
 Another part of the Forest of Arden.
@@ -1347,7 +1347,7 @@ And I’ll go seek the Duke, his banquet is prepar’d.
 Exeunt.
 
 
-### Scene 6
+### Act 2, Scene 6
 
 
 Another part of the Forest of Arden.
@@ -1363,7 +1363,7 @@ Why, how now, Adam? No greater heart in thee? Live a little, comfort a little, c
 Exeunt.
 
 
-### Scene 7
+### Act 2, Scene 7
 
 
 Another part of the Forest of Arden.
@@ -1665,8 +1665,8 @@ Exeunt.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 The Duke’s palace.
@@ -1687,7 +1687,7 @@ Worth seizure do we seize into our hands,
 Till thou canst quit thee by thy brother’s mouth
 Of what we think against thee.
 
-OLI.
+OLIV.
 O that your Highness knew my heart in this!
 I never lov’d my brother in my life.
 
@@ -1700,7 +1700,7 @@ Do this expediently, and turn him going.
 Exeunt.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 The Forest of Arden.
@@ -1727,7 +1727,7 @@ COR.
 And how like you this shepherd’s life, Master Touchstone?
 
 TOUCH.
-Truly, shepherd, in respect of itself, it is a good life; but in respect that it is a shepherd’s life, it is naught. In respect that it is solitary, I like it very well; but in respect that it is private, it is a very vild life. Now in respect it is in the fields, it pleaseth me well; but in respect it is not in the court, it is tedious. As it is a spare life —look you— it fits my humor well; but as there is no more plenty in it, it goes much against my stomach. Hast any philosophy in thee, shepherd?
+Truly, shepherd, in respect of itself, it is a good life; but in respect that it is a shepherd’s life, it is naught. In respect that it is solitary, I like it very well; but in respect that it is private, it is a very vild life. Now in respect it is in the fields, it pleaseth me well; but in respect it is not in the court, it is tedious. As it is a spare life (look you) it fits my humor well; but as there is no more plenty in it, it goes much against my stomach. Hast any philosophy in thee, shepherd?
 
 COR.
 No more but that I know the more one sickens the worse at ease he is; and that he that wants money, means, and content is without three good friends; that the property of rain is to wet and fire to burn; that good pasture makes fat sheep; and that a great cause of the night is lack of the sun; that he that hath learn’d no wit by nature, nor art, may complain of good breeding, or comes of a very dull kindred.
@@ -2104,7 +2104,7 @@ ORL.
 And why not the swift foot of Time? Had not that been as proper?
 
 ROS.
-By no means, sir. Time travels in divers paces with divers persons. I’ll tell you who Time ambles withal, who Time trots withal, who Time gallops withal, and who he stands still withal.
+By no means, sir. Time travels in diverse paces with diverse persons. I’ll tell you who Time ambles withal, who Time trots withal, who Time gallops withal, and who he stands still withal.
 
 ORL.
 I prithee, who doth he trot withal?
@@ -2170,7 +2170,7 @@ ORL.
 What were his marks?
 
 ROS.
-A lean cheek, which you have not; a blue eye and sunken, which you have not; an unquestionable spirit, which you have not; a beard neglected, which you have not —but I pardon you for that, for simply your having in beard is a younger brother’s revenue—; then your hose should be ungarter’d, your bonnet unbanded, your sleeve unbutton’d, your shoe untied, and every thing about you demonstrating a careless desolation. But you are no such man; you are rather point-device in your accoustrements, as loving yourself, than seeming the lover of any other.
+A lean cheek, which you have not; a blue eye and sunken, which you have not; an unquestionable spirit, which you have not; a beard neglected, which you have not (but I pardon you for that, for simply your having in beard is a younger brother’s revenue); then your hose should be ungarter’d, your bonnet unbanded, your sleeve unbutton’d, your shoe untied, and every thing about you demonstrating a careless desolation. But you are no such man; you are rather point-device in your accoustrements, as loving yourself, than seeming the lover of any other.
 
 ORL.
 Fair youth, I would I could make thee believe I love.
@@ -2217,7 +2217,7 @@ Nay, you must call me Rosalind. Come, sister, will you go?
 Exeunt.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 Another part of the Forest of Arden.
@@ -2286,13 +2286,13 @@ Amen. A man may, if he were of a fearful heart, stagger in this attempt; for her
 (Enter Sir Oliver Martext.)
 Here comes Sir Oliver. Sir Oliver Martext, you are well met. Will you dispatch us here under this tree, or shall we go with you to your chapel?
 
-SIR OLI.
+SIR OLIV.
 Is there none here to give the woman?
 
 TOUCH.
 I will not take her on gift of any man.
 
-SIR OLI.
+SIR OLIV.
 Truly, she must be given, or the marriage is not lawful.
 
 JAQ.
@@ -2309,7 +2309,7 @@ TOUCH.
 As the ox hath his bow, sir, the horse his curb, and the falcon her bells, so man hath his desires; and as pigeons bill, so wedlock would be nibbling.
 
 JAQ.
-And will you —being a man of your breeding— be married under a bush like a beggar? Get you to church, and have a good priest that can tell you what marriage is. This fellow will but join you together as they join wainscot; then one of you will prove a shrunk panel, and like green timber warp, warp.
+And will you (being a man of your breeding) be married under a bush like a beggar? Get you to church, and have a good priest that can tell you what marriage is. This fellow will but join you together as they join wainscot; then one of you will prove a shrunk panel, and like green timber warp, warp.
 
 TOUCH.
 (Aside.)
@@ -2322,26 +2322,23 @@ TOUCH.
 Come, sweet Audrey,
 We must be married, or we must live in bawdry.
 Farewell, good Master Oliver: not
-
 ~“O sweet Oliver,
 ~O brave Oliver,
 ~Leave me not behind thee;”
-
 But
-
 ~“Wind away,
 ~Be gone, I say,
 ~I will not to wedding with thee.”
 
 Exeunt Jaques, Touchstone, and Audrey.
 
-SIR OLI.
+SIR OLIV.
 ’Tis no matter; ne’er a fantastical knave of them all shall flout me out of my calling.
 
 Exit.
 
 
-### Scene 4
+### Act 3, Scene 4
 
 
 Another part of the Forest of Arden.
@@ -2436,7 +2433,7 @@ I’ll prove a busy actor in their play.
 Exeunt.
 
 
-### Scene 5
+### Act 3, Scene 5
 
 
 Another part of the Forest of Arden.
@@ -2478,7 +2475,7 @@ That can do hurt.
 
 SIL.
 ^4 O dear Phebe,
-If ever —as that ever may be near—
+If ever (as that ever may be near) 
 You meet in some fresh cheek the power of fancy,
 Then shall you know the wounds invisible
 That love’s keen arrows make.
@@ -2642,8 +2639,8 @@ Exeunt.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 The Forest of Arden.
@@ -2669,7 +2666,7 @@ ROS.
 Why then ’tis good to be a post.
 
 JAQ.
-I have neither the scholar’s melancholy, which is emulation; nor the musician’s, which is fantastical; nor the courtier’s, which is proud; nor the soldier’s, which is ambitious; nor the lawyer’s, which is politic; nor the lady’s, which is nice; nor the lover’s, which is all these: but it is a melancholy of mine own, compounded of many simples, extracted from many objects, and indeed the sundry contemplation of my travels, in which my often rumination wraps me in a most humorous sadness .
+I have neither the scholar’s melancholy, which is emulation; nor the musician’s, which is fantastical; nor the courtier’s, which is proud; nor the soldier’s, which is ambitious; nor the lawyer’s, which is politic; nor the lady’s, which is nice; nor the lover’s, which is all these: but it is a melancholy of mine own, compounded of many simples, extracted from many objects, and indeed the sundry contemplation of my travels, in which my often rumination wraps me in a most humorous sadness.
 
 ROS.
 A traveler! By my faith, you have great reason to be sad. I fear you have sold your own lands to see other men’s; then to have seen much, and to have nothing, is to have rich eyes and poor hands.
@@ -2733,7 +2730,7 @@ ORL.
 I would kiss before I spoke.
 
 ROS.
-Nay, you were better speak first, and when you were gravell’d for lack of matter, you might take occasion to kiss. Very good orators when they are out, they will spit, and for lovers lacking —God warn us!— matter, the cleanliest shift is to kiss.
+Nay, you were better speak first, and when you were gravell’d for lack of matter, you might take occasion to kiss. Very good orators when they are out, they will spit, and for lovers lacking (God warn us!) matter, the cleanliest shift is to kiss.
 
 ORL.
 How if the kiss be denied?
@@ -2905,7 +2902,7 @@ And I’ll sleep.
 Exeunt.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 Another part of the Forest of Arden.
@@ -2946,7 +2943,7 @@ Song.
 Exeunt.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 Another part of the Forest of Arden.
@@ -3050,14 +3047,14 @@ CEL.
 Alas, poor shepherd!
 
 ROS.
-Do you pity him? No, he deserves no pity. Wilt thou love such a woman? What, to make thee an instrument, and play false strains upon thee? Not to be endur’d! Well, go your way to her —for I see love hath made thee a tame snake— and say this to her: that if she love me, I charge her to love thee; if she will not, I will never have her unless thou entreat for her. If you be a true lover, hence, and not a word; for here comes more company.
+Do you pity him? No, he deserves no pity. Wilt thou love such a woman? What, to make thee an instrument, and play false strains upon thee? Not to be endur’d! Well, go your way to her (for I see love hath made thee a tame snake) and say this to her: that if she love me, I charge her to love thee; if she will not, I will never have her unless thou entreat for her. If you be a true lover, hence, and not a word; for here comes more company.
 
 Exit Silvius
 
 Enter Oliver.
 
-OLI.
-Good morrow, fair ones. Pray you —if you know—
+OLIV.
+Good morrow, fair ones. Pray you (if you know) 
 Where in the purlieus of this forest stands
 A sheep-cote fenc’d about with olive-trees?
 
@@ -3068,7 +3065,7 @@ Left on your right hand brings you to the place.
 But at this hour the house doth keep itself,
 There’s none within.
 
-OLI.
+OLIV.
 If that an eye may profit by a tongue,
 Then should I know you by description—
 Such garments and such years. “The boy is fair,
@@ -3080,7 +3077,7 @@ The owner of the house I did inquire for?
 CEL.
 It is no boast, being ask’d, to say we are.
 
-OLI.
+OLIV.
 Orlando doth commend him to you both,
 And to that youth he calls his Rosalind
 He sends this bloody napkin. Are you he?
@@ -3088,7 +3085,7 @@ He sends this bloody napkin. Are you he?
 ROS.
 I am. What must we understand by this?
 
-OLI.
+OLIV.
 Some of my shame, if you will know of me
 What man I am, and how, and why, and where
 This handkercher was stain’d.
@@ -3096,7 +3093,7 @@ This handkercher was stain’d.
 CEL.
 ^6 I pray you tell it.
 
-OLI.
+OLIV.
 When last the young Orlando parted from you
 He left a promise to return again
 Within an hour, and pacing through the forest,
@@ -3126,7 +3123,7 @@ O, I have heard him speak of that same brother,
 And he did render him the most unnatural
 That liv’d amongst men.
 
-OLI.
+OLIV.
 ^5 And well he might so do,
 For well I know he was unnatural.
 
@@ -3134,7 +3131,7 @@ ROS.
 But to Orlando: did he leave him there,
 Food to the suck’d and hungry lioness?
 
-OLI.
+OLIV.
 Twice did he turn his back, and purpos’d so;
 But kindness, nobler ever than revenge,
 And nature, stronger than his just occasion,
@@ -3151,7 +3148,7 @@ ROS.
 CEL.
 Was’t you that did so oft contrive to kill him?
 
-OLI.
+OLIV.
 ’Twas I; but ’tis not I. I do not shame
 To tell you what I was, since my conversion
 So sweetly tastes, being the thing I am.
@@ -3159,7 +3156,7 @@ So sweetly tastes, being the thing I am.
 ROS.
 But for the bloody napkin?
 
-OLI.
+OLIV.
 ^6 By and by.
 When from the first to last betwixt us two
 Tears our recountments had most kindly bath’d,
@@ -3185,13 +3182,13 @@ Rosalind faints.
 CEL.
 Why, how now, Ganymede, sweet Ganymede?
 
-OLI.
+OLIV.
 Many will swoon when they do look on blood.
 
 CEL.
 There is more in it. Cousin Ganymede!
 
-OLI.
+OLIV.
 Look, he recovers.
 
 ROS.
@@ -3201,20 +3198,20 @@ CEL.
 ^5 We’ll lead you thither.
 I pray you, will you take him by the arm?
 
-OLI.
+OLIV.
 Be of good cheer, youth. You a man?
 You lack a man’s heart.
 
 ROS.
 I do so, I confess it. Ah, sirrah, a body would think this was well counterfeited! I pray you tell your brother how well I counterfeited. Heigh-ho!
 
-OLI.
+OLIV.
 This was not counterfeit, there is too great testimony in your complexion that it was a passion of earnest.
 
 ROS.
 Counterfeit, I assure you.
 
-OLI.
+OLIV.
 Well then, take a good heart and counterfeit to be a man.
 
 ROS.
@@ -3223,7 +3220,7 @@ So I do; but i’ faith, I should have been a woman by right.
 CEL.
 Come, you look paler and paler. Pray you draw homewards. Good sir, go with us.
 
-OLI.
+OLIV.
 That will I, for I must bear answer back
 How you excuse my brother, Rosalind.
 
@@ -3236,8 +3233,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 The Forest of Arden.
@@ -3319,7 +3316,7 @@ WILL.
 Which he, sir?
 
 TOUCH.
-He, sir, that must marry this woman. Therefore, you clown, abandon—which is in the vulgar leave—the society—which in the boorish is company—of this female—which in the common is woman; which together is, abandon the society of this female, or, clown, thou perishest; or to thy better understanding, diest; or —to wit— I kill thee, make thee away, translate thy life into death, thy liberty into bondage. I will deal in poison with thee, or in bastinado, or in steel; I will bandy with thee in faction; I will o’errun thee with policy; I will kill thee a hundred and fifty ways: therefore tremble and depart.
+He, sir, that must marry this woman. Therefore, you clown, abandon—which is in the vulgar leave—the society—which in the boorish is company—of this female—which in the common is woman; which together is, abandon the society of this female, or, clown, thou perishest; or to thy better understanding, diest; or (to wit) I kill thee, make thee away, translate thy life into death, thy liberty into bondage. I will deal in poison with thee, or in bastinado, or in steel; I will bandy with thee in faction; I will o’errun thee with policy; I will kill thee a hundred and fifty ways: therefore tremble and depart.
 
 AUD.
 Do, good William.
@@ -3340,7 +3337,7 @@ Trip, Audrey, trip, Audrey! I attend, I attend.
 Exeunt.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 Another part of the Forest of Arden.
@@ -3350,7 +3347,7 @@ Enter Orlando and Oliver.
 ORL.
 Is’t possible that on so little acquaintance you should like her? That but seeing, you should love her? And loving, woo? And wooing, she should grant? And will you persever to enjoy her?
 
-OLI.
+OLIV.
 Neither call the giddiness of it in question, the poverty of her, the small acquaintance, my sudden wooing, nor her sudden consenting; but say with me, I love Aliena; say with her that she loves me; consent with both that we may enjoy each other. It shall be to your good; for my father’s house and all the revenue that was old Sir Rowland’s will I estate upon you, and here live and die a shepherd.
 
 Enter Rosalind.
@@ -3361,7 +3358,7 @@ You have my consent. Let your wedding be tomorrow; thither will I invite the Duk
 ROS.
 God save you, brother.
 
-OLI.
+OLIV.
 And you, fair sister.
 
 Exit.
@@ -3397,7 +3394,7 @@ ORL.
 I can live no longer by thinking.
 
 ROS.
-I will weary you then no longer with idle talking. Know of me then —for now I speak to some purpose— that I know you are a gentleman of good conceit. I speak not this that you should bear a good opinion of my knowledge, insomuch I say I know you are; neither do I labor for a greater esteem than may in some little measure draw a belief from you, to do yourself good, and not to grace me. Believe then, if you please, that I can do strange things. I have, since I was three year old, convers’d with a magician, most profound in his art, and yet not damnable. If you do love Rosalind so near the heart as your gesture cries it out, when your brother marries Aliena, shall you marry her. I know into what straits of fortune she is driven, and it is not impossible to me, if it appear not inconvenient to you, to set her before your eyes tomorrow, human as she is, and without any danger.
+I will weary you then no longer with idle talking. Know of me then (for now I speak to some purpose) that I know you are a gentleman of good conceit. I speak not this that you should bear a good opinion of my knowledge, insomuch I say I know you are; neither do I labor for a greater esteem than may in some little measure draw a belief from you, to do yourself good, and not to grace me. Believe then, if you please, that I can do strange things. I have, since I was three year old, convers’d with a magician, most profound in his art, and yet not damnable. If you do love Rosalind so near the heart as your gesture cries it out, when your brother marries Aliena, shall you marry her. I know into what straits of fortune she is driven, and it is not impossible to me, if it appear not inconvenient to you, to set her before your eyes tomorrow, human as she is, and without any danger.
 
 ORL.
 Speak’st thou in sober meanings?
@@ -3507,7 +3504,7 @@ Nor I.
 Exeunt.
 
 
-### Scene 3
+### Act 5, Scene 3
 
 
 Another part of the Forest of Arden.
@@ -3568,7 +3565,7 @@ By my troth, yes; I count it but time lost to hear such a foolish song. God buy 
 Exeunt.
 
 
-### Scene 4
+### Act 5, Scene 4
 
 
 Another part of the Forest of Arden.
@@ -3682,7 +3679,7 @@ JAQ.
 But for the seventh cause—how did you find the quarrel on the seventh cause?
 
 TOUCH.
-Upon a lie seven times remov’d —bear your body more seeming, Audrey—, as thus, sir. I did dislike the cut of a certain courtier’s beard. He sent me word, if I said his beard was not cut well, he was in the mind it was: this is call’d the Retort Courteous. If I sent him word again, it was not well cut, he would send me word he cut it to please himself: this is call’d the Quip Modest. If again, it was not well cut, he disabled my judgment: this is call’d the Reply Churlish. If again, it was not well cut, he would answer I spake not true: this is call’d the Reproof Valiant. If again, it was not well cut, he would say I lie: this is call’d the Countercheck Quarrelsome; and so to Lie Circumstantial and the Lie Direct.
+Upon a lie seven times remov’d (bear your body more seeming, Audrey), as thus, sir. I did dislike the cut of a certain courtier’s beard. He sent me word, if I said his beard was not cut well, he was in the mind it was: this is call’d the Retort Courteous. If I sent him word again, it was not well cut, he would send me word he cut it to please himself: this is call’d the Quip Modest. If again, it was not well cut, he disabled my judgment: this is call’d the Reply Churlish. If again, it was not well cut, he would answer I spake not true: this is call’d the Reproof Valiant. If again, it was not well cut, he would say I lie: this is call’d the Countercheck Quarrelsome; and so to Lie Circumstantial and the Lie Direct.
 
 JAQ.
 And how oft did you say his beard was not well cut?
@@ -3854,8 +3851,10 @@ Exeunt all but Rosalind.
 
 ### Epilogue
 
+
+
 ROS.
-It is not the fashion to see the lady the epilogue; but it is no more unhandsome than to see the lord the prologue. If it be true that good wine needs no bush, ’tis true that a good play needs no epilogue. Yet to good wine they do use good bushes; and good plays prove the better by the help of good epilogues. What a case am I in then, that am neither a good epilogue, nor cannot insinuate with you in the behalf of a good play! I am not furnish’d like a beggar, therefore to beg will not become me. My way is to conjure you, and I’ll begin with the women. I charge you, O women, for the love you bear to men, to like as much of this play as please you; and I charge you, O men, for the love you bear to women —as I perceive by your simp’ring, none of you hates them—, that between you and the women the play may please. If I were a woman I would kiss as many of you as had beards that pleas’d me, complexions that lik’d me, and breaths that I defied not; and I am sure, as many as have good beards, or good faces, or sweet breaths, will for my kind offer, when I make curtsy, bid me farewell.
+It is not the fashion to see the lady the epilogue; but it is no more unhandsome than to see the lord the prologue. If it be true that good wine needs no bush, ’tis true that a good play needs no epilogue. Yet to good wine they do use good bushes; and good plays prove the better by the help of good epilogues. What a case am I in then, that am neither a good epilogue, nor cannot insinuate with you in the behalf of a good play! I am not furnish’d like a beggar, therefore to beg will not become me. My way is to conjure you, and I’ll begin with the women. I charge you, O women, for the love you bear to men, to like as much of this play as please you; and I charge you, O men, for the love you bear to women (as I perceive by your simp’ring, none of you hates them), that between you and the women the play may please. If I were a woman I would kiss as many of you as had beards that pleas’d me, complexions that lik’d me, and breaths that I defied not; and I am sure, as many as have good beards, or good faces, or sweet breaths, will for my kind offer, when I make curtsy, bid me farewell.
 
 Exit.
 

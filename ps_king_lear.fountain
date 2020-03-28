@@ -2,8 +2,8 @@ Title: King Lear
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -15,40 +15,40 @@ Notes:
 >_Cast of Characters_<
 
 |Lear, King of Britain (LEAR.): | 
-|King of France (FRANCE.): | 
-|Duke of Burgundy (BUR.): | 
-|Duke of Cornwall (CORN.): | 
-|Duke of Albany (ALB.): | 
 |Earl of Kent (KENT.): | 
 |Earl of Gloucester (GLOU.): | 
 |Edgar (EDG.): | 
 |Edmund (EDM.): | 
-|Curan (CUR.): | 
-|Oswald (OSW.): | 
+|Duke of Albany (ALB.): | 
 |Fool (FOOL.): | 
-|Goneril (GON.): | 
+|Duke of Cornwall (CORN.): | 
+|Oswald (OSW.): | 
+|King of France (FRANCE.): | 
 |Regan (REG.): | 
+|Goneril (GON.): | 
 |Cordelia (COR.): | 
-|Old Man (OLD MAN.): | 
 |Doctor (DOCT.): | 
+|Duke of Burgundy (BUR.): | 
+|Old Man (OLD MAN.): | 
 |Herald (HER.): | 
-|Knight (KNIGHT.): | 
-|First Captain (1. CAPT.): | 
-|Second Captain (2. CAPT.): | 
-|First Servant (1. SERV.): | 
-|Second Servant (2. SERV.): | 
-|Third Servant (3. SERV.): | 
+|Curan (CUR.): | 
 |First Gentleman (1. GENT.): | 
 |Second Gentleman (2. GENT.): | 
 |First Messenger (1. MESS.): | 
 |Second Messenger (2. MESS.): | 
 |French Messenger (FR. MESS.): | 
+|First Servant (1. SERV.): | 
+|Second Servant (2. SERV.): | 
+|Third Servant (3. SERV.): | 
+|Knight (KNIGHT.): | 
+|First Captain (1. CAPT.): | 
+|Second Captain (2. CAPT.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 King Lear’s palace.
@@ -123,8 +123,8 @@ May be prevented now. The princes, France and Burgundy,
 Great rivals in our youngest daughter’s love,
 Long in our court have made their amorous sojourn,
 And here are to be answer’d. Tell me, my daughters
-—Since now we will divest us both of rule,
-Interest of territory, cares of state—,
+(Since now we will divest us both of rule,
+Interest of territory, cares of state),
 Which of you shall we say doth love us most,
 That we our largest bounty may extend
 Where nature doth with merit challenge? Goneril,
@@ -545,7 +545,7 @@ We must do something, and i’ th’ heat.
 Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 The Earl of Gloucester’s castle.
@@ -622,11 +622,8 @@ I hope, for my brother’s justification, he wrote this but as an essay or taste
 GLOU.
 (Reads.)
 *“This policy and reverence of age makes the world bitter to the best of our times; keeps our fortunes from us till our oldness cannot relish them. I begin to find an idle and fond bondage in the oppression of aged tyranny, who sways, not as it hath power, but as it is suffer’d. Come to me, that of this I may speak more. If our father would sleep till I wak’d him, you should enjoy half his revenue forever, and live the belov’d of your brother. Edgar.”* 
-
 Hum? Conspiracy?
-
 *“Sleep till I wake him, you should enjoy half his revenue.”* 
-
 My son Edgar! Had he a hand to write this? A heart and brain to breed it in?—When came you to this? Who brought it?
 
 EDM.
@@ -750,7 +747,7 @@ All with me’s meet that I can fashion fit.
 Exit.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 The Duke of Albany’s palace.
@@ -803,7 +800,7 @@ To hold my very course. Prepare for dinner.
 Exeunt.
 
 
-### Scene 4
+### Act 1, Scene 4
 
 
 A hall in the Duke of Albany’s palace.
@@ -1069,9 +1066,9 @@ FOOL.
 Why, after I have cut the egg i’ th’ middle and eat up the meat, the two crowns of the egg. When thou clovest thy crown i’ th’ middle and gav’st away both parts, thou bor’st thine ass on thy back o’er the dirt. Thou hadst little wit in thy bald crown when thou gav’st thy golden one away. If I speak like myself in this, let him be whipt that first finds it so.
 (Sings.)
 ~“Fools had ne’er less grace in a year,
-~^2 For wise men are grown foppish,
+~For wise men are grown foppish,
 ~And know not how their wits to wear,
-~^2 Their manners are so apish.”
+~Their manners are so apish.”
 
 LEAR.
 When were you wont to be so full of songs, sirrah?
@@ -1080,9 +1077,9 @@ FOOL.
 I have us’d it, nuncle, e’er since thou mad’st thy daughters thy mothers, for when thou gav’st them the rod, and put’st down thine own breeches,
 (Sings.)
 ~“Then they for sudden joy did weep,
-~^2 And I for sorrow sung,
+~And I for sorrow sung,
 ~That such a king should play bo-peep,
-~^2 And go the fools among.”
+~And go the fools among.”
 Prithee, nuncle, keep a schoolmaster that can teach thy Fool to lie—I would fain learn to lie.
 
 LEAR.
@@ -1124,10 +1121,8 @@ Will call discreet proceeding.
 
 FOOL.
 ^6 For you know, nuncle,
-
 *“The hedge-sparrow fed the cuckoo so long,* 
 *That it had it head bit off by it young.”* 
-
 So out went the candle, and we were left darkling.
 
 LEAR.
@@ -1135,7 +1130,7 @@ Are you our daughter?
 
 GON.
 I would you would make use of your good wisdom
-—Whereof I know you are fraught— and put away
+(Whereof I know you are fraught) and put away
 These dispositions which of late transport you
 From what you rightly are.
 
@@ -1356,7 +1351,7 @@ Well, well, th’ event.
 Exeunt.
 
 
-### Scene 5
+### Act 1, Scene 5
 
 
 Court before the palace.
@@ -1464,8 +1459,8 @@ Exit.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 The Earl of Gloucester’s castle.
@@ -1591,8 +1586,8 @@ I threaten’d to discover him; he replied,
 If I would stand against thee, would the reposal
 Of any trust, virtue, or worth in thee
 Make thy words faith’d? No. What I should deny
-—As this I would, ay, though thou didst produce
-My very character—, I’ld turn it all
+(As this I would, ay, though thou didst produce
+My very character), I’ld turn it all
 To thy suggestion, plot, and damned practice;
 And thou must make a dullard of the world
 If they not thought the profits of my death
@@ -1615,7 +1610,7 @@ Enter Cornwall, Regan, and Attendants.
 
 CORN.
 How now, my noble friend? Since I came hither
-—Which I can call but now— I have heard strange news.
+(Which I can call but now) I have heard strange news.
 
 REG.
 If it be true, all vengeance comes too short
@@ -1706,7 +1701,7 @@ Your Graces are right welcome.
 Flourish. Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 Before Gloucester’s castle.
@@ -1837,7 +1832,7 @@ That in the natures of their lords rebel,
 Being oil to fire, snow to the colder moods;
 Renege, affirm, and turn their halcyon beaks
 With every gale and vary of their masters,
-Knowing nought —like dogs— but following.
+Knowing nought (like dogs) but following.
 A plague upon your epileptic visage!
 Smile you my speeches, as I were a fool?
 Goose, and I had you upon Sarum plain,
@@ -1996,7 +1991,6 @@ Of my obscured course;
 *“—and shall find time* 
 *From this enormous state—seeking to give* 
 *Losses their remedies.”—* 
-
 All weary and o’erwatch’d,
 Take vantage, heavy eyes, not to behold
 This shameful lodging.
@@ -2005,7 +1999,7 @@ Fortune, good night; smile once more, turn thy wheel.
 Sleeps.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 A wood.
@@ -2038,7 +2032,7 @@ That’s something yet: Edgar I nothing am.
 Exit.
 
 
-### Scene 4
+### Act 2, Scene 4
 
 
 Before Gloucester’s castle.
@@ -2130,14 +2124,12 @@ The shame which here it suffers.
 
 FOOL.
 Winter’s not gone yet, if the wild geese fly that way.
-
 *Fathers that wear rags* 
 ^2 *Do make their children blind,* 
 *But fathers that bear bags* 
 ^2 *Shall see their children kind.* 
 *Fortune, that arrant whore,* 
 ^2 *Ne’er turns the key to th’ poor.* 
-
 But for all this, thou shalt have as many dolors for thy daughters as thou canst tell in a year.
 
 LEAR.
@@ -2169,15 +2161,14 @@ Why, Fool?
 
 FOOL.
 We’ll set thee to school to an ant, to teach thee there’s no laboring i’ th’ winter. All that follow their noses are led by their eyes but blind men, and there’s not a nose among twenty but can smell him that’s stinking. Let go thy hold when a great wheel runs down a hill, lest it break thy neck with following; but the great one that goes upward, let him draw thee after. When a wise man gives thee better counsel, give me mine again, I would have none but knaves follow it, since a fool gives it.
-
 ~That sir which serves and seeks for gain,
-~^2 And follows but for form,
+~And follows but for form,
 ~Will pack when it begins to rain,
-~^2 And leave thee in the storm.
+~And leave thee in the storm.
 ~But I will tarry, the Fool will stay,
-~^2 And let the wise man fly.
+~And let the wise man fly.
 ~The knave turns fool that runs away,
-~^2 The Fool no knave, perdie.
+~The Fool no knave, perdie.
 
 KENT.
 Where learn’d you this, Fool?
@@ -2475,7 +2466,7 @@ From those that she calls servants or from mine?
 REG.
 Why not, my lord? If then they chanc’d to slack ye,
 We could control them. If you will come to me
-—For now I spy a danger—, I entreat you
+(For now I spy a danger), I entreat you
 To bring but five and twenty; to no more
 Will I give place or notice.
 
@@ -2602,8 +2593,8 @@ Exeunt.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 A heath.
@@ -2644,8 +2635,8 @@ KENT.
 ^5 Sir, I do know you,
 And dare upon the warrant of my note
 Commend a dear thing to you. There is division
-—Although as yet the face of it is cover’d
-With mutual cunning— ’twixt Albany and Cornwall;
+(Although as yet the face of it is cover’d
+With mutual cunning) ’twixt Albany and Cornwall;
 Who have—as who have not, that their great stars
 Thron’d and set high?—servants, who seem no less,
 Which are to France the spies and speculations
@@ -2653,7 +2644,7 @@ Intelligent of our state. What hath been seen,
 Either in snuffs and packings of the Dukes,
 Or the hard rein which both of them hath borne
 Against the old kind King; or something deeper,
-Whereof —perchance— these are but furnishings—
+Whereof (perchance) these are but furnishings—
 But true it is, from France there comes a power
 Into this scattered kingdom, who already
 Wise in our negligence, have secret feet
@@ -2676,7 +2667,7 @@ KENT.
 For confirmation that I am much more
 Than my out-wall, open this purse and take
 What it contains. If you shall see Cordelia
-—As fear not but you shall—, show her this ring,
+(As fear not but you shall), show her this ring,
 And she will tell you who that fellow is
 That yet you do not know. Fie on this storm!
 I will go seek the King.
@@ -2693,7 +2684,7 @@ Holla the other.
 Exeunt severally.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 Another part of the heath.
@@ -2729,7 +2720,6 @@ So old and white as this. O, ho! ’Tis foul.
 
 FOOL.
 He that has a house to put ’s head in has a good head-piece.
-
 *The codpiece that will house* 
 ^2 *Before the head has any,* 
 *The head and he shall louse:* 
@@ -2738,7 +2728,6 @@ He that has a house to put ’s head in has a good head-piece.
 ^2 *What he his heart should make,* 
 *Shall of a corn cry woe,* 
 ^2 *And turn his sleep to wake.* 
-
 For there was never yet fair woman but she made mouths in a glass.
 
 Enter Kent disguised as Caius.
@@ -2781,9 +2770,9 @@ KENT.
 Gracious my lord, hard by here is a hovel,
 Some friendship will it lend you ’gainst the tempest.
 Repose you there, while I to this hard house
-—More harder than the stones whereof ’tis rais’d,
+(More harder than the stones whereof ’tis rais’d,
 Which even but now, demanding after you,
-Denied me to come in— return, and force
+Denied me to come in) return, and force
 Their scanted courtesy.
 
 LEAR.
@@ -2809,7 +2798,6 @@ Exit with Kent.
 
 FOOL.
 This is a brave night to cool a courtezan. I’ll speak a prophecy ere I go:
-
 *When priests are more in word than matter;* 
 *When brewers mar their malt with water;* 
 *When nobles are their tailors’ tutors;* 
@@ -2824,13 +2812,12 @@ This is a brave night to cool a courtezan. I’ll speak a prophecy ere I go:
 *And bawds and whores do churches build;* 
 *Then comes the time, who lives to see’t,* 
 *That going shall be us’d with feet.* 
-
 This prophecy Merlin shall make, for I live before his time.
 
 Exit.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 Gloucester’s castle.
@@ -2844,7 +2831,7 @@ EDM.
 Most savage and unnatural!
 
 GLOU.
-Go to; say you nothing. There is division between the Dukes, and a worse matter than that. I have receiv’d a letter this night—’tis dangerous to be spoken; I have lock’d the letter in my closet. These injuries the King now bears will be reveng’d home; there is part of a power already footed: we must incline to the King. I will look him and privily relieve him. Go you and maintain talk with the Duke, that my charity be not of him perceiv’d. If he ask for me, I am ill and gone to bed. If I die for’t —as no less is threat’ned me—, the King my old master must be reliev’d. There is strange things toward, Edmund, pray you be careful.
+Go to; say you nothing. There is division between the Dukes, and a worse matter than that. I have receiv’d a letter this night—’tis dangerous to be spoken; I have lock’d the letter in my closet. These injuries the King now bears will be reveng’d home; there is part of a power already footed: we must incline to the King. I will look him and privily relieve him. Go you and maintain talk with the Duke, that my charity be not of him perceiv’d. If he ask for me, I am ill and gone to bed. If I die for’t (as no less is threat’ned me), the King my old master must be reliev’d. There is strange things toward, Edmund, pray you be careful.
 
 Exit.
 
@@ -2858,7 +2845,7 @@ The younger rises when the old doth fall.
 Exit.
 
 
-### Scene 4
+### Act 3, Scene 4
 
 
 The heath. Before a hovel.
@@ -3024,11 +3011,9 @@ What are you there? Your names?
 
 EDG.
 Poor Tom, that eats the swimming frog, the toad, the tadpole, the wall-newt, and the water; that in the fury of his heart, when the foul fiend rages, eats cow-dung for sallets; swallows the old rat and the ditch-dog; drinks the green mantle of the standing pool; who is whipt from tithing to tithing, and stock-punish’d and imprison’d; who hath had three suits to his back, six shirts to his body—
-
 ^2 *Horse to ride, and weapon to wear;* 
 ^2 *But mice and rats, and such small deer,* 
 ^2 *Have been Tom’s food for seven long year.* 
-
 Beware my follower. Peace, Smulkin, peace, thou fiend!
 
 GLOU.
@@ -3129,7 +3114,7 @@ EDG.
 Exeunt.
 
 
-### Scene 5
+### Act 3, Scene 5
 
 
 Gloucester’s castle.
@@ -3167,7 +3152,7 @@ I will lay trust upon thee; and thou shalt find a dearer father in my love.
 Exeunt.
 
 
-### Scene 6
+### Act 3, Scene 6
 
 
 A chamber in a farmhouse adjoining the castle.
@@ -3220,8 +3205,8 @@ Look where he stands and glares! Want’st thou eyes at trial, madam?
 
 FOOL.
 (Sings.)
-~^2 Her boat hath a leak,
-~^2 And she must not speak
+~Her boat hath a leak,
+~And she must not speak
 ~Why she dares not come over to thee.
 
 EDG.
@@ -3246,9 +3231,9 @@ EDG.
 ^2 Let us deal justly.
 (Sings.)
 ~Sleepest or wakest thou, jolly shepherd?
-~^2 Thy sheep be in the corn,
+~Thy sheep be in the corn,
 ~And for one blast of thy minikin mouth,
-~^2 Thy sheep shall take no harm.
+~Thy sheep shall take no harm.
 ~Purr the cat is grey.
 
 LEAR.
@@ -3287,7 +3272,6 @@ Trey, Blanch, and Sweetheart, see, they bark at me.
 
 EDG.
 Tom will throw his head at them. Avaunt, you curs!
-
 *Be thy mouth or black or white,* 
 *Tooth that poisons if it bite;* 
 *Mastiff, greyhound, mongrel grim,* 
@@ -3296,7 +3280,6 @@ Tom will throw his head at them. Avaunt, you curs!
 *Tom will make him weep and wail,* 
 *For with throwing thus my head,* 
 *Dogs leapt the hatch, and all are fled.* 
-
 Do de, de, de. Sessa! Come, march to wakes and fairs and market towns. Poor Tom, thy horn is dry.
 
 LEAR.
@@ -3366,7 +3349,7 @@ Lurk, lurk.
 Exit.
 
 
-### Scene 7
+### Act 3, Scene 7
 
 
 Gloucester’s castle.
@@ -3618,8 +3601,8 @@ Exeunt severally.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 A heath.
@@ -3780,7 +3763,7 @@ Poor Tom shall lead thee.
 Exeunt.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 Before the Duke of Albany’s palace.
@@ -3815,7 +3798,7 @@ Hasten his musters and conduct his pow’rs.
 I must change names at home, and give the distaff
 Into my husband’s hands. This trusty servant
 Shall pass between us. Ere long you are like to hear
-—If you dare venture in your own behalf—
+(If you dare venture in your own behalf) 
 A mistress’s command. Wear this; spare speech.
 Decline your head: this kiss, if it durst speak,
 Would stretch thy spirits up into the air.
@@ -3972,7 +3955,7 @@ Tell me what more thou know’st.
 Exeunt.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 The French camp near Dover.
@@ -4080,7 +4063,7 @@ Along with me.
 Exeunt.
 
 
-### Scene 4
+### Act 4, Scene 4
 
 
 The French camp near Dover. A tent.
@@ -4135,7 +4118,7 @@ Soon may I hear and see him!
 Exeunt.
 
 
-### Scene 5
+### Act 4, Scene 5
 
 
 Gloucester’s Castle.
@@ -4228,7 +4211,7 @@ REG.
 Exeunt.
 
 
-### Scene 6
+### Act 4, Scene 6
 
 
 Fields near Dover.
@@ -4337,7 +4320,7 @@ GLOU.
 
 EDG.
 Hadst thou been aught but goss’mer, feathers, air
-—So many fathom down precipitating—,
+(So many fathom down precipitating),
 Thou’dst shiver’d like an egg: but thou dost breathe,
 Hast heavy substance, bleed’st not, speak’st, art sound.
 Ten masts at each make not the altitude
@@ -4692,8 +4675,7 @@ Leave, gentle wax, and, manners, blame us not:
 To know our enemies’ minds, we rip their hearts,
 Their papers is more lawful.
 (Reads the letter.)
-*“Let our reciprocal vows be rememb’red. You have many opportunities to cut him off; if your will want not, time and place will be fruitfully offer’d. There is nothing done, if he return the conqueror; then am I the prisoner, and his bed my jail; from the loath’d warmth whereof deliver me, and supply the place for your labor. Your —wife, so I would say— affectionate servant, Goneril.”* 
-
+*“Let our reciprocal vows be rememb’red. You have many opportunities to cut him off; if your will want not, time and place will be fruitfully offer’d. There is nothing done, if he return the conqueror; then am I the prisoner, and his bed my jail; from the loath’d warmth whereof deliver me, and supply the place for your labor. Your (wife, so I would say) affectionate servant, Goneril.”* 
 O indistinguish’d space of woman’s will!:
 A plot upon her virtuous husband’s life,
 And the exchange my brother! Here, in the sands,
@@ -4721,7 +4703,7 @@ Come, father, I’ll bestow you with a friend.
 Exeunt.
 
 
-### Scene 7
+### Act 4, Scene 7
 
 
 The French camp near Dover. A tent.
@@ -4859,7 +4841,7 @@ Yet I am doubtful: for I am mainly ignorant
 What place this is, and all the skill I have
 Remembers not these garments; nor I know not
 Where I did lodge last night. Do not laugh at me,
-For —as I am a man— I think this lady
+For (as I am a man) I think this lady
 To be my child Cordelia.
 
 COR.
@@ -4869,7 +4851,7 @@ LEAR.
 Be your tears wet? Yes, faith. I pray weep not.
 If you have poison for me, I will drink it.
 I know you do not love me, for your sisters
-Have —as I do remember— done me wrong:
+Have (as I do remember) done me wrong:
 You have some cause, they have not.
 
 COR.
@@ -4933,8 +4915,8 @@ Exit.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 The British camp near Dover.
@@ -5100,7 +5082,7 @@ Stands on me to defend, not to debate.
 Exit.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 The battlefield between the two camps.
@@ -5143,7 +5125,7 @@ GLOU.
 Exeunt.
 
 
-### Scene 3
+### Act 5, Scene 3
 
 
 The British camp near Dover.
@@ -5516,20 +5498,20 @@ EDG.
 By nursing them, my lord. List a brief tale,
 And when ’tis told, O that my heart would burst!
 The bloody proclamation to escape,
-That follow’d me so near —O, our lives’ sweetness!
+That follow’d me so near (O, our lives’ sweetness!
 That we the pain of death would hourly die
-Rather than die at once!—, taught me to shift
+Rather than die at once!), taught me to shift
 Into a madman’s rags, t’ assume a semblance
 That very dogs disdain’d; and in this habit
 Met I my father with his bleeding rings,
 Their precious stones new lost; became his guide,
 Led him, begg’d for him, sav’d him from despair;
-Never —O fault!— reveal’d myself unto him,
+Never (O fault!) reveal’d myself unto him,
 Until some half hour past, when I was arm’d.
 Not sure, though hoping, of this good success,
 I ask’d his blessing, and from first to last
 Told him our pilgrimage. But his flaw’d heart
-—Alack, too weak the conflict to support!—
+(Alack, too weak the conflict to support!) 
 ’Twixt two extremes of passion, joy and grief,
 Burst smilingly.
 
@@ -5635,7 +5617,7 @@ Even so. Cover their faces.
 EDM.
 I pant for life. Some good I mean to do,
 Despite of mine own nature. Quickly send
-—Be brief in it— to th’ castle, for my writ
+(Be brief in it) to th’ castle, for my writ
 Is on the life of Lear and on Cordelia.
 Nay, send in time.
 

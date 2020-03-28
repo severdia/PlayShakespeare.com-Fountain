@@ -2,8 +2,8 @@ Title: Henry IV, Pt. 1
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,48 +14,48 @@ Notes:
 
 >_Cast of Characters_<
 
-|Sir John Falstaff (FAL.): | 
-|Sir Richard Vernon (VER.): | 
-|Owen Glendower (GLEND.): | 
-|Archibald, Earl of Douglas (DOUG.): | 
-|Richard Scroop, Archbishop of York (ARCH.): | 
-|Edmund Mortimer, Earl of March (MORT.): | 
-|Henry Percy (HOT.): | 
-|Henry Percy, Earl of Northumberland (NORTH.): | 
-|Thomas Percy, Earl of Worcester (WOR.): | 
-|Sir Walter Blunt (BLUNT.): | 
-|Earl of Westmorland (WEST.): | 
-|Prince John of Lancaster (LAN.): | 
 |Henry, Prince of Wales (PRINCE.): | 
 |King Henry IV (KING.): | 
-|Lady Mortimer (LADY MORT.): | 
-|Lady Percy (LADY P.): | 
-|Bardolph (BARD.): | 
-|Peto (PETO.): | 
-|Gadshill (GADS.): | 
+|Henry Percy (HOT.): | 
+|Thomas Percy, Earl of Worcester (WOR.): | 
+|Sir John Falstaff (FAL.): | 
+|Owen Glendower (GLEND.): | 
+|Sir Richard Vernon (VER.): | 
+|Edmund Mortimer, Earl of March (MORT.): | 
+|Archibald, Earl of Douglas (DOUG.): | 
+|Sir Walter Blunt (BLUNT.): | 
+|Earl of Westmorland (WEST.): | 
 |Edward Poins (POINS.): | 
+|Richard Scroop, Archbishop of York (ARCH.): | 
+|Henry Percy, Earl of Northumberland (NORTH.): | 
+|Gadshill (GADS.): | 
+|Bardolph (BARD.): | 
+|Francis (FRAN.): | 
+|Peto (PETO.): | 
 |Sir Michael (SIR M.): | 
+|Prince John of Lancaster (LAN.): | 
+|Lady Percy (LADY P.): | 
+|Hostess (HOST.): | 
+|Chamberlain (CHAM.): | 
+|Vintner (VINT.): | 
 |Ostler (OST.): | 
 |Sheriff (SHER.): | 
+|First Messenger (1. MESS.): | 
+|Second Messenger (2. MESS.): | 
+|Third Messenger (3. MESS.): | 
+|Servant (SERV.): | 
 |First Carrier (1. CAR.): | 
 |Second Carrier (2. CAR.): | 
 |First Traveler (1. TRAV.): | 
 |Second Traveler (2. TRAV.): | 
-|Servant (SERV.): | 
-|Francis (FRAN.): | 
-|Hostess (HOST.): | 
-|First Messenger (1. MESS.): | 
-|Second Messenger (2. MESS.): | 
-|Third Messenger (3. MESS.): | 
-|Chamberlain (CHAM.): | 
-|Vintner (VINT.): | 
+|Lady Mortimer (L. MORT.): | 
 |Welsh Ladies (WEL. LAD.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 London. The palace.
@@ -193,7 +193,7 @@ I will, my liege.
 Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 London. An apartment of the Prince’s.
@@ -353,7 +353,7 @@ POINS.
 Sir John, I prithee leave the Prince and me alone, I will lay him down such reasons for this adventure that he shall go.
 
 FAL.
-Well, God give thee the spirit of persuasion and him the ears of profiting, that what thou speakest may move and what he hears may be believ’d, that the true prince may —for recreation sake— prove a false thief, for the poor abuses of the time want countenance. Farewell, you shall find me in Eastcheap.
+Well, God give thee the spirit of persuasion and him the ears of profiting, that what thou speakest may move and what he hears may be believ’d, that the true prince may (for recreation sake) prove a false thief, for the poor abuses of the time want countenance. Farewell, you shall find me in Eastcheap.
 
 PRINCE.
 Farewell, the latter spring! Farewell, All-hallown summer!
@@ -417,7 +417,7 @@ Redeeming time when men think least I will.
 Exit.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 London. The palace.
@@ -614,7 +614,7 @@ By Richard, that dead is, the next of blood?
 NORTH.
 He was, I heard the proclamation.
 And then it was when the unhappy king
-—Whose wrongs in us God pardon!— did set forth
+(Whose wrongs in us God pardon!) did set forth
 Upon his Irish expedition;
 From whence he intercepted did return
 To be depos’d, and shortly murdered.
@@ -648,7 +648,7 @@ Shall it for shame be spoken in these days,
 Or fill up chronicles in time to come,
 That men of your nobility and power
 Did gage them both in an unjust behalf
-—As both of you—God pardon it!—have done—
+(As both of you—God pardon it!—have done) 
 To put down Richard, that sweet lovely rose,
 And plant this thorn, this canker, Bullingbrook?
 And shall it in more shame be further spoken,
@@ -782,7 +782,7 @@ WOR.
 Then once more to your Scottish prisoners:
 Deliver them up without their ransom straight,
 And make the Douglas’ son your only mean
-For powers in Scotland, which, for divers reasons
+For powers in Scotland, which, for diverse reasons
 Which I shall send you written, be assur’d
 Will easily be granted.
 (To Northumberland.)
@@ -857,8 +857,8 @@ Exeunt.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 Rochester. An inn yard.
@@ -950,7 +950,7 @@ CHAM.
 No, I’ll none of it, I pray thee keep that for the hangman, for I know thou worshippest Saint Nicholas as truly as a man of falsehood may.
 
 GADS.
-What talkest thou to me of the hangman? If I hang, I’ll make a fat pair of gallows; for if I hang, old Sir John hangs with me, and thou knowest he is no starveling. Tut, there are other Troyans that thou dream’st not of, the which for sport sake are content to do the profession some grace, that would —if matters should be look’d into— for their own credit sake make all whole. I am join’d with no foot land-rakers, no long-staff sixpenny strikers, none of these mad mustachio purple-hu’d malt-worms, but with nobility and tranquility, burgomasters and great oney’rs, such as can hold in, such as will strike sooner than speak, and speak sooner than drink, and drink sooner than pray; and yet, ’zounds, I lie, for they pray continually to their saint, the commonwealth, or rather, not pray to her, but prey on her, for they ride up and down on her, and make her their boots.
+What talkest thou to me of the hangman? If I hang, I’ll make a fat pair of gallows; for if I hang, old Sir John hangs with me, and thou knowest he is no starveling. Tut, there are other Troyans that thou dream’st not of, the which for sport sake are content to do the profession some grace, that would (if matters should be look’d into) for their own credit sake make all whole. I am join’d with no foot land-rakers, no long-staff sixpenny strikers, none of these mad mustachio purple-hu’d malt-worms, but with nobility and tranquility, burgomasters and great oney’rs, such as can hold in, such as will strike sooner than speak, and speak sooner than drink, and drink sooner than pray; and yet, ’zounds, I lie, for they pray continually to their saint, the commonwealth, or rather, not pray to her, but prey on her, for they ride up and down on her, and make her their boots.
 
 CHAM.
 What, the commonwealth their boots? Will she hold out water in foul way?
@@ -973,7 +973,7 @@ Go to, homo is a common name to all men. Bid the ostler bring my gelding out of 
 Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 A highway near Gadshill.
@@ -1155,7 +1155,7 @@ How the fat rogue roar’d!
 Exeunt.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 Warkworth castle.
@@ -1164,15 +1164,10 @@ Enter Hotspur solus, reading a letter.
 
 HOT.
 *“But, for mine own part, my lord, I could be well contented to be there, in respect of the love I bear your house.”* 
-
 He could be contented: why is he not then? In the respect of the love he bears our house: he shows in this, he loves his own barn better than he loves our house. Let me see some more.
-
 *“The purpose you undertake is dangerous”* 
-
 —why, that’s certain. ’Tis dangerous to take a cold, to sleep, to drink, but I tell you, my lord fool, out of this nettle, danger, we pluck this flower, safety.
-
 *“The purpose you undertake is dangerous, the friends you have nam’d uncertain, the time itself unsorted, and your whole plot too light for the counterpoise of so great an opposition.”* 
-
 Say you so, say you so? I say unto you again, you are a shallow, cowardly hind, and you lie. What a lack-brain is this! By the Lord, our plot is a good plot as ever was laid, our friends true and constant: a good plot, good friends, and full of expectation; an excellent plot, very good friends. What a frosty-spirited rogue is this! Why, my Lord of York commends the plot and the general course of the action. ’Zounds, and I were now by this rascal, I could brain him with his lady’s fan. Is there not my father, my uncle, and myself? Lord Edmund Mortimer, my Lord of York, and Owen Glendower? Is there not besides the Douglas? Have I not all their letters to meet me in arms by the ninth of the next month? And are they not some of them set forward already? What a pagan rascal is this! An infidel! Ha, you shall see now in very sincerity of fear and cold heart will he to the King, and lay open all our proceedings. O, I could divide myself and go to buffets, for moving such a dish of skim-milk with so honorable an action! Hang him! Let him tell the King: we are prepar’d. I will set forward tonight.
 (Enter his Lady.)
 How now, Kate? I must leave you within these two hours.
@@ -1309,7 +1304,7 @@ It must of force.
 Exeunt.
 
 
-### Scene 4
+### Act 2, Scene 4
 
 
 Eastcheap. The Boar’s Head Tavern.
@@ -1323,7 +1318,7 @@ POINS.
 Where hast been, Hal?
 
 PRINCE.
-With three or four loggerheads amongst three or four score hogsheads. I have sounded the very base-string of humility. Sirrah, I am sworn brother to a leash of drawers, and can call them all by their christen names, as Tom, Dick, and Francis. They take it already upon their salvation, that though I be but Prince of Wales, yet I am the king of courtesy, and tell me flatly I am no proud Jack like Falstaff, but a Corinthian, a lad of mettle, a good boy —by the Lord, so they call me!—, and when I am King of England I shall command all the good lads in Eastcheap. They call drinking deep, dyeing scarlet, and when you breathe in your watering, they cry “hem!” and bid you play it off. To conclude, I am so good a proficient in one quarter of an hour, that I can drink with any tinker in his own language during my life. I tell thee, Ned, thou hast lost much honor that thou wert not with me in this action. But, sweet Ned—to sweeten which name of Ned, I give thee this pennyworth of sugar, clapp’d even now into my hand by an under-skinker, one that never spake other English in his life than “Eight shillings and sixpence,” and “You are welcome,” with this shrill addition, “Anon, anon, sir! Score a pint of bastard in the Half-moon,” or so. But, Ned, to drive away the time till Falstaff come, I prithee do thou stand in some by-room, while I question my puny drawer to what end he gave me the sugar, and do thou never leave calling “Francis,” that his tale to me may be nothing but “Anon.” Step aside, and I’ll show thee a president.
+With three or four loggerheads amongst three or four score hogsheads. I have sounded the very base-string of humility. Sirrah, I am sworn brother to a leash of drawers, and can call them all by their christen names, as Tom, Dick, and Francis. They take it already upon their salvation, that though I be but Prince of Wales, yet I am the king of courtesy, and tell me flatly I am no proud Jack like Falstaff, but a Corinthian, a lad of mettle, a good boy (by the Lord, so they call me!), and when I am King of England I shall command all the good lads in Eastcheap. They call drinking deep, dyeing scarlet, and when you breathe in your watering, they cry “hem!” and bid you play it off. To conclude, I am so good a proficient in one quarter of an hour, that I can drink with any tinker in his own language during my life. I tell thee, Ned, thou hast lost much honor that thou wert not with me in this action. But, sweet Ned—to sweeten which name of Ned, I give thee this pennyworth of sugar, clapp’d even now into my hand by an under-skinker, one that never spake other English in his life than “Eight shillings and sixpence,” and “You are welcome,” with this shrill addition, “Anon, anon, sir! Score a pint of bastard in the Half-moon,” or so. But, Ned, to drive away the time till Falstaff come, I prithee do thou stand in some by-room, while I question my puny drawer to what end he gave me the sugar, and do thou never leave calling “Francis,” that his tale to me may be nothing but “Anon.” Step aside, and I’ll show thee a president.
 
 Exit Poins.
 
@@ -1811,7 +1806,7 @@ HOST.
 O Jesu, he doth it as like one of these harlotry players as ever I see!
 
 FAL.
-Peace, good pint-pot, peace, good ticklebrain. Harry, I do not only marvel where thou spendest thy time, but also how thou art accompanied; for though the camomile, the more it is trodden on, the faster it grows, yet youth, the more it is wasted, the sooner it wears. That thou art my son I have partly thy mother’s word, partly my own opinion, but chiefly a villainous trick of thine eye, and a foolish hanging of thy nether lip, that doth warrant me. If then thou be son to me, here lies the point: why being son to me, art thou so pointed at? Shall the blessed sun of heaven prove a micher and eat blackberries? A question not to be ask’d. Shall the son of England prove a thief and take purses? A question to be ask’d. There is a thing, Harry, which thou hast often heard of, and it is known to many in our land by the name of pitch. This pitch —as ancient writers do report— doth defile, so doth the company thou keepest; for, Harry, now I do not speak to thee in drink, but in tears; not in pleasure, but in passion; not in words only, but in woes also. And yet there is a virtuous man whom I have often noted in thy company, but I know not his name.
+Peace, good pint-pot, peace, good ticklebrain. Harry, I do not only marvel where thou spendest thy time, but also how thou art accompanied; for though the camomile, the more it is trodden on, the faster it grows, yet youth, the more it is wasted, the sooner it wears. That thou art my son I have partly thy mother’s word, partly my own opinion, but chiefly a villainous trick of thine eye, and a foolish hanging of thy nether lip, that doth warrant me. If then thou be son to me, here lies the point: why being son to me, art thou so pointed at? Shall the blessed sun of heaven prove a micher and eat blackberries? A question not to be ask’d. Shall the son of England prove a thief and take purses? A question to be ask’d. There is a thing, Harry, which thou hast often heard of, and it is known to many in our land by the name of pitch. This pitch (as ancient writers do report) doth defile, so doth the company thou keepest; for, Harry, now I do not speak to thee in drink, but in tears; not in pleasure, but in passion; not in words only, but in woes also. And yet there is a virtuous man whom I have often noted in thy company, but I know not his name.
 
 PRINCE.
 What manner of man, and it like your Majesty?
@@ -1989,8 +1984,8 @@ Exeunt.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 Wales. Glendower’s castle.
@@ -2123,7 +2118,7 @@ To Owen Glendower; and, dear coz, to you
 The remnant northward lying off from Trent.
 And our indentures tripartite are drawn,
 Which being sealed interchangeably
-—A business that this night may execute—,
+(A business that this night may execute),
 Tomorrow, cousin Percy, you and I
 And my good Lord of Worcester will set forth
 To meet your father and the Scottish power,
@@ -2201,7 +2196,7 @@ HOT.
 Marry,
 And I am glad of it with all my heart.
 I had rather be a kitten and cry mew
-Than one of these same metre ballet-mongers.
+Than one of these same meter ballet-mongers.
 I had rather hear a brazen canstick turn’d,
 Or a dry wheel grate on the axle-tree,
 And that would set my teeth nothing an edge,
@@ -2429,7 +2424,7 @@ MORT.
 Exeunt.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 London. The palace.
@@ -2640,7 +2635,7 @@ Advantage feeds him fat while men delay.
 Exeunt.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 Eastcheap. The Boar’s Head Tavern.
@@ -2886,8 +2881,8 @@ Exit.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 The rebel camp near Shrewsbury.
@@ -3110,7 +3105,7 @@ Of death or death’s hand for this one half year.
 Exeunt.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 A public road near Coventry.
@@ -3191,7 +3186,7 @@ Fits a dull fighter and a keen guest.
 Exeunt.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 The rebel camp near Shrewsbury.
@@ -3347,8 +3342,8 @@ In short time after, he depos’d the King,
 Soon after that, depriv’d him of his life,
 And in the neck of that, task’d the whole state;
 To make that worse, suff’red his kinsman March
-—Who is, if every owner were well plac’d,
-Indeed his king— to be engag’d in Wales,
+(Who is, if every owner were well plac’d,
+Indeed his king) to be engag’d in Wales,
 There without ransom to lie forfeited;
 Disgrac’d me in my happy victories,
 Sought to entrap me by intelligence,
@@ -3382,7 +3377,7 @@ BLUNT.
 Exeunt.
 
 
-### Scene 4
+### Act 4, Scene 4
 
 
 York. The Archbishop’s palace.
@@ -3455,8 +3450,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 King Henry IV’s camp near Shrewsbury.
@@ -3636,7 +3631,7 @@ FAL.
 Exit.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 The rebel camp.
@@ -3800,7 +3795,7 @@ A second time do such a courtesy.
 Here they embrace and exeunt.
 
 
-### Scene 3
+### Act 5, Scene 3
 
 
 The plain between the camps.
@@ -3919,7 +3914,7 @@ Well, if Percy be alive, I’ll pierce him. If he do come in my way, so; if he d
 Exit.
 
 
-### Scene 4
+### Act 5, Scene 4
 
 
 Another part of the field.
@@ -4181,7 +4176,7 @@ I’ll follow, as they say, for reward. He that rewards me, God reward him! If I
 Exit.
 
 
-### Scene 5
+### Act 5, Scene 5
 
 
 Another part of the field.

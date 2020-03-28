@@ -2,8 +2,8 @@ Title: Merry Wives of Windsor
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -15,41 +15,41 @@ Notes:
 >_Cast of Characters_<
 
 |Sir John Falstaff (FAL.): | 
-|Fenton (FENT.): | 
-|Robert Shallow (SHAL.): | 
 |Francis Ford (FORD.): | 
-|George Page (PAGE.): | 
-|William Page (WILL.): | 
 |Sir Hugh Evans (EVANS.): | 
-|Mistress Alice Ford (MRS. FORD.): | 
-|Mistress Margaret Page (MRS. PAGE.): | 
-|Mistress Anne Page (ANNE.): | 
-|Mistress Quickly (QUICK.): | 
+|Fenton (FENT.): | 
+|Abraham Slender (SLEN.): | 
+|Robert Shallow (SHAL.): | 
+|Pistol (PIST.): | 
 |Doctor Caius (CAIUS.): | 
 |Host of the Garter Inn (HOST.): | 
-|Bardolph (BARD.): | 
-|Pistol (PIST.): | 
-|Nym (NYM.): | 
-|Robin (ROB.): | 
 |Peter Simple (SIM.): | 
+|Bardolph (BARD.): | 
+|Nym (NYM.): | 
 |John Rugby (RUG.): | 
-|Abraham Slender (SLEN.): | 
+|Robin (ROB.): | 
+|Mistress Quickly (QUICK.): | 
+|Mistress Alice Ford (MRS. FORD.): | 
+|Mistress Margaret Page (MRS. PAGE.): | 
+|George Page (PAGE.): | 
+|Mistress Anne Page (ANNE.): | 
+|William Page (WILL.): | 
 |First Servant (1. SERV.): | 
 |Second Servant (2. SERV.): | 
 |Children of Windsor (CHILD. WIND.): | 
 |Postmaster’s Boy (POST. BOY): | 
-|Boy (BOY): | 
+|Boy (BOY.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 Windsor. A street in front of Page’s house.
 
-Welsh Enter Justice Shallow, Slender, Sir Hugh Evans.
+Enter Justice Shallow, Slender, Sir Hugh Evans.
 
 SHAL.
 Sir Hugh, persuade me not; I will make a Star Chamber matter of it. If he were twenty Sir John Falstaffs, he shall not abuse Robert Shallow, esquire.
@@ -67,7 +67,7 @@ SHAL.
 Ay, that I do, and have done any time these three hundred years.
 
 SLEN.
-All his successors —gone before him— hath done’t; and all his ancestors —that come after him— may. They may give the dozen white luces in their coat.
+All his successors (gone before him) hath done’t; and all his ancestors (that come after him) may. They may give the dozen white luces in their coat.
 
 SHAL.
 It is an old coat.
@@ -109,7 +109,7 @@ SLEN.
 Mistress Anne Page? She has brown hair, and speaks small like a woman.
 
 EVANS.
-It is that fery person for all the orld, as just as you will desire, and seven hundred pounds of moneys, and gold, and silver, is her grandsire upon his death’s-bed —Got deliver to a joyful resurrections!— give, when she is able to overtake seventeen years old. It were a goot motion if we leave our pribbles and prabbles, and desire a marriage between Master Abraham and Mistress Anne Page.
+It is that fery person for all the orld, as just as you will desire, and seven hundred pounds of moneys, and gold, and silver, is her grandsire upon his death’s-bed (Got deliver to a joyful resurrections!) give, when she is able to overtake seventeen years old. It were a goot motion if we leave our pribbles and prabbles, and desire a marriage between Master Abraham and Mistress Anne Page.
 
 SLEN.
 Did her grandsire leave her seven hundred pound?
@@ -242,7 +242,7 @@ SLEN.
 Where’s Simple, my man? Can you tell, cousin?
 
 EVANS.
-Peace, I pray you. Now let us understand. There is three umpires in this matter, as I understand: that is, Master Page —fidelicet Master Page— and there is myself —fidelicet myself— and the three party is —lastly and finally— mine host of the Garter.
+Peace, I pray you. Now let us understand. There is three umpires in this matter, as I understand: that is, Master Page (fidelicet Master Page) and there is myself (fidelicet myself) and the three party is (lastly and finally) mine host of the Garter.
 
 PAGE.
 We three to hear it and end it between them.
@@ -296,7 +296,7 @@ EVANS.
 It is his five senses. Fie, what the ignorance is!
 
 BARD.
-And being fap, sir, was —as they say— cashier’d; and so conclusions pass’d the careers.
+And being fap, sir, was (as they say) cashier’d; and so conclusions pass’d the careers.
 
 SLEN.
 Ay, you spake in Latin then too: but ’tis no matter; I’ll ne’er be drunk whilst I live again, but in honest, civil, godly company, for this trick. If I be drunk, I’ll be drunk with those that have the fear of God, and not with drunken knaves.
@@ -369,7 +369,7 @@ SLEN.
 Why, if it be so, I will marry her upon any reasonable demands.
 
 EVANS.
-But can you affection the oman? Let us command to know that of your mouth, or of your lips; for divers philosophers hold that the lips is parcel of the mouth. Therefore precisely, can you carry your good will to the maid?
+But can you affection the oman? Let us command to know that of your mouth, or of your lips; for diverse philosophers hold that the lips is parcel of the mouth. Therefore precisely, can you carry your good will to the maid?
 
 SHAL.
 Cousin Abraham Slender, can you love her?
@@ -393,7 +393,7 @@ SLEN.
 I will marry her, sir, at your request; but if there be no great love in the beginning, yet heaven may decrease it upon better acquaintance, when we are married and have more occasion to know one another. I hope, upon familiarity will grow more content. But if you say, “Marry her,” I will marry her; that I am freely dissolv’d, and dissolutely.
 
 EVANS.
-It is a fery discretion answer, save the fall is in the ord “dissolutely.” The ort is —according to our meaning— “resolutely.” His meaning is good.
+It is a fery discretion answer, save the fall is in the ord “dissolutely.” The ort is (according to our meaning) “resolutely.” His meaning is good.
 
 SHAL.
 Ay—I think my cousin meant well.
@@ -441,7 +441,7 @@ ANNE.
 I pray you, sir, walk in.
 
 SLEN.
-I had rather walk here, I thank you. I bruis’d my shin th’ other day with playing at sword and dagger with a master of fence —three veneys for a dish of stew’d prunes— and by my troth, I cannot abide the smell of hot meat since. Why do your dogs bark so? Be there bears i’ th’ town?
+I had rather walk here, I thank you. I bruis’d my shin th’ other day with playing at sword and dagger with a master of fence (three veneys for a dish of stew’d prunes) and by my troth, I cannot abide the smell of hot meat since. Why do your dogs bark so? Be there bears i’ th’ town?
 
 ANNE.
 I think there are, sir, I heard them talk’d of.
@@ -453,7 +453,7 @@ ANNE.
 Ay indeed, sir.
 
 SLEN.
-That’s meat and drink to me, now. I have seen Sackerson loose twenty times, and have taken him by the chain; but —I warrant you— the women have so cried and shriek’d at it, that it pass’d. But women, indeed, cannot abide ’em, they are very ill-favor’d rough things.
+That’s meat and drink to me, now. I have seen Sackerson loose twenty times, and have taken him by the chain; but (I warrant you) the women have so cried and shriek’d at it, that it pass’d. But women, indeed, cannot abide ’em, they are very ill-favor’d rough things.
 
 Enter Page.
 
@@ -490,12 +490,12 @@ I’ll rather be unmannerly than troublesome. You do yourself wrong indeed la!
 Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 Windsor. A street in front of Page’s house.
 
-Welsh Enter Evans and Simple from dinner.
+Enter Evans and Simple from dinner.
 
 EVANS.
 Go your ways, and ask of Doctor Caius’ house which is the way; and there dwells one Mistress Quickly, which is in the manner of his nurse—or his dry nurse—or his cook—or his laundry—his washer and his wringer.
@@ -509,7 +509,7 @@ Nay, it is petter yet. Give her this letter; for it is a oman that altogether’
 Exeunt.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 A room in the Garter Inn.
@@ -592,7 +592,7 @@ PIST.
 Two yards, and more.
 
 FAL.
-No quips now, Pistol! Indeed I am in the waist two yards about; but I am now about no waste; I am about thrift. Briefly—I do mean to make love to Ford’s wife. I spy entertainment in her. She discourses, she carves, she gives the leer of invitation. I can construe the action of her familiar style, and the hardest voice of her behavior —to be English’d rightly— is, “I am Sir John Falstaff’s.”
+No quips now, Pistol! Indeed I am in the waist two yards about; but I am now about no waste; I am about thrift. Briefly—I do mean to make love to Ford’s wife. I spy entertainment in her. She discourses, she carves, she gives the leer of invitation. I can construe the action of her familiar style, and the hardest voice of her behavior (to be English’d rightly) is, “I am Sir John Falstaff’s.”
 
 PIST.
 He hath studied her well, and translated her will, out of honesty into English.
@@ -601,7 +601,7 @@ NYM.
 The anchor is deep. Will that humor pass?
 
 FAL.
-Now, the report goes she has all the rule of her husband’s purse. He hath a legend of angels.
+Now, the report goes she has all the rule of her husband’s purse. He hath a legion of angels.
 
 PIST.
 As many devils entertain; and “To her, boy,” say I.
@@ -663,7 +663,7 @@ I will discuss the humor of this love to Page.
 
 PIST.
 ~And I to Ford shall eke unfold
-~How Falstaff —varlet vile—
+~How Falstaff (varlet vile) 
 ~His dove will prove, his gold will hold,
 ~And his soft couch defile.
 
@@ -676,7 +676,7 @@ Thou art the Mars of malcontents. I second thee; troop on.
 Exeunt.
 
 
-### Scene 4
+### Act 1, Scene 4
 
 
 A room in Dr. Caius’s house.
@@ -718,7 +718,7 @@ SIM.
 Ay, forsooth; but he is as tall a man of his hands as any is between this and his head. He hath fought with a warrener.
 
 QUICK.
-How say you? O, I should remember him. Does he not hold up his head —as it were— and strut in his gait?
+How say you? O, I should remember him. Does he not hold up his head (as it were) and strut in his gait?
 
 SIM.
 Yes indeed does he.
@@ -820,7 +820,7 @@ Writes.
 
 QUICK.
 (Aside to Simple)
-I am glad he is so quiet. If he had been throughly mov’d, you should have heard him so loud and so melancholy. But notwithstanding, man, I’ll do you your master what good I can; and the very yea and the no is, the French doctor, my master —I may call him my master, look you, for I keep his house; and I wash, wring, brew, bake, scour, dress meat and drink, make the beds, and do all myself——
+I am glad he is so quiet. If he had been throughly mov’d, you should have heard him so loud and so melancholy. But notwithstanding, man, I’ll do you your master what good I can; and the very yea and the no is, the French doctor, my master (I may call him my master, look you, for I keep his house; and I wash, wring, brew, bake, scour, dress meat and drink, make the beds, and do all myself)—
 
 SIM.
 (Aside to Quickly)
@@ -828,7 +828,7 @@ SIM.
 
 QUICK.
 (Aside to Simple)
-Are you avis’d o’ that? You shall find it a great charge; and to be up early and down late; but notwithstanding —to tell you in your ear, I would have no words of it— my master himself is in love with Mistress Anne Page; but notwithstanding that, I know Anne’s mind—that’s neither here nor there.
+Are you avis’d o’ that? You shall find it a great charge; and to be up early and down late; but notwithstanding (to tell you in your ear, I would have no words of it) my master himself is in love with Mistress Anne Page; but notwithstanding that, I know Anne’s mind—that’s neither here nor there.
 
 CAIUS.
 You jack’nape, give-a this letter to Sir Hugh. By gar, it is a shallenge. I will cut his troat in de park; and I will teach a scurvy jack-a-nape priest to meddle or make— You may be gone; it is not good you tarry here. By gar, I will cut all his two stones; by gar, he shall not have a stone to throw at his dog.
@@ -883,7 +883,7 @@ FENT.
 Yes, marry, have I, what of that?
 
 QUICK.
-Well, thereby hangs a tale. Good faith, it is such another Nan; but —I detest— an honest maid as ever broke bread. We had an hour’s talk of that wart. I shall never laugh but in that maid’s company! But, indeed, she is given too much to allicholy and musing; but for you—well—go to.
+Well, thereby hangs a tale. Good faith, it is such another Nan; but (I detest) an honest maid as ever broke bread. We had an hour’s talk of that wart. I shall never laugh but in that maid’s company! But, indeed, she is given too much to allicholy and musing; but for you—well—go to.
 
 FENT.
 Well; I shall see her today. Hold, there’s money for thee. Let me have thy voice in my behalf. If thou seest her before me, commend me.
@@ -905,8 +905,8 @@ Exit.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 Windsor. A street in front of Page’s house.
@@ -923,8 +923,7 @@ What, have I scap’d love-letters in the holiday-time of my beauty, and am I no
 *With all his might* 
 *For thee to fight,* 
 *John Falstaff.”* 
-
-What a Herod of Jewry is this! O wicked, wicked world! One that is well-nigh worn to pieces with age to show himself a young gallant! What an unweigh’d behavior hath this Flemish drunkard pick’d —with the devil’s name!— out of my conversation, that he dares in this manner assay me? Why, he hath not been thrice in my company! What should I say to him? I was then frugal of my mirth. Heaven forgive me! Why, I’ll exhibit a bill in the parliament for the putting down of men. How shall I be reveng’d on him? For reveng’d I will be! As sure as his guts are made of puddings.
+What a Herod of Jewry is this! O wicked, wicked world! One that is well-nigh worn to pieces with age to show himself a young gallant! What an unweigh’d behavior hath this Flemish drunkard pick’d (with the devil’s name!) out of my conversation, that he dares in this manner assay me? Why, he hath not been thrice in my company! What should I say to him? I was then frugal of my mirth. Heaven forgive me! Why, I’ll exhibit a bill in the parliament for the putting down of men. How shall I be reveng’d on him? For reveng’d I will be! As sure as his guts are made of puddings.
 
 Enter Mistress Ford.
 
@@ -959,10 +958,10 @@ MRS. PAGE.
 What? Thou liest! Sir Alice Ford! These knights will hack, and so thou shouldst not alter the article of thy gentry.
 
 MRS. FORD.
-We burn daylight. Here, read, read; perceive how I might be knighted. I shall think the worse of fat men, as long as I have an eye to make difference of men’s liking: and yet he would not swear; prais’d women’s modesty; and gave such orderly and well-behav’d reproof to all uncomeliness, that I would have sworn his disposition would have gone to the truth of his words; but they do no more adhere and keep place together than the hundred Psalms to the tune of “Green-sleeves.” What tempest, I trow, threw this whale —with so many tuns of oil in his belly— ashore at Windsor? How shall I be reveng’d on him? I think the best way were to entertain him with hope, till the wicked fire of lust have melted him in his own grease. Did you ever hear the like?
+We burn daylight. Here, read, read; perceive how I might be knighted. I shall think the worse of fat men, as long as I have an eye to make difference of men’s liking: and yet he would not swear; prais’d women’s modesty; and gave such orderly and well-behav’d reproof to all uncomeliness, that I would have sworn his disposition would have gone to the truth of his words; but they do no more adhere and keep place together than the hundred Psalms to the tune of “Green-sleeves.” What tempest, I trow, threw this whale (with so many tuns of oil in his belly) ashore at Windsor? How shall I be reveng’d on him? I think the best way were to entertain him with hope, till the wicked fire of lust have melted him in his own grease. Did you ever hear the like?
 
 MRS. PAGE.
-Letter for letter; but that the name of Page and Ford differs! To thy great comfort in this mystery of ill opinions, here’s the twin-brother of thy letter; but let thine inherit first, for I protest mine never shall. I warrant he hath a thousand of these letters, writ with blank space for different names —sure, more!—; and these are of the second edition. He will print them, out of doubt; for he cares not what he puts into the press, when he would put us two. I had rather be a giantess, and lie under Mount Pelion. Well—I will find you twenty lascivious turtles ere one chaste man.
+Letter for letter; but that the name of Page and Ford differs! To thy great comfort in this mystery of ill opinions, here’s the twin-brother of thy letter; but let thine inherit first, for I protest mine never shall. I warrant he hath a thousand of these letters, writ with blank space for different names (sure, more!); and these are of the second edition. He will print them, out of doubt; for he cares not what he puts into the press, when he would put us two. I had rather be a giantess, and lie under Mount Pelion. Well—I will find you twenty lascivious turtles ere one chaste man.
 
 MRS. FORD.
 Why, this is the very same: the very hand; the very words. What doth he think of us?
@@ -980,7 +979,7 @@ MRS. FORD.
 Nay, I will consent to act any villainy against him, that may not sully the chariness of our honesty. O that my husband saw this letter! It would give eternal food to his jealousy.
 
 MRS. PAGE.
-Why, look where he comes; and my good man too. He’s as far from jealousy as I am from giving him cause, and that —I hope— is an unmeasurable distance.
+Why, look where he comes; and my good man too. He’s as far from jealousy as I am from giving him cause, and that (I hope) is an unmeasurable distance.
 
 MRS. FORD.
 You are the happier woman.
@@ -1188,7 +1187,7 @@ Though Page be a secure fool, and stands so firmly on his wife’s frailty, yet 
 Exit.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 A room in the Garter Inn.
@@ -1277,7 +1276,7 @@ FAL.
 Mistress Ford; come, Mistress Ford—
 
 QUICK.
-Marry, this is the short and the long of it: you have brought her into such a canaries as ’tis wonderful. The best courtier of them all —when the court lay at Windsor— could never have brought her to such a canary; yet there has been knights, and lords, and gentlemen, with their coaches; I warrant you, coach after coach, letter after letter, gift after gift; smelling so sweetly, all musk, and so rushling, I warrant you, in silk and gold, and in such alligant terms, and in such wine and sugar of the best, and the fairest, that would have won any woman’s heart; and I warrant you, they could never get an eye-wink of her. I had myself twenty angels given me this morning, but I defy all angels —in any such sort, as they say— but in the way of honesty; and I warrant you, they could never get her so much as sip on a cup with the proudest of them all, and yet there has been earls, nay —which is more— pensioners, but I warrant you all is one with her.
+Marry, this is the short and the long of it: you have brought her into such a canaries as ’tis wonderful. The best courtier of them all (when the court lay at Windsor) could never have brought her to such a canary; yet there has been knights, and lords, and gentlemen, with their coaches; I warrant you, coach after coach, letter after letter, gift after gift; smelling so sweetly, all musk, and so rushling, I warrant you, in silk and gold, and in such alligant terms, and in such wine and sugar of the best, and the fairest, that would have won any woman’s heart; and I warrant you, they could never get an eye-wink of her. I had myself twenty angels given me this morning, but I defy all angels (in any such sort, as they say) but in the way of honesty; and I warrant you, they could never get her so much as sip on a cup with the proudest of them all, and yet there has been earls, nay (which is more) pensioners, but I warrant you all is one with her.
 
 FAL.
 But what says she to me? Be brief, my good she-Mercury.
@@ -1295,7 +1294,7 @@ FAL.
 Ten and eleven. Woman, commend me to her, I will not fail her.
 
 QUICK.
-Why, you say well. But I have another messenger to your worship. Mistress Page hath her hearty commendations to you too; and let me tell you in your ear, she’s as fartuous a civil modest wife, and one —I tell you— that will not miss you morning nor evening prayer, as any is in Windsor, whoe’er be the other; and she bade me tell your worship that her husband is seldom from home, but she hopes there will come a time. I never knew a woman so dote upon a man; surely I think you have charms, la; yes, in truth.
+Why, you say well. But I have another messenger to your worship. Mistress Page hath her hearty commendations to you too; and let me tell you in your ear, she’s as fartuous a civil modest wife, and one (I tell you) that will not miss you morning nor evening prayer, as any is in Windsor, whoe’er be the other; and she bade me tell your worship that her husband is seldom from home, but she hopes there will come a time. I never knew a woman so dote upon a man; surely I think you have charms, la; yes, in truth.
 
 FAL.
 Not I, I assure thee. Setting the attraction of my good parts aside, I have no other charms.
@@ -1388,7 +1387,7 @@ FAL.
 Speak, good Master Brook, I shall be glad to be your servant.
 
 FORD.
-Sir, I hear you are a scholar —I will be brief with you—, and you have been a man long known to me, though I had never so good means as desire to make myself acquainted with you. I shall discover a thing to you, wherein I must very much lay open mine own imperfection; but, good Sir John, as you have one eye upon my follies, as you hear them unfolded, turn another into the register of your own, that I may pass with a reproof the easier, sith you yourself know how easy it is to be such an offender.
+Sir, I hear you are a scholar (I will be brief with you), and you have been a man long known to me, though I had never so good means as desire to make myself acquainted with you. I shall discover a thing to you, wherein I must very much lay open mine own imperfection; but, good Sir John, as you have one eye upon my follies, as you hear them unfolded, turn another into the register of your own, that I may pass with a reproof the easier, sith you yourself know how easy it is to be such an offender.
 
 FAL.
 Very well, sir, proceed.
@@ -1453,7 +1452,7 @@ FORD.
 Want no money, Sir John, you shall want none.
 
 FAL.
-Want no Mistress Ford, Master Brook, you shall want none. I shall be with her —I may tell you— by her own appointment; even as you came in to me, her assistant or go-between parted from me. I say I shall be with her between ten and eleven; for at that time the jealous rascally knave her husband will be forth. Come you to me at night, you shall know how I speed.
+Want no Mistress Ford, Master Brook, you shall want none. I shall be with her (I may tell you) by her own appointment; even as you came in to me, her assistant or go-between parted from me. I say I shall be with her between ten and eleven; for at that time the jealous rascally knave her husband will be forth. Come you to me at night, you shall know how I speed.
 
 FORD.
 I am blest in your acquaintance. Do you know Ford, sir?
@@ -1475,7 +1474,7 @@ What a damn’d Epicurean rascal is this! My heart is ready to crack with impati
 Exit.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 A field near Windsor.
@@ -1632,13 +1631,13 @@ Exeunt.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 A field near Frogmore.
 
-Welsh Enter Evans, Simple.
+Enter Evans, Simple.
 
 EVANS.
 I pray you now, good Master Slender’s servingman, and friend Simple by your name, which way have you look’d for Master Caius, that calls himself Doctor of Physic?
@@ -1819,12 +1818,12 @@ Well, I will smite his noddles. Pray you follow.
 Exeunt.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 Windsor. A street.
 
-Welsh Enter Mistress Page, Robin.
+Enter Mistress Page, Robin.
 
 MRS. PAGE.
 Nay, keep your way, little gallant; you were wont to be a follower, but now you are a leader. Whether had you rather lead mine eyes, or eye your master’s heels?
@@ -1937,12 +1936,12 @@ Have with you to see this monster.
 Exeunt.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 A room in Ford’s house.
 
-Welsh Enter Mistress Ford, Mistress Page.
+Enter Mistress Ford, Mistress Page.
 
 MRS. FORD.
 What, John! What, Robert!
@@ -1965,7 +1964,7 @@ MRS. PAGE.
 Give your men the charge, we must be brief.
 
 MRS. FORD.
-Marry, as I told you before, John and Robert, be ready here hard by in the brew-house, and when I suddenly call you, come forth, and —without any pause or staggering— take this basket on your shoulders. That done, trudge with it in all haste, and carry it among the whitsters in Datchet-mead, and there empty it in the muddy ditch close by the Thames side.
+Marry, as I told you before, John and Robert, be ready here hard by in the brew-house, and when I suddenly call you, come forth, and (without any pause or staggering) take this basket on your shoulders. That done, trudge with it in all haste, and carry it among the whitsters in Datchet-mead, and there empty it in the muddy ditch close by the Thames side.
 
 MRS. PAGE.
 You will do it?
@@ -2239,7 +2238,7 @@ FORD.
 Well, I promis’d you a dinner. Come, come, walk in the park. I pray you pardon me; I will hereafter make known to you why I have done this. Come, wife, come, Mistress Page, I pray you pardon me; pray heartly pardon me.
 
 PAGE.
-Let’s go in, gentlemen, but —trust me— we’ll mock him. I do invite you tomorrow morning to my house to breakfast; after, we’ll a-birding together. I have a fine hawk for the bush. Shall it be so?
+Let’s go in, gentlemen, but (trust me) we’ll mock him. I do invite you tomorrow morning to my house to breakfast; after, we’ll a-birding together. I have a fine hawk for the bush. Shall it be so?
 
 FORD.
 Any thing.
@@ -2267,7 +2266,7 @@ A lousy knave, to have his gibes and his mockeries!
 Exeunt.
 
 
-### Scene 4
+### Act 3, Scene 4
 
 
 A room in Page’s house.
@@ -2461,7 +2460,7 @@ A kind heart he hath. A woman would run through fire and water for such a kind h
 Exit.
 
 
-### Scene 5
+### Act 3, Scene 5
 
 
 A room in the Garter Inn.
@@ -2594,7 +2593,7 @@ FORD.
 And how long lay you there?
 
 FAL.
-Nay, you shall hear, Master Brook, what I have suffer’d to bring this woman to evil for your good. Being thus cramm’d in the basket, a couple of Ford’s knaves, his hinds, were call’d forth by their mistress to carry me in the name of foul clothes to Datchet-lane. They took me on their shoulders; met the jealous knave their master in the door, who ask’d them once or twice what they had in their basket. I quak’d for fear, lest the lunatic knave would have search’d it; but fate —ordaining he should be a cuckold— held his hand. Well, on went he for a search, and away went I for foul clothes. But mark the sequel, Master Brook. I suffer’d the pangs of three several deaths: first, an intolerable fright, to be detected with a jealous rotten bell-wether; next, to be compass’d like a good bilbo in the circumference of a peck, hilt to point, heel to head; and then to be stopp’d in like a strong distillation with stinking clothes that fretted in their own grease. Think of that—a man of my kidney. Think of that—that am as subject to heat as butter; a man of continual dissolution and thaw. It was a miracle to scape suffocation. And in the height of this bath —when I was more than half stew’d in grease, like a Dutch dish— to be thrown into the Thames, and cool’d, glowing-hot, in that surge, like a horse-shoe; think of that—hissing-hot—think of that, Master Brook.
+Nay, you shall hear, Master Brook, what I have suffer’d to bring this woman to evil for your good. Being thus cramm’d in the basket, a couple of Ford’s knaves, his hinds, were call’d forth by their mistress to carry me in the name of foul clothes to Datchet-lane. They took me on their shoulders; met the jealous knave their master in the door, who ask’d them once or twice what they had in their basket. I quak’d for fear, lest the lunatic knave would have search’d it; but fate (ordaining he should be a cuckold) held his hand. Well, on went he for a search, and away went I for foul clothes. But mark the sequel, Master Brook. I suffer’d the pangs of three several deaths: first, an intolerable fright, to be detected with a jealous rotten bell-wether; next, to be compass’d like a good bilbo in the circumference of a peck, hilt to point, heel to head; and then to be stopp’d in like a strong distillation with stinking clothes that fretted in their own grease. Think of that—a man of my kidney. Think of that—that am as subject to heat as butter; a man of continual dissolution and thaw. It was a miracle to scape suffocation. And in the height of this bath (when I was more than half stew’d in grease, like a Dutch dish) to be thrown into the Thames, and cool’d, glowing-hot, in that surge, like a horse-shoe; think of that—hissing-hot—think of that, Master Brook.
 
 FORD.
 In good sadness, sir, I am sorry that for my sake you have suffer’d all this. My suit then is desperate; you’ll undertake her no more?
@@ -2619,13 +2618,13 @@ Exit.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 Windsor. A street.
 
-Welsh Enter Mistress Page, Mistress Quickly, William.
+Enter Mistress Page, Mistress Quickly, William.
 
 MRS. PAGE.
 Is he at Master Ford’s already, think’st thou?
@@ -2775,12 +2774,12 @@ Get you home, boy. Come, we stay too long.
 Exeunt.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 A room in Ford’s house.
 
-Welsh Enter Falstaff, Mistress Ford.
+Enter Falstaff, Mistress Ford.
 
 FAL.
 Mistress Ford, your sorrow hath eaten up my sufferance. I see you are obsequious in your love, and I profess requital to a hair’s breadth, not only, Mistress Ford, in the simple office of love, but in all the accoutrement, complement, and ceremony of it. But are you sure of your husband now?
@@ -3084,7 +3083,7 @@ Come, to the forge with it, then shape it. I would not have things cool.
 Exeunt.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 A room in the Garter Inn.
@@ -3106,12 +3105,12 @@ They shall have my horses, but I’ll make them pay; I’ll sauce them. They hav
 Exeunt.
 
 
-### Scene 4
+### Act 4, Scene 4
 
 
 A room in Ford’s house.
 
-Welsh Enter Page, Ford, Mistress Page, Mistress Ford, and Evans.
+Enter Page, Ford, Mistress Page, Mistress Ford, and Evans.
 
 EVANS.
 ’Tis one of the best discretions of a oman as ever I did look upon.
@@ -3133,7 +3132,7 @@ PAGE.
 ^3 ’Tis well, ’tis well, no more.
 Be not as extreme in submission as in offense;
 But let our plot go forward. Let our wives
-Yet once again —to make us public sport—
+Yet once again (to make us public sport) 
 Appoint a meeting with this old fat fellow,
 Where we may take him, and disgrace him for it.
 
@@ -3155,7 +3154,7 @@ And let us two devise to bring him thither.
 
 MRS. PAGE.
 There is an old tale goes, that Herne the Hunter
-—Sometime a keeper here in Windsor forest—
+(Sometime a keeper here in Windsor forest) 
 Doth all the winter-time, at still midnight,
 Walk round about an oak, with great ragg’d horns,
 And there he blasts the tree, and takes the cattle,
@@ -3183,7 +3182,7 @@ What shall be done with him? What is your plot?
 
 MRS. PAGE.
 That likewise have we thought upon, and thus:
-Nan Page —my daughter— and my little son,
+Nan Page (my daughter) and my little son,
 And three or four more of their growth, we’ll dress
 Like urchins, ouphes, and fairies, green and white,
 With rounds of waxen tapers on their heads,
@@ -3248,7 +3247,7 @@ Send Quickly to Sir John, to know his mind.
 (Exit Mrs. Ford.)
 I’ll to the doctor, he hath my good will,
 And none but he, to marry with Nan Page.
-That Slender —though well landed— is an idiot;
+That Slender (though well landed) is an idiot;
 And he my husband best of all affects.
 The doctor is well money’d, and his friends
 Potent at court. He, none but he, shall have her,
@@ -3257,12 +3256,12 @@ Though twenty thousand worthier come to crave her.
 Exit.
 
 
-### Scene 5
+### Act 4, Scene 5
 
 
 A room in the Garter Inn.
 
-Welsh Enter Host, Simple.
+Enter Host, Simple.
 
 HOST.
 What wouldst thou have, boor? What, thick-skin? Speak, breathe, discuss; brief, short, quick, snap.
@@ -3424,7 +3423,7 @@ Come up into my chamber.
 Exeunt.
 
 
-### Scene 6
+### Act 4, Scene 6
 
 
 Another room in the Garter Inn.
@@ -3436,17 +3435,17 @@ Master Fenton, talk not to me, my mind is heavy; I will give over all.
 
 FENT.
 Yet hear me speak. Assist me in my purpose,
-And —as I am a gentleman— I’ll give thee
+And (as I am a gentleman) I’ll give thee
 A hundred pound in gold more than your loss.
 
 HOST.
-I will hear you, Master Fenton, and I will —at the least— keep your counsel.
+I will hear you, Master Fenton, and I will (at the least) keep your counsel.
 
 FENT.
 From time to time I have acquainted you
 With the dear love I bear to fair Anne Page,
 Who mutually hath answer’d my affection
-—So far forth as herself might be her chooser—
+(So far forth as herself might be her chooser) 
 Even to my wish. I have a letter from her
 Of such contents as you will wonder at;
 The mirth whereof so larded with my matter,
@@ -3462,20 +3461,20 @@ Her father hath commanded her to slip
 Away with Slender, and with him at Eton
 Immediately to marry. She hath consented.
 Now, sir,
-Her mother —even strong against that match
-And firm for Doctor Caius— hath appointed
+Her mother (even strong against that match
+And firm for Doctor Caius) hath appointed
 That he shall likewise shuffle her away,
 While other sports are tasking of their minds,
 And at the dean’ry, where a priest attends,
 Straight marry her. To this her mother’s plot
-She —seemingly obedient— likewise hath
+She (seemingly obedient) likewise hath
 Made promise to the doctor. Now, thus it rests:
 Her father means she shall be all in white;
 And in that habit, when Slender sees his time
 To take her by the hand and bid her go,
 She shall go with him. Her mother hath intended
-—The better to denote her to the doctor,
-For they must all be mask’d and vizarded—
+(The better to denote her to the doctor,
+For they must all be mask’d and vizarded) 
 That quaint in green she shall be loose enrob’d,
 With ribands pendant, flaring ’bout her head;
 And when the doctor spies his vantage ripe,
@@ -3506,8 +3505,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 A room in the Garter Inn.
@@ -3535,7 +3534,7 @@ I went to her, Master Brook, as you see, like a poor old man, but I came from he
 Exeunt.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 Windsor Park.
@@ -3557,7 +3556,7 @@ The night is dark, light and spirits will become it well. Heaven prosper our spo
 Exeunt.
 
 
-### Scene 3
+### Act 5, Scene 3
 
 
 A street leading to the Windsor Park.
@@ -3600,12 +3599,12 @@ The hour draws on. To the oak, to the oak!
 Exeunt.
 
 
-### Scene 4
+### Act 5, Scene 4
 
 
 Windsor Park.
 
-Welsh Enter Evans like a satyr and others as fairies.
+Enter Evans like a satyr and others as fairies.
 
 EVANS.
 Trib, trib, fairies; come, and remember your parts. Be pold, I pray you. Follow me into the pit, and when I give the watch-ords, do as I pid you. Come, come, trib, trib.
@@ -3613,15 +3612,15 @@ Trib, trib, fairies; come, and remember your parts. Be pold, I pray you. Follow 
 Exeunt.
 
 
-### Scene 5
+### Act 5, Scene 5
 
 
 Another part of Windsor Park.
 
-Welsh Enter Falstaff with a buck’s head upon him.
+Enter Falstaff with a buck’s head upon him.
 
 FAL.
-The Windsor bell hath struck twelve; the minute draws on. Now the hot-bloodied gods assist me! Remember, Jove, thou wast a bull for thy Europa, love set on thy horns. O powerful love, that in some respects makes a beast a man; in some other, a man a beast. You were also, Jupiter, a swan for the love of Leda. O omnipotent love, how near the god drew to the complexion of a goose! A fault done first in the form of a beast —O Jove, a beastly fault!— and then another fault in the semblance of a fowl—think on’t, Jove, a foul fault! When gods have hot backs, what shall poor men do? For me, I am here a Windsor stag, and the fattest, I think, i’ th’ forest. Send me a cool rut-time, Jove, or who can blame me to piss my tallow? Who comes here? My doe?
+The Windsor bell hath struck twelve; the minute draws on. Now the hot-bloodied gods assist me! Remember, Jove, thou wast a bull for thy Europa, love set on thy horns. O powerful love, that in some respects makes a beast a man; in some other, a man a beast. You were also, Jupiter, a swan for the love of Leda. O omnipotent love, how near the god drew to the complexion of a goose! A fault done first in the form of a beast (O Jove, a beastly fault!) and then another fault in the semblance of a fowl—think on’t, Jove, a foul fault! When gods have hot backs, what shall poor men do? For me, I am here a Windsor stag, and the fattest, I think, i’ th’ forest. Send me a cool rut-time, Jove, or who can blame me to piss my tallow? Who comes here? My doe?
 
 Enter Mistress Page, Mistress Ford.
 
@@ -3867,7 +3866,7 @@ PAGE.
 Upon my life then, you took the wrong.
 
 SLEN.
-When need you tell me that? I think so, when I took a boy for a girl. If I had been married to him —for all he was in woman’s apparel— I would not have had him.
+When need you tell me that? I think so, when I took a boy for a girl. If I had been married to him (for all he was in woman’s apparel) I would not have had him.
 
 PAGE.
 Why, this is your own folly. Did not I tell you how you should know my daughter by her garments?
@@ -3912,7 +3911,7 @@ FENT.
 You do amaze her. Hear the truth of it.
 You would have married her most shamefully,
 Where there was no proportion held in love.
-The truth is, she and I —long since contracted—
+The truth is, she and I (long since contracted) 
 Are now so sure that nothing can dissolve us.
 Th’ offense is holy that she hath committed,
 And this deceit loses the name of craft,

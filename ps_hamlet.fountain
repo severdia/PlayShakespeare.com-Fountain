@@ -2,8 +2,8 @@ Title: Hamlet
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,50 +14,50 @@ Notes:
 
 >_Cast of Characters_<
 
-|Claudius, King of Denmark (KING.): | 
-|Ghost of Hamlet’s Father (GHOST.): | 
-|Ophelia (OPH.): | 
-|Gertrude, Queen of Denmark (QUEEN.): | 
-|Fortinbras (FORT.): | 
-|Francisco (FRAN.): | 
-|Barnardo (BAR.): | 
-|Marcellus (MAR.): | 
-|Horatio (HOR.): | 
-|Polonius (POL.): | 
 |Hamlet (HAM.): | 
-|Osric (OSR.): | 
-|Guildenstern (GUIL.): | 
-|Rosencrantz (ROS.): | 
-|Cornelius (COR.): | 
-|Voltemand (VOL.): | 
+|Claudius, King of Denmark (KING.): | 
+|Polonius (POL.): | 
+|Horatio (HOR.): | 
 |Laertes (LAER.): | 
+|Ghost of Hamlet’s Father (GHOST.): | 
+|Rosencrantz (ROS.): | 
+|Marcellus (MAR.): | 
+|Barnardo (BAR.): | 
+|Guildenstern (GUIL.): | 
+|Fortinbras (FORT.): | 
+|Osric (OSR.): | 
+|Voltemand (VOL.): | 
+|Reynaldo (REY.): | 
+|Doctor of Divinity (DOCTOR.): | 
+|Francisco (FRAN.): | 
+|Cornelius (COR.): | 
+|Gertrude, Queen of Denmark (QUEEN.): | 
+|Ophelia (OPH.): | 
 |First Player (Player King) (P. KING.): | 
-|Player Queen (P. QUEEN.): | 
-|Player Prologue (P. PRO.): | 
 |Player Lucianus (P. LUC.): | 
+|Player Prologue (P. PRO.): | 
+|Player Queen (P. QUEEN.): | 
 |First Clown (Gravedigger) (1. CLO.): | 
 |Second Clown (Gravedigger) (2. CLO.): | 
-|Laertes’s Followers (LAER. FOL.): | 
-|Gentleman (GENT.): | 
-|Reynaldo (REY.): | 
-|Lord (LORD.): | 
 |Messenger (MESS.): | 
-|First Sailor (1. SAIL.): | 
-|First Ambassador (1. AMB.): | 
+|Gentleman (GENT.): | 
 |Norwegian Captain (CAP.): | 
-|Doctor of Divinity (DOCTOR.): | 
+|First Ambassador (1. AMB.): | 
+|First Sailor (1. SAIL.): | 
+|Lord (LORD.): | 
+|Laertes’s Followers (LAER. FOL.): | 
 |Ophelia’s Pallbearers (PALL.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 Elsinore. A platform before the castle.
 
-Enter Barnardo and Francisco, two sentinels, meeting.
+Late night Enter Barnardo and Francisco, two sentinels, meeting.
 
 BAR.
 Who’s there?
@@ -123,7 +123,7 @@ MAR.
 ^4 Holla, Barnardo!
 
 BAR.
-^8 Say—
+^10 Say—
 What, is Horatio there?
 
 HOR.
@@ -259,10 +259,10 @@ Whose image even but now appear’d to us,
 Was, as you know, by Fortinbras of Norway,
 Thereto prick’d on by a most emulate pride,
 Dar’d to the combat; in which our valiant Hamlet
-—For so this side of our known world esteem’d him—
+(For so this side of our known world esteem’d him) 
 Did slay this Fortinbras, who, by a seal’d compact
 Well ratified by law and heraldy,
-Did forfeit —with his life— all those his lands
+Did forfeit (with his life) all those his lands
 Which he stood seiz’d of, to the conqueror;
 Against the which a moi’ty competent
 Was gaged by our king, which had return’d
@@ -385,12 +385,12 @@ Where we shall find him most convenient.
 Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 Elsinore. A room of state in the castle.
 
-Flourish. Enter Claudius, King of Denmark, Gertrude the Queen; Council: as Polonius; and his son Laertes, Hamlet, cum aliis including Voltemand and Cornelius.
+The next day Flourish. Enter Claudius, King of Denmark, Gertrude the Queen; Council: as Polonius; and his son Laertes, Hamlet, cum aliis including Voltemand and Cornelius.
 
 KING.
 Though yet of Hamlet our dear brother’s death
@@ -831,7 +831,7 @@ Though all the earth o’erwhelm them, to men’s eyes.
 Exit.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 Elsinore. A room in Polonius’ house.
@@ -994,8 +994,8 @@ POL.
 Marry, I will teach you: think yourself a baby
 That you have ta’en these tenders for true pay,
 Which are not sterling. Tender yourself more dearly,
-Or —not to crack the wind of the poor phrase,
-Wringing it thus— you’ll tender me a fool.
+Or (not to crack the wind of the poor phrase,
+Wringing it thus) you’ll tender me a fool.
 
 OPH.
 My lord, he hath importun’d me with love
@@ -1019,7 +1019,7 @@ Be something scanter of your maiden presence,
 Set your entreatments at a higher rate
 Than a command to parle. For Lord Hamlet,
 Believe so much in him, that he is young,
-And with a larger teder may he walk
+And with a larger tether may he walk
 Than may be given you. In few, Ophelia,
 Do not believe his vows, for they are brokers,
 Not of that dye which their investments show,
@@ -1037,12 +1037,12 @@ I shall obey, my lord.
 Exeunt.
 
 
-### Scene 4
+### Act 1, Scene 4
 
 
 Elsinore. A platform before Elsinore castle.
 
-Enter Hamlet, Horatio, and Marcellus.
+Late night Enter Hamlet, Horatio, and Marcellus.
 
 HAM.
 The air bites shrewdly, it is very cold.
@@ -1089,7 +1089,7 @@ The pith and marrow of our attribute.
 So, oft it chances in particular men,
 That for some vicious mole of nature in them,
 As in their birth, wherein they are not guilty
-—Since nature cannot choose his origin—,
+(Since nature cannot choose his origin),
 By their o’ergrowth of some complexion
 Oft breaking down the pales and forts of reason,
 Or by some habit, that too much o’er-leavens
@@ -1212,12 +1212,12 @@ MAR.
 Exeunt.
 
 
-### Scene 5
+### Act 1, Scene 5
 
 
 Elsinore. Another part of the platform before Elsinore castle.
 
-Enter Ghost and Hamlet.
+Later the same night Enter Ghost and Hamlet.
 
 HAM.
 Whither wilt thou lead me? Speak, I’ll go no further.
@@ -1425,7 +1425,7 @@ HAM.
 How say you then, would heart of man once think it?—
 But you’ll be secret?
 
-BOTH MAR. AND BAR.
+BOTH HOR. AND MAR.
 ^4 Ay, by heaven, my lord.
 
 HAM.
@@ -1470,7 +1470,7 @@ What is’t, my lord, we will.
 HAM.
 Never make known what you have seen tonight.
 
-BOTH MAR. AND BAR.
+BOTH HOR. AND MAR.
 My lord, we will not.
 
 HAM.
@@ -1572,8 +1572,8 @@ Exeunt.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 Elsinore. A room in Polonius’ house.
@@ -1790,7 +1790,7 @@ Come.
 Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 Elsinore. A room in Elsinore castle.
@@ -1964,9 +1964,7 @@ Who in her duty and obedience, mark,
 Hath given me this. Now gather, and surmise.
 (Reads the salutation of the letter.)
 *“To the celestial and my soul’s idol, the most beautified Ophelia”—* 
-
 That’s an ill phrase, a vile phrase, “beautified” is a vile phrase. But you shall hear. Thus:
-
 *“In her excellent white bosom, these, etc.”* 
 
 QUEEN.
@@ -1982,7 +1980,6 @@ Good madam, stay awhile. I will be faithful.
 *O dear Ophelia, I am ill at these numbers. I have not art to reckon my groans, but that I love thee best, O most best, believe it. Adieu.* 
 *Thine evermore, most dear lady,* 
 *whilst this machine is to him, Hamlet.”* 
-
 This in obedience hath my daughter shown me,
 And more above, hath his solicitings,
 As they fell out by time, by means, and place,
@@ -2001,7 +1998,7 @@ As of a man faithful and honorable.
 POL.
 I would fain prove so. But what might you think,
 When I had seen this hot love on the wing—
-As I perceiv’d it —I must tell you that—
+As I perceiv’d it (I must tell you that) 
 Before my daughter told me—what might you,
 Or my dear Majesty your queen here, think,
 If I had play’d the desk or table-book,
@@ -2040,7 +2037,7 @@ POL.
 Take this from this, if this be otherwise.
 If circumstances lead me, I will find
 Where truth is hid, though it were hid indeed
-Within the centre.
+Within the center.
 
 KING.
 ^4 How may we try it further?
@@ -2302,7 +2299,7 @@ ROS.
 Ay, their endeavor keeps in the wonted pace; but there is, sir, an aery of children, little eyases, that cry out on the top of question, and are most tyrannically clapp’d for’t. These are now the fashion, and so berattle the common stages—so they call them—that many wearing rapiers are afraid of goose-quills and dare scarce come thither.
 
 HAM.
-What, are they children? Who maintains ’em? How are they escoted? Will they pursue the quality no longer than they can sing? Will they not say afterwards, if they should grow themselves to common players —as it is most like, if their means are no better—, their writers do them wrong, to make them exclaim against their own succession?
+What, are they children? Who maintains ’em? How are they escoted? Will they pursue the quality no longer than they can sing? Will they not say afterwards, if they should grow themselves to common players (as it is most like, if their means are no better), their writers do them wrong, to make them exclaim against their own succession?
 
 ROS.
 Faith, there has been much to do on both sides, and the nation holds it no sin to tarre them to controversy. There was for a while no money bid for argument, unless the poet and the player went to cuffs in the question.
@@ -2604,8 +2601,8 @@ Exit.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 Elsinore. A room in Elsinore castle.
@@ -2830,7 +2827,7 @@ OPH.
 Heavenly powers, restore him!
 
 HAM.
-I have heard of your paintings, well enough. God hath given you one face, and you make yourselves another. You jig and amble, and you lisp, you nickname God’s creatures and make your wantonness your ignorance. Go to, I’ll no more on’t, it hath made me mad. I say we will have no more marriage. Those that are married already —all but one— shall live, the rest shall keep as they are. To a nunn’ry, go.
+I have heard of your paintings, well enough. God hath given you one face, and you make yourselves another. You jig and amble, and you lisp, you nickname God’s creatures and make your wantonness your ignorance. Go to, I’ll no more on’t, it hath made me mad. I say we will have no more marriage. Those that are married already (all but one) shall live, the rest shall keep as they are. To a nunn’ry, go.
 
 Exit.
 
@@ -2879,7 +2876,7 @@ We heard it all. My lord, do as you please,
 But if you hold it fit, after the play
 Let his queen-mother all alone entreat him
 To show his grief. Let her be round with him,
-And I’ll be plac’d —so please you— in the ear
+And I’ll be plac’d (so please you) in the ear
 Of all their conference. If she find him not,
 To England send him, or confine him where
 Your wisdom best shall think.
@@ -2891,7 +2888,7 @@ Madness in great ones must not unwatch’d go.
 Exeunt.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 Elsinore. A hall in Elsinore castle.
@@ -2899,7 +2896,7 @@ Elsinore. A hall in Elsinore castle.
 Enter Hamlet and three of the Players.
 
 HAM.
-Speak the speech, I pray you, as I pronounc’d it to you, trippingly on the tongue, but if you mouth it, as many of our players do, I had as lief the town-crier spoke my lines. Nor do not saw the air too much with your hand, thus, but use all gently, for in the very torrent, tempest, and, as I may say, whirlwind of your passion, you must acquire and beget a temperance that may give it smoothness. O, it offends me to the soul to hear a robustious periwig-pated fellow tear apassion to totters, to very rags, to spleet the ears of the groundlings, who for the most part are capable of nothing but inexplicable dumb shows and noise. I would have such a fellow whipt for o’erdoing Termagant, it out-Herods Herod, pray you avoid it.
+Speak the speech, I pray you, as I pronounc’d it to you,trippingly on the tongue, but if you mouth it, as many of our players do, I had as lief the town-crier spoke my lines. Nor do not saw the air too much with your hand, thus, but use all gently, for in the very torrent, tempest, and, as I may say, whirlwind of your passion, you must acquire and beget a temperance that may give it smoothness. O, it offends me to the soul to hear a robustious periwig-pated fellow tear apassion to totters, to very rags, to spleet the ears of the groundlings, who for the most part are capable of nothing but inexplicable dumb shows and noise. I would have such a fellow whipt for o’erdoing Termagant, it out-Herods Herod, pray you avoid it.
 
 1. PLAY.
 I warrant your honor.
@@ -3500,7 +3497,7 @@ To give them seals never my soul consent!
 Exit.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 Elsinore. A room in Elsinore castle.
@@ -3641,7 +3638,7 @@ Words without thoughts never to heaven go.
 Exit.
 
 
-### Scene 4
+### Act 3, Scene 4
 
 
 Elsinore. The Queen’s room in Elsinore castle.
@@ -4013,8 +4010,8 @@ Exeunt severally, Hamlet tugging in Polonius.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 Elsinore. A room in Elsinore castle.
@@ -4087,7 +4084,7 @@ My soul is full of discord and dismay.
 Exeunt.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 Elsinore. Another room in Elsinore castle.
@@ -4152,7 +4149,7 @@ Of nothing, bring me to him. Hide fox, and all after.
 Exeunt.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 Elsinore. Another room in Elsinore castle.
@@ -4284,7 +4281,7 @@ How e’er my haps, my joys were ne’er begun.
 Exit.
 
 
-### Scene 4
+### Act 4, Scene 4
 
 
 Near Elsinore. A plain in Denmark.
@@ -4403,7 +4400,7 @@ My thoughts be bloody, or be nothing worth!
 Exit.
 
 
-### Scene 5
+### Act 4, Scene 5
 
 
 Elsinore. A room in Elsinore castle.
@@ -4790,7 +4787,7 @@ I pray you go with me.
 Exeunt.
 
 
-### Scene 6
+### Act 4, Scene 6
 
 
 Elsinore. Another room in Elsinore castle.
@@ -4824,7 +4821,6 @@ HOR.
 (Reads.)
 *“Horatio, when thou shalt have overlook’d this, give these fellows some means to the King, they have letters for him. Ere we were two days old at sea, a pirate of very warlike appointment gave us chase. Finding ourselves too slow of ail, we put on a compell’d valor, and in the grapple I boarded them. On the instant they got clear of our ship, so I alone became their prisoner. They have dealt with me like thieves of mercy, but they knew what they did: I am to do a good turn for them. Let the King have the letters I have sent, and repair thou to me with as much speed as thou wouldest fly death. I have words to speak in thine ear will make thee dumb, yet are they much too light for the bore of the matter. These good fellows will bring thee where I am. Rosencrantz and Guildenstern hold their course for England, of them I have much to tell thee. Farewell.* 
 *He that thou knowest thine, Hamlet.”* 
-
 Come, I will give you way for these your letters,
 And do’t the speedier that you may direct me
 To him from whom you brought them.
@@ -4832,7 +4828,7 @@ To him from whom you brought them.
 Exeunt.
 
 
-### Scene 7
+### Act 4, Scene 7
 
 
 Elsinore. Another room in Elsinore castle.
@@ -4906,7 +4902,6 @@ KING.
 (Exit Messenger.)
 (Reads.)
 *“High and mighty, You shall know I am set naked on your kingdom. Tomorrow shall I beg leave to see your kingly eyes, when I shall, first asking you pardon thereunto, recount the occasion of my sudden and more strange return. Hamlet.”* 
-
 What should this mean? Are all the rest come back?
 Or is it some abuse, and no such thing?
 
@@ -5140,8 +5135,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 Elsinore. A churchyard.
@@ -5596,7 +5591,7 @@ Till then in patience our proceeding be.
 Exeunt.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 Elsinore. A hall in Elsinore castle.

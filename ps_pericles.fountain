@@ -2,8 +2,8 @@ Title: Pericles
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,28 +14,41 @@ Notes:
 
 >_Cast of Characters_<
 
-|Gower (GOW.): | 
-|Antiochus (ANT.): | 
 |Pericles (PER.): | 
-|Helicanus (HEL.): | 
-|Escanes (ESCA.): | 
+|Gower (GOW.): | 
 |Simonides (SIM.): | 
+|Helicanus (HEL.): | 
 |Cleon (CLE.): | 
-|Lysimachus (LYS.): | 
 |Cerimon (CER.): | 
-|Thaliard (THAL.): | 
-|Philemon (PHIL.): | 
-|Leonine (LEON.): | 
-|Marshal (MARSHAL.): | 
-|Pander (PAND.): | 
+|Lysimachus (LYS.): | 
+|Antiochus (ANT.): | 
+|Bawd (BAWD.): | 
 |Boult (BOULT.): | 
-|Daughter of Antiochus (DAUGH.): | 
+|Leonine (LEON.): | 
+|Thaliard (THAL.): | 
+|Pander (PAND.): | 
+|Escanes (ESCA.): | 
+|Marina (MAR.): | 
 |Dionyza (DION.): | 
 |Thaisa (THAI.): | 
-|Marina (MAR.): | 
 |Lychorida (LYC.): | 
-|Bawd (BAWD.): | 
 |Diana (DIA.): | 
+|Lord of Tarsus (LORD. TAR.): | 
+|Philemon (PHIL.): | 
+|Marshal (MARSHAL.): | 
+|Daughter of Antiochus (DAUGH.): | 
+|First Lord of Tyre (1. LORD. TYRE.): | 
+|Second Lord of Tyre (2. LORD. TYRE.): | 
+|Third Lord of Tyre (3. LORD. TYRE.): | 
+|First Lord of Pentapolis (1. LORD. PENT.): | 
+|Second Lord of Pentapolis (2. LORD. PENT.): | 
+|Third Lord of Pentapolis (3. LORD. PENT.): | 
+|Lord of Myteline (LORD. MYT.): | 
+|First Gentleman of Ephesus (1. GENT. EPH.): | 
+|Second Gentleman of Ephesus (2. GENT. EPH.): | 
+|First Gentleman of Tyre (1. GENT. TYRE.): | 
+|First Gentleman of Mytilene (1. GENT. MYT.): | 
+|Second Gentleman of Mytilene (2. GENT. MYT.): | 
 |First Fisherman (1. FISH.): | 
 |Second Fisherman (2. FISH.): | 
 |Third Fisherman (3. FISH.): | 
@@ -44,42 +57,29 @@ Notes:
 |Third Knight (3. KNIGHT.): | 
 |Fourth Knight (4. KNIGHT.): | 
 |Fifth Knight (5. KNIGHT.): | 
-|Five Pages (FIVE PAGES): | 
-|First Lord of Tyre (1. LORD. TYRE.): | 
-|Second Lord of Tyre (2. LORD. TYRE.): | 
-|Third Lord of Tyre (3. LORD. TYRE.): | 
-|Antiochan Messenger (ANT. MESS.): | 
-|First Lord of Pentapolis (1. LORD. PENT.): | 
-|Second Lord of Pentapolis (2. LORD. PENT.): | 
-|Third Lord of Pentapolis (3. LORD. PENT.): | 
 |First Sailor (1. SAIL.): | 
 |Second Sailor (2. SAIL.): | 
-|First Gentleman of Ephesus (1. GENT. EPH.): | 
-|Second Gentleman of Ephesus (2. GENT. EPH.): | 
-|Ephesan Servant (EPH. SERV.): | 
+|Sailor of Tyre (TYR. SAIL.): | 
 |First Pirate (1. PIRATE.): | 
 |Second Pirate (2. PIRATE.): | 
 |Third Pirate (3. PIRATE.): | 
-|First Gentleman of Mytilene (1. GENT. MYT.): | 
-|Second Gentleman of Mytilene (2. GENT. MYT.): | 
-|First Tyrian Messenger (1. TYR. MESS.): | 
-|Second Tyrian Messenger (2. TYR. MESS.): | 
-|First Gentleman of Tyre (1. GENT. TYRE.): | 
-|Sailor of Tyre (TYR. SAIL.): | 
-|Sailor of Mytilene (MYT. SAIL.): | 
-|Virgins (VIRGINS): | 
-|Lord of Tarsus (LORD. TAR.): | 
-|Marina’s Lady (MAR. LADY): | 
 |Cerimon’s First Servant (1. CER. SERV.): | 
 |Cerimon’s Second Servant (2. CER. SERV.): | 
-|Lord of Myteline (LORD. MYT.): | 
+|Ephesan Servant (EPH. SERV.): | 
+|Antiochan Messenger (ANT. MESS.): | 
+|First Tyrian Messenger (1. TYR. MESS.): | 
+|Second Tyrian Messenger (2. TYR. MESS.): | 
+|Sailor of Mytilene (MYT. SAIL.): | 
 |Man (MAN.): | 
+|Virgins (VIRGINS): | 
+|Marina’s Lady (MAR. LADY): | 
+|Five Pages (FIVE PAGES): | 
 
 ===
 
 
-# Act 1
-### Prologue
+/* # Act 1 */
+### Act 1, Prologue
 
 Enter Gower.
 
@@ -131,7 +131,7 @@ I give my cause, who best can justify.
 Exit.
 
 
-### Scene 1
+### Act 1, Scene 1
 
 
 Antioch (Syria). A room in the palace.
@@ -170,7 +170,7 @@ Could never be her mild companion.
 You gods that made me man, and sway in love,
 That have inflam’d desire in my breast
 To taste the fruit of yon celestial tree
-—Or die in th’ adventure—, be my helps,
+(Or die in th’ adventure), be my helps,
 As I am son and servant to your will,
 To compass such a boundless happiness!
 
@@ -307,7 +307,7 @@ Then were it certain you were not so bad
 As with foul incest to abuse your soul;
 Where now you’re both a father and a son
 By your uncomely claspings with your child
-—Which pleasures fits a husband, not a father—,
+(Which pleasures fits a husband, not a father),
 And she an eater of her mother’s flesh
 By the defiling of her parent’s bed;
 And both like serpents are, who though they feed
@@ -385,7 +385,7 @@ My heart can lend no succor to my head.
 Exit.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 Tyre. A room in the palace.
@@ -502,7 +502,7 @@ I sought the purchase of a glorious beauty,
 From whence an issue I might propagate,
 Are arms to princes and bring joys to subjects.
 Her face was to mine eye beyond all wonder;
-The rest —hark in thine ear— as black as incest,
+The rest (hark in thine ear) as black as incest,
 Which by my knowledge found, the sinful father
 Seem’d not to strike, but smooth. But thou know’st this,
 ’Tis time to fear when tyrants seems to kiss.
@@ -568,7 +568,7 @@ Thou show’dst a subject’s shine, I a true prince’.
 Exeunt.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 Tyre. An antechamber in the palace.
@@ -592,7 +592,7 @@ How? The King gone?
 
 HEL.
 If further yet you will be satisfied
-Why —as it were unlicens’d of your loves—
+Why (as it were unlicens’d of your loves) 
 He would depart, I’ll give some light unto you.
 Being at Antioch—
 
@@ -635,7 +635,7 @@ As friends to Antioch, we may feast in Tyre.
 Exeunt.
 
 
-### Scene 4
+### Act 1, Scene 4
 
 
 Tarsus. A room in the Governor’s house.
@@ -807,8 +807,8 @@ Exeunt.
 
 
 
-# Act 2
-### Prologue
+/* # Act 2 */
+### Act 2, Prologue
 
 Enter Gower.
 
@@ -859,7 +859,7 @@ Pardon old Gower—this long’s the text.
 Exit.
 
 
-### Scene 1
+### Act 2, Scene 1
 
 
 Pentapolis. An open place by the seaside.
@@ -870,7 +870,7 @@ PER.
 Yet cease your ire, you angry stars of heaven!
 Wind, rain, and thunder, remember earthly man
 Is but a substance that must yield to you;
-And I —as fits my nature— do obey you.
+And I (as fits my nature) do obey you.
 Alas, the seas hath cast me on the rocks,
 Wash’d me from shore to shore, and left me breath
 Nothing to think on but ensuing death.
@@ -1094,7 +1094,7 @@ This day I’ll rise, or else add ill to ill.
 Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 Pentapolis. A public way, or platform leading to the lists. A pavilion by the side of it for the reception of the King, Princess, Lords, etc.
@@ -1225,7 +1225,7 @@ Exeunt.
 Great shouts within, and all cry. “The mean knight!” 
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 Pentapolis. A hall of state and a banquet.
@@ -1448,7 +1448,7 @@ Tomorrow all for speeding do their best.
 Exeunt.
 
 
-### Scene 4
+### Act 2, Scene 4
 
 
 Tyre. A room in the Governor’s house.
@@ -1553,7 +1553,7 @@ When peers thus knit, a kingdom ever stands.
 Exeunt.
 
 
-### Scene 5
+### Act 2, Scene 5
 
 
 Pentapolis. A room in the palace.
@@ -1713,7 +1713,7 @@ Bestow your love and your affections
 Upon a stranger?
 (Aside.)
 ^4 who, for aught I know,
-May be —nor can I think the contrary—
+May be (nor can I think the contrary) 
 As great in blood as I myself.—
 Therefore hear you, mistress, either frame
 Your will to mine—and you, sir, hear you—
@@ -1746,8 +1746,8 @@ Exeunt.
 
 
 
-# Act 3
-### Prologue
+/* # Act 3 */
+### Act 3, Prologue
 
 Enter Gower.
 
@@ -1818,7 +1818,7 @@ The seas-toss’d Pericles appears to speak.
 Exit.
 
 
-### Scene 1
+### Act 3, Scene 1
 
 
 On a ship at sea.
@@ -1958,7 +1958,7 @@ I’ll bring the body presently.
 Exeunt.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 Ephesus. A room in Cerimon’s house.
@@ -2117,7 +2117,6 @@ Apollo, perfect me in the characters!
 *She was the daughter of a king.* 
 *Besides this treasure for a fee,* 
 *The gods requite his charity!”* 
-
 If thou livest, Pericles, thou hast a heart
 That ever cracks for woe! This chanc’d tonight.
 
@@ -2183,7 +2182,7 @@ And Aesculapius guide us!
 They carry her away. Exeunt omnes.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 Tarsus. A room in Cleon’s house.
@@ -2261,7 +2260,7 @@ You may depend hereafter. Come, my lord.
 Exeunt.
 
 
-### Scene 4
+### Act 3, Scene 4
 
 
 Ephesus. A room in Cerimon’s house.
@@ -2300,8 +2299,8 @@ Exeunt.
 
 
 
-# Act 4
-### Prologue
+/* # Act 4 */
+### Act 4, Prologue
 
 Enter Gower.
 
@@ -2362,7 +2361,7 @@ With Leonine, a murderer.
 Exit.
 
 
-### Scene 1
+### Act 4, Scene 1
 
 
 Tarsus. An open place near the seashore.
@@ -2557,7 +2556,7 @@ Whom they have ravish’d must by me be slain.
 Exit.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 Mytilene. A room in a brothel.
@@ -2776,7 +2775,7 @@ What have we to do with Diana? Pray you, will you go with us?
 Exeunt.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 Tarsus. A room in Cleon’s house.
@@ -2869,7 +2868,7 @@ But yet I know you’ll do as I advise.
 Exeunt.
 
 
-### Scene 4
+### Act 4, Scene 4
 
 
 Tarsus. Before the tomb of Marina.
@@ -2923,7 +2922,6 @@ By wicked Dionyza.
 *Hath Thetis’ birth-child on the heavens bestowed;* 
 *Wherefore she does, and swears she’ll never stint,* 
 *Make raging battery upon shores of flint.”* 
-
 No visor does become black villainy
 So well as soft and tender flattery.
 Let Pericles believe his daughter’s dead,
@@ -2936,7 +2934,7 @@ And think you now are all in Mytilene.
 Exit.
 
 
-### Scene 5
+### Act 4, Scene 5
 
 
 Mytilene. A street before the brothel.
@@ -2961,7 +2959,7 @@ I’ll do any thing now that is virtuous, but I am out of the road of rutting fo
 Exeunt.
 
 
-### Scene 6
+### Act 4, Scene 6
 
 
 Mytilene. A room in a brothel.
@@ -3275,8 +3273,8 @@ Exeunt.
 
 
 
-# Act 5
-### Prologue
+/* # Act 5 */
+### Act 5, Prologue
 
 Enter Gower.
 
@@ -3309,7 +3307,7 @@ Shall be discover’d, please you sit and hark.
 Exit.
 
 
-### Scene 1
+### Act 5, Scene 1
 
 
 On board Pericles’s ship, off Mytilene.
@@ -3830,7 +3828,7 @@ Come, my Marina.
 Exeunt.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 Ephesus. Before the temple of Diana.
@@ -3864,10 +3862,12 @@ Is by your fancies’ thankful doom.
 Exit.
 
 
-### Scene 3
+### Act 5, Scene 3
 
 
 The temple of Diana at Ephesus.
+
+
 
 Enter Gower.
 
@@ -3994,7 +3994,7 @@ Still confirmation!
 Embrace him, dear Thaisa, this is he.
 Now do I long to hear how you were found,
 How possibly preserved, and who to thank
-—Besides the gods— for this great miracle.
+(Besides the gods) for this great miracle.
 
 THAI.
 Lord Cerimon, my lord; this man,

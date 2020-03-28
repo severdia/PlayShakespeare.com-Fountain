@@ -1,9 +1,9 @@
 Title: Titus Andronicus
 Credit: Written by
-Author: William Shakespeare and George Peele
+Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,44 +14,44 @@ Notes:
 
 >_Cast of Characters_<
 
-|Saturninus (SAT.): | 
-|Bassianus (BAS.): | 
 |Titus Andronicus (TIT.): | 
+|Aaron (AAR.): | 
 |Marcus Andronicus (MARC.): | 
+|Saturninus (SAT.): | 
 |Lucius (LUC.): | 
-|Quintus (QUIN.): | 
-|Martius (MART.): | 
-|Mutius (MUT.): | 
+|Demetrius (DEM.): | 
+|Bassianus (BAS.): | 
+|Chiron (CHI.): | 
 |Young Lucius (Y. LUC.): | 
 |Aemilius (AEMIL.): | 
+|Martius (MART.): | 
+|Quintus (QUIN.): | 
 |Publius (PUB.): | 
-|Sempronius (SEMP.): | 
-|Caius (CAI.): | 
-|Valentine (VAL.): | 
-|Alarbus (ALAR.): | 
-|Demetrius (DEM.): | 
-|Chiron (CHI.): | 
-|Aaron (AAR.): | 
 |Tamora (TAM.): | 
 |Lavinia (LAV.): | 
 |Nurse (NUR.): | 
-|Senators (SENATORS): | 
-|Messenger (MESS.): | 
 |Clown (CLO.): | 
-|Tribune (TRIB.): | 
-|Tribunes (TRIBUNES.): | 
-|A Black Child (BL. CHILD.): | 
-|Judges (JUDGES): | 
+|Mutius (MUT.): | 
 |First Goth (1. GOTH.): | 
 |Second Goth (2. GOTH.): | 
 |Third Goth (3. GOTH.): | 
+|Tribune (TRIB.): | 
+|Messenger (MESS.): | 
 |Roman Captain (ROM. CAP.): | 
+|Senators (SENATORS): | 
+|Alarbus (ALAR.): | 
+|Valentine (VAL.): | 
+|Caius (CAI.): | 
+|Sempronius (SEMP.): | 
+|Judges (JUDGES): | 
+|Tribunes (TRIBUNES.): | 
+|A Black Child (BL. CHILD.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 Rome. Before the Capitol.
@@ -245,7 +245,7 @@ The self-same gods that arm’d the Queen of Troy
 With opportunity of sharp revenge
 Upon the Thracian tyrant in his tent
 May favor Tamora, the Queen of Goths
-—When Goths were Goths and Tamora was queen—,
+(When Goths were Goths and Tamora was queen),
 To quit the bloody wrongs upon her foes.
 
 Enter the sons of Andronicus (Lucius, Quintus, Martius, and Mutius) again with their swords bloody.
@@ -690,7 +690,7 @@ Is of a sudden thus advanc’d in Rome?
 
 TIT.
 I know not, Marcus, but I know it is
-—Whether by device or no, the heavens can tell—.
+(Whether by device or no, the heavens can tell).
 Is she not then beholding to the man
 That brought her for this high good turn so far?
 Yes, and will nobly him remunerate.
@@ -844,8 +844,8 @@ Exeunt. Sound trumpets. Manet Moor Aaron.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 Rome. Before the Palace.
@@ -1060,7 +1060,7 @@ Per Stygia, per manes vehor.
 Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 A forest near Rome.
@@ -1118,7 +1118,7 @@ But hope to pluck a dainty doe to ground.
 Exeunt.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 A lonely part of the forest.
@@ -1156,7 +1156,7 @@ The wand’ring prince and Dido once enjoyed,
 When with a happy storm they were surpris’d,
 And curtain’d with a counsel-keeping cave,
 We may, each wreathed in the other’s arms
-—Our pastimes done—, possess a golden slumber,
+(Our pastimes done), possess a golden slumber,
 Whiles hounds and horns and sweet melodious birds
 Be unto us as is a nurse’s song
 Of lullaby to bring her babe asleep.
@@ -1220,7 +1220,7 @@ Jove shield your husband from his hounds today!
 ’Tis pity they should take him for a stag.
 
 BAS.
-Believe me, Queen, your swart Cimmerian
+Believe me, Queen, your swart Cimmeriant
 Doth make your honor of his body’s hue,
 Spotted, detested, and abominable.
 Why are you sequest’red from all your train,
@@ -1569,7 +1569,6 @@ SAT.
 *Which overshades the mouth of that same pit* 
 *Where we decreed to bury Bassianus.* 
 *Do this and purchase us thy lasting friends.”* 
-
 O Tamora, was ever heard the like?
 This is the pit, and this the elder-tree.
 Look, sirs, if you can find the huntsman out,
@@ -1626,7 +1625,7 @@ Come, Lucius, come, stay not to talk with them.
 Exeunt.
 
 
-### Scene 4
+### Act 2, Scene 4
 
 
 Another part of the forest.
@@ -1716,8 +1715,8 @@ Exeunt.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 Rome. A street.
@@ -1752,7 +1751,7 @@ So thou refuse to drink my dear sons’ blood.
 (Enter Lucius with his weapon drawn.)
 O reverent tribunes! O gentle, aged men!
 Unbind my sons, reverse the doom of death,
-And let me say —that never wept before—
+And let me say (that never wept before) 
 My tears are now prevailing orators.
 
 LUC.
@@ -2171,7 +2170,7 @@ To be reveng’d on Rome and Saturnine.
 Exit Lucius.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 A room in Titus’ house.
@@ -2301,8 +2300,8 @@ Exeunt.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 Rome. Titus’ garden.
@@ -2400,7 +2399,7 @@ Ravish’d and wrong’d as Philomela was,
 Forc’d in the ruthless, vast, and gloomy woods?
 See, see!
 Ay, such a place there is where we did hunt
-—O had we never, never hunted there!—,
+(O had we never, never hunted there!),
 Pattern’d by that the poet here describes,
 By nature made for murders and for rapes.
 
@@ -2512,7 +2511,7 @@ Revenge the heavens for old Andronicus!
 Exit.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 Rome. A room in the palace.
@@ -2847,7 +2846,7 @@ To be a warrior and command a camp.
 Exit.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 Rome. A public place.
@@ -2866,7 +2865,7 @@ Happily you may catch her in the sea;
 Yet there’s as little justice as at land.
 No, Publius and Sempronius, you must do it,
 ’Tis you must dig with mattock and with spade,
-And pierce the inmost centre of the earth;
+And pierce the inmost center of the earth;
 Then when you come to Pluto’s region,
 I pray you deliver him this petition.
 Tell him it is for justice and for aid,
@@ -3028,7 +3027,7 @@ Come, Marcus, let us go. Publius, follow me.
 Exeunt.
 
 
-### Scene 4
+### Act 4, Scene 4
 
 
 Rome. Before the Palace.
@@ -3204,8 +3203,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 Plains near Rome.
@@ -3457,7 +3456,7 @@ And we will come. March away.
 Flourish. Exeunt.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 Rome. Before Titus’ house.
@@ -3774,7 +3773,7 @@ And see them ready against their mother comes.
 Exeunt bearing the dead bodies.
 
 
-### Scene 3
+### Act 5, Scene 3
 
 
 Court of Titus’s house.

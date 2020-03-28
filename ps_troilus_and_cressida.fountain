@@ -2,8 +2,8 @@ Title: Troilus and Cressida
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,50 +14,50 @@ Notes:
 
 >_Cast of Characters_<
 
-|Priam, King of Troy (PRI.): | 
-|Hector (HECT.): | 
 |Troilus (TRO.): | 
-|Paris (PAR.): | 
-|Deiphobus (DEI.): | 
-|Helenus (HEL.): | 
-|Margarelon (MAR.): | 
-|Aeneas (AENE.): | 
-|Calchas (CAL.): | 
+|Ulysses (ULYSS.): | 
+|Hector (HECT.): | 
 |Pandarus (PAN.): | 
 |Agamemnon (AGAM.): | 
-|Menelaus (MEN.): | 
-|Nestor (NEST.): | 
-|Ulysses (ULYSS.): | 
 |Achilles (ACHIL.): | 
-|Ajax (AJAX.): | 
+|Nestor (NEST.): | 
+|Aeneas (AENE.): | 
 |Diomedes (DIO.): | 
-|Patroclus (PATR.): | 
 |Thersites (THER.): | 
+|Paris (PAR.): | 
+|Ajax (AJAX.): | 
+|Patroclus (PATR.): | 
+|Prologue (PRO.): | 
+|Calchas (CAL.): | 
+|Priam, King of Troy (PRI.): | 
+|Alexander (ALEX.): | 
+|Menelaus (MEN.): | 
+|Cressida (CRES.): | 
+|Cassandra (CAS.): | 
 |Helen (HELEN.): | 
 |Andromache (AND.): | 
-|Cassandra (CAS.): | 
-|Cressida (CRES.): | 
-|Prologue (PROLOGUE.): | 
-|Troilus’s Boy (TRO. BOY.): | 
-|Paris’s Servant (PAR. SERV.): | 
-|Greek Trumpeter (GREEK TRUM.): | 
-|Alexander (ALEX.): | 
+|Helenus (HEL.): | 
+|Margarelon (MAR.): | 
+|Deiphobus (DEI.): | 
 |Antenor (ANT.): | 
-|Trojan Trumpeter (TROJ. TRUM.): | 
-|Diomedes’s Servant (DIO. SERV.): | 
-|Greek Knight (GREEK. KNI.): | 
-|Myrmidon (MYR.): | 
+|Troilus’s Boy (TRO. BOY.): | 
 |Myrmidons (MYRMIDONS.): | 
+|Myrmidon (MYR.): | 
+|Paris’s Servant (PAR. SERV.): | 
+|Diomedes’s Servant (DIO. SERV.): | 
+|Trojan Trumpeter (TROJ. TRUM.): | 
+|Greek Knight (GREEK. KNI.): | 
+|Greek Trumpeter (GREEK TRUM.): | 
 |Musicians (MUSIC.): | 
 |Trojan Soldiers (TROJ. SOLD.): | 
 
 ===
 
 
-# Act 1
-### Prologue
+/* # Act 1 */
+### Act 1, Prologue
 
-PROLOGUE.
+PRO.
 In Troy, there lies the scene. From isles of Greece
 The princes orgulous, their high blood chaf’d,
 Have to the port of Athens sent their ships
@@ -91,7 +91,7 @@ Like or find fault, do as your pleasures are,
 Now good or bad, ’tis but the chance of war.
 
 
-### Scene 1
+### Act 1, Scene 1
 
 
 Troy. Before Priam’s palace.
@@ -152,7 +152,7 @@ TRO.
 I was about to tell thee—when my heart,
 As wedged with a sigh, would rive in twain,
 Lest Hector or my father should perceive me,
-I have —as when the sun doth light a-scorn—
+I have (as when the sun doth light a-scorn) 
 Buried this sigh in wrinkle of a smile,
 But sorrow that is couch’d in seeming gladness
 Is like that mirth fate turns to sudden sadness.
@@ -278,7 +278,7 @@ Come go we then together.
 Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 Troy. A street.
@@ -449,7 +449,7 @@ CRES.
 ’Twould not become him, his own’s better.
 
 PAN.
-You have no judgment, niece. Helen herself swore th’ other day that Troilus, for a brown favor —for so ’tis, I must confess——not brown neither—
+You have no judgment, niece. Helen herself swore th’ other day that Troilus, for a brown favor (for so ’tis, I must confess)—not brown neither—
 
 CRES.
 No, but brown.
@@ -756,7 +756,7 @@ Nothing of that shall from mine eyes appear.
 Exit with Alexander.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 The Grecian camp. Before Agamemnon’s tent.
@@ -860,7 +860,7 @@ When that the general is not like the hive
 To whom the foragers shall all repair,
 What honey is expected? Degree being vizarded,
 Th’ unworthiest shows as fairly in the mask.
-The heavens themselves, the planets, and this centre
+The heavens themselves, the planets, and this center
 Observe degree, priority, and place,
 Insisture, course, proportion, season, form,
 Office, and custom, in all line of order;
@@ -892,12 +892,12 @@ And make a sop of all this solid globe;
 Strength should be lord of imbecility,
 And the rude son should strike his father dead;
 Force should be right, or rather, right and wrong
-—Between whose endless jar justice resides—
+(Between whose endless jar justice resides) 
 Should lose their names, and so should justice too!
 Then every thing include itself in power,
 Power into will, will into appetite,
 And appetite, an universal wolf
-—So doubly seconded with will and power—,
+(So doubly seconded with will and power),
 Must make perforce an universal prey,
 And last eat up himself. Great Agamemnon,
 This chaos, when degree is suffocate,
@@ -1192,8 +1192,8 @@ True, the purpose is perspicuous as substance,
 Whose grossness little characters sum up;
 And in the publication make no strain
 But that Achilles, were his brain as barren
-As banks of Libya —though, Apollo knows,
-’Tis dry enough—, will with great speed of judgment,
+As banks of Libya (though, Apollo knows,
+’Tis dry enough), will with great speed of judgment,
 Ay, with celerity, find Hector’s purpose
 Pointing on him.
 
@@ -1211,14 +1211,14 @@ Our imputation shall be oddly pois’d
 In this vild action, for the success,
 Although particular, shall give a scantling
 Of good or bad unto the general,
-And in such indexes —although small pricks
-To their subsequent volumes— there is seen
+And in such indexes (although small pricks
+To their subsequent volumes) there is seen
 The baby figure of the giant mass
 Of things to come at large. It is suppos’d
 He that meets Hector issues from our choice,
-And choice —being mutual act of all our souls—
+And choice (being mutual act of all our souls) 
 Makes merit her election, and doth boil
-—As ’twere from forth us all— a man distill’d
+(As ’twere from forth us all) a man distill’d
 Out of our virtues, who miscarrying,
 What heart receives from hence a conquering part
 To steel a strong opinion to themselves?
@@ -1275,8 +1275,8 @@ Exeunt.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 A part of the Grecian camp.
@@ -1525,7 +1525,7 @@ O, meaning you? I will go learn more of it.
 Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 Troy. A room in Priam’s palace.
@@ -1557,7 +1557,7 @@ Every tithe soul, ’mongst many thousand dismes,
 Hath been as dear as Helen; I mean, of ours.
 If we have lost so many tenths of ours,
 To guard a thing not ours nor worth to us
-—Had it our name— the value of one ten,
+(Had it our name) the value of one ten,
 What merit’s in that reason which denies
 The yielding of her up?
 
@@ -1616,7 +1616,7 @@ Is led on in the conduct of my will,
 My will enkindled by mine eyes and ears,
 Two traded pilots ’twixt the dangerous shores
 Of will and judgment: how may I avoid
-—Although my will distaste what it elected—
+(Although my will distaste what it elected) 
 The wife I chose? There can be no evasion
 To blench from this and to stand firm by honor.
 We turn not back the silks upon the merchant
@@ -1810,7 +1810,7 @@ This I presume will wake him.
 Exeunt.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 The Grecian camp. Before Achilles’ tent.
@@ -2251,8 +2251,8 @@ Exeunt.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 Troy. Priam’s palace.
@@ -2534,7 +2534,7 @@ Sweet, above thought I love thee!
 Exeunt.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 Troy. Pandarus’ orchard.
@@ -2777,9 +2777,9 @@ Full of protest, of oath and big compare,
 Wants similes, truth tir’d with iteration,
 As true as steel, as plantage to the moon,
 As sun to day, as turtle to her mate,
-As iron to adamant, as earth to th’ centre,
+As iron to adamant, as earth to th’ center,
 Yet after all comparisons of truth
-—As truth’s authentic author to be cited—
+(As truth’s authentic author to be cited) 
 “As true as Troilus” shall crown up the verse,
 And sanctify the numbers.
 
@@ -2817,7 +2817,7 @@ Bed, chamber, Pandar to provide this gear!
 Exit.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 The Grecian camp. Before Achilles’ tent.
@@ -2848,7 +2848,7 @@ What wouldst thou of us, Troyan? Make demand.
 CAL.
 You have a Troyan prisoner call’d Antenor,
 Yesterday took; Troy holds him very dear.
-Oft have you —often have you thanks therefore—
+Oft have you (often have you thanks therefore) 
 Desir’d my Cressid in right great exchange,
 Whom Troy hath still denied, but this Antenor,
 I know, is such a wrest in their affairs
@@ -3111,8 +3111,8 @@ Knows almost every grain of Pluto’s gold,
 Finds bottom in th’ uncomprehensive depth,
 Keeps place with thought and almost, like the gods,
 Do thoughts unveil in their dumb cradles.
-There is a mystery —with whom relation
-Durst never meddle— in the soul of state,
+There is a mystery (with whom relation
+Durst never meddle) in the soul of state,
 Which hath an operation more divine
 Than breath or pen can give expressure to.
 All the commerce that you have had with Troy
@@ -3276,8 +3276,8 @@ Exit.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 Troy. A street.
@@ -3353,7 +3353,7 @@ To Calchas’ house, and there to render him,
 For the enfreed Antenor, the fair Cressid.
 Let’s have your company, or if you please,
 Haste there before us. I constantly believe
-—Or rather call my thought a certain knowledge—
+(Or rather call my thought a certain knowledge) 
 My brother Troilus lodges there tonight.
 Rouse him and give him note of our approach,
 With the whole quality wherefore. I fear
@@ -3417,7 +3417,7 @@ Here lies our way.
 Exeunt.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 Troy. A court before Pandarus’s house.
@@ -3621,7 +3621,7 @@ Make Cressid’s name the very crown of falsehood,
 If ever she leave Troilus! Time, force, and death,
 Do to this body what extremes you can;
 But the strong base and building of my love
-Is as the very centre of the earth,
+Is as the very center of the earth,
 Drawing all things to it. I’ll go in and weep.
 
 PAN.
@@ -3635,7 +3635,7 @@ With sounding Troilus. I will not go from Troy.
 Exeunt.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 Troy. A street before Pandarus’s house.
@@ -3666,7 +3666,7 @@ Please you walk in, my lords.
 Exeunt.
 
 
-### Scene 4
+### Act 4, Scene 4
 
 
 Troy. Pandarus’s House.
@@ -3699,15 +3699,11 @@ Embracing him.
 
 PAN.
 What a pair of spectacles is here! Let me embrace too. “O heart,” as the goodly saying is,
-
 *“O heart, heavy heart,* 
 *Why sigh’st thou without breaking?”* 
-
 Where he answers again,
-
 *“Because thou canst not ease thy smart* 
 *By friendship nor by speaking.”* 
-
 There was never a truer rhyme. Let us cast away nothing, for we may live to have need of such a verse. We see it, we see it. How now, lambs?
 
 TRO.
@@ -3820,7 +3816,7 @@ Their loving well compos’d with gift of nature,
 Flowing and swelling o’er with arts and exercise.
 How novelty may move, and parts with person,
 Alas, a kind of godly jealousy
-—Which I beseech you call a virtuous sin—
+(Which I beseech you call a virtuous sin) 
 Makes me afeard.
 
 CRES.
@@ -3941,7 +3937,7 @@ On his fair worth and single chivalry.
 Exeunt.
 
 
-### Scene 5
+### Act 4, Scene 5
 
 
 The Grecian camp.
@@ -4537,8 +4533,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 The Grecian camp. Before Achilles’ tent.
@@ -4705,7 +4701,7 @@ That same Diomed’s a false-hearted rogue, a most unjust knave. I will no more 
 Exit.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 The Grecian camp. Before Calchas’s tent.
@@ -5176,7 +5172,7 @@ Would I could meet that rogue Diomed! I would croak like a raven, I would bode, 
 Exit.
 
 
-### Scene 3
+### Act 5, Scene 3
 
 
 Troy. Before Priam’s palace.
@@ -5415,7 +5411,7 @@ But edifies another with her deeds.
 Exeunt severally.
 
 
-### Scene 4
+### Act 5, Scene 4
 
 
 The plains between Troy and the Grecian camp.
@@ -5462,7 +5458,7 @@ God-a-mercy, that thou wilt believe me, but a plague break thy neck—for fright
 Exit.
 
 
-### Scene 5
+### Act 5, Scene 5
 
 
 Another part of the plains.
@@ -5556,7 +5552,7 @@ Hector, where’s Hector? I will none but Hector.
 Exeunt.
 
 
-### Scene 6
+### Act 5, Scene 6
 
 
 Another part of the plains.
@@ -5655,7 +5651,7 @@ Why then fly on, I’ll hunt thee for thy hide.
 Exit.
 
 
-### Scene 7
+### Act 5, Scene 7
 
 
 Another part of the plains.
@@ -5703,7 +5699,7 @@ The devil take thee, coward!
 Exit.
 
 
-### Scene 8
+### Act 5, Scene 8
 
 
 Another part of the plains.
@@ -5754,7 +5750,7 @@ Along the field I will the Troyan trail.
 Exeunt.
 
 
-### Scene 9
+### Act 5, Scene 9
 
 
 Another part of the plains.
@@ -5787,7 +5783,7 @@ Great Troy is ours, and our sharp wars are ended.
 Exeunt.
 
 
-### Scene 10
+### Act 5, Scene 10
 
 
 Another part of the plains.
@@ -5855,14 +5851,11 @@ Exeunt all but Pandarus.
 
 PAN.
 A goodly medicine for my aching bones! O world, world, world! Thus is the poor agent despis’d! O traders and bawds, how earnestly are you set a-work, and how ill requited! Why should our endeavor be so lov’d and the performance so loath’d? What verse for it? What instance for it? Let me see:
-
 ~Full merrily the humble-bee doth sing,
 ~Till he hath lost his honey and his sting;
 ~And being once subdu’d in armed tail,
 ~Sweet honey and sweet notes together fail.
-
 Good traders in the flesh, set this in your painted cloths:
-
 ~As many as be here of Pandar’s hall,
 ~Your eyes, half out, weep out at Pandar’s fall;
 ~Or if you cannot weep, yet give some groans,

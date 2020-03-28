@@ -2,8 +2,8 @@ Title: Henry VI, Pt. 2
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 3.5
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -15,76 +15,78 @@ Notes:
 >_Cast of Characters_<
 
 |King Henry the Sixth (KING.): | 
-|Duke of Gloucester (GLOU.): | 
-|Cardinal Beauford (CAR.): | 
 |Richard Plantagenet, Duke of York (YORK.): | 
-|Edward Earl of March (EDW.): | 
-|Richard Plantagenet (RICH.): | 
-|Duke of Somerset (SOM.): | 
+|Duke of Gloucester (GLOU.): | 
 |Duke of Suffolk (SUF.): | 
-|Duke of Buckingham (BUCK.): | 
-|Lord Clifford (CLIF.): | 
-|Young Clifford (Y. CLIF.): | 
-|Earl of Salisbury (SAL.): | 
 |Earl of Warwick (WAR.): | 
-|Lord Scales (SCALES.): | 
-|Lord Say (SAY.): | 
+|Cardinal Beauford (CAR.): | 
+|Earl of Salisbury (SAL.): | 
+|Jack Cade (CADE.): | 
+|Duke of Buckingham (BUCK.): | 
+|Lieutenant (LIEU.): | 
+|Alexander Iden (IDEN.): | 
+|Young Clifford (Y. CLIF.): | 
+|John Hume (HUME.): | 
+|Duke of Somerset (SOM.): | 
+|Richard Plantagenet (RICH.): | 
+|Dick the Butcher (DICK.): | 
+|Saunder Simpcox (SIMP.): | 
+|Walter Whitmore (WHIT.): | 
+|Roger Bolingbrook (BOLING.): | 
 |Sir Humphrey Stafford (STAF.): | 
+|Vaux (VAUX.): | 
+|Spirit (SPIR.): | 
 |William Stafford (BRO.): | 
 |Sir John Stanley (STAN.): | 
-|Vaux (VAUX.): | 
-|Matthew Goffe (GOFF.): | 
-|Alexander Iden (IDEN.): | 
-|Lieutenant (LIEU.): | 
-|Shipmaster (MAST.): | 
-|Master’s Mate (MATE.): | 
-|Walter Whitmore (WHIT.): | 
-|John Hume (HUME.): | 
-|John Southwell (SOUTH.): | 
-|Roger Bolingbrook (BOLING.): | 
 |Thomas Horner (HOR.): | 
-|Peter Thump (PETER.): | 
-|Clerk of Chatham (CLERK. CHAT.): | 
+|Sheriff of London (SHER. LOND.): | 
 |Mayor of Saint Albans (MAY.): | 
-|Saunder Simpcox (SIMP.): | 
-|Jack Cade (CADE.): | 
-|George Bevis (BEVIS.): | 
-|John Holland (HOLL.): | 
-|Dick the Butcher (DICK.): | 
-|Spirit (SPIR.): | 
+|Clerk of Chatham (CLERK. CHAT.): | 
+|Edward, Earl of March (EDW.): | 
+|Queen Margaret (Q. MARG.): | 
+|Duchess Eleanor of Gloucester (DUCH.): | 
 |Simpcox’s Wife (SIMP. WIFE.): | 
 |Margery Jourdain (M. JORD.): | 
-|Duchess Eleanor of Gloucester (DUCH.): | 
-|Queen Margaret (QUEEN.): | 
+|Lord Clifford (CLIF.): | 
+|Lord Say (SAY.): | 
+|Lord Scales (SCALES.): | 
+|John Holland (HOLL.): | 
+|George Bevis (BEVIS.): | 
+|Smith the Weaver (SMITH.): | 
+|Michael (MICH.): | 
+|Peter Thump (PET.): | 
 |First Murderer (1. MUR.): | 
 |Second Murderer (2. MUR.): | 
-|Michael (MICH.): | 
-|Smith the Weaver (SMITH.): | 
-|Beadle of Saint Albans (BEAD.): | 
-|First Royal Messenger (1. ROYAL MESS.): | 
-|First Petitioner (1. PETIT.): | 
-|Second Petitioner (2. PETIT.): | 
-|Gloucester’s Servingman (GLOU. SERV.): | 
-|First Neighbor (1. NEIGH.): | 
-|Second Neighbor (2. NEIGH.): | 
-|Third Neighbor (3. NEIGH.): | 
 |First Prentice (1. PREN.): | 
 |Second Prentice (2. PREN.): | 
 |Third Prentice (3. PREN.): | 
-|Herald (HER.): | 
-|Sheriff of London (SHER. LOND.): | 
-|Post (POST.): | 
+|Shipmaster (MAST.): | 
+|Master’s Mate (MATE.): | 
+|Beadle of Saint Albans (BEAD.): | 
+|Gloucester’s First Attendant (GLOU. 1. ATT.): | 
+|Gloucester’s Second Attendant (GLOU. 2. ATT.): | 
+|Gloucester’s Servingman (GLOU. SERV.): | 
 |First Gentleman (1. GENT.): | 
 |Second Gentleman (2. GENT.): | 
+|First Neighbor (1. NEIGH.): | 
+|Second Neighbor (2. NEIGH.): | 
+|Third Neighbor (3. NEIGH.): | 
+|First Royal Messenger (1. ROYAL MESS.): | 
 |Second Royal Messenger (2. ROYAL MESS.): | 
 |Third Royal Messenger (3. ROYAL MESS.): | 
 |Fourth Royal Messenger (4. ROYAL MESS.): | 
-|First London Citizen (1. LOND. CIT.): | 
-|London Citizens (LOND. CIT.): | 
-|Rebel Soldier (REBEL SOLD.): | 
 |Rebel Messenger (REBEL MESS.): | 
-|Iden’s Men (IDEN. MEN.): | 
+|Post (POST.): | 
+|Herald (HER.): | 
+|First Commoner (1. COMMON.): | 
+|First London Citizen (1. LOND. CIT.): | 
 |One Citizen (ONE. CIT.): | 
+|First Petitioner (1. PETIT.): | 
+|Second Petitioner (2. PETIT.): | 
+|Cade’s Followers (CADE. FOLL.): | 
+|Rebel Soldier (REBEL SOLD.): | 
+|Iden’s Men (IDEN. MEN.): | 
+|Matthew Goffe (GOFF.): | 
 |Citizens of Saint Albans (CIT. ALB.): | 
 |Sawyer (SAW.): | 
 |Best’s Son (BEST. SON.): | 
@@ -92,17 +94,15 @@ Notes:
 |York’s Guards (YORK. GUARDS.): | 
 |York’s Attendant (YORK. ATT.): | 
 |Rebel Poleman (REB. POLE.): | 
-|First Commoner (1. COMMON.): | 
+|John Southwell (SOUTH.): | 
 |Commoners (COMMONS.): | 
-|Gloucester’s First Attendant (GLOU. 1. ATT.): | 
-|Gloucester’s Second Attendant (GLOU. 2. ATT.): | 
-|Cade’s Followers (CADE. FOLL.): | 
+|London Citizens (LOND. CIT.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 London. A room of state in the palace.
@@ -136,7 +136,7 @@ For thou hast given me in this beauteous face
 A world of earthly blessings to my soul,
 If sympathy of love unite our thoughts.
 
-QUEEN.
+Q. MARG.
 Great King of England, and my gracious lord,
 The mutual conference that my mind hath had,
 By day, by night, waking and in my dreams,
@@ -159,7 +159,7 @@ Long live Queen Margaret, England’s happiness!
 
 Flourish.
 
-QUEEN.
+Q. MARG.
 We thank you all.
 
 SUF.
@@ -443,7 +443,7 @@ Whose bookish rule hath pull’d fair England down.
 Exit York.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 London. A room in Gloucester’s house.
@@ -482,8 +482,8 @@ With sweet rehearsal of my morning’s dream.
 
 GLOU.
 Methought this staff, mine office-badge in court,
-Was broke in twain —by whom I have forgot,
-But, as I think, it was by th’ Cardinal—,
+Was broke in twain (by whom I have forgot,
+But, as I think, it was by th’ Cardinal),
 And on the pieces of the broken wand
 Were plac’d the heads of Edmund Duke of Somerset,
 And William de la Pole, first Duke of Suffolk.
@@ -603,7 +603,7 @@ Sort how it will, I shall have gold for all.
 Exit.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 London. A room in the palace.
@@ -618,7 +618,7 @@ Marry, the Lord protect him, for he’s a good man! Jesu bless him!
 
 Enter Suffolk and Queen.
 
-PETER.
+PET.
 Here ’a comes, methinks, and the Queen with him. I’ll be the first, sure.
 
 2. PETIT.
@@ -630,10 +630,9 @@ How now, fellow? Wouldst any thing with me?
 1. PETIT.
 I pray, my lord, pardon me, I took ye for my Lord Protector.
 
-QUEEN.
+Q. MARG.
 (Reading.)
 *“To my Lord Protector”?* 
-
 Are your supplications to his lordship? Let me see them. What is thine?
 
 1. PETIT.
@@ -647,14 +646,14 @@ Thy wife too? That’s some wrong indeed. What’s yours? What’s here?
 2. PETIT.
 Alas, sir, I am but a poor petitioner of our whole township.
 
-PETER.
+PET.
 (Giving his petition.)
 Against my master, Thomas Horner, for saying that the Duke of York was rightful heir to the crown.
 
-QUEEN.
+Q. MARG.
 What say’st thou? Did the Duke of York say he was rightful heir to the crown?
 
-PETER.
+PET.
 That my master was? No, forsooth; my master said that he was, and that the King was an usurper.
 
 SUF.
@@ -664,7 +663,7 @@ Take this fellow in, and send for his master with a pursuivant presently. We’l
 
 Exit Servant with Peter.
 
-QUEEN.
+Q. MARG.
 And as for you, that love to be protected
 Under the wings of our Protector’s grace,
 Begin your suits anew, and sue to him.
@@ -676,7 +675,7 @@ Come, let’s be gone.
 
 Exeunt.
 
-QUEEN.
+Q. MARG.
 My Lord of Suffolk, say, is this the guise,
 Is this the fashions in the court of England?
 Is this the government of Britain’s isle,
@@ -706,7 +705,7 @@ Madam, be patient. As I was cause
 Your Highness came to England, so will I
 In England work your Grace’s full content.
 
-QUEEN.
+Q. MARG.
 Beside the haughty Protector, have we Beauford
 The imperious churchman, Somerset, Buckingham,
 And grumbling York; and not the least of these
@@ -717,7 +716,7 @@ And he of these that can do most of all
 Cannot do more in England than the Nevils:
 Salisbury and Warwick are no simple peers.
 
-QUEEN.
+Q. MARG.
 Not all these lords do vex me half so much
 As that proud dame, the Lord Protector’s wife:
 She sweeps it through the court with troops of ladies,
@@ -781,14 +780,14 @@ SAL.
 Peace, son, and show some reason, Buckingham,
 Why Somerset should be preferr’d in this.
 
-QUEEN.
+Q. MARG.
 Because the King, forsooth, will have it so.
 
 GLOU.
 Madam, the King is old enough himself
 To give his censure. These are no women’s matters.
 
-QUEEN.
+Q. MARG.
 If he be old enough, what needs your Grace
 To be Protector of his Excellence?
 
@@ -817,7 +816,7 @@ Thy cruelty in execution
 Upon offenders hath exceeded law,
 And left thee to the mercy of the law.
 
-QUEEN.
+Q. MARG.
 Thy sale of offices and towns in France,
 If they were known, as the suspect is great,
 Would make thee quickly hop without thy head.
@@ -914,7 +913,7 @@ Say, man, were these thy words?
 HOR.
 And’t shall please your Majesty, I never said nor thought any such matter. God is my witness, I am falsely accus’d by the villain.
 
-PETER.
+PET.
 By these ten bones, my lords
 (Holding up his hands. )
 he did speak them to me in the garret one night, as we were scouring my Lord of York’s armor.
@@ -946,7 +945,7 @@ I humbly thank your royal Majesty.
 HOR.
 And I accept the combat willingly.
 
-PETER.
+PET.
 Alas, my lord, I cannot fight; for God’s sake pity my case. The spite of man prevaileth against me. O Lord, have mercy upon me! I shall never be able to fight a blow. O Lord, my heart!
 
 GLOU.
@@ -958,7 +957,7 @@ Away with them to prison; and the day of combat shall be the last of the next mo
 Flourish. Exeunt.
 
 
-### Scene 4
+### Act 1, Scene 4
 
 
 London. Gloucester’s Garden.
@@ -1076,20 +1075,15 @@ What have we here?
 (Reads.)
 *“The duke yet lives that Henry shall depose;* 
 *But him out-live, and die a violent death.”* 
-
 Why, this is just
-
 *“Aio te, Aeacida, Romanos vincere posse.”* 
-
 Well, to the rest:
-
 *“Tell me what fate awaits the Duke of Suffolk?”* 
 *“By water shall he die, and take his end.”* 
 *“What shall betide the Duke of Somerset?”* 
 *“Let him shun castles;* 
 *Safer shall he be upon the sandy plains* 
 *Than where castles mounted stand.”* 
-
 Come, come, my lords, these oracles
 Are hardly attain’d, and hardly understood.
 The King is now in progress towards Saint Albans,
@@ -1113,15 +1107,15 @@ Exeunt.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 St. Albans.
 
 Enter the King, Queen with her hawk on her fist, Protector Gloucester, Cardinal, and Suffolk, with Falc’ners hallowing.
 
-QUEEN.
+Q. MARG.
 Believe me, lords, for flying at the brook,
 I saw not better sport these seven years’ day;
 Yet by your leave, the wind was very high,
@@ -1179,7 +1173,7 @@ An’t like your lordly Lord’s Protectorship.
 GLOU.
 Why, Suffolk, England knows thine insolence.
 
-QUEEN.
+Q. MARG.
 And thy ambition, Gloucester.
 
 KING.
@@ -1317,7 +1311,7 @@ Poor soul, God’s goodness hath been great to thee.
 Let never day nor night unhallowed pass,
 But still remember what the Lord hath done.
 
-QUEEN.
+Q. MARG.
 Tell me, good fellow, cam’st thou here by chance
 Or of devotion, to this holy shrine?
 
@@ -1478,7 +1472,7 @@ After the Beadle hath hit him once, he leaps over the stool and runs away; and t
 KING.
 O God, seest thou this, and bearest so long?
 
-QUEEN.
+Q. MARG.
 It made me laugh to see the villain run.
 
 GLOU.
@@ -1539,7 +1533,7 @@ KING.
 O God, what mischiefs work the wicked ones,
 Heaping confusion on their own heads thereby!
 
-QUEEN.
+Q. MARG.
 Gloucester, see here the tainture of thy nest,
 And look thyself be faultless, thou wert best.
 
@@ -1566,7 +1560,7 @@ Whose beam stands sure, whose rightful cause prevails.
 Flourish. Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 London. York’s garden.
@@ -1658,7 +1652,7 @@ And in this private plot be we the first
 That shall salute our rightful sovereign
 With honor of his birthright to the crown.
 
-BOTH. WAR. AND SAL.
+BOTH WAR. AND SAL.
 Long live our sovereign Richard, England’s king!
 
 YORK.
@@ -1691,7 +1685,7 @@ The greatest man in England but the King.
 Exeunt.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 A hall of justice.
@@ -1734,7 +1728,7 @@ My stay, my guide, and lantern to my feet;
 And go in peace, Humphrey, no less belov’d
 Than when thou wert Protector to thy king.
 
-QUEEN.
+Q. MARG.
 I see no reason why a king of years
 Should be to be protected like a child.
 God and King Henry govern England’s realm.
@@ -1751,7 +1745,7 @@ May honorable peace attend thy throne!
 
 Exit Gloucester.
 
-QUEEN.
+Q. MARG.
 Why, now is Henry king and Margaret queen,
 And Humphrey Duke of Gloucester scarce himself,
 That bears so shrewd a maim: two pulls at once—
@@ -1770,7 +1764,7 @@ And ready are the appellant and defendant,
 The armorer and his man, to enter the lists,
 So please your Highness to behold the fight.
 
-QUEEN.
+Q. MARG.
 Ay, good my lord; for purposely therefore
 Left I the court, to see this quarrel tried.
 
@@ -1803,19 +1797,19 @@ Here, Peter, I drink to thee, and be not afraid.
 2. PREN.
 Be merry, Peter, and fear not thy master. Fight for credit of the prentices.
 
-PETER.
+PET.
 I thank you all. Drink, and pray for me, I pray you, for I think I have taken my last draught in this world. Here, Robin, and if I die, I give thee my apron; and, Will, thou shalt have my hammer; and here, Tom, take all the money that I have. O Lord bless me, I pray God, for I am never able to deal with my master, he hath learnt so much fence already.
 
 SAL.
 Come, leave your drinking, and fall to blows. Sirrah, what’s thy name?
 
-PETER.
+PET.
 Peter, forsooth.
 
 SAL.
 Peter? What more?
 
-PETER.
+PET.
 Thump.
 
 SAL.
@@ -1838,7 +1832,7 @@ He dies.
 YORK.
 Take away his weapon. Fellow, thank God, and the good wine in thy master’s way.
 
-PETER.
+PET.
 (He kneels down.)
 O God, have I overcome mine enemies in this presence? O Peter, thou hast prevail’d in right!
 
@@ -1853,7 +1847,7 @@ Come, fellow, follow us for thy reward.
 Sound a flourish. Exeunt.
 
 
-### Scene 4
+### Act 2, Scene 4
 
 
 London. A street.
@@ -2036,11 +2030,11 @@ Exeunt.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
-The Abbey at Bury St. Edmund’s.
+The Abbey at Bury St. Edmunds.
 
 Sound a sennet. Enter two Heralds before. Then enter King, Queen, Cardinal, Suffolk, York, Buckingham, Salisbury, and Warwick to the parliament.
 
@@ -2049,7 +2043,7 @@ I muse my Lord of Gloucester is not come;
 ’Tis not his wont to be the hindmost man,
 What e’er occasion keeps him from us now.
 
-QUEEN.
+Q. MARG.
 Can you not see? Or will ye not observe
 The strangeness of his alter’d countenance?
 With what a majesty he bears himself,
@@ -2131,7 +2125,7 @@ As is the sucking lamb or harmless dove.
 The Duke is virtuous, mild, and too well given
 To dream on evil or to work my downfall.
 
-QUEEN.
+Q. MARG.
 Ah, what’s more dangerous than this fond affiance!
 Seems he a dove? His feathers are but borrow’d,
 For he’s disposed as the hateful raven.
@@ -2284,7 +2278,7 @@ With ignominious words, though clerkly couch’d,
 As if she had suborned some to swear
 False allegations to o’erthrow his state?
 
-QUEEN.
+Q. MARG.
 But I can give the loser leave to chide.
 
 GLOU.
@@ -2313,7 +2307,7 @@ KING.
 My lords, what to your wisdoms seemeth best,
 Do or undo, as if ourself were here.
 
-QUEEN.
+Q. MARG.
 What, will your Highness leave the parliament?
 
 KING.
@@ -2345,7 +2339,7 @@ Say, “Who’s a traitor, Gloucester he is none.”
 
 Exit with Buckingham, Salisbury, and Warwick.
 
-QUEEN.
+Q. MARG.
 Free lords, cold snow melts with the sun’s hot beams:
 Henry my lord is cold in great affairs,
 Too full of foolish pity; and Gloucester’s show
@@ -2385,7 +2379,7 @@ Were’t not all one, an empty eagle were set
 To guard the chicken from a hungry kite,
 As place Duke Humphrey for the King’s Protector?
 
-QUEEN.
+Q. MARG.
 So the poor chicken should be sure of death.
 
 SUF.
@@ -2404,7 +2398,7 @@ Sleeping, or waking, ’tis no matter how,
 So he be dead; for that is good deceit
 Which mates him first that first intends deceit.
 
-QUEEN.
+Q. MARG.
 Thrice-noble Suffolk, ’tis resolutely spoke.
 
 SUF.
@@ -2425,7 +2419,7 @@ I tender so the safety of my liege.
 SUF.
 Here is my hand, the deed is worthy doing.
 
-QUEEN.
+Q. MARG.
 And so say I.
 
 YORK.
@@ -2466,7 +2460,7 @@ By staying there so long till all were lost.
 Show me one scar character’d on thy skin:
 Men’s flesh preserv’d so whole do seldom win.
 
-QUEEN.
+Q. MARG.
 Nay then, this spark will prove a raging fire,
 If wind and fuel be brought to feed it with.
 No more, good York; sweet Somerset, be still.
@@ -2577,10 +2571,10 @@ And Henry put apart, the next for me.
 Exit.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
-Bury St. Edmund’s. A palace room of state.
+Bury St. Edmunds. A palace room of state.
 
 Enter two or three Murderers running over the stage, from the murder of Duke Humphrey.
 
@@ -2636,7 +2630,7 @@ Proceed no straiter ’gainst our uncle Gloucester
 Than from true evidence of good esteem
 He be approv’d in practice culpable.
 
-QUEEN.
+Q. MARG.
 God forbid any malice should prevail,
 That faultless may condemn a nobleman!
 Pray God he may acquit him of suspicion!
@@ -2650,7 +2644,7 @@ Where is our uncle? What’s the matter, Suffolk?
 SUF.
 Dead in his bed, my lord; Gloucester is dead.
 
-QUEEN.
+Q. MARG.
 Marry, God forfend!
 
 CAR.
@@ -2659,13 +2653,13 @@ The Duke was dumb and could not speak a word.
 
 King sounds.
 
-QUEEN.
+Q. MARG.
 How fares my lord? Help, lords, the King is dead.
 
 SOM.
 Rear up his body, wring him by the nose.
 
-QUEEN.
+Q. MARG.
 Run, go, help, help! O Henry, ope thine eyes!
 
 SUF.
@@ -2674,7 +2668,7 @@ He doth revive again. Madam, be patient.
 KING.
 O heavenly God!
 
-QUEEN.
+Q. MARG.
 ^4 How fares my gracious lord?
 
 SUF.
@@ -2699,7 +2693,7 @@ And kill the innocent gazer with thy sight;
 For in the shade of death I shall find joy;
 In life but double death, now Gloucester’s dead.
 
-QUEEN.
+Q. MARG.
 Why do you rate my Lord of Suffolk thus?
 Although the Duke was enemy to him,
 Yet he most Christian-like laments his death;
@@ -2720,7 +2714,7 @@ To be a queen, and crown’d with infamy!
 KING.
 Ah, woe is me for Gloucester, wretched man!
 
-QUEEN.
+Q. MARG.
 Be woe for me, more wretched than he is.
 What, dost thou turn away and hide thy face?
 I am no loathsome leper, look on me.
@@ -2763,7 +2757,7 @@ And bid mine eyes be packing with my heart,
 And call’d them blind and dusky spectacles,
 For losing ken of Albion’s wished coast.
 How often have I tempted Suffolk’s tongue
-—The agent of thy foul inconstancy—
+(The agent of thy foul inconstancy) 
 To sit and witch me, as Ascanius did
 When he to madding Dido would unfold
 His father’s acts commenc’d in burning Troy!
@@ -2834,7 +2828,7 @@ What instance gives Lord Warwick for his vow?
 WAR.
 See how the blood is settled in his face.
 Oft have I seen a timely-parted ghost,
-Of ashy semblance, meagre, pale, and bloodless,
+Of ashy semblance, meager, pale, and bloodless,
 Being all descended to the laboring heart,
 Who, in the conflict that it holds with death,
 Attracts the same for aidance ’gainst the enemy,
@@ -2865,7 +2859,7 @@ And you
 ’Tis like you would not feast him like a friend,
 And ’tis well seen he found an enemy.
 
-QUEEN.
+Q. MARG.
 Then you belike suspect these noblemen
 As guilty of Duke Humphrey’s timeless death.
 
@@ -2878,7 +2872,7 @@ But may imagine how the bird was dead,
 Although the kite soar with unbloodied beak?
 Even so suspicious is this tragedy.
 
-QUEEN.
+Q. MARG.
 Are you the butcher, Suffolk? Where’s your knife?
 Is Beauford term’d a kite? Where are his talons?
 
@@ -2895,7 +2889,7 @@ Exeunt Cardinal, Somerset, and others.
 WAR.
 What dares not Warwick, if false Suffolk dare him?
 
-QUEEN.
+Q. MARG.
 He dares not calm his contumelious spirit,
 Nor cease to be an arrogant controller,
 Though Suffolk dare him twenty thousand times.
@@ -2945,7 +2939,7 @@ Whose conscience with injustice is corrupted.
 
 A noise within.
 
-QUEEN.
+Q. MARG.
 What noise is this?
 
 Enter Suffolk and Warwick with their weapons drawn.
@@ -3023,7 +3017,7 @@ But three days longer, on the pain of death.
 
 Exit Salisbury.
 
-QUEEN.
+Q. MARG.
 O Henry, let me plead for gentle Suffolk!
 
 KING.
@@ -3040,7 +3034,7 @@ I have great matters to impart to thee.
 
 Exit with Warwick.
 
-QUEEN.
+Q. MARG.
 Mischance and sorrow go along with you!
 Heart’s discontent and sour affliction
 Be playfellows to keep you company!
@@ -3051,7 +3045,7 @@ SUF.
 Cease, gentle queen, these execrations,
 And let thy Suffolk take his heavy leave.
 
-QUEEN.
+Q. MARG.
 Fie, coward woman and soft-hearted wretch!
 Hast thou not spirit to curse thine enemy?
 
@@ -3077,7 +3071,7 @@ Their music frightful as the serpent’s hiss,
 And boding screech owls make the consort full!
 All the foul terrors in dark-seated hell—
 
-QUEEN.
+Q. MARG.
 Enough, sweet Suffolk, thou torment’st thyself,
 And these dread curses, like the sun ’gainst glass,
 Or like an overcharged gun, recoil,
@@ -3091,7 +3085,7 @@ Though standing naked on a mountain top,
 Where biting cold would never let grass grow,
 And think it but a minute spent in sport.
 
-QUEEN.
+Q. MARG.
 O, let me entreat thee cease. Give me thy hand,
 That I may dew it with my mournful tears;
 Nor let the rain of heaven wet this place
@@ -3125,7 +3119,7 @@ Myself no joy in nought but that thou liv’st.
 
 Enter Vaux.
 
-QUEEN.
+Q. MARG.
 Whither goes Vaux so fast? What news, I prithee?
 
 VAUX.
@@ -3141,7 +3135,7 @@ The secrets of his overcharged soul;
 And I am sent to tell his Majesty
 That even now he cries aloud for him.
 
-QUEEN.
+Q. MARG.
 Go tell this heavy message to the King.
 (Exit Vaux.)
 Ay me! What is this world! What news are these!
@@ -3170,7 +3164,7 @@ To die by thee were but to die in jest,
 From thee to die were torture more than death.
 O, let me stay, befall what may befall!
 
-QUEEN.
+Q. MARG.
 Away! Though parting be a fretful corrosive,
 It is applied to a deathful wound.
 To France, sweet Suffolk! Let me hear from thee;
@@ -3180,7 +3174,7 @@ I’ll have an Iris that shall find thee out.
 SUF.
 I go.
 
-QUEEN.
+Q. MARG.
 ^2 And take my heart with thee.
 
 She kisseth him.
@@ -3191,13 +3185,13 @@ That ever did contain a thing of worth.
 Even as a splitted bark, so sunder we;
 This way fall I to death.
 
-QUEEN.
+Q. MARG.
 ^5 This way for me.
 
 Exeunt severally.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 London. The Cardinal’s bedchamber.
@@ -3266,8 +3260,8 @@ Exeunt.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 Coast of Kent. Seashore near Dover.
@@ -3516,7 +3510,7 @@ So will the Queen, that living held him dear.
 Exit with the body.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 Blackheath.
@@ -3795,7 +3789,7 @@ Jack Cade, the Duke of York hath taught you this.
 
 CADE.
 (Aside.)
-He lies, for I invented it myself.—Go to, sirrah, tell the King from me, that, for his father’s sake, Henry the Fifth —in whose time boys went to span-counter for French crowns—, I am content he shall reign, but I’ll be Protector over him.
+He lies, for I invented it myself.—Go to, sirrah, tell the King from me, that, for his father’s sake, Henry the Fifth (in whose time boys went to span-counter for French crowns), I am content he shall reign, but I’ll be Protector over him.
 
 DICK.
 And furthermore, we’ll have the Lord Say’s head for selling the dukedom of Maine.
@@ -3832,7 +3826,7 @@ Now show yourselves men, ’tis for liberty.
 We will not leave one lord, one gentleman;
 Spare none but such as go in clouted shoon,
 For they are thrifty honest men, and such
-As would —but that they dare not— take our parts.
+As would (but that they dare not) take our parts.
 
 DICK.
 They are all in order, and march toward us.
@@ -3843,7 +3837,7 @@ But then are we in order when we are most out of order. Come, march forward.
 Exeunt.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 Another part of Blackheath.
@@ -3878,14 +3872,14 @@ Fear not that, I warrant thee. Come, let’s march towards London.
 Exeunt.
 
 
-### Scene 4
+### Act 4, Scene 4
 
 
 London. A room in the palace.
 
 Enter the King with a supplication and the Queen with Suffolk’s head, the Duke of Buckingham and the Lord Say.
 
-QUEEN.
+Q. MARG.
 Oft have I heard that grief softens the mind,
 And makes it fearful and degenerate;
 Think therefore on revenge and cease to weep.
@@ -3904,7 +3898,7 @@ Rather than bloody war shall cut them short,
 Will parley with Jack Cade their general.
 But stay, I’ll read it over once again.
 
-QUEEN.
+Q. MARG.
 Ah, barbarous villains! Hath this lovely face
 Rul’d like a wandering planet over me,
 And could it not enforce them to relent,
@@ -3922,7 +3916,7 @@ Still lamenting and mourning for Suffolk’s death?
 I fear me, love, if that I had been dead,
 Thou wouldst not have mourn’d so much for me.
 
-QUEEN.
+Q. MARG.
 No, my love, I should not mourn, but die for thee.
 
 Enter Second Royal Messenger.
@@ -3950,7 +3944,7 @@ BUCK.
 My gracious lord, retire to Killingworth,
 Until a power be rais’d to put them down.
 
-QUEEN.
+Q. MARG.
 Ah, were the Duke of Suffolk now alive,
 These Kentish rebels would be soon appeas’d!
 
@@ -3979,7 +3973,7 @@ Then linger not, my lord, away, take horse.
 KING.
 Come, Margaret, God, our hope, will succor us.
 
-QUEEN.
+Q. MARG.
 My hope is gone, now Suffolk is deceas’d.
 
 KING.
@@ -3995,7 +3989,7 @@ And therefore am I bold and resolute.
 Exeunt.
 
 
-### Scene 5
+### Act 4, Scene 5
 
 
 London. The Tower.
@@ -4020,7 +4014,7 @@ And so farewell, for I must hence again.
 Exeunt.
 
 
-### Scene 6
+### Act 4, Scene 6
 
 
 London. Cannon Street.
@@ -4052,7 +4046,7 @@ Come, then, let’s go fight with them. But first go and set London Bridge on fi
 Exeunt omnes.
 
 
-### Scene 7
+### Act 4, Scene 7
 
 
 London. Smithfield.
@@ -4221,7 +4215,7 @@ But is not this braver? Let them kiss one another, for they lov’d well when th
 Exeunt.
 
 
-### Scene 8
+### Act 4, Scene 8
 
 
 Southwark.
@@ -4304,7 +4298,7 @@ To reconcile you all unto the King.
 Exeunt omnes.
 
 
-### Scene 9
+### Act 4, Scene 9
 
 
 Kenilworth Castle.
@@ -4393,7 +4387,7 @@ For yet may England curse my wretched reign.
 Flourish. Exeunt.
 
 
-### Scene 10
+### Act 4, Scene 10
 
 
 Kent. Iden’s Garden.
@@ -4482,8 +4476,8 @@ Exit dragging out the body, with his Servants.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 Fields Between Dartford and Blackheath.
@@ -4633,7 +4627,7 @@ KING.
 See, Buckingham, Somerset comes with th’ Queen.
 Go bid her hide him quickly from the Duke.
 
-QUEEN.
+Q. MARG.
 For thousand Yorks he shall not hide his head,
 But boldly stand and front him to his face.
 
@@ -4671,7 +4665,7 @@ Sirrah, call in my sons to be my bail.
 I know, ere they will have me go to ward,
 They’ll pawn their swords for my enfranchisement.
 
-QUEEN.
+Q. MARG.
 Call hither Clifford, bid him come amain,
 To say if that the bastard boys of York
 Shall be the surety for their traitor father.
@@ -4689,7 +4683,7 @@ See where they come, I’ll warrant they’ll make it good.
 
 Enter Clifford and his son Young Clifford with Drum and Soldiers at the other door.
 
-QUEEN.
+Q. MARG.
 And here comes Clifford to deny their bail.
 
 CLIF.
@@ -4716,7 +4710,7 @@ CLIF.
 He is a traitor, let him to the Tower,
 And chop away that factious pate of his.
 
-QUEEN.
+Q. MARG.
 He is arrested, but will not obey.
 His sons, he says, shall give their words for him.
 
@@ -4807,7 +4801,7 @@ To wring the widow from her custom’d right,
 And have no other reason for this wrong
 But that he was bound by a solemn oath?
 
-QUEEN.
+Q. MARG.
 A subtle traitor needs no sophister.
 
 KING.
@@ -4860,7 +4854,7 @@ If not in heaven, you’ll surely sup in hell.
 Exeunt severally.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 Battlefield at Saint Albans.
@@ -4996,13 +4990,13 @@ Fight.
 
 Excursions. Enter King, Queen, and others.
 
-QUEEN.
+Q. MARG.
 Away, my lord! You are slow, for shame, away!
 
 KING.
 Can we outrun the heavens? Good Margaret, stay.
 
-QUEEN.
+Q. MARG.
 What are you made of? You’ll nor fight nor fly.
 Now is it manhood, wisdom, and defense
 To give the enemy way, and to secure us
@@ -5010,7 +5004,7 @@ By what we can, which can no more but fly.
 (Alarum afar off.)
 If you be ta’en, we then should see the bottom
 Of all our fortunes; but if we haply scape
-—As well we may, if not through your neglect—,
+(As well we may, if not through your neglect),
 We shall to London get, where you are lov’d,
 And where this breach now in our fortunes made
 May readily be stopp’d.
@@ -5029,7 +5023,7 @@ Away, my lord, away!
 Exeunt.
 
 
-### Scene 3
+### Act 5, Scene 3
 
 
 Field nearby Saint Albans.

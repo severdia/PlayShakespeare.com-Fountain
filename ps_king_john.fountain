@@ -2,8 +2,8 @@ Title: King John
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,40 +14,40 @@ Notes:
 
 >_Cast of Characters_<
 
-|Lady Faulconbridge (LADY F.): | 
-|Blanch of Spain (BLANCH.): | 
-|Constance (CONST.): | 
-|Queen Elinor (EL.): | 
+|King John (K. JOHN.): | 
+|Philip, the Bastard (BAST.): | 
+|Philip, King of France (K. PHI.): | 
+|Hubert de Burgh (HUB.): | 
+|Cardinal Pandulph (PAND.): | 
+|Earl of Salisbury (SAL.): | 
+|Lewis, the Dauphin (LEW.): | 
+|Arthur (ARTH.): | 
+|Earl of Pembroke (PEM.): | 
 |Chatillion (CHAT.): | 
 |Melune (MEL.): | 
-|Cardinal Pandulph (PAND.): | 
 |Lymoges, Duke of Austria (AUST.): | 
-|Lewis, the Dauphin (LEW.): | 
-|Philip, King of France (K. PHI.): | 
-|Peter of Pomfret (PETER.): | 
-|James Gurney (GUR.): | 
-|Philip, the Bastard (BAST.): | 
-|Robert Faulconbridge (ROB.): | 
-|Hubert de Burgh (HUB.): | 
-|Lord Bigot (BIG.): | 
-|Earl of Salisbury (SAL.): | 
-|Earl of Essex (ESSEX.): | 
-|Earl of Pembroke (PEM.): | 
-|Arthur (ARTH.): | 
 |Prince Henry (P. HEN.): | 
-|King John (K. JOHN.): | 
-|Executioner (EXEC.): | 
-|English Herald (E. HER.): | 
-|French Herald (F. HER.): | 
-|Sheriff (SHER.): | 
+|Robert Faulconbridge (ROB.): | 
+|Earl of Essex (ESSEX.): | 
+|Constance (CONST.): | 
+|Queen Elinor (Q. EL.): | 
+|Blanch of Spain (BLANCH.): | 
+|Lady Faulconbridge (L. FAULC.): | 
+|Lord Bigot (BIG.): | 
 |The Messenger (MESS.): | 
+|English Herald (E. HER.): | 
+|French Herald (FR. HER.): | 
 |French Messenger (FR. MESS.): | 
+|Executioner (EXEC.): | 
+|Peter of Pomfret (PET.): | 
+|James Gurney (GUR.): | 
+|Sheriff (SHER.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 A room in King John’s palace.
@@ -62,7 +62,7 @@ Thus, after greeting, speaks the King of France
 In my behavior to the majesty,
 The borrowed majesty, of England here.
 
-EL.
+Q. EL.
 A strange beginning: “borrowed majesty”!
 
 K. JOHN.
@@ -106,7 +106,7 @@ Pembroke, look to’t. Farewell, Chatillion.
 
 Exeunt Chatillion and Pembroke.
 
-EL.
+Q. EL.
 What now, my son, have I not ever said
 How that ambitious Constance would not cease
 Till she had kindled France, and all the world,
@@ -119,7 +119,7 @@ With fearful bloody issue arbitrate.
 K. JOHN.
 Our strong possession and our right for us.
 
-EL.
+Q. EL.
 Your strong possession much more than your right,
 Or else it must go wrong with you and me;
 So much my conscience whispers in your ear,
@@ -164,7 +164,7 @@ But for the certain knowledge of that truth
 I put you o’er to heaven and to my mother.
 Of that I doubt, as all men’s children may.
 
-EL.
+Q. EL.
 Out on thee, rude man, thou dost shame thy mother,
 And wound her honor with this diffidence.
 
@@ -185,7 +185,7 @@ But once he slander’d me with bastardy.
 But whe’er I be as true begot or no,
 That still I lay upon my mother’s head,
 But that I am as well begot, my liege
-—Fair fall the bones that took the pains for me!—,
+(Fair fall the bones that took the pains for me!),
 Compare our faces, and be judge yourself.
 If old Sir Robert did beget us both,
 And were our father, and this son like him,
@@ -195,7 +195,7 @@ I give heaven thanks I was not like to thee!
 K. JOHN.
 Why, what a madcap hath heaven lent us here!
 
-EL.
+Q. EL.
 He hath a trick of Coeur de Lion’s face,
 The accent of his tongue affecteth him.
 Do you not read some tokens of my son
@@ -262,7 +262,7 @@ BAST.
 Of no more force to dispossess me, sir,
 Than was his will to get me, as I think.
 
-EL.
+Q. EL.
 Whether hadst thou rather be a Faulconbridge,
 And like thy brother, to enjoy thy land;
 Or the reputed son of Coeur de Lion,
@@ -280,7 +280,7 @@ Would I might never stir from off this place,
 I would give it every foot to have this face;
 It would not be Sir Nob in any case.
 
-EL.
+Q. EL.
 I like thee well. Wilt thou forsake thy fortune,
 Bequeath thy land to him, and follow me?
 I am a soldier, and now bound to France.
@@ -291,7 +291,7 @@ Your face hath got five hundred pound a year,
 Yet sell your face for five pence and ’tis dear.
 Madam, I’ll follow you unto the death.
 
-EL.
+Q. EL.
 Nay, I would have you go before me thither.
 
 BAST.
@@ -315,7 +315,7 @@ My father gave me honor, yours gave land.
 Now blessed be the hour by night or day
 When I was got, Sir Robert was away!
 
-EL.
+Q. EL.
 The very spirit of Plantagenet!
 I am thy grandame, Richard, call me so.
 
@@ -380,7 +380,7 @@ That will take pains to blow a horn before her?
 O me, ’tis my mother. How now, good lady,
 What brings you here to court so hastily?
 
-LADY F.
+L. FAULC.
 Where is that slave, thy brother? Where is he,
 That holds in chase mine honor up and down?
 
@@ -389,7 +389,7 @@ My brother Robert, old Sir Robert’s son?
 Colbrand the giant, that same mighty man?
 Is it Sir Robert’s son that you seek so?
 
-LADY F.
+L. FAULC.
 Sir Robert’s son! Ay, thou unreverend boy,
 Sir Robert’s son! Why scorn’st thou at Sir Robert?
 He is Sir Robert’s son, and so art thou.
@@ -413,7 +413,7 @@ We know his handiwork. Therefore, good mother,
 To whom am I beholding for these limbs?
 Sir Robert never holp to make this leg.
 
-LADY F.
+L. FAULC.
 Hast thou conspired with thy brother too,
 That for thine own gain shouldst defend mine honor?
 What means this scorn, thou most untoward knave?
@@ -427,13 +427,13 @@ Legitimation, name, and all is gone;
 Then, good my mother, let me know my father;
 Some proper man, I hope. Who was it, mother?
 
-LADY F.
+L. FAULC.
 Hast thou denied thyself a Faulconbridge?
 
 BAST.
 As faithfully as I deny the devil.
 
-LADY F.
+L. FAULC.
 King Richard Coeur de Lion was thy father.
 By long and vehement suit I was seduc’d
 To make room for him in my husband’s bed.
@@ -467,8 +467,8 @@ Exeunt.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 France. Before the town of Angiers.
@@ -635,13 +635,13 @@ Alack, thou dost usurp authority.
 K. PHI.
 Excuse it is to beat usurping down.
 
-EL.
+Q. EL.
 Who is it thou dost call usurper, France?
 
 CONST.
 Let me make answer: thy usurping son.
 
-EL.
+Q. EL.
 Out, insolent, thy bastard shall be king
 That thou mayst be a queen, and check the world!
 
@@ -655,7 +655,7 @@ My boy a bastard? By my soul I think
 His father never was so true begot—
 It cannot be, and if thou wert his mother.
 
-EL.
+Q. EL.
 There’s a good mother, boy, that blots thy father.
 
 CONST.
@@ -707,7 +707,7 @@ And out of my dear love I’ll give thee more
 Than e’er the coward hand of France can win.
 Submit thee, boy.
 
-EL.
+Q. EL.
 ^4 Come to thy grandame, child.
 
 CONST.
@@ -721,7 +721,7 @@ ARTH.
 I would that I were low laid in my grave,
 I am not worth this coil that’s made for me.
 
-EL.
+Q. EL.
 His mother shames him so, poor boy, he weeps.
 
 CONST.
@@ -732,7 +732,7 @@ Which heaven shall take in nature of a fee;
 Ay, with these crystal beads heaven shall be brib’d
 To do him justice, and revenge on you.
 
-EL.
+Q. EL.
 Thou monstrous slanderer of heaven and earth!
 
 CONST.
@@ -759,7 +759,7 @@ Her injury, the beadle to her sin—
 All punish’d in the person of this child,
 And all for her. A plague upon her!
 
-EL.
+Q. EL.
 Thou unadvised scold, I can produce
 A will that bars the title of thy son.
 
@@ -932,7 +932,7 @@ Exeunt. Hubert and Citizens remain above.
 
 Here, after excursions, enter the Herald of France with Trumpets to the gates.
 
-F. HER.
+FR. HER.
 You men of Angiers, open wide your gates,
 And let young Arthur Duke of Britain in,
 Who by the hand of France this day hath made
@@ -1155,7 +1155,7 @@ But buffets better than a fist of France.
 ’Zounds, I was never so bethump’d with words
 Since I first call’d my brother’s father dad.
 
-EL.
+Q. EL.
 Son, list to this conjunction, make this match,
 Give with our niece a dowry large enough,
 For by this knot thou shalt so surely tie
@@ -1183,7 +1183,7 @@ Can in this book of beauty read, “I love,”
 Her dowry shall weigh equal with a queen;
 For Anjou and fair Touraine, Maine, Poictiers,
 And all that we upon this side the sea
-—Except this city now by us besieg’d—
+(Except this city now by us besieg’d) 
 Find liable to our crown and dignity,
 Shall gild her bridal bed and make her rich
 In titles, honors, and promotions,
@@ -1338,8 +1338,8 @@ Exit.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 The French King’s tent.
@@ -1449,7 +1449,7 @@ Ever in France shall be kept festival.
 To solemnize this day the glorious sun
 Stays in his course and plays the alchemist,
 Turning with splendor of his precious eye
-The meagre cloddy earth to glittering gold.
+The meager cloddy earth to glittering gold.
 The yearly course that brings this day about
 Shall never see it but a holy day.
 
@@ -1610,7 +1610,7 @@ Let go the hand of that arch-heretic,
 And raise the power of France upon his head,
 Unless he do submit himself to Rome.
 
-EL.
+Q. EL.
 Look’st thou pale, France? Do not let go thy hand.
 
 CONST.
@@ -1811,7 +1811,7 @@ Thou shalt not need. England, I will fall from thee.
 CONST.
 O fair return of banish’d majesty!
 
-EL.
+Q. EL.
 O foul revolt of French inconstancy!
 
 K. JOHN.
@@ -1859,7 +1859,7 @@ No more than he that threats. To arms let’s hie!
 Exeunt.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 The plains near Angiers.
@@ -1888,7 +1888,7 @@ Will bring this labor to an happy end.
 Exeunt.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 The plains near Angiers.
@@ -1920,10 +1920,10 @@ BAST.
 Bell, book, and candle shall not drive me back,
 When gold and silver becks me to come on.
 I leave your Highness. Grandame, I will pray
-—If ever I remember to be holy—
+(If ever I remember to be holy) 
 For your fair safety; so I kiss your hand.
 
-EL.
+Q. EL.
 Farewell, gentle cousin.
 
 K. JOHN.
@@ -1931,7 +1931,7 @@ K. JOHN.
 
 Exit Bastard.
 
-EL.
+Q. EL.
 Come hither, little kinsman, hark, a word.
 
 Takes Arthur aside.
@@ -1998,25 +1998,25 @@ HUB.
 That he shall not offend your Majesty.
 
 K. JOHN.
-^8 Death.
+^10 Death.
 
 HUB.
 My lord?
 
 K. JOHN.
-^2 A grave.
+^3 A grave.
 
 HUB.
-^4 He shall not live.
+^5 He shall not live.
 
 K. JOHN.
-^8 Enough.
+^9 Enough.
 I could be merry now. Hubert, I love thee.
 Well, I’ll not say what I intend for thee.
 Remember. Madam, fare you well,
 I’ll send those powers o’er to your Majesty.
 
-EL.
+Q. EL.
 My blessing go with thee!
 
 K. JOHN.
@@ -2027,7 +2027,7 @@ With all true duty. On toward Callice, ho!
 Exeunt.
 
 
-### Scene 4
+### Act 3, Scene 4
 
 
 The plains near Angiers. King Philip’s tent.
@@ -2045,7 +2045,7 @@ Courage and comfort! All shall yet go well.
 K. PHI.
 What can go well, when we have run so ill?
 Are we not beaten? Is not Angiers lost?
-Arthur ta’en prisoner? Divers dear friends slain?
+Arthur ta’en prisoner? Diverse dear friends slain?
 And bloody England into England gone,
 O’erbearing interruption, spite of France?
 
@@ -2152,7 +2152,7 @@ There was not such a gracious creature born.
 But now will canker-sorrow eat my bud,
 And chase the native beauty from his cheek,
 And he will look as hollow as a ghost,
-As dim and meagre as an ague’s fit,
+As dim and meager as an ague’s fit,
 And so he’ll die; and rising so again,
 When I shall meet him in the court of heaven
 I shall not know him: therefore never, never
@@ -2299,8 +2299,8 @@ Exeunt.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 Northampton. A room in the castle.
@@ -2392,7 +2392,7 @@ HUB.
 ARTH.
 Have you the heart? When your head did but ache,
 I knit my handkercher about your brows
-—The best I had, a princess wrought it me—
+(The best I had, a princess wrought it me) 
 And I did never ask it you again;
 And with my hand at midnight held your head;
 And like the watchful minutes to the hour,
@@ -2546,7 +2546,7 @@ Much danger do I undergo for thee.
 Exeunt.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 A room in King John’s castle.
@@ -2558,7 +2558,7 @@ Here once again we sit; once again crown’d,
 And look’d upon, I hope, with cheerful eyes.
 
 PEM.
-This “once again” —but that your Highness pleas’d—
+This “once again” (but that your Highness pleas’d) 
 Was once superfluous. You were crown’d before,
 And that high royalty was ne’er pluck’d off;
 The faiths of men ne’er stained with revolt;
@@ -2625,7 +2625,7 @@ Th’ enfranchisement of Arthur, whose restraint
 Doth move the murmuring lips of discontent
 To break into this dangerous argument:
 If what in rest you have in right you hold,
-Why then your fears, which —as they say— attend
+Why then your fears, which (as they say) attend
 The steps of wrong, should move you to mew up
 Your tender kinsman, and to choke his days
 With barbarous ignorance, and deny his youth
@@ -2777,7 +2777,7 @@ Your Highness should deliver up your crown.
 K. JOHN.
 Thou idle dreamer, wherefore didst thou so?
 
-PETER.
+PET.
 Foreknowing that the truth will fall out so.
 
 K. JOHN.
@@ -2952,7 +2952,7 @@ I conjure thee but slowly; run more fast.
 Exeunt.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 Before King John’s castle.
@@ -3082,7 +3082,7 @@ Nor conversant with ease and idleness,
 Till I have set a glory to this hand,
 By giving it the worship of revenge.
 
-BOTH. PEM. AND BIG.
+BOTH PEM. AND BIG.
 Our souls religiously confirm thy words.
 
 Enter Hubert.
@@ -3248,8 +3248,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 King John’s Palace.
@@ -3298,7 +3298,7 @@ Is this Ascension-day? Did not the prophet
 Say that before Ascension-day at noon
 My crown I should give off? Even so I have.
 I did suppose it should be on constraint,
-But —heav’n be thank’d!— it is but voluntary.
+But (heav’n be thank’d!) it is but voluntary.
 
 Enter Bastard.
 
@@ -3374,7 +3374,7 @@ Our party may well meet a prouder foe.
 Exeunt.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 The French camp at St. Edmundsbury.
@@ -3588,10 +3588,10 @@ An echo with the clamor of thy drum,
 And even at hand a drum is ready brac’d
 That shall reverberate all as loud as thine.
 Sound but another, and another shall
-—As loud as thine— rattle the welkin’s ear,
+(As loud as thine) rattle the welkin’s ear,
 And mock the deep-mouth’d thunder; for at hand
-—Not trusting to this halting legate here,
-Whom he hath us’d rather for sport than need—
+(Not trusting to this halting legate here,
+Whom he hath us’d rather for sport than need) 
 Is warlike John; and in his forehead sits
 A bare-ribb’d death, whose office is this day
 To feast upon whole thousands of the French.
@@ -3605,7 +3605,7 @@ And thou shalt find it, Dauphin, do not doubt.
 Exeunt.
 
 
-### Scene 3
+### Act 5, Scene 3
 
 
 The battlefield.
@@ -3648,7 +3648,7 @@ Weakness possesseth me, and I am faint.
 Exeunt.
 
 
-### Scene 4
+### Act 5, Scene 4
 
 
 Another part of the battlefield.
@@ -3746,7 +3746,7 @@ And happy newness, that intends old right.
 Exeunt leading off Melune.
 
 
-### Scene 5
+### Act 5, Scene 5
 
 
 The French camp.
@@ -3795,7 +3795,7 @@ To try the fair adventure of tomorrow.
 Exeunt.
 
 
-### Scene 6
+### Act 5, Scene 6
 
 
 An open place in the neighborhood of Swinstead Abbey.
@@ -3893,7 +3893,7 @@ I doubt he will be dead or ere I come.
 Exeunt.
 
 
-### Scene 7
+### Act 5, Scene 7
 
 
 The orchard at Swinstead Abbey.
@@ -3903,7 +3903,7 @@ Enter Prince Henry, Salisbury, and Bigot.
 P. HEN.
 It is too late, the life of all his blood
 Is touch’d corruptibly; and his pure brain
-—Which some suppose the soul’s frail dwelling-house—
+(Which some suppose the soul’s frail dwelling-house) 
 Doth by the idle comments that it makes
 Foretell the ending of mortality.
 

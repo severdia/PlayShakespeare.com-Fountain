@@ -2,8 +2,8 @@ Title: Henry IV, Pt. 2
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -16,65 +16,65 @@ Notes:
 
 |King Henry the Fourth (KING.): | 
 |Prince Henry (PRINCE.): | 
-|Prince John of Lancaster (P. JOHN.): | 
-|Humphrey, Duke of Gloucester (GLOU.): | 
-|Thomas, Duke of Clarence (CLAR.): | 
-|Henry Percy, Earl of Northumberland (NORTH.): | 
-|Richard Scroop, Archbishop of York (ARCH.): | 
-|Lord Mowbray (MOWB.): | 
-|Lord Hastings (HAST.): | 
-|Lord Bardolph (L. BARD.): | 
-|Travers (TRA.): | 
-|Sir John Colevile (COL.): | 
-|Earl of Warwick (WAR.): | 
-|Earl of Westmorland (WEST.): | 
-|Earl of Surrey (SURR.): | 
-|Sir John Blunt (BLUNT.): | 
-|Gower (GOW.): | 
-|Harcourt (HAR.): | 
-|Lord Chief Justice (CH. JUST.): | 
-|Poins (POINS.): | 
 |Sir John Falstaff (FAL.): | 
-|Bardolph (BARD.): | 
+|Richard Scroop, Archbishop of York (ARCH.): | 
+|Earl of Westmorland (WEST.): | 
+|Prince John of Lancaster (P. JOHN.): | 
+|Henry Percy, Earl of Northumberland (NORTH.): | 
+|Shallow (SHAL.): | 
+|Morton (MOR.): | 
+|Earl of Warwick (WAR.): | 
 |Pistol (PIST.): | 
 |Rumor, the Presenter (RUM.): | 
-|Porter (PORT.): | 
-|Epilogue (EPILOGUE.): | 
-|Doll Tearsheet (DOLL.): | 
+|Silence (SIL.): | 
+|Bardolph (BARD.): | 
+|Poins (POINS.): | 
+|Thomas, Duke of Clarence (CLAR.): | 
+|Humphrey, Duke of Gloucester (GLOU.): | 
+|Travers (TRA.): | 
+|Davy (DAVY.): | 
 |Hostess Quickly (HOST.): | 
 |Lady Percy (LADY P.): | 
-|Lady Northumberland (LADY N.): | 
-|Bullcalf (BULL.): | 
-|Feeble (FEE.): | 
-|Wart (WART.): | 
-|Mouldy (MOUL.): | 
-|Snare (SNARE.): | 
-|Davy (DAVY.): | 
-|Silence (SIL.): | 
-|Shallow (SHAL.): | 
+|Doll Tearsheet (DOLL.): | 
+|Lady Northumberland (L. NORTH.): | 
+|Lord Chief Justice (CH. JUST.): | 
+|Lord Bardolph (L. BARD.): | 
+|Lord Hastings (HAST.): | 
+|Lord Mowbray (MOWB.): | 
 |Falstaff’s Page (PAGE.): | 
-|Peto (PETO.): | 
-|Morton (MOR.): | 
-|Fang (FANG.): | 
-|Sneak (SNEAK.): | 
-|Shadow (SHAD.): | 
 |Servant to the Lord Chief Justice (SERV.): | 
+|Messenger (MESS.): | 
+|Harcourt (HAR.): | 
+|Gower (GOW.): | 
+|Sir John Colevile (COL.): | 
+|Feeble (FEE.): | 
+|Peto (PETO.): | 
+|Fang (FANG.): | 
+|Mouldy (MOUL.): | 
+|Bullcalf (BULL.): | 
 |Beadle (BEAD.): | 
 |Francis (FRAN.): | 
+|Porter (PORT.): | 
+|Epilogue (EPILOGUE): | 
+|Shadow (SHAD.): | 
+|Wart (WART.): | 
+|Snare (SNARE.): | 
 |Second Drawer (2. DRAW.): | 
 |Third Drawer (3. DRAW.): | 
-|Messenger (MESS.): | 
 |First Strewer (1. STREWER.): | 
 |Second Strewer (2. STREWER.): | 
 |Third Strewer (3. STREWER.): | 
-|Officer (OFFICER.): | 
+|Officer (OFF.): | 
+|Sneak (SNEAK.): | 
+|Sir John Blunt (BLUNT.): | 
+|Earl of Surrey (SURR.): | 
 |King Henry’s Page (K. HEN. PAGE): | 
 
 ===
 
 
-# Act 1
-### Prologue
+/* # Act 1 */
+### Act 1, Prologue
 
 Induction
 
@@ -84,7 +84,7 @@ RUM.
 Open your ears; for which of you will stop
 The vent of hearing when loud Rumor speaks?
 I, from the orient to the drooping west
-—Making the wind my post-horse—, still unfold
+(Making the wind my post-horse), still unfold
 The acts commenced on this ball of earth.
 Upon my tongues continual slanders ride,
 The which in every language I pronounce,
@@ -125,7 +125,7 @@ They bring smooth comforts false, worse than true wrongs.
 Exit Rumor.
 
 
-### Scene 1
+### Act 1, Scene 1
 
 
 Warkworth. Before Northumberland’s castle.
@@ -347,7 +347,7 @@ NORTH.
 For this I shall have time enough to mourn;
 In poison there is physic, and these news,
 Having been well, that would have made me sick,
-Being sick, have —in some measure— made me well.
+Being sick, have (in some measure) made me well.
 And as the wretch whose fever-weak’ned joints,
 Like strengthless hinges, buckle under life,
 Impatient of his fit, breaks like a fire
@@ -388,7 +388,7 @@ You were advis’d his flesh was capable
 Of wounds and scars; and that his forward spirit
 Would lift him where most trade of danger rang’d;
 Yet did you say, “Go forth!” and none of this
-—Though strongly apprehended— could restrain
+(Though strongly apprehended) could restrain
 The stiff-borne action. What hath then befall’n?
 Or what doth this bold enterprise bring forth
 More than that being which was like to be?
@@ -438,7 +438,7 @@ Never so few, and never yet more need.
 Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 London. A street.
@@ -458,7 +458,7 @@ PAGE.
 He said, sir, you should procure him better assurance than Bardolph. He would not take his bond and yours, he lik’d not the security.
 
 FAL.
-Let him be damn’d like the glutton! Pray God his tongue be hotter! A whoreson Achitophel! A rascally yea-forsooth knave, to bear a gentleman in hand, and then stand upon security! The whoreson smoothy-pates do now wear nothing but high shoes, and bunches of keys at their girdles, and if a man is through with them in honest taking up, then they must stand upon security. I had as live they would put ratsbane in my mouth as offer to stop it with security. I look’d ’a should have sent me two and twenty yards of satin —as I am a true knight—, and he sends me security! Well, he may sleep in security, for he hath the horn of abundance, and the lightness of his wife shines through it; and yet cannot he see, though he have his own lantern to light him. Where’s Bardolph?
+Let him be damn’d like the glutton! Pray God his tongue be hotter! A whoreson Achitophel! A rascally yea-forsooth knave, to bear a gentleman in hand, and then stand upon security! The whoreson smoothy-pates do now wear nothing but high shoes, and bunches of keys at their girdles, and if a man is through with them in honest taking up, then they must stand upon security. I had as live they would put ratsbane in my mouth as offer to stop it with security. I look’d ’a should have sent me two and twenty yards of satin (as I am a true knight), and he sends me security! Well, he may sleep in security, for he hath the horn of abundance, and the lightness of his wife shines through it; and yet cannot he see, though he have his own lantern to light him. Where’s Bardolph?
 
 PAGE.
 He’s gone into Smithfield to buy your worship a horse.
@@ -484,7 +484,7 @@ CH. JUST.
 He that was in question for the robb’ry?
 
 SERV.
-He, my lord, but he hath since done good service at Shrewsbury, and —as I hear— is now going with some charge to the Lord John of Lancaster.
+He, my lord, but he hath since done good service at Shrewsbury, and (as I hear) is now going with some charge to the Lord John of Lancaster.
 
 CH. JUST.
 What, to York? Call him back again.
@@ -669,7 +669,7 @@ A pox of this gout! Or a gout of this pox! For the one or the other plays the ro
 Exit.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 York. A room in the Archbishop’s palace.
@@ -744,8 +744,8 @@ Which if we find outweighs ability,
 What do we then but draw anew the model
 In fewer offices, or at least desist
 To build at all? Much more, in this great work
-—Which is, almost, to pluck a kingdom down
-And set another up—, should we survey
+(Which is, almost, to pluck a kingdom down
+And set another up), should we survey
 The plot of situation and the model,
 Consent upon a sure foundation,
 Question surveyors, know our own estate,
@@ -760,7 +760,7 @@ A naked subject to the weeping clouds
 And waste for churlish winter’s tyranny.
 
 HAST.
-Grant that our hopes —yet likely of fair birth—
+Grant that our hopes (yet likely of fair birth) 
 Should be still-born, and that we now possess’d
 The utmost man of expectation,
 I think we are so a body strong enough,
@@ -835,8 +835,8 @@ Exeunt.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 London. A street.
@@ -884,7 +884,7 @@ FANG.
 And I but fist him once, and ’a come but within my vice—
 
 HOST.
-I am undone by his going, I warrant you, he’s an infinitive thing upon my score. Good Master Fang, hold him sure. Good Master Snare, let him not scape. ’a comes continuantly to Pie-corner —saving your manhoods— to buy a saddle, and he is indited to dinner to the Lubber’s Head in Lumbert street, to Master Smooth’s the silk-man. I pray you, since my exion is ent’red and my case so openly known to the world, let him be brought in to his answer. A hundred mark is a long one for a poor lone woman to bear, and I have borne, and borne, and borne, and have been fubb’d off, and fubb’d off, and fubb’d off, from this day to that day, that it is a shame to be thought on. There is no honesty in such dealing, unless a woman should be made an ass and a beast, to bear every knave’s wrong.
+I am undone by his going, I warrant you, he’s an infinitive thing upon my score. Good Master Fang, hold him sure. Good Master Snare, let him not scape. ’a comes continuantly to Pie-corner (saving your manhoods) to buy a saddle, and he is indited to dinner to the Lubber’s Head in Lumbert street, to Master Smooth’s the silk-man. I pray you, since my exion is ent’red and my case so openly known to the world, let him be brought in to his answer. A hundred mark is a long one for a poor lone woman to bear, and I have borne, and borne, and borne, and have been fubb’d off, and fubb’d off, and fubb’d off, from this day to that day, that it is a shame to be thought on. There is no honesty in such dealing, unless a woman should be made an ass and a beast, to bear every knave’s wrong.
 (Enter Sir John Falstaff and Bardolph and the Boy Page.)
 Yonder he comes, and that arrant malmsey-nose knave, Bardolph, with him. Do your offices, do your offices, Master Fang and Master Snare, do me, do me, do me your offices.
 
@@ -903,7 +903,7 @@ Throw me in the channel? I’ll throw thee in the channel. Wilt thou? Wilt thou?
 FAL.
 Keep them off, Bardolph.
 
-OFFICER.
+OFF.
 A rescue! A rescue!
 
 HOST.
@@ -1075,7 +1075,7 @@ Now the Lord lighten thee! Thou art a great fool.
 Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 London. Another street.
@@ -1299,7 +1299,7 @@ From a God to a bull? A heavy descension! It was Jove’s case. From a prince to
 Exeunt.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 Warkworth. Before Northumberland’s castle.
@@ -1312,7 +1312,7 @@ Give even way unto my rough affairs;
 Put not you on the visage of the times,
 And be like them to Percy troublesome.
 
-LADY N.
+L. NORTH.
 I have given over, I will speak no more;
 Do what you will, your wisdom be your guide.
 
@@ -1336,7 +1336,7 @@ Did all the chivalry of England move
 To do brave acts. He was indeed the glass
 Wherein the noble youth did dress themselves:
 He had no legs that practic’d not his gait;
-And speaking thick —which nature made his blemish—
+And speaking thick (which nature made his blemish) 
 Became the accents of the valiant;
 For those that could speak low and tardily
 Would turn their own perfection to abuse
@@ -1367,7 +1367,7 @@ But I must go and meet with danger there,
 Or it will seek me in another place,
 And find me worse provided.
 
-LADY N.
+L. NORTH.
 ^6 O, fly to Scotland,
 Till that the nobles and the armed commons
 Have of their puissance made a little taste.
@@ -1395,7 +1395,7 @@ Till time and vantage crave my company.
 Exeunt.
 
 
-### Scene 4
+### Act 2, Scene 4
 
 
 London. The Boar’s Head Tavern in Eastcheap.
@@ -1926,8 +1926,8 @@ Exeunt.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 Westminster. A palace room.
@@ -1965,7 +1965,7 @@ Canst thou, O partial sleep, give then repose
 To the wet sea-boy in an hour so rude,
 And in the calmest and most stillest night,
 With all appliances and means to boot,
-Deny it to a king? Then —happy— low, lie down!
+Deny it to a king? Then (happy) low, lie down!
 Uneasy lies the head that wears a crown.
 
 Enter Warwick, Surrey, and Sir John Blunt.
@@ -2006,7 +2006,7 @@ Into the sea, and other times to see
 The beachy girdle of the ocean
 Too wide for Neptune’s hips; how chance’s mocks
 And changes fill the cup of alteration
-With divers liquors! O, if this were seen,
+With diverse liquors! O, if this were seen,
 The happiest youth, viewing his progress through,
 What perils past, what crosses to ensue,
 Would shut the book, and sit him down and die.
@@ -2026,9 +2026,9 @@ Then check’d and rated by Northumberland,
 Did speak these words, now prov’d a prophecy?
 “Northumberland, thou ladder by the which
 My cousin Bullingbrook ascends my throne”
-—Though then, God knows, I had no such intent,
+(Though then, God knows, I had no such intent,
 But that necessity so bow’d the state
-That I and greatness were compell’d to kiss—,
+That I and greatness were compell’d to kiss),
 “The time shall come,” thus did he follow it,
 “The time will come, that foul sin, gathering head,
 Shall break into corruption”: so went on,
@@ -2078,7 +2078,7 @@ We would, dear lords, unto the Holy Land.
 Exeunt.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 Gloucestershire. Court before Shallow’s house.
@@ -2484,8 +2484,8 @@ Exit.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 Yorkshire. Within the Forest of Gaultree.
@@ -2585,7 +2585,7 @@ Briefly, to this end: we are all diseas’d,
 And with our surfeiting and wanton hours
 Have brought ourselves into a burning fever,
 And we must bleed for it; of which disease
-Our late King Richard —being infected— died.
+Our late King Richard (being infected) died.
 But, my most noble Lord of Westmorland,
 I take not on me here as a physician,
 Nor do I as an enemy to peace
@@ -2601,7 +2601,7 @@ We see which way the stream of time doth run,
 And are enforc’d from our most quiet there
 By the rough torrent of occasion,
 And have the summary of all our griefs
-—When time shall serve— to show in articles;
+(When time shall serve) to show in articles;
 Which long ere this we offer’d to the King,
 And might by no suit gain our audience.
 When we are wrong’d and would unfold our griefs,
@@ -2610,7 +2610,7 @@ Even by those men that most have done us wrong.
 The dangers of the days but newly gone,
 Whose memory is written on the earth
 With yet appearing blood, and the examples
-Of every minute’s instance —present now—
+Of every minute’s instance (present now) 
 Hath put us in these ill-beseeming arms,
 Not to break peace, or any branch of it,
 But to establish here a peace indeed,
@@ -2664,7 +2664,7 @@ And the loud trumpet blowing them together;
 Then, then, when there was nothing could have stay’d
 My father from the breast of Bullingbrook,
 O, when the King did throw his warder down
-—His own life hung upon the staff he threw—,
+(His own life hung upon the staff he threw),
 Then threw he down himself and all their lives
 That by indictment and by dint of sword
 Have since miscarried under Bullingbrook.
@@ -2818,7 +2818,7 @@ Before, and greet his Grace.—My lord, we come.
 They march about the stage and then move forward to meet Prince John.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 Yorkshire. Another part of the Forest of Gaultree.
@@ -3034,7 +3034,7 @@ Treason’s true bed and yielder-up of breath.
 Exeunt.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 Yorkshire. Another part of the Forest of Gaultree.
@@ -3080,7 +3080,7 @@ P. JOHN.
 It was more of his courtesy than your deserving.
 
 FAL.
-I know not: here he is, and here I yield him, and I beseech your Grace let it be book’d with the rest of this day’s deeds, or by the Lord, I will have it in a particular ballad else, with mine own picture on the top on’t —Colevile kissing my foot—, to the which course if I be enforc’d, if you do not all show like gilt twopences to me, and I in the clear sky of fame o’ershine you as much as the full moon doth the cinders of the element —which show like pins’ heads to her—, believe not the word of the noble. Therefore let me have right, and let desert mount.
+I know not: here he is, and here I yield him, and I beseech your Grace let it be book’d with the rest of this day’s deeds, or by the Lord, I will have it in a particular ballad else, with mine own picture on the top on’t (Colevile kissing my foot), to the which course if I be enforc’d, if you do not all show like gilt twopences to me, and I in the clear sky of fame o’ershine you as much as the full moon doth the cinders of the element (which show like pins’ heads to her), believe not the word of the noble. Therefore let me have right, and let desert mount.
 
 P. JOHN.
 Thine’s too heavy to mount.
@@ -3143,7 +3143,7 @@ Shall better speak of you than you deserve.
 Exeunt all but Falstaff.
 
 FAL.
-I would you had the wit, ’twere better than your dukedom. Good faith, this same young sober-blooded boy doth not love me, nor a man cannot make him laugh, but that’s no marvel, he drinks no wine. There’s never none of these demure boys come to any proof, for thin drink doth so over-cool their blood, and making many fish-meals, that they fall into a kind of male green-sickness, and then when they marry, they get wenches. They are generally fools and cowards, which some of us should be too, but for inflammation. A good sherris-sack hath a twofold operation in it. It ascends me into the brain, dries me there all the foolish and dull and crudy vapors which environ it, makes it apprehensive, quick, forgetive, full of nimble, fiery, and delectable shapes, which deliver’d o’er to the voice, the tongue, which is the birth, becomes excellent wit. The second property of your excellent sherris is the warming of the blood, which before —cold and settled— left the liver white and pale, which is the badge of pusillanimity and cowardice; but the sherris warms it, and makes it course from the inwards to the parts’ extremes. It illumineth the face, which as a beacon gives warning to all the rest of this little kingdom, man, to arm, and then the vital commoners and inland petty spirits muster me all to their captain, the heart, who great and puff’d up with this retinue, doth any deed of courage; and this valor comes of sherris. So that skill in the weapon is nothing without sack —for that sets it a-work— and learning a mere hoard of gold kept by a devil, till sack commences it and sets it in act and use. Hereof comes it that Prince Harry is valiant, for the cold blood he did naturally inherit of his father, he hath, like lean, sterile, and bare land, manur’d, husbanded, and till’d with excellent endeavor of drinking good and good store of fertile sherris, that he is become very hot and valiant. If I had a thousand sons, the first humane principle I would teach them should be, to forswear thin potations and to addict themselves to sack.
+I would you had the wit, ’twere better than your dukedom. Good faith, this same young sober-blooded boy doth not love me, nor a man cannot make him laugh, but that’s no marvel, he drinks no wine. There’s never none of these demure boys come to any proof, for thin drink doth so over-cool their blood, and making many fish-meals, that they fall into a kind of male green-sickness, and then when they marry, they get wenches. They are generally fools and cowards, which some of us should be too, but for inflammation. A good sherris-sack hath a twofold operation in it. It ascends me into the brain, dries me there all the foolish and dull and crudy vapors which environ it, makes it apprehensive, quick, forgetive, full of nimble, fiery, and delectable shapes, which deliver’d o’er to the voice, the tongue, which is the birth, becomes excellent wit. The second property of your excellent sherris is the warming of the blood, which before (cold and settled) left the liver white and pale, which is the badge of pusillanimity and cowardice; but the sherris warms it, and makes it course from the inwards to the parts’ extremes. It illumineth the face, which as a beacon gives warning to all the rest of this little kingdom, man, to arm, and then the vital commoners and inland petty spirits muster me all to their captain, the heart, who great and puff’d up with this retinue, doth any deed of courage; and this valor comes of sherris. So that skill in the weapon is nothing without sack (for that sets it a-work) and learning a mere hoard of gold kept by a devil, till sack commences it and sets it in act and use. Hereof comes it that Prince Harry is valiant, for the cold blood he did naturally inherit of his father, he hath, like lean, sterile, and bare land, manur’d, husbanded, and till’d with excellent endeavor of drinking good and good store of fertile sherris, that he is become very hot and valiant. If I had a thousand sons, the first humane principle I would teach them should be, to forswear thin potations and to addict themselves to sack.
 (Enter Bardolph.)
 How now, Bardolph?
 
@@ -3156,7 +3156,7 @@ Let them go. I’ll through Gloucestershire, and there will I visit Master Rober
 Exeunt.
 
 
-### Scene 4
+### Act 4, Scene 4
 
 
 Jerusalem Chamber in Westminster.
@@ -3229,7 +3229,7 @@ And thou shalt prove a shelter to thy friends,
 A hoop of gold to bind thy brothers in,
 That the united vessel of their blood,
 Mingled with venom of suggestion
-—As, force perforce, the age will pour it in—,
+(As, force perforce, the age will pour it in),
 Shall never leak, though it do work as strong
 As aconitum or rash gunpowder.
 
@@ -3352,7 +3352,7 @@ Had found some months asleep and leapt them over.
 
 CLAR.
 The river hath thrice flowed, no ebb between,
-And the old folk —time’s doting chronicles—
+And the old folk (time’s doting chronicles) 
 Say it did so a little time before
 That our great-grandsire, Edward, sick’d and died.
 
@@ -3369,7 +3369,7 @@ Into some other chamber. Softly, pray.
 The King is carried to one side of the stage and placed on a bed.
 
 
-### Scene 5
+### Act 4, Scene 5
 
 
 Westminster. The Jerusalem Chamber.
@@ -3637,7 +3637,7 @@ God put it in thy mind to take it hence,
 That thou mightst win the more thy father’s love,
 Pleading so wisely in excuse of it!
 Come hither, Harry, sit thou by my bed,
-And hear —I think— the very latest counsel
+And hear (I think) the very latest counsel
 That ever I shall breathe. God knows, my son,
 By what by-paths and indirect crook’d ways
 I met this crown, and I myself know well
@@ -3724,8 +3724,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 Gloucestershire. Shallow’s house.
@@ -3818,7 +3818,7 @@ I come, Master Shallow, I come, Master Shallow.
 Exit.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 Westminster. A palace room.
@@ -3930,7 +3930,7 @@ That I will deeply put the fashion on
 And wear it in my heart. Why then be sad,
 But entertain no more of it, good brothers,
 Than a joint burden laid upon us all.
-For me, by heaven —I bid you be assur’d—,
+For me, by heaven (I bid you be assur’d),
 I’ll be your father and your brother too.
 Let me but bear your love, I’ll bear your cares.
 Yet weep that Harry’s dead, and so will I,
@@ -3965,7 +3965,7 @@ Your Highness pleased to forget my place,
 The majesty and power of law and justice,
 The image of the King whom I presented,
 And struck me in my very seat of judgment;
-Whereon —as an offender to your father—
+Whereon (as an offender to your father) 
 I gave bold way to my authority,
 And did commit you. If the deed were ill,
 Be you contented, wearing now the garland,
@@ -4028,15 +4028,15 @@ That war, or peace, or both at once, may be
 As things acquainted and familiar to us,
 In which you, father, shall have foremost hand.
 Our coronation done, we will accite
-—As I before rememb’red— all our state,
-And —God consigning to my good intents—
+(As I before rememb’red) all our state,
+And (God consigning to my good intents) 
 No prince nor peer shall have just cause to say,
 God shorten Harry’s happy life one day!
 
 Exeunt.
 
 
-### Scene 3
+### Act 5, Scene 3
 
 
 Gloucestershire. Shallow’s orchard.
@@ -4281,7 +4281,7 @@ Why, here it is, welcome these pleasant days!
 Exeunt.
 
 
-### Scene 4
+### Act 5, Scene 4
 
 
 London. A street.
@@ -4333,7 +4333,7 @@ Very well.
 Exeunt.
 
 
-### Scene 5
+### Act 5, Scene 5
 
 
 Westminster. Near the Abbey.
@@ -4437,7 +4437,7 @@ How ill white hairs becomes a fool and jester!
 I have long dreamt of such a kind of man,
 So surfeit-swell’d, so old, and so profane;
 But being awak’d, I do despise my dream.
-Make less thy body —hence— and more thy grace,
+Make less thy body (hence) and more thy grace,
 Leave gormandizing, know the grave doth gape
 For thee thrice wider than for other men.
 Reply not to me with a fool-born jest,
@@ -4527,10 +4527,10 @@ Exeunt.
 
 ### Epilogue
 
-EPILOGUE.
-First my fear, then my cur’sy, last my speech. My fear, is your displeasure, my cur’sy, my duty, and my speech, to beg your pardons. If you look for a good speech now, you undo me, for what I have to say is of mine own making, and what indeed —I should say— will —I doubt— prove mine own marring. But to the purpose, and so to the venture. Be it known to you, as it is very well, I was lately here in the end of a displeasing play, to pray your patience for it and to promise you a better. I meant indeed to pay you with this, which if like an ill venture it come unluckily home, I break, and you, my gentle creditors, lose. Here I promis’d you I would be, and here I commit my body to your mercies. Bate me some, and I will pay you some, and —as most debtors do— promise you infinitely; and so I kneel down before you—but, indeed, to pray for the Queen.
+EPILOGUE
+First my fear, then my cur’sy, last my speech. My fear, is your displeasure, my cur’sy, my duty, and my speech, to beg your pardons. If you look for a good speech now, you undo me, for what I have to say is of mine own making, and what indeed (I should say) will (I doubt) prove mine own marring. But to the purpose, and so to the venture. Be it known to you, as it is very well, I was lately here in the end of a displeasing play, to pray your patience for it and to promise you a better. I meant indeed to pay you with this, which if like an ill venture it come unluckily home, I break, and you, my gentle creditors, lose. Here I promis’d you I would be, and here I commit my body to your mercies. Bate me some, and I will pay you some, and (as most debtors do) promise you infinitely; and so I kneel down before you—but, indeed, to pray for the Queen.
 If my tongue cannot entreat you to acquit me, will you command me to use my legs? And yet that were but light payment, to dance out of your debt. But a good conscience will make any possible satisfaction, and so would I. All the gentlewomen here have forgiven me; if the gentlemen will not, then the gentlemen do not agree with the gentlewomen, which was never seen in such an assembly.
-One word more, I beseech you. If you be not too much cloy’d with fat meat, our humble author will continue the story, with Sir John in it, and make you merry with fair Katherine of France, where —for any thing I know— Falstaff shall die of a sweat, unless already ’a be kill’d with your hard opinions; for Oldcastle died a martyr, and this is not the man. My tongue is weary, when my legs are too, I will bid you good night.
+One word more, I beseech you. If you be not too much cloy’d with fat meat, our humble author will continue the story, with Sir John in it, and make you merry with fair Katherine of France, where (for any thing I know) Falstaff shall die of a sweat, unless already ’a be kill’d with your hard opinions; for Oldcastle died a martyr, and this is not the man. My tongue is weary, when my legs are too, I will bid you good night.
 
 
 >_**THE END**_<

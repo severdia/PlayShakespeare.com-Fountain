@@ -2,8 +2,8 @@ Title: Comedy of Errors
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,32 +14,32 @@ Notes:
 
 >_Cast of Characters_<
 
-|Luce (LUCE.): | 
-|Luciana (LUC.): | 
-|Adriana (ADR.): | 
-|Aemilia (ABB.): | 
-|Doctor Pinch (PINCH.): | 
-|Angelo (ANG.): | 
-|Balthazar (BALTH.): | 
-|Dromio of Syracuse (S. DRO.): | 
-|Dromio of Ephesus (E. DRO.): | 
 |Antipholus of Syracuse (S. ANT.): | 
 |Antipholus of Ephesus (E. ANT.): | 
+|Dromio of Syracuse (S. DRO.): | 
+|Dromio of Ephesus (E. DRO.): | 
 |Egeon (EGE.): | 
 |Solinus, Duke of Ephesus (DUKE.): | 
+|Angelo (ANG.): | 
+|Balthazar (BALTH.): | 
 |First Merchant (1. MER.): | 
 |Second Merchant (2. MER.): | 
-|Jailer (JAIL.): | 
-|Courtezan (COUR.): | 
-|Messenger (MESS.): | 
 |Officer (OFF.): | 
+|Doctor Pinch (PINCH.): | 
+|Jailer (JAIL.): | 
+|Adriana (ADR.): | 
+|Luciana (LUC.): | 
+|Aemilia (ABB.): | 
+|Courtezan (COUR.): | 
+|Luce (LUCE.): | 
+|Messenger (MESS.): | 
 |Headsman (HEAD.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 A hall in Duke Solinus’s Palace.
@@ -99,8 +99,8 @@ To Epidamium, till my factor’s death,
 And the great care of goods at random left,
 Drew me from kind embracements of my spouse;
 From whom my absence was not six months old
-Before herself —almost at fainting under
-The pleasing punishment that women bear—
+Before herself (almost at fainting under
+The pleasing punishment that women bear) 
 Had made provision for her following me,
 And soon, and safe, arrived where I was.
 There had she not been long but she became
@@ -129,7 +129,7 @@ Weeping before for what she saw must come,
 And piteous plainings of the pretty babes,
 That mourn’d for fashion, ignorant what to fear,
 Forc’d me to seek delays for them and me.
-And this it was —for other means was none—:
+And this it was (for other means was none):
 The sailors sought for safety by our boat,
 And left the ship, then sinking-ripe, to us.
 My wife, more careful for the latter-born,
@@ -231,7 +231,7 @@ But to procrastinate his lifeless end.
 Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 The mart.
@@ -294,9 +294,9 @@ Commends me to the thing I cannot get:
 I to the world am like a drop of water,
 That in the ocean seeks another drop,
 Who, falling there to find his fellow forth
-—Unseen, inquisitive—, confounds himself.
+(Unseen, inquisitive), confounds himself.
 So I, to find a mother and a brother,
-In quest of them —unhappy—, ah, lose myself.
+In quest of them (unhappy), ah, lose myself.
 (Enter Dromio of Ephesus.)
 Here comes the almanac of my true date.
 What now? How chance thou art return’d so soon?
@@ -406,8 +406,8 @@ Exit.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 The house of Antipholus of Ephesus.
@@ -611,7 +611,7 @@ How many fond fools serve mad jealousy?
 Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 A public place.
@@ -752,7 +752,7 @@ S. DRO.
 Yes, to pay a fine for a periwig, and recover the lost hair of another man.
 
 S. ANT.
-Why is Time such a niggard of hair, being —as it is— so plentiful an excrement?
+Why is Time such a niggard of hair, being (as it is) so plentiful an excrement?
 
 S. DRO.
 Because it is a blessing that he bestows on beasts, and what he hath scanted men in hair he hath given them in wit.
@@ -983,8 +983,8 @@ Exeunt.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 Before the house of Antipholus of Ephesus.
@@ -1250,7 +1250,7 @@ And in despite of mirth mean to be merry.
 I know a wench of excellent discourse,
 Pretty and witty; wild, and yet, too, gentle;
 There will we dine. This woman that I mean,
-My wife —but, I protest, without desert—
+My wife (but, I protest, without desert) 
 Hath oftentimes upbraided me withal:
 To her will we to dinner.
 (To Angelo.)
@@ -1258,7 +1258,7 @@ Get you home
 And fetch the chain; by this I know ’tis made.
 Bring it, I pray you, to the Porpentine,
 For there’s the house. That chain will I bestow
-—Be it for nothing but to spite my wife—
+(Be it for nothing but to spite my wife) 
 Upon mine hostess there. Good sir, make haste.
 Since mine own doors refuse to entertain me,
 I’ll knock elsewhere, to see if they’ll disdain me.
@@ -1272,7 +1272,7 @@ Do so. This jest shall cost me some expense.
 Exeunt.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 Before the house of Antipholus of Ephesus.
@@ -1301,7 +1301,7 @@ And let her read it in thy looks at board:
 Shame hath a bastard fame, well managed;
 Ill deeds is doubled with an evil word.
 Alas, poor women, make us but believe
-—Being compact of credit— that you love us;
+(Being compact of credit) that you love us;
 Though others have the arm, show us the sleeve:
 We in your motion turn, and you may move us.
 Then, gentle brother, get you in again;
@@ -1568,8 +1568,8 @@ Exit.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 A public place.
@@ -1782,7 +1782,7 @@ For servants must their masters’ minds fulfill.
 Exit.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 A room in the house of Antipholus of Ephesus.
@@ -1933,7 +1933,7 @@ Conceit, my comfort and my injury.
 Exeunt.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 A public place.
@@ -2070,7 +2070,7 @@ For forty ducats is too much to lose.
 Exit.
 
 
-### Scene 4
+### Act 4, Scene 4
 
 
 A street.
@@ -2415,8 +2415,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 A street before an abbey.
@@ -2719,7 +2719,7 @@ And ever as it blaz’d, they threw on him
 Great pails of puddled mire to quench the hair;
 My master preaches patience to him, and the while
 His man with scissors nicks him like a fool;
-And sure —unless you send some present help—
+And sure (unless you send some present help) 
 Between them they will kill the conjurer.
 
 ADR.

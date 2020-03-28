@@ -2,8 +2,8 @@ Title: King Richard II
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -15,50 +15,50 @@ Notes:
 >_Cast of Characters_<
 
 |King Richard the Second (K. RICH.): | 
-|John of Gaunt, Duke of Lancaster (GAUNT.): | 
-|Edmund of Langley, Duke of York (YORK.): | 
 |Henry Bullingbrook (BULL.): | 
-|Duke of Aumerle (AUM.): | 
-|Thomas Mowbray (MOW.): | 
-|Duke of Surrey (SURREY.): | 
-|Earl of Salisbury (SAL.): | 
-|Lord Berkeley (BERK.): | 
-|Sir John Bushy (BUSHY.): | 
-|Sir John Bagot (BAGOT.): | 
-|Sir Henry Green (GREEN.): | 
+|Edmund of Langley, Duke of York (YORK.): | 
+|John of Gaunt, Duke of Lancaster (GAUNT.): | 
 |Earl of Northumberland (NORTH.): | 
-|Henry Percy (PERCY.): | 
-|Lord Ross (ROSS.): | 
-|Lord Willoughby (WILLO.): | 
-|Lord Fitzwater (FITZ.): | 
+|Thomas Mowbray (MOW.): | 
+|Duke of Aumerle (AUM.): | 
 |Bishop of Carlisle (CAR.): | 
-|Abbot of Westminster (ABBOT.): | 
-|Lord Marshal (MAR.): | 
+|Gardener (GARD.): | 
+|Henry Percy (PERCY.): | 
+|Sir John Bushy (BUSHY.): | 
 |Sir Stephen Scroop (SCROOP.): | 
+|Sir Henry Green (GREEN.): | 
+|Sir John Bagot (BAGOT.): | 
 |Sir Pierce of Exton (EXTON.): | 
-|Welsh Captain (CAP.): | 
+|Earl of Salisbury (SAL.): | 
+|Abbot of Westminster (ABBOT.): | 
+|Duke of Surrey (SURREY.): | 
 |Queen to King Richard (QUEEN.): | 
 |Duchess of York (DUCH. YORK.): | 
 |Duchess of Gloucester (DUCH.): | 
-|Keeper (KEEP.): | 
-|Gardener (GARD.): | 
-|Servingman (SERV.): | 
 |First Attending Lady (1. LADY): | 
 |Second Attending Lady (2. LADY): | 
-|First Herald (1. HER.): | 
-|Second Herald (2. HER.): | 
-|Exton’s First Servant (1. EXT. SERV.): | 
-|Exton’s Second Servant (2. EXT. SERV.): | 
+|Lord Fitzwater (FITZ.): | 
+|Another Lord (ANOTHER LORD.): | 
+|Lord Marshal (MAR.): | 
+|Lord Ross (ROSS.): | 
+|Welsh Captain (CAP.): | 
+|Lord Willoughby (WILLO.): | 
+|Lord Berkeley (BERK.): | 
+|Groom (GROOM.): | 
 |First Gardener’s Man (1. GARD. MAN.): | 
 |Second Gardener’s Man (2. GARD. MAN.): | 
-|Groom (GROOM.): | 
-|Another Lord (ANOTHER LORD.): | 
+|First Herald (1. HER.): | 
+|Second Herald (2. HER.): | 
+|Keeper (KEEP.): | 
+|Servingman (SERV.): | 
+|Exton’s First Servant (1. EXT. SERV.): | 
+|Exton’s Second Servant (2. EXT. SERV.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 London. King Richard’s palace.
@@ -128,7 +128,7 @@ Since the more fair and crystal is the sky,
 The uglier seem the clouds that in it fly.
 Once more, the more to aggravate the note,
 With a foul traitor’s name stuff I thy throat,
-And wish —so please my sovereign— ere I move,
+And wish (so please my sovereign) ere I move,
 What my tongue speaks, my right drawn sword may prove.
 
 MOW.
@@ -337,7 +337,7 @@ Be ready to direct these home alarms.
 Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 The Duke of Lancaster’s palace.
@@ -437,7 +437,7 @@ The last leave of thee takes my weeping eye.
 Exeunt.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 The lists at Coventry.
@@ -476,7 +476,7 @@ As so defend thee heaven and thy valor!
 MOW.
 My name is Thomas Mowbray, Duke of Norfolk,
 Who hither come engaged by my oath
-—Which God defend a knight should violate!—
+(Which God defend a knight should violate!) 
 Both to defend my loyalty and truth
 To God, my king, and my succeeding issue,
 Against the Duke of Herford that appeals me,
@@ -694,7 +694,7 @@ K. RICH.
 Return again, and take an oath with thee.
 Lay on our royal sword your banish’d hands;
 Swear by the duty that y’ owe to God
-—Our part therein we banish with yourselves—
+(Our part therein we banish with yourselves) 
 To keep the oath that we administer:
 You never shall, so help you truth and God,
 Embrace each other’s love in banishment,
@@ -889,7 +889,7 @@ Though banish’d, yet a true-born Englishman.
 Exeunt.
 
 
-### Scene 4
+### Act 1, Scene 4
 
 
 The court.
@@ -987,7 +987,7 @@ To deck our soldiers for these Irish wars.
 Come, gentlemen, let’s all go visit him.
 Pray God we may make haste and come too late!
 
-ALL. GREEN. AND BAGOT. AND AUM. AND BUSHY.
+ALL GREEN. AND BAGOT. AND AUM. AND BUSHY.
 Amen.
 
 Exeunt.
@@ -996,8 +996,8 @@ Exeunt.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 Ely House.
@@ -1029,7 +1029,7 @@ My death’s sad tale may yet undeaf his ear.
 YORK.
 No, it is stopp’d with other flattering sounds,
 As praises, of whose taste the wise are fond,
-Lascivious metres, to whose venom sound
+Lascivious meters, to whose venom sound
 The open ear of youth doth always listen;
 Report of fashions in proud Italy,
 Whose manners still our tardy, apish nation
@@ -1434,7 +1434,7 @@ Hold out my horse, and I will first be there.
 Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 Windsor Castle.
@@ -1598,7 +1598,7 @@ YORK.
 God for his mercy, what a tide of woes
 Comes rushing on this woeful land at once!
 I know not what to do. I would to God
-—So my untruth had not provok’d him to it—
+(So my untruth had not provok’d him to it) 
 The King had cut off my head with my brother’s.
 What, are there no posts disparch’d for Ireland?
 How shall we do for money for these wars?
@@ -1679,7 +1679,7 @@ BAGOT.
 Exeunt.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 Wilds in Gloucestershire.
@@ -1951,7 +1951,7 @@ Things past redress are now with me past care.
 Exeunt.
 
 
-### Scene 4
+### Act 2, Scene 4
 
 
 A camp in Wales.
@@ -1998,8 +1998,8 @@ Exit.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 Bristol. Before the castle.
@@ -2066,7 +2066,7 @@ A while to work, and after holiday.
 Exeunt.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 The coast of Wales. A castle in view.
@@ -2358,7 +2358,7 @@ From Richard’s night to Bullingbrook’s fair day.
 Exeunt.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 Wales. Before Flint Castle.
@@ -2540,7 +2540,7 @@ Shall we call back Northumberland, and send
 Defiance to the traitor, and so die?
 
 AUM.
-No, good my lord, let’s fight with gentle swords.
+No, good my lord, let’s fight with gentle words.
 Till time lend friends, and friends their helpful swords.
 
 K. RICH.
@@ -2662,7 +2662,7 @@ K. RICH.
 Flourish. Exeunt.
 
 
-### Scene 4
+### Act 3, Scene 4
 
 
 Langley. The Duke of York’s garden.
@@ -2840,8 +2840,8 @@ Exeunt.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 Westminster Hall.
@@ -3354,8 +3354,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 London. A street leading to the Tower.
@@ -3506,7 +3506,7 @@ Once more, adieu, the rest let sorrow say.
 Exeunt.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 The Duke of York’s palace.
@@ -3738,7 +3738,7 @@ Till Bullingbrook have pardoned thee. Away, be gone!
 Exeunt.
 
 
-### Scene 3
+### Act 5, Scene 3
 
 
 A royal palace.
@@ -4018,7 +4018,7 @@ Come, my old son, I pray God make thee new.
 Exeunt.
 
 
-### Scene 4
+### Act 5, Scene 4
 
 
 A royal palace.
@@ -4050,7 +4050,7 @@ I am the King’s friend, and will rid his foe.
 Exeunt.
 
 
-### Scene 5
+### Act 5, Scene 5
 
 
 The dungeon of Pomfret Castle.
@@ -4142,7 +4142,7 @@ That brings me food to make misfortune live?
 GROOM.
 I was a poor groom of thy stable, King,
 When thou wert king; who, traveling towards York,
-With much ado —at length— have gotten leave
+With much ado (at length) have gotten leave
 To look upon my sometimes royal master’s face.
 O how it ern’d my heart when I beheld
 In London streets, that coronation-day,
@@ -4229,7 +4229,7 @@ Take hence the rest, and give them burial here.
 Exeunt.
 
 
-### Scene 6
+### Act 5, Scene 6
 
 
 Windsor Castle.

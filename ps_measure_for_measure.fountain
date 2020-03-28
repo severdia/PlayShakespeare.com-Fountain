@@ -2,8 +2,8 @@ Title: Measure for Measure
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -16,35 +16,35 @@ Notes:
 
 |Vincentio, the Duke (DUKE.): | 
 |Angelo (ANG.): | 
-|Escalus (ESCAL.): | 
-|Claudio (CLAUD.): | 
 |Lucio (LUCIO.): | 
+|Escalus (ESCAL.): | 
 |Provost (PROV.): | 
-|Friar Peter Thomas (FRI. PET.): | 
-|Justice (JUST.): | 
-|Varrius (VARR.): | 
-|Elbow (ELB.): | 
-|Froth (FROTH.): | 
+|Claudio (CLAUD.): | 
 |Pompey (POM.): | 
+|Friar Peter Thomas (FRI. PET.): | 
+|Elbow (ELB.): | 
 |Abhorson (ABHOR.): | 
+|Froth (FROTH.): | 
 |Barnardine (BAR.): | 
 |Isabella (ISAB.): | 
-|Mariana (MARI.): | 
+|Mariana (MAR.): | 
+|Mistress Overdone (MRS. OV.): | 
 |Juliet (JUL.): | 
 |Francisca (FRAN.): | 
-|Mistress Overdone (MRS. OV.): | 
-|Servant (SERV.): | 
+|Boy (BOY.): | 
+|Justice (JUST.): | 
 |First Gentleman (1. GENT.): | 
 |Second Gentleman (2. GENT.): | 
-|Boy (BOY.): | 
+|Servant (SERV.): | 
 |Messenger (MESS.): | 
+|Varrius (VARR.): | 
 |Attendant (ATT.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 Vienna. An apartment in the Duke’s palace.
@@ -142,7 +142,7 @@ That we may bring you something on the way.
 
 DUKE.
 My haste may not admit it,
-Nor need you —on mine honor— have to do
+Nor need you (on mine honor) have to do
 With any scruple. Your scope is as mine own,
 So to enforce or qualify the laws
 As to your soul seems good. Give me your hand,
@@ -182,7 +182,7 @@ ESCAL.
 Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 Vienna. A street.
@@ -220,7 +220,7 @@ I believe thee; for I think thou never wast where grace was said.
 No? A dozen times at least.
 
 1. GENT.
-What? In metre?
+What? In meter?
 
 LUCIO.
 In any proportion, or in any language.
@@ -276,7 +276,7 @@ A French crown more.
 Thou art always figuring diseases in me; but thou art full of error, I am sound.
 
 LUCIO.
-Nay, not —as one would say— healthy; but so sound as things that are hollow.
+Nay, not (as one would say) healthy; but so sound as things that are hollow.
 Thy bones are hollow; impiety has made a feast of thee.
 
 1. GENT.
@@ -498,7 +498,7 @@ CLAUD.
 Exeunt.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 Vienna. A monastery.
@@ -522,11 +522,11 @@ How I have ever lov’d the life removed,
 And held in idle price to haunt assemblies
 Where youth, and cost, witless bravery keeps.
 I have deliver’d to Lord Angelo
-—A man of stricture and firm abstinence—
+(A man of stricture and firm abstinence) 
 My absolute power and place here in Vienna,
 And he supposes me travel’d to Poland
-—For so I have strew’d it in the common ear,
-And so it is receiv’d—. Now, pious sir,
+(For so I have strew’d it in the common ear,
+And so it is receiv’d). Now, pious sir,
 You will demand of me why I do this.
 
 FRI. PET.
@@ -534,7 +534,7 @@ Gladly, my lord.
 
 DUKE.
 We have strict statutes and most biting laws
-—The needful bits and curbs to headstrong weeds—,
+(The needful bits and curbs to headstrong weeds),
 Which for this fourteen years we have let slip,
 Even like an o’ergrown lion in a cave,
 That goes not out to prey. Now, as fond fathers,
@@ -579,7 +579,7 @@ If power change purpose: what our seemers be.
 Exeunt.
 
 
-### Scene 4
+### Act 1, Scene 4
 
 
 Vienna. A nunnery.
@@ -688,7 +688,7 @@ O, let him marry her.
 LUCIO.
 ^4 This is the point.
 The Duke is very strangely gone from hence;
-Bore many gentlemen —myself being one—
+Bore many gentlemen (myself being one) 
 In hand, and hope of action; but we do learn
 By those that know the very nerves of state,
 His givings-out were of an infinite distance
@@ -699,9 +699,9 @@ Is very snow-broth; one who never feels
 The wanton stings and motions of the sense;
 But doth rebate and blunt his natural edge
 With profits of the mind: study and fast.
-He —to give fear to use and liberty,
+He (to give fear to use and liberty,
 Which have for long run by the hideous law,
-As mice by lions— hath pick’d out an act,
+As mice by lions) hath pick’d out an act,
 Under whose heavy sense your brother’s life
 Falls into forfeit; he arrests him on it,
 And follows close the rigor of the statute,
@@ -762,8 +762,8 @@ Exeunt severally.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 A hall in Angelo’s house.
@@ -782,7 +782,7 @@ Let us be keen, and rather cut a little,
 Than fall, and bruise to death. Alas, this gentleman,
 Whom I would save, had a most noble father!
 Let but your honor know
-—Whom I believe to be most strait in virtue—
+(Whom I believe to be most strait in virtue) 
 That in the working of your own affections,
 Had time coher’d with place, or place with wishing,
 Or that the resolute acting of your blood
@@ -865,7 +865,7 @@ ANG.
 What are you, sir?
 
 ELB.
-He, sir! A tapster, sir; parcel-bawd; one that serves a bad woman; whose house, sir, was —as they say— pluck’d down in the suburbs; and now she professes a hot-house; which, I think, is a very ill house too.
+He, sir! A tapster, sir; parcel-bawd; one that serves a bad woman; whose house, sir, was (as they say) pluck’d down in the suburbs; and now she professes a hot-house; which, I think, is a very ill house too.
 
 ESCAL.
 How know you that?
@@ -907,25 +907,25 @@ ESCAL.
 Do you hear how he misplaces?
 
 POM.
-Sir, she came in great with child; and longing —saving your honors’ reverence— for stew’d prunes. Sir, we had but two in the house, which at that very distant time stood, as it were, in a fruit-dish, a dish of some threepence—your honors have seen such dishes; they are not china dishes, but very good dishes.
+Sir, she came in great with child; and longing (saving your honors’ reverence) for stew’d prunes. Sir, we had but two in the house, which at that very distant time stood, as it were, in a fruit-dish, a dish of some threepence—your honors have seen such dishes; they are not china dishes, but very good dishes.
 
 ESCAL.
 Go to, go to; no matter for the dish, sir.
 
 POM.
-No indeed, sir, not of a pin; you are therein in the right. But to the point. As I say, this Mistress Elbow, being —as I say— with child, and being great-bellied, and longing —as I said— for prunes; and having but two in the dish —as I said—, Master Froth here, this very man, having eaten the rest —as I said— and —as I say— paying for them very honestly; for, as you know, Master Froth, I could not give you threepence again.
+No indeed, sir, not of a pin; you are therein in the right. But to the point. As I say, this Mistress Elbow, being (as I say) with child, and being great-bellied, and longing (as I said) for prunes; and having but two in the dish (as I said), Master Froth here, this very man, having eaten the rest (as I said) and (as I say) paying for them very honestly; for, as you know, Master Froth, I could not give you threepence again.
 
 FROTH.
 No indeed.
 
 POM.
-Very well; you being then —if you be rememb’red— cracking the stones of the foresaid prunes—
+Very well; you being then (if you be rememb’red) cracking the stones of the foresaid prunes—
 
 FROTH.
 Ay, so I did indeed.
 
 POM.
-Why, very well; I telling you then —if you be rememb’red— that such a one and such a one were past cure of the thing you wot of, unless they kept very good diet, as I told you—
+Why, very well; I telling you then (if you be rememb’red) that such a one and such a one were past cure of the thing you wot of, unless they kept very good diet, as I told you—
 
 FROTH.
 All this is true.
@@ -949,7 +949,7 @@ FROTH.
 All-hallond eve.
 
 POM.
-Why, very well; I hope here be truths. He, sir, sitting —as I say— in a lower chair, sir—’twas in the Bunch of Grapes, where indeed you have a delight to sit, have you not?
+Why, very well; I hope here be truths. He, sir, sitting (as I say) in a lower chair, sir—’twas in the Bunch of Grapes, where indeed you have a delight to sit, have you not?
 
 FROTH.
 I have so, because it is an open room and good for winter.
@@ -1183,7 +1183,7 @@ Come, sir.
 Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 Another room in Angelo’s house.
@@ -1444,7 +1444,7 @@ Splits the unwedgeable and gnarled oak
 Than the soft myrtle; but man, proud man,
 Dress’d in a little brief authority,
 Most ignorant of what he’s most assur’d
-—His glassy essence—, like an angry ape
+(His glassy essence), like an angry ape
 Plays such fantastic tricks before high heaven
 As makes the angels weep; who, with our spleens,
 Would all themselves laugh mortal.
@@ -1580,7 +1580,7 @@ When men were fond, I smil’d and wond’red how.
 Exit.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 A room in a prison.
@@ -1683,7 +1683,7 @@ PROV.
 Exeunt.
 
 
-### Scene 4
+### Act 2, Scene 4
 
 
 A room in Angelo’s house.
@@ -1700,7 +1700,7 @@ And in my heart the strong and swelling evil
 Of my conception. The state, whereon I studied,
 Is like a good thing, being often read,
 Grown sere and tedious; yea, my gravity,
-Wherein —let no man hear me— I take pride,
+Wherein (let no man hear me) I take pride,
 Could I, with boot, change for an idle plume,
 Which the air beats for vain. O place, O form,
 How often dost thou with thy case, thy habit,
@@ -1791,7 +1791,7 @@ ISAB.
 ANG.
 Nay, I’ll not warrant that; for I can speak
 Against the thing I say. Answer to this:
-I —now the voice of the recorded law—
+I (now the voice of the recorded law) 
 Pronounce a sentence on your brother’s life;
 Might there not be a charity in sin
 To save this brother’s life?
@@ -1841,8 +1841,8 @@ True.
 
 ANG.
 Admit no other way to save his life
-—As I subscribe not that, nor any other,
-But in the loss of question—, that you, his sister,
+(As I subscribe not that, nor any other,
+But in the loss of question), that you, his sister,
 Finding yourself desir’d of such a person,
 Whose credit with the judge, or own great place,
 Could fetch your brother from the manacles
@@ -1911,12 +1911,12 @@ And credulous to false prints.
 ANG.
 ^6 I think it well;
 And from this testimony of your own sex
-—Since I suppose we are made to be no stronger
-Than faults may shake our frames—, let me be bold.
+(Since I suppose we are made to be no stronger
+Than faults may shake our frames), let me be bold.
 I do arrest your words. Be that you are,
 That is a woman; if you be more, you’re none;
-If you be one —as you are well express’d
-By all external warrants—, show it now,
+If you be one (as you are well express’d
+By all external warrants), show it now,
 By putting on the destin’d livery.
 
 ISAB.
@@ -1996,8 +1996,8 @@ Exit.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 A room in the prison.
@@ -2288,7 +2288,7 @@ I have no superfluous leisure; my stay must be stolen out of other affairs; but 
 Walks apart.
 
 DUKE.
-Son, I have overheard what hath pass’d between you and your sister. Angelo had never the purpose to corrupt her; only he hath made an assay of her virtue to practice his judgment with the disposition of natures. She —having the truth of honor in her— hath made him that gracious denial which he is most glad to receive. I am confessor to Angelo, and I know this to be true; therefore prepare yourself to death. Do not satisfy your resolution with hopes that are fallible, tomorrow you must die; go to your knees, and make ready.
+Son, I have overheard what hath pass’d between you and your sister. Angelo had never the purpose to corrupt her; only he hath made an assay of her virtue to practice his judgment with the disposition of natures. She (having the truth of honor in her) hath made him that gracious denial which he is most glad to receive. I am confessor to Angelo, and I know this to be true; therefore prepare yourself to death. Do not satisfy your resolution with hopes that are fallible, tomorrow you must die; go to your knees, and make ready.
 
 CLAUD.
 Let me ask my sister pardon. I am so out of love with life that I will sue to be rid of it.
@@ -2349,7 +2349,7 @@ ISAB.
 Show me how, good father.
 
 DUKE.
-This forenam’d maid hath yet in her the continuance of her first affection; his unjust unkindness —that in all reason should have quench’d her love— hath —like an impediment in the current— made it more violent and unruly. Go you to Angelo, answer his requiring with a plausible obedience, agree with his demands to the point; only refer yourself to this advantage: first, that your stay with him may not be long; that the time may have all shadow and silence in it; and the place answer to convenience. This being granted in course—and now follows all—we shall advise this wrong’d maid to stead up your appointment, go in your place. If the encounter acknowledge itself hereafter, it may compel him to her recompense; and here, by this is your brother sav’d, your honor untainted, the poor Mariana advantag’d, and the corrupt deputy scal’d. The maid will I frame, and make fit for his attempt. If you think well to carry this as you may, the doubleness of the benefit defends the deceit from reproof. What think you of it?
+This forenam’d maid hath yet in her the continuance of her first affection; his unjust unkindness (that in all reason should have quench’d her love) hath (like an impediment in the current) made it more violent and unruly. Go you to Angelo, answer his requiring with a plausible obedience, agree with his demands to the point; only refer yourself to this advantage: first, that your stay with him may not be long; that the time may have all shadow and silence in it; and the place answer to convenience. This being granted in course—and now follows all—we shall advise this wrong’d maid to stead up your appointment, go in your place. If the encounter acknowledge itself hereafter, it may compel him to her recompense; and here, by this is your brother sav’d, your honor untainted, the poor Mariana advantag’d, and the corrupt deputy scal’d. The maid will I frame, and make fit for his attempt. If you think well to carry this as you may, the doubleness of the benefit defends the deceit from reproof. What think you of it?
 
 ISAB.
 The image of it gives me content already, and I trust it will grow to a most prosperous perfection.
@@ -2363,7 +2363,7 @@ I thank you for this comfort. Fare you well, good father.
 Exit. Manet Duke.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 The street before the prison.
@@ -2558,7 +2558,7 @@ LUCIO.
 Come, sir, I know what I know.
 
 DUKE.
-I can hardly believe that, since you know not what you speak. But if ever the Duke return —as our prayers are he may—, let me desire you to make your answer before him. If it be honest you have spoke, you have courage to maintain it. I am bound to call upon you, and I pray you your name?
+I can hardly believe that, since you know not what you speak. But if ever the Duke return (as our prayers are he may), let me desire you to make your answer before him. If it be honest you have spoke, you have courage to maintain it. I am bound to call upon you, and I pray you your name?
 
 LUCIO.
 Sir, my name is Lucio, well known to the Duke.
@@ -2579,7 +2579,7 @@ DUKE.
 Why should he die, sir?
 
 LUCIO.
-Why? For filling a bottle with a tun-dish. I would the Duke we talk of were return’d again. This ungenitur’d agent will unpeople the province with continency. Sparrows must not build in his house-eaves, because they are lecherous. The Duke yet would have dark deeds darkly answer’d, he would never bring them to light. Would he were return’d! Marry, this Claudio is condemn’d for untrussing. Farewell, good friar, I prithee pray for me. The Duke —I say to thee again— would eat mutton on Fridays. He’s now past it, yet —and I say to thee— he would mouth with a beggar, though she smelt brown bread and garlic. Say that I said so. Farewell.
+Why? For filling a bottle with a tun-dish. I would the Duke we talk of were return’d again. This ungenitur’d agent will unpeople the province with continency. Sparrows must not build in his house-eaves, because they are lecherous. The Duke yet would have dark deeds darkly answer’d, he would never bring them to light. Would he were return’d! Marry, this Claudio is condemn’d for untrussing. Farewell, good friar, I prithee pray for me. The Duke (I say to thee again) would eat mutton on Fridays. He’s now past it, yet (and I say to thee) he would mouth with a beggar, though she smelt brown bread and garlic. Say that I said so. Farewell.
 
 Exit.
 
@@ -2646,7 +2646,7 @@ ESCAL.
 Rather rejoicing to see another merry, than merry at any thing which profess’d to make him rejoice; a gentleman of all temperance. But leave we him to his events, with a prayer they may prove prosperous, and let me desire to know how you find Claudio prepar’d. I am made to understand that you have lent him visitation.
 
 DUKE.
-He professes to have receiv’d no sinister measure from his judge, but most willingly humbles himself to the determination of justice; yet had he fram’d to himself —by the instruction of his frailty— many deceiving promises of life, which I —by my good leisure— have discredited to him, and now is he resolv’d to die.
+He professes to have receiv’d no sinister measure from his judge, but most willingly humbles himself to the determination of justice; yet had he fram’d to himself (by the instruction of his frailty) many deceiving promises of life, which I (by my good leisure) have discredited to him, and now is he resolv’d to die.
 
 ESCAL.
 You have paid the heavens your function, and the prisoner the very debt of your calling. I have labor’d for the poor gentleman to the extremest shore of my modesty, but my brother-justice have I found so severe, that he hath forc’d me to tell him he is indeed Justice.
@@ -2678,7 +2678,7 @@ Peace be with you!
 *Most ponderous and substantial things!* 
 *Craft against vice I must apply.* 
 *With Angelo tonight shall lie* 
-*His old betrothed —but despised—;* 
+*His old betrothed (but despised);* 
 *So disguise shall by th’ disguised* 
 *Pay with falsehood false exacting,* 
 *And perform an old contracting.* 
@@ -2689,8 +2689,8 @@ Exit.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 The moated grange at St. Luke’s.
@@ -2709,7 +2709,7 @@ BOY.
 
 Enter Duke disguised as a friar.
 
-MARI.
+MAR.
 Break off thy song, and haste thee quick away.
 Here comes a man of comfort, whose advice
 Hath often still’d my brawling discontent.
@@ -2724,7 +2724,7 @@ DUKE.
 To make bad good, and good provoke to harm.
 I pray you tell me, hath any body inquir’d for me here today? Much upon this time have I promis’d here to meet.
 
-MARI.
+MAR.
 You have not been inquir’d after. I have sat here all day.
 
 Enter Isabel.
@@ -2732,7 +2732,7 @@ Enter Isabel.
 DUKE.
 I do constantly believe you. The time is come even now. I shall crave your forbearance a little. May be I will call upon you anon for some advantage to yourself.
 
-MARI.
+MAR.
 I am always bound to you.
 
 Exit.
@@ -2786,7 +2786,7 @@ ISAB.
 DUKE.
 Do you persuade yourself that I respect you?
 
-MARI.
+MAR.
 Good friar, I know you do, and have found it.
 
 DUKE.
@@ -2795,7 +2795,7 @@ Who hath a story ready for your ear.
 I shall attend your leisure, but make haste,
 The vaporous night approaches.
 
-MARI.
+MAR.
 Will’t please you walk aside?
 
 Exit with Isabella.
@@ -2823,7 +2823,7 @@ ISAB.
 When you depart from him, but soft and low,
 “Remember now my brother.”
 
-MARI.
+MAR.
 ^6 Fear me not.
 
 DUKE.
@@ -2837,7 +2837,7 @@ Our corn’s to reap, for yet our tithe’s to sow.
 Exeunt.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 A room in the prison.
@@ -3029,7 +3029,7 @@ That for the fault’s love is th’ offender friended.
 Now, sir, what news?
 
 PROV.
-I told you: Lord Angelo —belike— thinking me remiss in mine office, awakens me with this unwonted putting-on, methinks strangely, for he hath not us’d it before.
+I told you: Lord Angelo (belike) thinking me remiss in mine office, awakens me with this unwonted putting-on, methinks strangely, for he hath not us’d it before.
 
 DUKE.
 Pray you let’s hear.
@@ -3116,7 +3116,7 @@ The contents of this is the return of the Duke. You shall anon over-read it at y
 Exeunt.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 Another room in the prison.
@@ -3260,7 +3260,7 @@ DUKE.
 Quick, dispatch, and send the head to Angelo.
 (Exit Provost.)
 Now will I write letters to Angelo
-—The Provost, he shall bear them—, whose contents
+(The Provost, he shall bear them), whose contents
 Shall witness to him I am near at home;
 And that by great injunctions I am bound
 To enter publicly. Him I’ll desire
@@ -3407,7 +3407,7 @@ By my troth, I’ll go with thee to the lane’s end. If bawdy talk offend you, 
 Exeunt.
 
 
-### Scene 4
+### Act 4, Scene 4
 
 
 A room in Angelo’s house.
@@ -3457,7 +3457,7 @@ Nothing goes right—we would, and we would not.
 Exit.
 
 
-### Scene 5
+### Act 4, Scene 5
 
 
 Fields without the town.
@@ -3492,7 +3492,7 @@ Will greet us here anon. My gentle Varrius!
 Exeunt.
 
 
-### Scene 6
+### Act 4, Scene 6
 
 
 A street near the city gate.
@@ -3505,7 +3505,7 @@ I would say the truth, but to accuse him so,
 That is your part. Yet I am advis’d to do it,
 He says, to veil full purpose.
 
-MARI.
+MAR.
 ^6 Be rul’d by him.
 
 ISAB.
@@ -3516,7 +3516,7 @@ That’s bitter to sweet end.
 
 Enter Friar Peter.
 
-MARI.
+MAR.
 I would Friar Peter—
 
 ISAB.
@@ -3536,8 +3536,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 At the city gate.
@@ -3548,7 +3548,7 @@ DUKE.
 My very worthy cousin, fairly met!
 Our old and faithful friend, we are glad to see you.
 
-BOTH. ANG. AND ESCAL.
+BOTH ANG. AND ESCAL.
 Happy return be to your royal Grace!
 
 DUKE.
@@ -3666,7 +3666,7 @@ ISAB.
 I am the sister of one Claudio,
 Condemn’d upon the act of fornication
 To lose his head, condemn’d by Angelo.
-I —in probation of a sisterhood—
+I (in probation of a sisterhood) 
 Was sent to by my brother; one Lucio
 As then the messenger—
 
@@ -3727,7 +3727,7 @@ ISAB.
 In brief, to set the needless process by—
 How I persuaded, how I pray’d, and kneel’d,
 How he refell’d me, and how I replied
-—For this was of much length——the vild conclusion
+(For this was of much length)—the vild conclusion
 I now begin with grief and shame to utter.
 He would not, but by gift of my chaste body
 To his concupiscible intemperate lust,
@@ -3809,7 +3809,7 @@ I know him for a man divine and holy,
 Not scurvy, nor a temporary meddler,
 As he’s reported by this gentleman;
 And on my trust, a man that never yet
-Did —as he vouches— misreport your Grace.
+Did (as he vouches) misreport your Grace.
 
 LUCIO.
 My lord, most villainously, believe it.
@@ -3841,26 +3841,26 @@ Of your own cause.
 ^4 Is this the witness, friar?
 First, let her show her face, and after speak.
 
-MARI.
+MAR.
 Pardon, my lord, I will not show my face
 Until my husband bid me.
 
 DUKE.
 What, are you married?
 
-MARI.
+MAR.
 No, my lord.
 
 DUKE.
 Are you a maid?
 
-MARI.
+MAR.
 No, my lord.
 
 DUKE.
 A widow then?
 
-MARI.
+MAR.
 Neither, my lord.
 
 DUKE.
@@ -3876,7 +3876,7 @@ To prattle for himself.
 LUCIO.
 Well, my lord.
 
-MARI.
+MAR.
 My lord, I do confess I ne’er was married,
 And I confess besides I am no maid.
 I have known my husband, yet my husband
@@ -3894,7 +3894,7 @@ Well, my lord.
 DUKE.
 This is no witness for Lord Angelo.
 
-MARI.
+MAR.
 Now I come to’t, my lord.
 She that accuses him of fornication,
 In self-same manner doth accuse my husband,
@@ -3905,13 +3905,13 @@ With all th’ effect of love.
 ANG.
 Charges she more than me?
 
-MARI.
+MAR.
 ^5 Not that I know.
 
 DUKE.
 No? You say your husband.
 
-MARI.
+MAR.
 Why, just, my lord, and that is Angelo,
 Who thinks he knows that he ne’er knew my body,
 But knows he thinks that he knows Isabel’s.
@@ -3919,7 +3919,7 @@ But knows he thinks that he knows Isabel’s.
 ANG.
 This is a strange abuse. Let’s see thy face.
 
-MARI.
+MAR.
 My husband bids me, now I will unmask.
 (Unveiling.)
 This is that face, thou cruel Angelo,
@@ -3953,7 +3953,7 @@ In levity. Since which time of five years
 I never spake with her, saw her, nor heard from her,
 Upon my faith and honor.
 
-MARI.
+MAR.
 ^5 Noble Prince,
 As there comes light from heaven, and words from breath,
 As there is sense in truth, and truth in virtue,
@@ -4256,7 +4256,7 @@ We do condemn thee to the very block
 Where Claudio stoop’d to death, and with like haste.
 Away with him!
 
-MARI.
+MAR.
 ^3 O my most gracious lord,
 I hope you will not mock me with a husband!
 
@@ -4270,14 +4270,14 @@ Although by confiscation they are ours,
 We do enstate and widow you with all,
 To buy you a better husband.
 
-MARI.
+MAR.
 ^6 O my dear lord,
 I crave no other, nor no better man.
 
 DUKE.
 Never crave him, we are definitive.
 
-MARI.
+MAR.
 (Kneeling.)
 Gentle my liege—
 
@@ -4287,7 +4287,7 @@ Away with him to death!
 (To Lucio.)
 Now, sir, to you.
 
-MARI.
+MAR.
 O my good lord! Sweet Isabel, take my part!
 Lend me your knees, and all my life to come
 I’ll lend you all my life to do you service.
@@ -4298,7 +4298,7 @@ Should she kneel down in mercy of this fact,
 Her brother’s ghost his paved bed would break,
 And take her hence in horror.
 
-MARI.
+MAR.
 ^6 Isabel!
 Sweet Isabel, do yet but kneel by me.
 Hold up your hands, say nothing; I’ll speak all.
@@ -4325,7 +4325,7 @@ And must be buried but as an intent
 That perish’d by the way. Thoughts are no subjects,
 Intents but merely thoughts.
 
-MARI.
+MAR.
 ^6 Merely, my lord.
 
 DUKE.
@@ -4429,8 +4429,8 @@ DUKE.
 Whipt first, sir, and hang’d after.
 Proclaim it, Provost, round about the city,
 If any woman wrong’d by this lewd fellow
-—As I have heard him swear himself there’s one
-Whom he begot with child—, let her appear,
+(As I have heard him swear himself there’s one
+Whom he begot with child), let her appear,
 And he shall marry her. The nuptial finish’d,
 Let him be whipt and hang’d.
 

@@ -2,8 +2,8 @@ Title: Taming of the Shrew
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,48 +14,48 @@ Notes:
 
 >_Cast of Characters_<
 
-|Lord (LORD.): | 
-|Christopher Sly (SLY.): | 
-|Hostess (HOST.): | 
-|Page (Bartholomew) (PAGE.): | 
-|Baptista (BAP.): | 
-|Vincentio (VIN.): | 
-|Lucentio (LUC.): | 
-|Petruchio (PET.): | 
-|Gremio (GRE.): | 
-|Hortensio (HOR.): | 
+|Petruchio (PETR.): | 
 |Tranio (TRA.): | 
-|Biondello (BION.): | 
+|Hortensio (HOR.): | 
+|Lucentio (LUC.): | 
+|Baptista (BAP.): | 
+|Gremio (GRE.): | 
 |Grumio (GRU.): | 
-|Curtis (CURT.): | 
+|Biondello (BION.): | 
 |Pedant (PED.): | 
+|Christopher Sly (SLY.): | 
+|Curtis (CURT.): | 
+|Vincentio (VIN.): | 
 |Katherina (KATH.): | 
 |Bianca (BIAN.): | 
-|Widow (WID.): | 
-|Tailor (TAI.): | 
-|Haberdasher (HAB.): | 
-|Peter (PETER.): | 
+|Hostess (HOST.): | 
+|Lord (LORD.): | 
 |First Servingman (1. SERV.): | 
 |Second Servingman (2. SERV.): | 
 |Third Servingman (3. SERV.): | 
-|First Player (1. PLAY.): | 
-|Second Player (2. PLAY.): | 
-|First Huntsman (1. HUN.): | 
-|Second Huntsman (2. HUN.): | 
-|Nicholas (NICH.): | 
+|Page (Bartholomew) (PAGE.): | 
+|Widow (WID.): | 
+|Tailor (TAI.): | 
+|Nathaniel (NATH.): | 
 |Joseph (JOS.): | 
 |Philip (PHIL.): | 
-|Nathaniel (NATH.): | 
-|Baptista’s Messenger (BAP. MESS.): | 
+|Peter (PET.): | 
+|Nicholas (NICH.): | 
+|Haberdasher (HAB.): | 
+|First Huntsman (1. HUN.): | 
+|Second Huntsman (2. HUN.): | 
+|First Player (1. PLAY.): | 
+|Second Player (2. PLAY.): | 
 |Messenger (MESS.): | 
+|Baptista’s Messenger (BAP. MESS.): | 
 |Baptista’s Servant (BAP. SERV.): | 
 |Officer (OFF.): | 
 
 ===
 
 
-# Act 1
-### Prologue Scene 1
+/* # Act 1 */
+### Act 1, Prologue Scene 1
 
 
 Before an alehouse on a heath.
@@ -91,7 +91,7 @@ Wind horns. Enter a Lord from hunting, with his Train.
 
 LORD.
 Huntsman, I charge thee, tender well my hounds
-—Brach Merriman, the poor cur, is emboss’d—,
+(Brach Merriman, the poor cur, is emboss’d),
 And couple Clowder with the deep-mouth’d brach.
 Saw’st thou not, boy, how Silver made it good
 At the hedge-corner, in the coldest fault?
@@ -164,7 +164,7 @@ If it be husbanded with modesty.
 
 1. HUN.
 My lord, I warrant you we will play our part
-As he shall think by our true	diligence
+As he shall think by our true diligence
 He is no less than what we say he is.
 
 LORD.
@@ -175,7 +175,7 @@ And each one to his office when he wakes.
 Sirrah, go see what trumpet ’tis that sounds.
 (Exit Servingman.)
 Belike some noble gentleman that means
-—Traveling some journey— to repose him here.
+(Traveling some journey) to repose him here.
 (Enter Servingman.)
 How now? Who is it?
 
@@ -188,7 +188,7 @@ Enter Players.
 LORD.
 Bid them come near. Now, fellows, you are welcome.
 
-ALL. PLAYERS.
+ALL PLAYERS.
 We thank your honor.
 
 LORD.
@@ -215,7 +215,7 @@ Wherein your cunning can assist me much.
 There is a lord will hear you play tonight;
 But I am doubtful of your modesties,
 Lest, over-eyeing of his odd behavior
-—For yet his honor never heard a play—,
+(For yet his honor never heard a play),
 You break into some merry passion,
 And so offend him; for I tell you, sirs,
 If you should smile, he grows impatient.
@@ -251,7 +251,7 @@ No better than a poor and loathsome beggar.
 And if the boy have not a woman’s gift
 To rain a shower of commanded tears,
 An onion will do well for such a shift,
-Which in a napkin —being close convey’d—
+Which in a napkin (being close convey’d) 
 Shall in despite enforce a watery eye.
 See this dispatch’d with all the haste thou canst;
 Anon I’ll give thee more instructions.
@@ -268,7 +268,7 @@ Which otherwise would grow into extremes.
 Exeunt.
 
 
-### Prologue Scene 2
+### Act 1, Prologue Scene 2
 
 
 A bedchamber in the Lord’s house.
@@ -404,7 +404,7 @@ Which never were, nor no man ever saw.
 SLY.
 Now Lord be thanked for my good amends!
 
-ALL. SERV. AND LORD.
+ALL SERV. AND LORD.
 Amen.
 
 Enter the Page as a lady, with Attendants.
@@ -498,7 +498,7 @@ Well, we’ll see’t. Come, madam wife, sit by my side, and let the world slip,
 They all sit. Flourish.
 
 
-### Scene 1
+### Act 1, Scene 1
 
 
 Padua. A public square.
@@ -656,7 +656,7 @@ For I have more to commune with Bianca.
 Exit.
 
 KATH.
-Why, and I trust I may go too, may I not? What, shall I be appointed hours, as though —belike— I knew not what to take and what to leave? Ha!
+Why, and I trust I may go too, may I not? What, shall I be appointed hours, as though, belike, I knew not what to take and what to leave? Ha!
 
 Exit.
 
@@ -875,14 +875,14 @@ SLY.
 They sit and mark.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 Padua. Before Hortensio’s house.
 
 Enter Petruchio and his man Grumio.
 
-PET.
+PETR.
 Verona, for a while I take my leave
 To see my friends in Padua, but of all
 My best beloved and approved friend,
@@ -892,13 +892,13 @@ Here, sirrah Grumio, knock, I say.
 GRU.
 Knock, sir? Whom should I knock? Is there any man has rebus’d your worship?
 
-PET.
+PETR.
 Villain, I say, knock me here soundly.
 
 GRU.
 Knock you here, sir? Why, sir, what am I, sir, that I should knock you here, sir?
 
-PET.
+PETR.
 Villain, I say, knock me at this gate,
 And rap me well, or I’ll knock your knave’s pate.
 
@@ -906,7 +906,7 @@ GRU.
 My master is grown quarrelsome. I should knock you first,
 And then I know after who comes by the worst.
 
-PET.
+PETR.
 Will it not be?
 Faith, sirrah, and you’ll not knock, I’ll ring it.
 I’ll try how you can sol, fa, and sing it.
@@ -916,7 +916,7 @@ He wrings him by the ears.
 GRU.
 Help, masters, help, my master is mad.
 
-PET.
+PETR.
 Now knock when I bid you, sirrah villain!
 
 Enter Hortensio.
@@ -924,7 +924,7 @@ Enter Hortensio.
 HOR.
 How now, what’s the matter? My old friend Grumio! And my good friend Petruchio! How do you all at Verona?
 
-PET.
+PETR.
 Signior Hortensio, come you to part the fray? Con tutto il cuore, ben trovato, may I say.
 
 HOR.
@@ -932,11 +932,11 @@ Alla nostra casa ben venuto, molto honorato signor mio Petruchio.
 Rise, Grumio, rise, we will compound this quarrel.
 
 GRU.
-Nay, ’tis no matter, sir, what he ’leges in Latin. If this be not a lawful cause for me to leave his service, look you, sir. He bid me knock him and rap him soundly, sir. Well, was it fit for a servant to use his master so, being perhaps —for aught I see— two and thirty, a peep out?
+Nay, ’tis no matter, sir, what he ’leges in Latin. If this be not a lawful cause for me to leave his service, look you, sir. He bid me knock him and rap him soundly, sir. Well, was it fit for a servant to use his master so, being perhaps (for aught I see) two and thirty, a peep out?
 Whom would to God I had well knock’d at first,
 Then had not Grumio come by the worst.
 
-PET.
+PETR.
 A senseless villain! Good Hortensio,
 I bade the rascal knock upon your gate,
 And could not get him for my heart to do it.
@@ -944,7 +944,7 @@ And could not get him for my heart to do it.
 GRU.
 Knock at the gate? O heavens! Spake you not these words plain, “Sirrah, knock me here; rap me here; knock me well, and knock me soundly”? And come you now with “knocking at the gate”?
 
-PET.
+PETR.
 Sirrah, be gone, or talk not, I advise you.
 
 HOR.
@@ -954,7 +954,7 @@ Your ancient, trusty, pleasant servant Grumio.
 And tell me now, sweet friend, what happy gale
 Blows you to Padua here from old Verona?
 
-PET.
+PETR.
 Such wind as scatters young men through the world
 To seek their fortunes farther than at home,
 Where small experience grows. But in a few,
@@ -973,11 +973,11 @@ And yet I’ll promise thee she shall be rich,
 And very rich. But th’ art too much my friend,
 And I’ll not wish thee to her.
 
-PET.
+PETR.
 Signior Hortensio, ’twixt such friends as we
 Few words suffice; and therefore, if thou know
 One rich enough to be Petruchio’s wife
-—As wealth is burden of my wooing dance—,
+(As wealth is burden of my wooing dance),
 Be she as foul as was Florentius’ love,
 As old as Sibyl, and as curst and shrewd
 As Socrates’ Xantippe, or a worse,
@@ -1002,7 +1002,7 @@ And shrewd and froward, so beyond all measure,
 That were my state far worser than it is,
 I would not wed her for a mine of gold.
 
-PET.
+PETR.
 Hortensio, peace! Thou know’st not gold’s effect.
 Tell me her father’s name, and ’tis enough;
 For I will board her, though she chide as loud
@@ -1014,7 +1014,7 @@ An affable and courteous gentleman.
 Her name is Katherina Minola,
 Renown’d in Padua for her scolding tongue.
 
-PET.
+PETR.
 I know her father, though I know not her,
 And he knew my deceased father well.
 I will not sleep, Hortensio, till I see her,
@@ -1090,7 +1090,7 @@ O this learning, what a thing it is!
 GRU.
 O this woodcock, what an ass it is!
 
-PET.
+PETR.
 Peace, sirrah!
 
 HOR.
@@ -1134,14 +1134,14 @@ GRE.
 So said, so done, is well.
 Hortensio, have you told him all her faults?
 
-PET.
+PETR.
 I know she is an irksome brawling scold.
 If that be all, masters, I hear no harm.
 
 GRE.
 No, say’st me so, friend? What countryman?
 
-PET.
+PETR.
 Born in Verona, old Antonio’s son.
 My father dead, my fortune lives for me,
 And I do hope good days and long to see.
@@ -1152,13 +1152,13 @@ But if you have a stomach, to’t a’ God’s name;
 You shall have me assisting you in all.
 But will you woo this wild-cat?
 
-PET.
+PETR.
 ^7 Will I live?
 
 GRU.
 Will he woo her? Ay—or I’ll hang her.
 
-PET.
+PETR.
 Why came I hither but to that intent?
 Think you a little din can daunt mine ears?
 Have I not in my time heard lions roar?
@@ -1210,7 +1210,7 @@ Hark you, sir, you mean not her to—
 TRA.
 Perhaps him and her, sir; what have you to do?
 
-PET.
+PETR.
 Not her that chides, sir, at any hand, I pray.
 
 TRA.
@@ -1265,7 +1265,7 @@ What, this gentleman will out-talk us all.
 LUC.
 Sir, give him head, I know he’ll prove a jade.
 
-PET.
+PETR.
 Hortensio, to what end are all these words?
 
 HOR.
@@ -1277,14 +1277,14 @@ No, sir, but hear I do that he hath two:
 The one as famous for a scolding tongue,
 As is the other for beauteous modesty.
 
-PET.
+PETR.
 Sir, sir, the first’s for me, let her go by.
 
 GRE.
 Yea, leave that labor to great Hercules,
 And let it be more than Alcides’ twelve.
 
-PET.
+PETR.
 Sir, understand you this of me, in sooth:
 The youngest daughter, whom you hearken for,
 Her father keeps from all access of suitors,
@@ -1326,8 +1326,8 @@ Exeunt.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 Padua. A room in Baptista Minola’s house.
@@ -1416,7 +1416,7 @@ Good morrow, neighbor Baptista.
 BAP.
 Good morrow, neighbor Gremio. God save you, gentlemen!
 
-PET.
+PETR.
 And you, good sir! Pray have you not a daughter
 Call’d Katherina, fair and virtuous?
 
@@ -1426,7 +1426,7 @@ I have a daughter, sir, call’d Katherina.
 GRE.
 You are too blunt, go to it orderly.
 
-PET.
+PETR.
 You wrong me, Signior Gremio, give me leave.
 I am a gentleman of Verona, sir,
 That hearing of her beauty and her wit,
@@ -1449,7 +1449,7 @@ Y’ are welcome, sir, and he, for your good sake.
 But for my daughter Katherine, this I know,
 She is not for your turn, the more my grief.
 
-PET.
+PETR.
 I see you do not mean to part with her,
 Or else you like not of my company.
 
@@ -1457,7 +1457,7 @@ BAP.
 Mistake me not, I speak but as I find.
 Whence are you, sir? What may I call your name?
 
-PET.
+PETR.
 Petruchio is my name, Antonio’s son,
 A man well known throughout all Italy.
 
@@ -1469,7 +1469,7 @@ Saving your tale, Petruchio, I pray
 Let us that are poor petitioners speak too.
 Backare! You are marvelous forward.
 
-PET.
+PETR.
 O, pardon me, Signior Gremio, I would fain be doing.
 
 GRE.
@@ -1520,7 +1520,7 @@ We will go walk a little in the orchard,
 And then to dinner. You are passing welcome,
 And so I pray you all to think yourselves.
 
-PET.
+PETR.
 Signior Baptista, my business asketh haste,
 And every day I cannot come to woo.
 You knew my father well, and in him me,
@@ -1533,7 +1533,7 @@ BAP.
 After my death, the one half of my lands,
 And in possession twenty thousand crowns.
 
-PET.
+PETR.
 And for that dowry, I’ll assure her of
 Her widowhood, be it that she survive me,
 In all my lands and leases whatsoever.
@@ -1544,7 +1544,7 @@ BAP.
 Ay, when the special thing is well obtain’d,
 That is, her love; for that is all in all.
 
-PET.
+PETR.
 Why, that is nothing; for I tell you, father,
 I am as peremptory as she proud-minded;
 And where two raging fires meet together,
@@ -1558,7 +1558,7 @@ BAP.
 Well mayst thou woo, and happy be thy speed!
 But be thou arm’d for some unhappy words.
 
-PET.
+PETR.
 Ay, to the proof, as mountains are for winds,
 That shake not, though they blow perpetually.
 
@@ -1594,7 +1594,7 @@ While she did call me rascal fiddler
 And twangling Jack, with twenty such vild terms,
 As had she studied to misuse me so.
 
-PET.
+PETR.
 Now by the world, it is a lusty wench!
 I love her ten times more than e’er I did.
 O, how I long to have some chat with her!
@@ -1606,7 +1606,7 @@ She’s apt to learn, and thankful for good turns.
 Signior Petruchio, will you go with us,
 Or shall I send my daughter Kate to you?
 
-PET.
+PETR.
 I pray you do. I’ll attend her here,
 (Exit Baptista with Gremio, Tranio, and Hortensio. Manet Petruchio.)
 And woo her with some spirit when she comes.
@@ -1629,7 +1629,7 @@ KATH.
 Well have you heard, but something hard of hearing:
 They call me Katherine that do talk of me.
 
-PET.
+PETR.
 You lie, in faith, for you are call’d plain Kate,
 And bonny Kate, and sometimes Kate the curst;
 But Kate, the prettiest Kate in Christendom,
@@ -1646,25 +1646,25 @@ Mov’d! In good time! Let him that mov’d you hither
 Remove you hence. I knew you at the first
 You were a moveable.
 
-PET.
+PETR.
 ^4 Why, what’s a moveable?
 
 KATH.
 A join’d-stool.
 
-PET.
+PETR.
 ^3 Thou hast hit it; come sit on me.
 
 KATH.
 Asses are made to bear, and so are you.
 
-PET.
+PETR.
 Women are made to bear, and so are you.
 
 KATH.
 No such jade as you, if me you mean.
 
-PET.
+PETR.
 Alas, good Kate, I will not burden thee,
 For knowing thee to be but young and light.
 
@@ -1672,44 +1672,44 @@ KATH.
 Too light for such a swain as you to catch,
 And yet as heavy as my weight should be.
 
-PET.
+PETR.
 Should be! Should—buzz!
 
 KATH.
 ^5 Well ta’en, and like a buzzard.
 
-PET.
+PETR.
 O slow-wing’d turtle, shall a buzzard take thee?
 
 KATH.
 Ay, for a turtle, as he takes a buzzard.
 
-PET.
+PETR.
 Come, come, you wasp, i’ faith you are too angry.
 
 KATH.
 If I be waspish, best beware my sting.
 
-PET.
+PETR.
 My remedy is then to pluck it out.
 
 KATH.
 Ay, if the fool could find it where it lies.
 
-PET.
+PETR.
 Who knows not where a wasp does wear his sting?
 In his tail.
 
 KATH.
 In his tongue.
 
-PET.
+PETR.
 Whose tongue?
 
 KATH.
 Yours, if you talk of tales, and so farewell.
 
-PET.
+PETR.
 What, with my tongue in your tail? Nay, come again,
 Good Kate; I am a gentleman—
 
@@ -1718,7 +1718,7 @@ KATH.
 
 She strikes him.
 
-PET.
+PETR.
 I swear I’ll cuff you, if you strike again.
 
 KATH.
@@ -1726,61 +1726,61 @@ So may you lose your arms.
 If you strike me, you are no gentleman,
 And if no gentleman, why then no arms.
 
-PET.
+PETR.
 A herald, Kate? O, put me in thy books!
 
 KATH.
 What is your crest? A coxcomb?
 
-PET.
+PETR.
 A combless cock, so Kate will be my hen.
 
 KATH.
 No cock of mine, you crow too like a craven.
 
-PET.
+PETR.
 Nay, come, Kate, come; you must not look so sour.
 
 KATH.
 It is my fashion when I see a crab.
 
-PET.
+PETR.
 Why, here’s no crab, and therefore look not sour.
 
 KATH.
 There is, there is.
 
-PET.
+PETR.
 Then show it me.
 
 KATH.
 Had I a glass, I would.
 
-PET.
+PETR.
 What, you mean my face?
 
 KATH.
 Well aim’d of such a young one.
 
-PET.
+PETR.
 Now, by Saint George, I am too young for you.
 
 KATH.
 Yet you are wither’d.
 
-PET.
+PETR.
 ’Tis with cares.
 
 KATH.
 I care not.
 
-PET.
+PETR.
 Nay, hear you, Kate. In sooth you scape not so.
 
 KATH.
 I chafe you if I tarry. Let me go.
 
-PET.
+PETR.
 No, not a whit, I find you passing gentle:
 ’Twas told me you were rough and coy and sullen,
 And now I find report a very liar;
@@ -1800,7 +1800,7 @@ O, let me see thee walk. Thou dost not halt.
 KATH.
 Go, fool, and whom thou keep’st command.
 
-PET.
+PETR.
 Did ever Dian so become a grove
 As Kate this chamber with her princely gait?
 O, be thou Dian, and let her be Kate,
@@ -1809,19 +1809,19 @@ And then let Kate be chaste, and Dian sportful!
 KATH.
 Where did you study all this goodly speech?
 
-PET.
+PETR.
 It is extempore, from my mother-wit.
 
 KATH.
 A witty mother! Witless else her son.
 
-PET.
+PETR.
 Am I not wise?
 
 KATH.
 Yes, keep you warm.
 
-PET.
+PETR.
 Marry, so I mean, sweet Katherine, in thy bed;
 And therefore setting all this chat aside,
 Thus in plain terms: your father hath consented
@@ -1841,7 +1841,7 @@ I must and will have Katherine to my wife.
 BAP.
 Now, Signior Petruchio, how speed you with my daughter?
 
-PET.
+PETR.
 How but well, sir? How but well?
 It were impossible I should speed amiss.
 
@@ -1855,7 +1855,7 @@ To wish me wed to one half lunatic,
 A madcap ruffian and a swearing Jack,
 That thinks with oaths to face the matter out.
 
-PET.
+PETR.
 Father, ’tis thus: yourself and all the world,
 That talk’d of her, have talk’d amiss of her.
 If she be curst, it is for policy,
@@ -1875,7 +1875,7 @@ Hark, Petruchio, she says she’ll see thee hang’d first.
 TRA.
 Is this your speeding? Nay then good night our part!
 
-PET.
+PETR.
 Be patient, gentlemen, I choose her for myself.
 If she and I be pleas’d, what’s that to you?
 ’Tis bargain’d ’twixt us twain, being alone,
@@ -1900,7 +1900,7 @@ God send you joy, Petruchio, ’tis a match.
 BOTH GRE. AND TRA.
 Amen, say we. We will be witnesses.
 
-PET.
+PETR.
 Father, and wife, and gentlemen, adieu.
 I will to Venice, Sunday comes apace.
 We will have rings and things, and fine array;
@@ -2053,8 +2053,8 @@ Exit.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 Padua. Baptista’s house.
@@ -2187,7 +2187,6 @@ BIAN.
 *C fa ut, that loves with all affection.* 
 *D sol re, one cliff, two notes have I,* 
 *E la mi, show pity, or I die.”* 
-
 Call you this gamut? Tut, I like it not.
 Old fashions please me best; I am not so nice
 To change true rules for odd inventions.
@@ -2220,7 +2219,7 @@ Hortensio will be quit with thee by changing.
 Exit.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 Padua. Before Baptista’s house.
@@ -2344,13 +2343,13 @@ BION.
 
 Enter Petruchio and Grumio.
 
-PET.
+PETR.
 Come, where be these gallants? Who’s at home?
 
 BAP.
 You are welcome, sir.
 
-PET.
+PETR.
 And yet I come not well.
 
 BAP.
@@ -2360,7 +2359,7 @@ TRA.
 Not so well apparell’d
 As I wish you were.
 
-PET.
+PETR.
 Were it better I should rush in thus:
 (Pretends great excitement.)
 But where is Kate? Where is my lovely bride?
@@ -2381,7 +2380,7 @@ And tell us what occasion of import
 Hath all so long detain’d you from your wife,
 And sent you hither so unlike yourself?
 
-PET.
+PETR.
 Tedious it were to tell, and harsh to hear—
 Sufficeth I am come to keep my word,
 Though in some part enforced to digress,
@@ -2394,13 +2393,13 @@ TRA.
 See not your bride in these unreverent robes,
 Go to my chamber, put on clothes of mine.
 
-PET.
+PETR.
 Not I, believe me, thus I’ll visit her.
 
 BAP.
 But thus, I trust, you will not marry her.
 
-PET.
+PETR.
 Good sooth, even thus; therefore ha’ done with words;
 To me she’s married, not unto my clothes.
 Could I repair what she will wear in me,
@@ -2507,7 +2506,7 @@ Music plays.
 
 Enter Petruchio, Kate, Bianca, Hortensio as Litio, Baptista, Grumio, and Train.
 
-PET.
+PETR.
 Gentlemen and friends, I thank you for your pains.
 I know you think to dine with me today,
 And have prepared great store of wedding cheer,
@@ -2517,7 +2516,7 @@ And therefore here I mean to take my leave.
 BAP.
 Is’t possible you will away tonight?
 
-PET.
+PETR.
 I must away today, before night come.
 Make it no wonder; if you knew my business,
 You would entreat me rather go than stay.
@@ -2530,32 +2529,32 @@ For I must hence, and farewell to you all.
 TRA.
 Let us entreat you stay till after dinner.
 
-PET.
+PETR.
 It may not be.
 
 GRE.
 ^3 Let me entreat you.
 
-PET.
+PETR.
 It cannot be.
 
 KATH.
 ^3 Let me entreat you.
 
-PET.
+PETR.
 I am content.
 
 KATH.
 Are you content to stay?
 
-PET.
+PETR.
 I am content you shall entreat me stay,
 But yet not stay, entreat me how you can.
 
 KATH.
 Now if you love me stay.
 
-PET.
+PETR.
 ^5 Grumio, my horse.
 
 GRU.
@@ -2571,7 +2570,7 @@ For me, I’ll not be gone till I please myself.
 ’Tis like you’ll prove a jolly surly groom,
 That take it on you at the first so roundly.
 
-PET.
+PETR.
 O Kate, content thee, prithee be not angry.
 
 KATH.
@@ -2586,7 +2585,7 @@ Gentlemen, forward to the bridal dinner.
 I see a woman may be made a fool,
 If she had not a spirit to resist.
 
-PET.
+PETR.
 They shall go forward, Kate, at thy command.
 Obey the bride, you that attend on her.
 Go to the feast, revel and domineer,
@@ -2645,8 +2644,8 @@ Exeunt.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 Petruchio’s country house.
@@ -2680,7 +2679,7 @@ CURT.
 Away, you three-inch fool! I am no beast.
 
 GRU.
-Am I but three inches? Why, thy horn is a foot, and so long am I at the least. But wilt thou make a fire, or shall I complain on thee to our mistress, whose hand —she being now at hand— thou shalt soon feel, to thy cold comfort, for being slow in thy hot office?
+Am I but three inches? Why, thy horn is a foot, and so long am I at the least. But wilt thou make a fire, or shall I complain on thee to our mistress, whose hand (she being now at hand) thou shalt soon feel, to thy cold comfort, for being slow in thy hot office?
 
 CURT.
 I prithee, good Grumio, tell me, how goes the world?
@@ -2802,15 +2801,15 @@ E’en at hand, alighted by this; and therefore be not—Cock’s passion, silen
 
 Enter Petruchio and Kate.
 
-PET.
+PETR.
 Where be these knaves? What, no man at door
 To hold my stirrup, nor to take my horse?
 Where is Nathaniel, Gregory, Philip?
 
-ALL. SERV.
+ALL SERV.
 Here, here, sir, here, sir.
 
-PET.
+PETR.
 Here, sir! Here, sir! Here, sir! Here, sir!
 You loggerheaded and unpolish’d grooms!
 What? No attendance? No regard? No duty?
@@ -2819,7 +2818,7 @@ Where is the foolish knave I sent before?
 GRU.
 Here, sir, as foolish as I was before.
 
-PET.
+PETR.
 You peasant swain, you whoreson malt-horse drudge!
 Did I not bid thee meet me in the park,
 And bring along these rascal knaves with thee?
@@ -2833,7 +2832,7 @@ There were none fine but Adam, Rafe, and Gregory;
 The rest were ragged, old, and beggarly,
 Yet, as they are, here are they come to meet you.
 
-PET.
+PETR.
 Go, rascals, go, and fetch my supper in.
 (Exeunt Servants.)
 (Sings.)
@@ -2863,7 +2862,7 @@ Strikes him.
 KATH.
 Patience, I pray you, ’twas a fault unwilling.
 
-PET.
+PETR.
 A whoreson, beetle-headed, flap-ear’d knave!
 Come, Kate, sit down, I know you have a stomach.
 Will you give thanks, sweet Kate, or else shall I?
@@ -2872,13 +2871,13 @@ What’s this? Mutton?
 JOS.
 ^4 Ay.
 
-PET.
+PETR.
 ^5 Who brought it?
 
-PETER.
+PET.
 ^9 I.
 
-PET.
+PETR.
 ’Tis burnt, and so is all the meat.
 What dogs are these? Where is the rascal cook?
 How durst you, villains, bring it from the dresser
@@ -2894,7 +2893,7 @@ KATH.
 I pray you, husband, be not so disquiet.
 The meat was well, if you were so contented.
 
-PET.
+PETR.
 I tell thee, Kate, ’twas burnt and dried away,
 And I expressly am forbid to touch it;
 For it engenders choler, planteth anger,
@@ -2912,7 +2911,7 @@ Enter Servants severally.
 NATH.
 Peter, didst ever see the like?
 
-PETER.
+PET.
 He kills her in her own humor.
 
 Enter Curtis, a servant.
@@ -2931,7 +2930,7 @@ Exeunt.
 
 Enter Petruchio.
 
-PET.
+PETR.
 Thus have I politicly begun my reign,
 And ’tis my hope to end successfully.
 My falcon now is sharp and passing empty,
@@ -2960,7 +2959,7 @@ Now let him speak; ’tis charity to shew.
 Exit.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 Padua. Before Baptista’s house.
@@ -3206,7 +3205,7 @@ Go with me to clothe you as becomes you.
 Exeunt.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 A room in Petruchio’s house.
@@ -3279,7 +3278,7 @@ Go get thee gone, I say.
 
 Enter Petruchio and Hortensio with meat.
 
-PET.
+PETR.
 How fares my Kate? What, sweeting, all amort?
 
 HOR.
@@ -3288,7 +3287,7 @@ Mistress, what cheer?
 KATH.
 ^4 Faith, as cold as can be.
 
-PET.
+PETR.
 Pluck up thy spirits, look cheerfully upon me.
 Here, love, thou seest how diligent I am
 To dress thy meat myself, and bring it thee.
@@ -3300,7 +3299,7 @@ Here, take away this dish.
 KATH.
 ^5 I pray you let it stand.
 
-PET.
+PETR.
 The poorest service is repaid with thanks,
 And so shall mine before you touch the meat.
 
@@ -3311,7 +3310,7 @@ HOR.
 Signior Petruchio, fie, you are to blame.
 Come, Mistress Kate, I’ll bear you company.
 
-PET.
+PETR.
 (Aside.)
 Eat it up all, Hortensio, if thou lovest me.—
 Much good do it unto thy gentle heart!
@@ -3333,7 +3332,7 @@ Lay forth the gown.
 HAB.
 Here is the cap your worship did bespeak.
 
-PET.
+PETR.
 Why, this was moulded on a porringer—
 A velvet dish. Fie, fie, ’tis lewd and filthy.
 Why, ’tis a cockle or a walnut-shell,
@@ -3344,7 +3343,7 @@ KATH.
 I’ll have no bigger, this doth fit the time,
 And gentlewomen wear such caps as these.
 
-PET.
+PETR.
 When you are gentle, you shall have one too,
 And not till then.
 
@@ -3362,7 +3361,7 @@ Or else my heart concealing it will break,
 And rather than it shall, I will be free,
 Even to the uttermost, as I please, in words.
 
-PET.
+PETR.
 Why, thou say’st true, it is a paltry cap,
 A custard-coffin, a bauble, a silken pie.
 I love thee well in that thou lik’st it not.
@@ -3373,7 +3372,7 @@ And it I will have, or I will have none.
 
 Exit Haberdasher.
 
-PET.
+PETR.
 Thy gown? Why, ay. Come, tailor, let us see’t.
 O mercy, God, what masquing stuff is here?
 What’s this? A sleeve? ’Tis like a demi-cannon.
@@ -3390,7 +3389,7 @@ TAI.
 You bid me make it orderly and well,
 According to the fashion and the time.
 
-PET.
+PETR.
 Marry, and did; but if you be rememb’red,
 I did not bid you mar it to the time.
 Go hop me over every kennel home,
@@ -3402,13 +3401,13 @@ I never saw a better fashion’d gown,
 More quaint, more pleasing, nor more commendable.
 Belike you mean to make a puppet of me.
 
-PET.
+PETR.
 Why, true, he means to make a puppet of thee.
 
 TAI.
 She says your worship means to make a puppet of her.
 
-PET.
+PETR.
 O monstrous arrogance! Thou liest, thou thread, thou thimble,
 Thou yard, three-quarters, half-yard, quarter, nail!
 Thou flea, thou nit, thou winter-cricket thou!
@@ -3447,7 +3446,7 @@ Face not me; thou hast brav’d many men, brave not me; I will neither be fac’
 TAI.
 Why, here is the note of the fashion to testify.
 
-PET.
+PETR.
 Read it.
 
 GRU.
@@ -3460,7 +3459,7 @@ TAI.
 GRU.
 Master, if ever I said loose-bodied gown, sew me in the skirts of it, and beat me to death with a bottom of brown thread. I said a gown.
 
-PET.
+PETR.
 Proceed.
 
 TAI.
@@ -3481,7 +3480,7 @@ TAI.
 (Reads.)
 *“The sleeves curiously cut.”* 
 
-PET.
+PETR.
 Ay, there’s the villainy.
 
 GRU.
@@ -3496,19 +3495,19 @@ I am for thee straight. Take thou the bill, give me thy mete-yard, and spare not
 HOR.
 God-a-mercy, Grumio, then he shall have no odds.
 
-PET.
+PETR.
 Well, sir, in brief, the gown is not for me.
 
 GRU.
 You are i’ th’ right, sir, ’tis for my mistress.
 
-PET.
+PETR.
 Go take it up unto thy master’s use.
 
 GRU.
 Villain, not for thy life! Take up my mistress’ gown for thy master’s use!
 
-PET.
+PETR.
 Why, sir, what’s your conceit in that?
 
 GRU.
@@ -3516,7 +3515,7 @@ O, sir, the conceit is deeper than you think for:
 Take up my mistress’ gown to his master’s use!
 O fie, fie, fie!
 
-PET.
+PETR.
 (Aside.)
 Hortensio, say thou wilt see the tailor paid.—
 Go take it hence, be gone, and say no more.
@@ -3528,7 +3527,7 @@ Away, I say, commend me to thy master.
 
 Exit Tailor.
 
-PET.
+PETR.
 Well, come, my Kate, we will unto your father’s
 Even in these honest mean habiliments;
 Our purses shall be proud, our garments poor,
@@ -3554,7 +3553,7 @@ KATH.
 I dare assure you, sir, ’tis almost two,
 And ’twill be supper-time ere you come there.
 
-PET.
+PETR.
 It shall be seven ere I go to horse.
 Look what I speak, or do, or think to do,
 You are still crossing it. Sirs, let’t alone,
@@ -3568,7 +3567,7 @@ Why, so this gallant will command the sun.
 Exeunt.
 
 
-### Scene 4
+### Act 4, Scene 4
 
 
 Padua. Before Baptista’s house.
@@ -3753,27 +3752,27 @@ It shall go hard if Cambio go without her.
 Exit.
 
 
-### Scene 5
+### Act 4, Scene 5
 
 
 A public road.
 
 Enter Petruchio, Kate, Hortensio, and Servants.
 
-PET.
+PETR.
 Come on a’ God’s name, once more toward our father’s.
 Good Lord, how bright and goodly shines the moon!
 
 KATH.
 The moon! The sun—it is not moonlight now.
 
-PET.
+PETR.
 I say it is the moon that shines so bright.
 
 KATH.
 I know it is the sun that shines so bright.
 
-PET.
+PETR.
 Now by my mother’s son, and that’s myself,
 It shall be moon, or star, or what I list,
 Or ere I journey to your father’s house.—
@@ -3789,13 +3788,13 @@ And be it moon, or sun, or what you please;
 And if you please to call it a rush-candle,
 Henceforth I vow it shall be so for me.
 
-PET.
+PETR.
 I say it is the moon.
 
 KATH.
 ^4 I know it is the moon.
 
-PET.
+PETR.
 Nay then you lie; it is the blessed sun.
 
 KATH.
@@ -3808,7 +3807,7 @@ And so it shall be so for Katherine.
 HOR.
 Petruchio, go thy ways, the field is won.
 
-PET.
+PETR.
 Well, forward, forward, thus the bowl should run,
 And not unluckily against the bias.
 But soft, company is coming here.
@@ -3833,7 +3832,7 @@ Happy the parents of so fair a child!
 Happier the man whom favorable stars
 Allots thee for his lovely bedfellow!
 
-PET.
+PETR.
 Why, how now, Kate, I hope thou art not mad.
 This is a man, old, wrinkled, faded, withered,
 And not a maiden, as thou say’st he is.
@@ -3845,7 +3844,7 @@ That every thing I look on seemeth green;
 Now I perceive thou are a reverend father.
 Pardon, I pray thee, for my mad mistaking.
 
-PET.
+PETR.
 Do, good old grandsire, and withal make known
 Which way thou travelest—if along with us,
 We shall be joyful of thy company.
@@ -3857,13 +3856,13 @@ My name is call’d Vincentio, my dwelling Pisa,
 And bound I am to Padua, there to visit
 A son of mine, which long I have not seen.
 
-PET.
+PETR.
 What is his name?
 
 LORD.
 ^4 Lucentio, gentle sir.
 
-PET.
+PETR.
 Happily met, the happier for thy son.
 And now by law, as well as reverend age,
 I may entitle thee my loving father.
@@ -3885,7 +3884,7 @@ Upon the company you overtake?
 HOR.
 I do assure thee, father, so it is.
 
-PET.
+PETR.
 Come go along and see the truth hereof,
 For our first merriment hath made thee jealous.
 
@@ -3902,8 +3901,8 @@ Exit.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 Padua. Before Lucentio’s house.
@@ -3926,7 +3925,7 @@ I marvel Cambio comes not all this while.
 
 Enter Petruchio, Kate, Vincentio, Grumio, with Attendants.
 
-PET.
+PETR.
 Sir, here’s the door, this is Lucentio’s house.
 My father’s bears more toward the market-place;
 Thither must I, and here I leave you, sir.
@@ -3958,7 +3957,7 @@ What if a man bring him a hundred pound or two, to make merry withal?
 PED.
 Keep your hundred pounds to yourself, he shall need none so long as I live.
 
-PET.
+PETR.
 Nay, I told you your son was well belov’d in Padua. Do you hear, sir?—to leave frivolous circumstances, I pray you tell Signior Lucentio that his father is come from Pisa, and is here at the door to speak with him.
 
 PED.
@@ -3970,7 +3969,7 @@ Art thou his father?
 PED.
 Ay, sir, so his mother says, if I may believe her.
 
-PET.
+PETR.
 (To Vincentio.)
 Why, how now, gentleman? Why, this is flat knavery, to take upon you another man’s name.
 
@@ -4016,7 +4015,7 @@ Help, son! Help, Signior Baptista!
 
 Exit above.
 
-PET.
+PETR.
 Prithee, Kate, let’s stand aside and see the end of this controversy.
 
 They retire.
@@ -4168,32 +4167,32 @@ Exit.
 KATH.
 Husband, let’s follow, to see the end of this ado.
 
-PET.
+PETR.
 First kiss me, Kate, and we will.
 
 KATH.
 What, in the midst of the street?
 
-PET.
+PETR.
 What, art thou asham’d of me?
 
 KATH.
 No, sir, God forbid, but asham’d to kiss.
 
-PET.
+PETR.
 Why then let’s home again. Come, sirrah, let’s away.
 
 KATH.
 Nay, I will give thee a kiss; now pray thee, love, stay.
 
-PET.
+PETR.
 Is not this well? Come, my sweet Kate:
 Better once than never, for never too late.
 
 Exeunt.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 Padua. Lucentio’s house.
@@ -4213,32 +4212,32 @@ My banquet is to close our stomachs up
 After our great good cheer. Pray you sit down,
 For now we sit to chat as well as eat.
 
-PET.
+PETR.
 Nothing but sit and sit, and eat and eat!
 
 BAP.
 Padua affords this kindness, son Petruchio.
 
-PET.
+PETR.
 Padua affords nothing but what is kind.
 
 HOR.
 For both our sakes, I would that word were true.
 
-PET.
+PETR.
 Now, for my life, Hortensio fears his widow.
 
 WID.
 Then never trust me if I be afeard.
 
-PET.
+PETR.
 You are very sensible, and yet you miss my sense:
 I mean Hortensio is afeard of you.
 
 WID.
 He that is giddy thinks the world turns round.
 
-PET.
+PETR.
 Roundly replied.
 
 KATH.
@@ -4247,13 +4246,13 @@ KATH.
 WID.
 Thus I conceive by him.
 
-PET.
+PETR.
 Conceives by me! How likes Hortensio that?
 
 HOR.
 My widow says, thus she conceives her tale.
 
-PET.
+PETR.
 Very well mended. Kiss him for that, good widow.
 
 KATH.
@@ -4274,19 +4273,19 @@ WID.
 KATH.
 And I am mean indeed, respecting you.
 
-PET.
+PETR.
 To her, Kate!
 
 HOR.
 To her, widow!
 
-PET.
+PETR.
 A hundred marks, my Kate does put her down.
 
 HOR.
 That’s my office.
 
-PET.
+PETR.
 Spoke like an officer. Ha’ to thee, lad!
 
 Drinks to Hortensio.
@@ -4307,7 +4306,7 @@ Ay, mistress bride, hath that awakened you?
 BIAN.
 Ay, but not frighted me, therefore I’ll sleep again.
 
-PET.
+PETR.
 Nay, that you shall not, since you have begun;
 Have at you for a bitter jest or two!
 
@@ -4318,7 +4317,7 @@ You are welcome all.
 
 Exit Bianca with Katherina and Widow.
 
-PET.
+PETR.
 She hath prevented me. Here, Signior Tranio,
 This bird you aim’d at, though you hit her not;
 Therefore a health to all that shot and miss’d.
@@ -4327,7 +4326,7 @@ TRA.
 O, sir, Lucentio slipp’d me like his greyhound,
 Which runs himself, and catches for his master.
 
-PET.
+PETR.
 A good swift simile, but something currish.
 
 TRA.
@@ -4343,7 +4342,7 @@ I thank thee for that gird, good Tranio.
 HOR.
 Confess, confess, hath he not hit you here?
 
-PET.
+PETR.
 ’A has a little gall’d me, I confess;
 And as the jest did glance away from me,
 ’Tis ten to one it maim’d you two outright.
@@ -4352,7 +4351,7 @@ BAP.
 Now in good sadness, son Petruchio,
 I think thou hast the veriest shrew of all.
 
-PET.
+PETR.
 Well, I say no; and therefore for assurance
 Let’s each one send unto his wife,
 And he whose wife is most obedient,
@@ -4365,7 +4364,7 @@ Content. What’s the wager?
 LUC.
 ^5 Twenty crowns.
 
-PET.
+PETR.
 Twenty crowns!
 I’ll venture so much of my hawk or hound,
 But twenty times so much upon my wife.
@@ -4374,10 +4373,10 @@ LUC.
 A hundred then.
 
 HOR.
-^3 Content.
+^4 Content.
 
-PET.
-^5 A match! ’Tis done.
+PETR.
+^6 A match! ’Tis done.
 
 HOR.
 Who shall begin?
@@ -4403,7 +4402,7 @@ BION.
 ^4 Sir, my mistress sends you word
 That she is busy, and she cannot come.
 
-PET.
+PETR.
 How? She is busy, and she cannot come!
 Is that an answer?
 
@@ -4411,7 +4410,7 @@ GRE.
 ^4 Ay, and a kind one too.
 Pray God, sir, your wife send you not a worse.
 
-PET.
+PETR.
 I hope better.
 
 HOR.
@@ -4420,7 +4419,7 @@ To come to me forthwith.
 
 Exit Biondello.
 
-PET.
+PETR.
 ^5 O ho, entreat her!
 Nay then she must needs come.
 
@@ -4434,7 +4433,7 @@ BION.
 She says you have some goodly jest in hand.
 She will not come; she bids you come to her.
 
-PET.
+PETR.
 Worse and worse; she will not come! O vile,
 Intolerable, not to be endur’d!
 Sirrah Grumio, go to your mistress,
@@ -4445,13 +4444,13 @@ Exit Grumio.
 HOR.
 I know her answer.
 
-PET.
-^4 What?
+PETR.
+^5 What?
 
 HOR.
-^5 She will not.
+^8 She will not.
 
-PET.
+PETR.
 The fouler fortune mine, and there an end.
 
 Enter Katherina.
@@ -4462,13 +4461,13 @@ Now, by my holidam, here comes Katherina!
 KATH.
 What is your will, sir, that you send for me?
 
-PET.
+PETR.
 Where is your sister, and Hortensio’s wife?
 
 KATH.
 They sit conferring by the parlor fire.
 
-PET.
+PETR.
 Go fetch them hither. If they deny to come,
 Swinge me them soundly forth unto their husbands.
 Away, I say, and bring them hither straight.
@@ -4481,7 +4480,7 @@ Here is a wonder, if you talk of a wonder.
 HOR.
 And so it is; I wonder what it bodes.
 
-PET.
+PETR.
 Marry, peace it bodes, and love, and quiet life,
 An awe full rule, and right supremacy;
 And to be short, what not, that’s sweet and happy.
@@ -4493,7 +4492,7 @@ Unto their losses twenty thousand crowns,
 Another dowry to another daughter,
 For she is chang’d, as she had never been.
 
-PET.
+PETR.
 Nay, I will win my wager better yet,
 And show more sign of her obedience,
 Her new-built virtue and obedience.
@@ -4520,20 +4519,20 @@ Hath cost me a hundred crowns since supper-time.
 BIAN.
 The more fool you for laying on my duty.
 
-PET.
+PETR.
 Katherine, I charge thee tell these headstrong women
 What duty they do owe their lords and husbands.
 
 WID.
 Come, come, you’re mocking; we will have no telling.
 
-PET.
+PETR.
 Come on, I say, and first begin with her.
 
 WID.
 She shall not.
 
-PET.
+PETR.
 I say she shall, and first begin with her.
 
 KATH.
@@ -4582,7 +4581,7 @@ And place your hands below your husband’s foot;
 In token of which duty, if he please,
 My hand is ready, may it do him ease.
 
-PET.
+PETR.
 Why, there’s a wench! Come on, and kiss me, Kate.
 
 LUC.
@@ -4594,7 +4593,7 @@ VIN.
 LUC.
 But a harsh hearing when women are froward.
 
-PET.
+PETR.
 Come, Kate, we’ll to bed.
 We three are married, but you two are sped.
 (To Lucentio.)

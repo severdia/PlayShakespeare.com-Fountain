@@ -2,8 +2,8 @@ Title: Julius Caesar
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
-Copyright: 2005-2017 by PlayShakespeare.com
-Revision: Version 4.0
+Copyright: 2005-2020 by PlayShakespeare.com
+Revision: Version 4.2
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -14,63 +14,63 @@ Notes:
 
 >_Cast of Characters_<
 
-|Caesar’s Servant (CAES. SERV.): | 
-|Portia (POR.): | 
-|Calphurnia (CAL.): | 
-|Pindarus (PIN.): | 
-|Dardanius (DAR.): | 
+|Julius Caesar (CAES.): | 
+|Marcus Brutus (BRU.): | 
+|Cassius (CAS.): | 
+|Mark Antony (ANT.): | 
+|Casca (CASCA.): | 
+|Octavius Caesar (OCT.): | 
+|Decius Brutus (DEC.): | 
+|Messala (MES.): | 
 |Lucius (LUC.): | 
+|Titinius (TIT.): | 
+|Murellus (MUR.): | 
+|Lucilius (LUCIL.): | 
+|Flavius (FLAV.): | 
+|Soothsayer (SOOTH.): | 
+|Cinna (CIN.): | 
+|Pindarus (PIN.): | 
+|Metellus Cimber (MET.): | 
+|Caius Ligarius (LIG.): | 
+|Artemidorus of Cnidos (ART.): | 
+|Cinna, a Poet (CIN. POET.): | 
+|Clitus (CLI.): | 
+|Trebonius (TREB.): | 
+|Cicero (CIC.): | 
+|Young Cato (CATO.): | 
+|A Poet (POET.): | 
 |Strato (STRA.): | 
 |Claudio (CLAU.): | 
-|Clitus (CLI.): | 
 |Varrus (VAR.): | 
+|Cobbler (COB.): | 
+|M. Aemilius Lepidus (LEP.): | 
 |Volumnius (VOL.): | 
-|Young Cato (CATO.): | 
-|Messala (MES.): | 
-|Titinius (TIT.): | 
-|Lucilius (LUCIL.): | 
-|Soothsayer (SOOTH.): | 
-|Artemidorus of Cnidos (ART.): | 
-|Murellus (MUR.): | 
-|Flavius (FLAV.): | 
-|Cinna (CIN.): | 
-|Cinna, a Poet (CIN. POET.): | 
-|A Poet (POET.): | 
-|Metellus Cimber (MET.): | 
-|Decius Brutus (DEC.): | 
-|Caius Ligarius (LIG.): | 
-|Trebonius (TREB.): | 
-|Casca (CASCA.): | 
-|Cassius (CAS.): | 
-|Marcus Brutus (BRU.): | 
+|Dardanius (DAR.): | 
 |Popilius Lena (POP.): | 
 |Publius (PUB.): | 
-|Cicero (CIC.): | 
-|M. Aemilius Lepidus (LEP.): | 
-|Mark Antony (ANT.): | 
-|Octavius Caesar (OCT.): | 
-|Julius Caesar (CAES.): | 
-|Messenger (MESS.): | 
-|Octavius’s Attendant (OCT. ATT.): | 
-|Antony’s Messenger (ANT. MESS.): | 
-|Cobbler (COB.): | 
-|Carpenter (CAR.): | 
-|First Soldier (1. SOL.): | 
-|Second Soldier (2. SOL.): | 
-|Third Soldier (3. SOL.): | 
-|First Soldier of Antony’s (1. ANT. SOL.): | 
-|Second Soldier of Antony’s (2. ANT. SOL.): | 
+|Portia (POR.): | 
+|Calphurnia (CAL.): | 
 |First Plebeian (1. PLEB.): | 
 |Second Plebeian (2. PLEB.): | 
 |Third Plebeian (3. PLEB.): | 
 |Fourth Plebeian (4. PLEB.): | 
 |Fifth Plebeian (5. PLEB.): | 
+|Antony’s Messenger (ANT. MESS.): | 
+|Octavius’s Attendant (OCT. ATT.): | 
+|Caesar’s Servant (CAES. SERV.): | 
+|First Soldier of Antony’s (1. ANT. SOLD.): | 
+|Second Soldier of Antony’s (2. ANT. SOLD.): | 
+|First Soldier (1. SOLD.): | 
+|Second Soldier (2. SOLD.): | 
+|Third Soldier (3. SOLD.): | 
+|Messenger (MESS.): | 
+|Carpenter (CAR.): | 
 
 ===
 
 
-# Act 1
-### Scene 1
+/* # Act 1 */
+### Act 1, Scene 1
 
 
 Rome. A street.
@@ -182,7 +182,7 @@ And keep us all in servile tearfulness.
 Exeunt.
 
 
-### Scene 2
+### Act 1, Scene 2
 
 
 Rome. A public place.
@@ -296,7 +296,7 @@ Of late with passions of some difference,
 Conceptions only proper to myself,
 Which give some soil, perhaps, to my behaviors;
 But let not therefore my good friends be griev’d
-—Among which number, Cassius, be you one—,
+(Among which number, Cassius, be you one),
 Nor construe any further my neglect,
 Than that poor Brutus, with himself at war,
 Forgets the shows of love to other men.
@@ -318,7 +318,7 @@ That you have no such mirrors as will turn
 Your hidden worthiness into your eye,
 That you might see your shadow. I have heard
 Where many of the best respect in Rome
-—Except immortal Caesar—, speaking of Brutus
+(Except immortal Caesar), speaking of Brutus
 And groaning underneath this age’s yoke,
 Have wish’d that noble Brutus had his eyes.
 
@@ -447,7 +447,7 @@ That you do love me, I am nothing jealous;
 What you would work me to, I have some aim.
 How I have thought of this, and of these times,
 I shall recount hereafter. For this present,
-I would not —so with love I might entreat you—
+I would not (so with love I might entreat you) 
 Be any further mov’d. What you have said
 I will consider; what you have to say
 I will with patience hear, and find a time
@@ -469,7 +469,7 @@ The games are done, and Caesar is returning.
 
 CAS.
 As they pass by, pluck Casca by the sleeve,
-And he will —after his sour fashion— tell you
+And he will (after his sour fashion) tell you
 What hath proceeded worthy note today.
 
 BRU.
@@ -667,7 +667,7 @@ For we will shake him, or worse days endure.
 Exit.
 
 
-### Scene 3
+### Act 1, Scene 3
 
 
 Rome. A street.
@@ -935,8 +935,8 @@ Exeunt.
 
 
 
-# Act 2
-### Scene 1
+/* # Act 2 */
+### Act 2, Scene 1
 
 
 Rome. Brutus’s orchard.
@@ -1025,7 +1025,6 @@ Give so much light that I may read by them.
 *“Brutus, thou sleep’st; awake!”* 
 *Such instigations have been often dropp’d* 
 *Where I have took them up.* 
-
 “Shall Rome, etc.” Thus must I piece it out:
 Shall Rome stand under one man’s awe? What, Rome?
 My ancestors did from the streets of Rome
@@ -1160,7 +1159,7 @@ If these be motives weak, break off betimes,
 And every man hence to his idle bed;
 So let high-sighted tyranny range on,
 Till each man drop by lottery. But if these
-—As I am sure they do— bear fire enough
+(As I am sure they do) bear fire enough
 To kindle cowards, and to steel with valor
 The melting spirits of women, then, countrymen,
 What need we any spur but our own cause
@@ -1501,7 +1500,7 @@ BRU.
 Exeunt.
 
 
-### Scene 2
+### Act 2, Scene 2
 
 
 Rome. Caesar’s house.
@@ -1728,7 +1727,7 @@ The heart of Brutus earns to think upon!
 Exeunt.
 
 
-### Scene 3
+### Act 2, Scene 3
 
 
 Rome. A street near the capitol.
@@ -1737,7 +1736,6 @@ Enter Artemidorus reading a paper.
 
 ART.
 *“Caesar, beware of Brutus; take heed of Cassius; come not near Casca; have an eye to Cinna; trust not Trebonius; mark well Metellus Cimber; Decius Brutus loves thee not; thou hast wrong’d Caius Ligarius. There is but one mind in all these men, and it is bent against Caesar. If thou beest not immortal, look about you; security gives way to conspiracy. The mighty gods defend thee! Thy lover, Artemidorus.”* 
-
 Here will I stand till Caesar pass along,
 And as a suitor will I give him this.
 My heart laments that virtue cannot live
@@ -1748,7 +1746,7 @@ If not, the Fates with traitors do contrive.
 Exit.
 
 
-### Scene 4
+### Act 2, Scene 4
 
 
 Rome. A street before the house of Brutus.
@@ -1853,8 +1851,8 @@ Exeunt severally.
 
 
 
-# Act 3
-### Scene 1
+/* # Act 3 */
+### Act 3, Scene 1
 
 
 Rome. Before the capitol; the Senate sitting above.
@@ -1872,7 +1870,7 @@ Hail, Caesar! Read this schedule.
 
 DEC.
 Trebonius doth desire you to o’er-read
-—At your best leisure— this his humble suit.
+(At your best leisure) this his humble suit.
 
 ART.
 O Caesar, read mine first; for mine’s a suit
@@ -2329,8 +2327,8 @@ Thou art the ruins of the noblest man
 That ever lived in the tide of times.
 Woe to the hand that shed this costly blood!
 Over thy wounds now do I prophesy
-—Which like dumb mouths do ope their ruby lips
-To beg the voice and utterance of my tongue—
+(Which like dumb mouths do ope their ruby lips
+To beg the voice and utterance of my tongue) 
 A curse shall light upon the limbs of men;
 Domestic fury and fierce civil strife
 Shall cumber all the parts of Italy;
@@ -2386,7 +2384,7 @@ Lend me your hand.
 Exeunt with Caesar’s body.
 
 
-### Scene 2
+### Act 3, Scene 2
 
 
 The Forum.
@@ -2465,7 +2463,7 @@ Good countrymen, let me depart alone,
 And, for my sake, stay here with Antony.
 Do grace to Caesar’s corpse, and grace his speech
 Tending to Caesar’s glories, which Mark Antony
-—By our permission— is allow’d to make.
+(By our permission) is allow’d to make.
 I do entreat you, not a man depart,
 Save I alone, till Antony have spoke.
 
@@ -2519,8 +2517,8 @@ Hath told you Caesar was ambitious;
 If it were so, it was a grievous fault,
 And grievously hath Caesar answer’d it.
 Here, under leave of Brutus and the rest
-—For Brutus is an honorable man,
-So are they all, all honorable men—,
+(For Brutus is an honorable man,
+So are they all, all honorable men),
 Come I to speak in Caesar’s funeral.
 He was my friend, faithful and just to me;
 But Brutus says he was ambitious,
@@ -2580,7 +2578,7 @@ And none so poor to do him reverence.
 O masters! If I were dispos’d to stir
 Your hearts and minds to mutiny and rage,
 I should do Brutus wrong, and Cassius wrong,
-Who —you all know— are honorable men.
+Who (you all know) are honorable men.
 I will not do them wrong; I rather choose
 To wrong the dead, to wrong myself and you,
 Than I will wrong such honorable men.
@@ -2682,7 +2680,7 @@ Ingratitude, more strong than traitors’ arms,
 Quite vanquish’d him. Then burst his mighty heart,
 And in his mantle muffling up his face,
 Even at the base of Pompey’s statue
-—Which all the while ran blood— great Caesar fell.
+(Which all the while ran blood) great Caesar fell.
 O, what a fall was there, my countrymen!
 Then I, and you, and all of us fell down,
 Whilst bloody treason flourish’d over us.
@@ -2732,7 +2730,7 @@ That made them do it. They are wise and honorable,
 And will no doubt with reasons answer you.
 I come not, friends, to steal away your hearts.
 I am no orator, as Brutus is;
-But —as you know me all— a plain blunt man
+But (as you know me all) a plain blunt man
 That love my friend, and that they know full well
 That gave me public leave to speak of him.
 For I have neither wit, nor words, nor worth,
@@ -2843,7 +2841,7 @@ How I had mov’d them. Bring me to Octavius.
 Exeunt.
 
 
-### Scene 3
+### Act 3, Scene 3
 
 
 Rome. A street.
@@ -2934,8 +2932,8 @@ Exeunt all the Plebeians dragging off Cinna.
 
 
 
-# Act 4
-### Scene 1
+/* # Act 4 */
+### Act 4, Scene 1
 
 
 A house in Rome.
@@ -2986,13 +2984,13 @@ In our black sentence and proscription.
 ANT.
 Octavius, I have seen more days than you,
 And though we lay these honors on this man
-To ease ourselves of divers sland’rous loads,
+To ease ourselves of diverse sland’rous loads,
 He shall but bear them as the ass bears gold,
 To groan and sweat under the business,
 Either led or driven, as we point the way;
 And having brought our treasure where we will,
 Then take we down his load, and turn him off
-—Like to the empty ass— to shake his ears
+(Like to the empty ass) to shake his ears
 And graze in commons.
 
 OCT.
@@ -3029,7 +3027,7 @@ Millions of mischiefs.
 Exeunt.
 
 
-### Scene 2
+### Act 4, Scene 2
 
 
 A camp near Sardis. Before Brutus’s tent.
@@ -3101,13 +3099,13 @@ Stand ho!
 BRU.
 Stand ho! Speak the word along.
 
-1. SOL.
+1. SOLD.
 Stand!
 
-2. SOL.
+2. SOLD.
 Stand!
 
-3. SOL.
+3. SOLD.
 Stand!
 
 CAS.
@@ -3125,7 +3123,7 @@ BRU.
 ^5 Cassius, be content,
 Speak your griefs softly; I do know you well.
 Before the eyes of both our armies here
-—Which should perceive nothing but love from us—
+(Which should perceive nothing but love from us) 
 Let us not wrangle. Bid them move away;
 Then in my tent, Cassius, enlarge your griefs,
 And I will give you audience.
@@ -3143,7 +3141,7 @@ Let Lucilius and Titinius guard our door.
 Exeunt. Manent Brutus and Cassius, who withdraw into Brutus’ tent, while Lucilius and Titinius mount guard without.
 
 
-### Scene 3
+### Act 4, Scene 3
 
 
 Inside Brutus’s tent.
@@ -3470,7 +3468,7 @@ BRU.
 And grief that young Octavius with Mark Antony
 Have made themselves so strong—for with her death
 That tidings came. With this she fell distract,
-And —her attendants absent— swallow’d fire.
+And (her attendants absent) swallow’d fire.
 
 CAS.
 And died so?
@@ -3624,7 +3622,7 @@ Or lose our ventures.
 
 CAS.
 ^4 Then with your will go on;
-We’ll along ourselves, and meet them at Philippi.
+We’ll along ourselves, and meet them at Philippi .
 
 BRU.
 The deep of night is crept upon our talk,
@@ -3834,8 +3832,8 @@ Exeunt.
 
 
 
-# Act 5
-### Scene 1
+/* # Act 5 */
+### Act 5, Scene 1
 
 
 The plains of Philippi.
@@ -4002,7 +4000,7 @@ CAS.
 This is my birthday; as this very day
 Was Cassius born. Give me thy hand, Messala.
 Be thou my witness that against my will
-—As Pompey was— am I compell’d to set
+(As Pompey was) am I compell’d to set
 Upon one battle all our liberties.
 You know that I held Epicurus strong,
 And his opinion; now I change my mind,
@@ -4079,7 +4077,7 @@ And then the end is known. Come ho, away!
 Exeunt.
 
 
-### Scene 2
+### Act 5, Scene 2
 
 
 The plains of Philippi. The battlefield.
@@ -4098,7 +4096,7 @@ Ride, ride, Messala, let them all come down.
 Exeunt.
 
 
-### Scene 3
+### Act 5, Scene 3
 
 
 The plains of Philippi. Another part of the battlefield.
@@ -4312,7 +4310,7 @@ We shall try fortune in a second fight.
 Exeunt.
 
 
-### Scene 4
+### Act 5, Scene 4
 
 
 The plains of Philippi. Another part of the battlefield.
@@ -4341,7 +4339,7 @@ O young and noble Cato, art thou down?
 Why, now thou diest as bravely as Titinius,
 And mayst be honor’d, being Cato’s son.
 
-1. ANT. SOL.
+1. ANT. SOLD.
 Yield, or thou diest.
 
 LUCIL.
@@ -4349,15 +4347,15 @@ LUCIL.
 There is so much that thou wilt kill me straight:
 Kill Brutus, and be honor’d in his death.
 
-1. ANT. SOL.
+1. ANT. SOLD.
 We must not. A noble prisoner!
 
 Enter Antony.
 
-2. ANT. SOL.
+2. ANT. SOLD.
 Room ho! Tell Antony, Brutus is ta’en.
 
-1. ANT. SOL.
+1. ANT. SOLD.
 I’ll tell the news. Here comes the general.
 Brutus is ta’en, Brutus is ta’en, my lord!
 
@@ -4384,7 +4382,7 @@ How every thing is chanc’d.
 Exeunt.
 
 
-### Scene 5
+### Act 5, Scene 5
 
 
 The plains of Philippi. Another part of the battlefield.
