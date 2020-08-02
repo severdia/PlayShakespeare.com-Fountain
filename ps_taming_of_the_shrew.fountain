@@ -1,9 +1,9 @@
-Title: Taming of the Shrew
+Title: The Taming of the Shrew
 Credit: Written by
 Author: William Shakespeare
 Source: Edited by PlayShakespeare.com
 Copyright: 2005-2020 by PlayShakespeare.com
-Revision: Version 4.2
+Revision: Version 4.3
 Contact:
     PlayShakespeare.com
     william@playshakespeare.com
@@ -1052,7 +1052,7 @@ That so I may by this device at least
 Have leave and leisure to make love to her,
 And unsuspected court her by herself.
 
-Enter Gremio, and Lucentio disguised as a schoolmaster.
+Enter Gremio, and Lucentio disguised as Cambio, a schoolmaster.
 
 GRU.
 Here’s no knavery! See, to beguile the old folks, how the young folks lay their heads together! Master, master, look about you! Who goes there? Ha!
@@ -1077,7 +1077,7 @@ And let me have them very well perfum’d;
 For she is sweeter than perfume itself
 To whom they go to. What will you read to her?
 
-LUC.
+LUC. (as CAMB.)
 What e’er I read to her, I’ll plead for you
 As for my patron, stand you so assur’d,
 As firmly as yourself were still in place,
@@ -1193,7 +1193,7 @@ I would I were as sure of a good dinner.
 
 Enter Tranio brave, as Lucentio, and Biondello.
 
-TRA.
+TRA. (as LUC.)
 Gentlemen, God save you. If I may be bold,
 Tell me, I beseech you, which is the readiest way
 To the house of Signior Baptista Minola?
@@ -1201,19 +1201,19 @@ To the house of Signior Baptista Minola?
 BION.
 He that has the two fair daughters? Is’t he you mean?
 
-TRA.
+TRA. (as LUC.)
 Even he, Biondello.
 
 GRE.
 Hark you, sir, you mean not her to—
 
-TRA.
+TRA. (as LUC.)
 Perhaps him and her, sir; what have you to do?
 
 PETR.
 Not her that chides, sir, at any hand, I pray.
 
-TRA.
+TRA. (as LUC.)
 I love no chiders, sir. Biondello, let’s away.
 
 LUC.
@@ -1224,20 +1224,20 @@ HOR.
 ^4 Sir, a word ere you go.
 Are you a suitor to the maid you talk of, yea or no?
 
-TRA.
+TRA. (as LUC.)
 And if I be, sir, is it any offense?
 
 GRE.
 No; if without more words you will get you hence.
 
-TRA.
+TRA. (as LUC.)
 Why, sir, I pray, are not the streets as free
 For me as for you?
 
 GRE.
 ^4 But so is not she.
 
-TRA.
+TRA. (as LUC.)
 For what reason, I beseech you?
 
 GRE.
@@ -1247,7 +1247,7 @@ That she’s the choice love of Signior Gremio.
 HOR.
 That she’s the chosen of Signior Hortensio.
 
-TRA.
+TRA. (as LUC.)
 Softly, my masters! If you be gentlemen,
 Do me this right: hear me with patience.
 Baptista is a noble gentleman,
@@ -1262,7 +1262,7 @@ Though Paris came in hope to speed alone.
 GRE.
 What, this gentleman will out-talk us all.
 
-LUC.
+LUC. (as CAMB.)
 Sir, give him head, I know he’ll prove a jade.
 
 PETR.
@@ -1272,7 +1272,7 @@ HOR.
 Sir, let me be so bold as ask you,
 Did you yet ever see Baptista’s daughter?
 
-TRA.
+TRA. (as LUC.)
 No, sir, but hear I do that he hath two:
 The one as famous for a scolding tongue,
 As is the other for beauteous modesty.
@@ -1292,7 +1292,7 @@ And will not promise her to any man,
 Until the elder sister first be wed.
 The younger then is free, and not before.
 
-TRA.
+TRA. (as LUC.)
 If it be so, sir, that you are the man
 Must stead us all, and me amongst the rest;
 And if you break the ice, and do this feat,
@@ -1306,7 +1306,7 @@ And since you do profess to be a suitor,
 You must, as we do, gratify this gentleman,
 To whom we all rest generally beholding.
 
-TRA.
+TRA. (as LUC.)
 Sir, I shall not be slack; in sign whereof,
 Please ye we may contrive this afternoon,
 And quaff carouses to our mistress’ health,
@@ -1483,7 +1483,7 @@ A thousand thanks, Signior Gremio. Welcome, good Cambio.
 (To Tranio.)
 But, gentle sir, methinks you walk like a stranger. May I be so bold to know the cause of your coming?
 
-TRA.
+TRA. (as LUC.)
 Pardon me, sir, the boldness is mine own,
 That being a stranger in this city here,
 Do make myself a suitor to your daughter,
@@ -1502,7 +1502,7 @@ If you accept them, then their worth is great.
 BAP.
 Lucentio is your name, of whence, I pray?
 
-TRA.
+TRA. (as LUC.)
 Of Pisa, sir, son to Vincentio.
 
 BAP.
@@ -1567,20 +1567,20 @@ Enter Hortensio as Litio with his head broke.
 BAP.
 How now, my friend, why dost thou look so pale?
 
-HOR.
+HOR. (as LITIO.)
 For fear, I promise you, if I look pale.
 
 BAP.
 What, will my daughter prove a good musician?
 
-HOR.
+HOR. (as LITIO.)
 I think she’ll sooner prove a soldier,
 Iron may hold with her, but never lutes.
 
 BAP.
 Why then thou canst not break her to the lute?
 
-HOR.
+HOR. (as LITIO.)
 Why no, for she hath broke the lute to me.
 I did but tell her she mistook her frets,
 And bow’d her hand to teach her fingering;
@@ -1872,7 +1872,7 @@ I’ll see thee hang’d on Sunday first.
 GRE.
 Hark, Petruchio, she says she’ll see thee hang’d first.
 
-TRA.
+TRA. (as LUC.)
 Is this your speeding? Nay then good night our part!
 
 PETR.
@@ -1915,7 +1915,7 @@ BAP.
 Faith, gentlemen, now I play a merchant’s part,
 And venture madly on a desperate mart.
 
-TRA.
+TRA. (as LUC.)
 ’Twas a commodity lay fretting by you;
 ’Twill bring you gain, or perish on the seas.
 
@@ -1928,21 +1928,21 @@ But now, Baptista, to your younger daughter;
 Now is the day we long have looked for.
 I am your neighbor, and was suitor first.
 
-TRA.
+TRA. (as LUC.)
 And I am one that love Bianca more
 Than words can witness, or your thoughts can guess.
 
 GRE.
 Youngling, thou canst not love so dear as I.
 
-TRA.
+TRA. (as LUC.)
 Greybeard, thy love doth freeze.
 
 GRE.
 ^7 But thine doth fry.
 Skipper, stand back, ’tis age that nourisheth.
 
-TRA.
+TRA. (as LUC.)
 But youth in ladies’ eyes that flourisheth.
 
 BAP.
@@ -1971,7 +1971,7 @@ Myself am struck in years, I must confess,
 And if I die tomorrow, this is hers,
 If whilst I live she will be only mine.
 
-TRA.
+TRA. (as LUC.)
 That “only” came well in. Sir, list to me:
 I am my father’s heir and only son.
 If I may have your daughter to my wife,
@@ -1990,7 +1990,7 @@ That she shall have, besides an argosy
 That now is lying in Marsellis road.
 What, have I chok’d you with an argosy?
 
-TRA.
+TRA. (as LUC.)
 Gremio, ’tis known my father hath no less
 Than three great argosies, besides two galliasses
 And twelve tight galleys. These I will assure her,
@@ -2001,7 +2001,7 @@ Nay, I have off’red all, I have no more,
 And she can have no more than all I have;
 If you like me, she shall have me and mine.
 
-TRA.
+TRA. (as LUC.)
 Why then the maid is mine from all the world,
 By your firm promise; Gremio is outvied.
 
@@ -2011,7 +2011,7 @@ And let your father make her the assurance,
 She is your own, else you must pardon me;
 If you should die before him, where’s her dower?
 
-TRA.
+TRA. (as LUC.)
 That’s but a cavil; he is old, I young.
 
 GRE.
@@ -2061,19 +2061,19 @@ Padua. Baptista’s house.
 
 Enter Lucentio as Cambio, Hortensio as Litio, and Bianca.
 
-LUC.
+LUC. (as CAMB.)
 Fiddler, forbear, you grow too forward, sir.
 Have you so soon forgot the entertainment
 Her sister Katherine welcom’d you withal?
 
-HOR.
+HOR. (as LITIO.)
 But, wrangling pedant, this is
 The patroness of heavenly harmony.
 Then give me leave to have prerogative,
 And when in music we have spent an hour,
 Your lecture shall have leisure for as much.
 
-LUC.
+LUC. (as CAMB.)
 Preposterous ass, that never read so far
 To know the cause why music was ordain’d!
 Was it not to refresh the mind of man
@@ -2081,7 +2081,7 @@ After his studies or his usual pain?
 Then give me leave to read philosophy,
 And while I pause, serve in your harmony.
 
-HOR.
+HOR. (as LITIO.)
 Sirrah, I will not bear these braves of thine.
 
 BIAN.
@@ -2094,16 +2094,16 @@ And to cut off all strife, here sit we down:
 Take you your instrument, play you the whiles,
 His lecture will be done ere you have tun’d.
 
-HOR.
+HOR. (as LITIO.)
 You’ll leave his lecture when I am in tune?
 
-LUC.
+LUC. (as CAMB.)
 That will be never, tune your instrument.
 
 BIAN.
 Where left we last?
 
-LUC.
+LUC. (as CAMB.)
 Here, madam:
 “Hic ibat Simois; hic est Sigeia tellus;
 Hic steterat Priami regia celsa senis.”
@@ -2111,28 +2111,28 @@ Hic steterat Priami regia celsa senis.”
 BIAN.
 Construe them.
 
-LUC.
+LUC. (as CAMB.)
 “Hic ibat,” as I told you before, “Simois,” I am Lucentio, “hic est,” son unto Vincentio of Pisa, “Sigeia tellus,” disguis’d thus to get your love, “Hic steterat,” and that Lucentio that comes a-wooing, “Priami,” is my man Tranio, “regia,” bearing my port, “celsa senis,” that we might beguile the old pantaloon.
 
-HOR.
+HOR. (as LITIO.)
 Madam, my instrument’s in tune.
 
 BIAN.
 Let’s hear. O fie, the treble jars.
 
-LUC.
+LUC. (as CAMB.)
 Spit in the hole, man, and tune again.
 
 BIAN.
 Now let me see if I can construe it: “Hic ibat Simois,” I know you not, “hic est Sigeia tellus,” I trust you not, “Hic steterat Priami,” take heed he hear us not, “regia,” presume not, “celsa senis,” despair not.
 
-HOR.
+HOR. (as LITIO.)
 Madam, ’tis now in tune.
 
-LUC.
+LUC. (as CAMB.)
 ^5 All but the base.
 
-HOR.
+HOR. (as LITIO.)
 The base is right, ’tis the base knave that jars.
 (Aside.)
 How fiery and forward our pedant is!
@@ -2142,7 +2142,7 @@ Pedascule, I’ll watch you better yet.
 BIAN.
 In time I may believe, yet I mistrust.
 
-LUC.
+LUC. (as CAMB.)
 Mistrust it not, for sure Aeacides
 Was Ajax, call’d so from his grandfather.
 
@@ -2153,18 +2153,18 @@ But let it rest. Now, Litio, to you:
 Good master, take it not unkindly, pray,
 That I have been thus pleasant with you both.
 
-HOR.
+HOR. (as LITIO.)
 (To Lucentio.)
 You may go walk, and give me leave a while;
 My lessons make no music in three parts.
 
-LUC.
+LUC. (as CAMB.)
 Are you so formal, sir? Well, I must wait,
 (Aside.)
 And watch withal, for but I be deceiv’d,
 Our fine musician groweth amorous.
 
-HOR.
+HOR. (as LITIO.)
 Madam, before you touch the instrument,
 To learn the order of my fingering,
 I must begin with rudiments of art,
@@ -2176,17 +2176,17 @@ And there it is in writing, fairly drawn.
 BIAN.
 Why, I am past my gamut long ago.
 
-HOR.
+HOR. (as LITIO.)
 Yet read the gamut of Hortensio.
 
 BIAN.
 (Reads.)
-*“Gamut I am, the ground of all accord:* 
-*A re, to plead Hortensio’s passion;* 
-*B mi, Bianca, take him for thy lord,* 
-*C fa ut, that loves with all affection.* 
-*D sol re, one cliff, two notes have I,* 
-*E la mi, show pity, or I die.”* 
+*“Gamut I am, the ground of all accord:*
+*A re, to plead Hortensio’s passion;*
+*B mi, Bianca, take him for thy lord,*
+*C fa ut, that loves with all affection.*
+*D sol re, one cliff, two notes have I,*
+*E la mi, show pity, or I die.”*
 Call you this gamut? Tut, I like it not.
 Old fashions please me best; I am not so nice
 To change true rules for odd inventions.
@@ -2203,7 +2203,7 @@ Farewell, sweet masters both, I must be gone.
 
 Exeunt Bianca and Baptista’s Messenger.
 
-LUC.
+LUC. (as CAMB.)
 Faith, mistress, then I have no cause to stay.
 
 Exit.
@@ -2251,7 +2251,7 @@ Now must the world point at poor Katherine,
 And say, “Lo, there is mad Petruchio’s wife,
 If it would please him come and marry her!”
 
-TRA.
+TRA. (as LUC.)
 Patience, good Katherine, and Baptista too.
 Upon my life, Petruchio means but well,
 Whatever fortune stays him from his word.
@@ -2309,7 +2309,7 @@ Who comes with him?
 BION.
 O, sir, his lackey, for all the world caparison’d like the horse; with a linen stock on one leg, and a kersey boot-hose on the other, gart’red with a red and blue list; an old hat, and the humor of forty fancies prick’d in’t for a feather: a monster, a very monster in apparel, and not like a Christian footboy or a gentleman’s lackey.
 
-TRA.
+TRA. (as LUC.)
 ’Tis some odd humor pricks him to this fashion;
 Yet oftentimes he goes but mean apparell’d.
 
@@ -2355,7 +2355,7 @@ And yet I come not well.
 BAP.
 And yet you halt not.
 
-TRA.
+TRA. (as LUC.)
 Not so well apparell’d
 As I wish you were.
 
@@ -2375,7 +2375,7 @@ Now sadder, that you come so unprovided.
 Fie, doff this habit, shame to your estate,
 An eye-sore to our solemn festival!
 
-TRA.
+TRA. (as LUC.)
 And tell us what occasion of import
 Hath all so long detain’d you from your wife,
 And sent you hither so unlike yourself?
@@ -2389,7 +2389,7 @@ As you shall well be satisfied with all.
 But where is Kate? I stay too long from her.
 The morning wears, ’tis time we were at church.
 
-TRA.
+TRA. (as LUC.)
 See not your bride in these unreverent robes,
 Go to my chamber, put on clothes of mine.
 
@@ -2411,7 +2411,7 @@ And seal the title with a lovely kiss!
 
 Exit with Grumio.
 
-TRA.
+TRA. (as LUC.)
 He hath some meaning in his mad attire.
 We will persuade him, be it possible,
 To put on better ere he go to church.
@@ -2421,7 +2421,7 @@ I’ll after him, and see the event of this.
 
 Exit with Gremio and Attendants.
 
-TRA.
+TRA. (as LUC.)
 But, sir, love concerneth us to add
 Her father’s liking, which to bring to pass,
 As before imparted to your worship,
@@ -2433,14 +2433,14 @@ Of greater sums than I have promised.
 So shall you quietly enjoy your hope,
 And marry sweet Bianca with consent.
 
-LUC.
+LUC. (as CAMB.)
 Were it not that my fellow schoolmaster
 Doth watch Bianca’s steps so narrowly,
 ’Twere good methinks to steal our marriage,
 Which once perform’d, let all the world say no,
 I’ll keep mine own, despite of all the world.
 
-TRA.
+TRA. (as LUC.)
 That by degrees we mean to look into,
 And watch our vantage in this business.
 We’ll overreach the greybeard, Gremio,
@@ -2453,20 +2453,20 @@ Signior Gremio, came you from the church?
 GRE.
 As willingly as e’er I came from school.
 
-TRA.
+TRA. (as LUC.)
 And is the bride and bridegroom coming home?
 
 GRE.
 A bridegroom, say you? ’Tis a groom indeed,
 A grumbling groom, and that the girl shall find.
 
-TRA.
+TRA. (as LUC.)
 Curster than she? Why, ’tis impossible.
 
 GRE.
 Why, he’s a devil, a devil, a very fiend.
 
-TRA.
+TRA. (as LUC.)
 Why, she’s a devil, a devil, the devil’s dam.
 
 GRE.
@@ -2480,7 +2480,7 @@ This mad-brain’d bridegroom took him such a cuff
 That down fell priest and book, and book and priest.
 “Now take them up,” quoth he, “if any list.”
 
-TRA.
+TRA. (as LUC.)
 What said the wench when he rose again?
 
 GRE.
@@ -2526,7 +2526,7 @@ To this most patient, sweet, and virtuous wife.
 Dine with my father, drink a health to me,
 For I must hence, and farewell to you all.
 
-TRA.
+TRA. (as LUC.)
 Let us entreat you stay till after dinner.
 
 PETR.
@@ -2613,10 +2613,10 @@ Nay, let them go, a couple of quiet ones.
 GRE.
 Went they not quickly, I should die with laughing.
 
-TRA.
+TRA. (as LUC.)
 Of all mad matches never was the like.
 
-LUC.
+LUC. (as CAMB.)
 Mistress, what’s your opinion of your sister?
 
 BIAN.
@@ -2632,7 +2632,7 @@ You know there wants no junkets at the feast.
 Lucentio, you shall supply the bridegroom’s place,
 And let Bianca take her sister’s room.
 
-TRA.
+TRA. (as LUC.)
 Shall sweet Bianca practice how to bride it?
 
 BAP.
@@ -2966,12 +2966,12 @@ Padua. Before Baptista’s house.
 
 Enter Tranio as Lucentio and Hortensio as Litio.
 
-TRA.
+TRA. (as LUC.)
 Is’t possible, friend Litio, that Mistress Bianca
 Doth fancy any other but Lucentio?
 I tell you, sir, she bears me fair in hand.
 
-HOR.
+HOR. (as LITIO.)
 Sir, to satisfy you in what I have said,
 Stand by and mark the manner of his teaching.
 
@@ -2979,33 +2979,33 @@ They stand aside.
 
 Enter Bianca and Lucentio as Cambio.
 
-LUC.
+LUC. (as CAMB.)
 Now, mistress, profit you in what you read?
 
 BIAN.
 What, master, read you? First resolve me that.
 
-LUC.
+LUC. (as CAMB.)
 I read that I profess, the Art to Love.
 
 BIAN.
 And may you prove, sir, master of your art!
 
-LUC.
+LUC. (as CAMB.)
 While you, sweet dear, prove mistress of my heart!
 
 They retire.
 
-HOR.
+HOR. (as LITIO.)
 Quick proceeders, marry! Now tell me, I pray,
 You that durst swear that your mistress Bianca
 Lov’d none in the world so well as Lucentio.
 
-TRA.
+TRA. (as LUC.)
 O despiteful love, unconstant womankind!
 I tell thee, Litio, this is wonderful.
 
-HOR.
+HOR. (as LITIO.)
 Mistake no more, I am not Litio,
 Nor a musician, as I seem to be,
 But one that scorn to live in this disguise
@@ -3013,21 +3013,21 @@ For such a one as leaves a gentleman,
 And makes a god of such a cullion.
 Know, sir, that I am call’d Hortensio.
 
-TRA.
+TRA. (as LUC.)
 Signior Hortensio, I have often heard
 Of your entire affection to Bianca,
 And since mine eyes are witness of her lightness,
 I will with you, if you be so contented,
 Forswear Bianca and her love forever.
 
-HOR.
+HOR. (as LITIO.)
 See how they kiss and court! Signior Lucentio,
 Here is my hand, and here I firmly vow
 Never to woo her more, but do forswear her
 As one unworthy all the former favors
 That I have fondly flatter’d her withal.
 
-TRA.
+TRA. (as LUC.)
 And here I take the like unfeigned oath,
 Never to marry with her though she would entreat.
 Fie on her, see how beastly she doth court him!
@@ -3045,7 +3045,7 @@ In resolution as I swore before.
 
 Exit.
 
-TRA.
+TRA. (as LUC.)
 Mistress Bianca, bless you with such grace
 As ’longeth to a lover’s blessed case!
 Nay, I have ta’en you napping, gentle love,
@@ -3054,32 +3054,32 @@ And have forsworn you with Hortensio.
 BIAN.
 Tranio, you jest, but have you both forsworn me?
 
-TRA.
+TRA. (as LUC.)
 Mistress, we have.
 
-LUC.
+LUC. (as CAMB.)
 ^4 Then we are rid of Litio.
 
-TRA.
+TRA. (as LUC.)
 I’ faith, he’ll have a lusty widow now,
 That shall be woo’d and wedded in a day.
 
 BIAN.
 God give him joy!
 
-TRA.
+TRA. (as LUC.)
 Ay, and he’ll tame her.
 
 BIAN.
 ^5 He says so, Tranio?
 
-TRA.
+TRA. (as LUC.)
 Faith, he is gone unto the taming-school.
 
 BIAN.
 The taming-school! What, is there such a place?
 
-TRA.
+TRA. (as LUC.)
 Ay, mistress, and Petruchio is the master,
 That teacheth tricks eleven and twenty long,
 To tame a shrew and charm her chattering tongue.
@@ -3092,7 +3092,7 @@ That I am dog-weary, but at last I spied
 An ancient angel coming down the hill,
 Will serve the turn.
 
-TRA.
+TRA. (as LUC.)
 What is he, Biondello?
 
 BION.
@@ -3100,10 +3100,10 @@ Master, a marcantant, or a pedant,
 I know not what, but formal in apparel,
 In gait and countenance surely like a father.
 
-LUC.
+LUC. (as CAMB.)
 And what of him, Tranio?
 
-TRA.
+TRA. (as LUC.)
 If he be credulous, and trust my tale,
 I’ll make him glad to seem Vincentio,
 And give assurance to Baptista Minola,
@@ -3117,7 +3117,7 @@ Enter a Pedant.
 PED.
 God save you, sir!
 
-TRA.
+TRA. (as LUC.)
 ^4 And you, sir! You are welcome.
 Travel you far on, or are you at the farthest?
 
@@ -3126,20 +3126,20 @@ Sir, at the farthest for a week or two,
 But then up farther, and as far as Rome,
 And so to Tripoli, if God lend me life.
 
-TRA.
+TRA. (as LUC.)
 What countryman, I pray?
 
 PED.
 ^5 Of Mantua.
 
-TRA.
+TRA. (as LUC.)
 Of Mantua, sir? Marry, God forbid!
 And come to Padua, careless of your life?
 
 PED.
 My life, sir? How, I pray? For that goes hard.
 
-TRA.
+TRA. (as LUC.)
 ’Tis death for any one in Mantua
 To come to Padua. Know you not the cause?
 Your ships are stay’d at Venice, and the Duke,
@@ -3153,7 +3153,7 @@ Alas, sir, it is worse for me than so,
 For I have bills for money by exchange
 From Florence, and must here deliver them.
 
-TRA.
+TRA. (as LUC.)
 Well, sir, to do you courtesy,
 This will I do, and this I will advise you.
 First, tell me, have you ever been at Pisa?
@@ -3162,14 +3162,14 @@ PED.
 Ay, sir, in Pisa have I often been,
 Pisa renowned for grave citizens.
 
-TRA.
+TRA. (as LUC.)
 Among them know you one Vincentio?
 
 PED.
 I know him not, but I have heard of him;
 A merchant of incomparable wealth.
 
-TRA.
+TRA. (as LUC.)
 He is my father, sir, and sooth to say,
 In count’nance somewhat doth resemble you.
 
@@ -3177,7 +3177,7 @@ BION.
 (Aside.)
 As much as an apple doth an oyster, and all one.
 
-TRA.
+TRA. (as LUC.)
 To save your life in this extremity,
 This favor will I do you for his sake;
 And think it not the worst of all your fortunes
@@ -3193,7 +3193,7 @@ PED.
 O sir, I do, and will repute you ever
 The patron of my life and liberty.
 
-TRA.
+TRA. (as LUC.)
 Then go with me to make the matter good.
 This by the way I let you understand:
 My father is here look’d for every day,
@@ -3454,7 +3454,7 @@ The note lies in ’s throat if he say I said so.
 
 TAI.
 (Reads.)
-*“Imprimis, a loose-bodied gown”—* 
+*“Imprimis, a loose-bodied gown”—*
 
 GRU.
 Master, if ever I said loose-bodied gown, sew me in the skirts of it, and beat me to death with a bottom of brown thread. I said a gown.
@@ -3464,21 +3464,21 @@ Proceed.
 
 TAI.
 (Reads.)
-*“With a small compass’d cape”—* 
+*“With a small compass’d cape”—*
 
 GRU.
 I confess the cape.
 
 TAI.
 (Reads.)
-*“With a trunk sleeve”—* 
+*“With a trunk sleeve”—*
 
 GRU.
 I confess two sleeves.
 
 TAI.
 (Reads.)
-*“The sleeves curiously cut.”* 
+*“The sleeves curiously cut.”*
 
 PETR.
 Ay, there’s the villainy.
@@ -3574,7 +3574,7 @@ Padua. Before Baptista’s house.
 
 Enter Tranio as Lucentio, and the Pedant dress’d like Vincentio, booted and bare-headed.
 
-TRA.
+TRA. (as LUC.)
 Sir, this is the house, please it you that I call?
 
 PED.
@@ -3583,7 +3583,7 @@ Signior Baptista may remember me
 Near twenty years ago in Genoa,
 Where we were lodgers at the Pegasus.
 
-TRA.
+TRA. (as LUC.)
 ’Tis well, and hold your own in any case
 With such austerity as ’longeth to a father.
 
@@ -3593,7 +3593,7 @@ PED.
 I warrant you. But, sir, here comes your boy;
 ’Twere good he were school’d.
 
-TRA.
+TRA. (as LUC.)
 Fear you not him. Sirrah Biondello,
 Now do your duty throughly, I advise you.
 Imagine ’twere the right Vincentio.
@@ -3601,14 +3601,14 @@ Imagine ’twere the right Vincentio.
 BION.
 Tut, fear not me.
 
-TRA.
+TRA. (as LUC.)
 But hast thou done thy errand to Baptista?
 
 BION.
 I told him that your father was at Venice,
 And that you look’d for him this day in Padua.
 
-TRA.
+TRA. (as LUC.)
 Th’ art a tall fellow; hold thee that to drink.
 Here comes Baptista; set your countenance, sir.
 (Enter Baptista and Lucentio as Cambio.)
@@ -3618,7 +3618,7 @@ Sir, this is the gentleman I told you of.
 I pray you stand good father to me now,
 Give me Bianca for my patrimony.
 
-PED.
+PED. (as VIN.)
 Soft, son!
 Sir, by your leave, having come to Padua
 To gather in some debts, my son Lucentio
@@ -3647,7 +3647,7 @@ And pass my daughter a sufficient dower,
 The match is made, and all is done:
 Your son shall have my daughter with consent.
 
-TRA.
+TRA. (as LUC.)
 I thank you, sir. Where then do you know best
 We be affied and such assurance ta’en
 As shall with either part’s agreement stand?
@@ -3658,7 +3658,7 @@ Pitchers have ears, and I have many servants;
 Besides, old Gremio is heark’ning still,
 And happily we might be interrupted.
 
-TRA.
+TRA. (as LUC.)
 Then at my lodging, and it like you.
 There doth my father lie; and there this night
 We’ll pass the business privately and well.
@@ -3679,7 +3679,7 @@ Exit Lucentio.
 BION.
 I pray the gods she may with all my heart!
 
-TRA.
+TRA. (as LUC.)
 Dally not with the gods, but get thee gone.
 (Exit Biondello.)
 (Enter Peter, a servant, who whispers to Tranio.)
@@ -3697,37 +3697,37 @@ Enter Lucentio as Cambio and Biondello.
 BION.
 Cambio!
 
-LUC.
+LUC. (as CAMB.)
 What say’st thou, Biondello?
 
 BION.
 You saw my master wink and laugh upon you?
 
-LUC.
+LUC. (as CAMB.)
 Biondello, what of that?
 
 BION.
 Faith, nothing; but h’as left me here behind to expound the meaning or moral of his signs and tokens.
 
-LUC.
+LUC. (as CAMB.)
 I pray thee moralize them.
 
 BION.
 Then thus: Baptista is safe, talking with the deceiving father of a deceitful son.
 
-LUC.
+LUC. (as CAMB.)
 And what of him?
 
 BION.
 His daughter is to be brought by you to the supper.
 
-LUC.
+LUC. (as CAMB.)
 And then?
 
 BION.
 The old priest of Saint Luke’s church is at your command at all hours.
 
-LUC.
+LUC. (as CAMB.)
 And what of all this?
 
 BION.
@@ -3735,7 +3735,7 @@ I cannot tell, except they are busied about a counterfeit assurance. Take you as
 If this be not that you look for, I have no more to say,
 But bid Bianca farewell forever and a day.
 
-LUC.
+LUC. (as CAMB.)
 Hear’st thou, Biondello?
 
 BION.
@@ -3942,38 +3942,38 @@ They’re busy within, you were best knock louder.
 
 Pedant looks out of the window.
 
-PED.
+PED. (as VIN.)
 What’s he that knocks as he would beat down the gate?
 
 VIN.
 Is Signior Lucentio within, sir?
 
-PED.
+PED. (as VIN.)
 He’s within, sir, but not to be spoken withal.
 
 VIN.
 What if a man bring him a hundred pound or two, to make merry withal?
 
-PED.
+PED. (as VIN.)
 Keep your hundred pounds to yourself, he shall need none so long as I live.
 
 PETR.
 Nay, I told you your son was well belov’d in Padua. Do you hear, sir?—to leave frivolous circumstances, I pray you tell Signior Lucentio that his father is come from Pisa, and is here at the door to speak with him.
 
-PED.
+PED. (as VIN.)
 Thou liest, his father is come from Padua and here looking out at the window.
 
 VIN.
 Art thou his father?
 
-PED.
+PED. (as VIN.)
 Ay, sir, so his mother says, if I may believe her.
 
 PETR.
 (To Vincentio.)
 Why, how now, gentleman? Why, this is flat knavery, to take upon you another man’s name.
 
-PED.
+PED. (as VIN.)
 Lay hands on the villain. I believe ’a means to cozen somebody in this city under my countenance.
 
 Enter Biondello.
@@ -4010,7 +4010,7 @@ Help, help, help! Here’s a madman will murder me.
 
 Exit.
 
-PED.
+PED. (as VIN.)
 Help, son! Help, Signior Baptista!
 
 Exit above.
@@ -4046,13 +4046,13 @@ You mistake, sir, you mistake, sir. Pray what do you think is his name?
 VIN.
 His name! As if I knew not his name! I have brought him up ever since he was three years old, and his name is Tranio.
 
-PED.
+PED. (as VIN.)
 Away, away, mad ass, his name is Lucentio, and he is mine only son, and heir to the lands of me, Signior Vincentio.
 
 VIN.
 Lucentio! O, he hath murd’red his master! Lay hold on him, I charge you, in the Duke’s name. O, my son, my son! Tell me, thou villain, where is my son Lucentio?
 
-TRA.
+TRA. (as LUC.)
 Call forth an officer.
 (Exit Servant, who returns with an Officer.)
 Carry this mad knave to the jail. Father Baptista, I charge you see that he be forthcoming.
